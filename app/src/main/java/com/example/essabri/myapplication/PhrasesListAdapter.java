@@ -25,6 +25,7 @@ public class PhrasesListAdapter extends BaseExpandableListAdapter {
     private ArrayList<Phrase> backup = new ArrayList<>();
 
     PhrasesListAdapter(Context context,ArrayList<Phrase> _phrases){
+        Log.d("mtag","PhrasesListAdapter");
         this.context = context;
         phrases = _phrases;
         backup.addAll(phrases);
@@ -106,7 +107,7 @@ public class PhrasesListAdapter extends BaseExpandableListAdapter {
             }
         });
         //Log.d("mtag","View opened");
-        ((Phrases)context).onListViewExpand(convertView,groupPosition);
+        //((Phrases)context).onListViewExpand(convertView,groupPosition);
         return convertView;
     }
 
@@ -122,8 +123,8 @@ public class PhrasesListAdapter extends BaseExpandableListAdapter {
         if(!text.isEmpty()) {
             for (Phrase phrase : backup) {
                 if (phrase.origin.toLowerCase().contains(text.toLowerCase())
-                        || phrase.target.toLowerCase().contains(text.toLowerCase())
-                        || phrase.pronunciation.toLowerCase().contains(text.toLowerCase()) ) {
+                       || phrase.target.toLowerCase().contains(text.toLowerCase())
+                        || phrase.pronunciation.toLowerCase().contains(text.toLowerCase())) {
                     phrases.add(phrase);
                 }
             }

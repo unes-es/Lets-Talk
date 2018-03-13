@@ -228,17 +228,6 @@ public class Phrases extends AppCompatActivity {
     @Override
     protected void onResume() {
         super.onResume();
-        if (getIntent().hasExtra("categoryId_")) {
-            final Category category = Data.Manager.getCategoryById((int) getIntent().getLongExtra("categoryId_", 0));
-            setTitle(category != null? Util.toUpperCaseSentence(category.name):"");
-            adapter = new PhrasesListAdapter(this, Data.Manager.getPhrasesWithCategory(category != null? category.id:0));
-        }
-        else{
-            adapter = new PhrasesListAdapter(this, Data.Manager.getFavorites());
-            onDataChanged(R.drawable.ic_favorite_black_24dp,"You have no favorite phrases yet!");
-            setTitle(R.string.favorites);
-            isFavoriteView = true;
-        }
         adapter.notifyDataSetChanged();
         Log.d("mtag","onResume");
     }
