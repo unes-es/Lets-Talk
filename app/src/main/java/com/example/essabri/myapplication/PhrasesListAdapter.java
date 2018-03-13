@@ -19,10 +19,10 @@ import java.util.ArrayList;
 
 public class PhrasesListAdapter extends BaseExpandableListAdapter {
 
-    Context context;
+    private Context context;
 
     ArrayList<Phrase> phrases = new ArrayList<>();
-    ArrayList<Phrase> backup = new ArrayList<>();
+    private ArrayList<Phrase> backup = new ArrayList<>();
 
     PhrasesListAdapter(Context context,ArrayList<Phrase> _phrases){
         this.context = context;
@@ -32,20 +32,19 @@ public class PhrasesListAdapter extends BaseExpandableListAdapter {
 
     @Override
     public View getGroupView(final int groupPosition, boolean isExpanded, View convertView, ViewGroup parent) {
-        final int position = groupPosition;
         if (convertView == null) {
             LayoutInflater inflater = LayoutInflater.from(context);
             convertView = inflater.inflate(R.layout.phrase_origin_list_item,parent,false);
         }
-        ((TextView)convertView.findViewById(R.id.originTextView)).setText(Util.toUpperCaseSentence(phrases.get(position).origin));
+        ((TextView)convertView.findViewById(R.id.originTextView)).setText(Util.toUpperCaseSentence(phrases.get(groupPosition).origin));
 
         ToggleButton isFavoriteToggleButton = (ToggleButton)convertView.findViewById(R.id.isFavoriteToggleButton);
-        isFavoriteToggleButton.setChecked(phrases.get(position).isFavorite);
+        isFavoriteToggleButton.setChecked(phrases.get(groupPosition).isFavorite);
         isFavoriteToggleButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                phrases.get(position).toggleIsFavorite();
-                phrases.get(position).save();
+                phrases.get(groupPosition).toggleIsFavorite();
+                phrases.get(groupPosition).save();
                 if (((Phrases)context).getIntent().hasExtra("categoryId_")){
                     notifyDataSetChanged();
                 }

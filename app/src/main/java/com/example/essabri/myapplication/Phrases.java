@@ -265,7 +265,7 @@ public class Phrases extends AppCompatActivity {
                 @Override
                 public boolean onQueryTextChange(String newText) {
                     adapter.filter(newText);
-                    onDataChanged(R.drawable.ic_search_blue_24dp, "No result for \"" + newText + "\"!!");
+                    //onDataChanged(R.drawable.ic_search_blue_24dp, "No result for \"" + newText + "\"!!");
                     return false;
                 }
             });
