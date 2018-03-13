@@ -1,0 +1,5227 @@
+{
+  "phrases":[
+      {
+        "origin": "Be careful.",
+        "target": "조심하세요",
+        "category": 1,
+        "pronunciation": "josimhaseyo"
+      },
+      {
+        "origin": "Be careful driving.",
+        "target": "운전할 때 조심하세요",
+        "category": 1,
+        "pronunciation": "unjeonhal ttae josimhaseyo"
+      },
+      {
+        "origin": "Can you translate this for me?",
+        "target": "이것 좀 통역 해 주세요",
+        "category": 1,
+        "pronunciation": "igeos jom tong-yeog hae juseyo"
+      },
+      {
+        "origin": "Chicago is very different from Boston.",
+        "target": "시카고는 보스톤하고 달라요",
+        "category": 1,
+        "pronunciation": "sikagoneun boseutonhago dallayo"
+      },
+      {
+        "origin": "Don't worry.",
+        "target": "걱정 하지 마세요",
+        "category": 1,
+        "pronunciation": "geogjeong haji maseyo"
+      },
+      {
+        "origin": "Everyone knows it.",
+        "target": "모든 사람이 알아요",
+        "category": 1,
+        "pronunciation": "modeun salam-i al-ayo"
+      },
+      {
+        "origin": "Everything is ready.",
+        "target": "모두 다 준비 되었어요",
+        "category": 1,
+        "pronunciation": "modu da junbi doeeoss-eoyo"
+      },
+      {
+        "origin": "Excellent.",
+        "target": "훌륭해요",
+        "category": 1,
+        "pronunciation": "hullyunghaeyo"
+      },
+      {
+        "origin": "From time to time.",
+        "target": "때때로",
+        "category": 1,
+        "pronunciation": "ttaettaelo"
+      },
+      {
+        "origin": "Good idea.",
+        "target": "좋은 생각",
+        "category": 1,
+        "pronunciation": "joh-eun saeng-gag"
+      },
+      {
+        "origin": "He likes it very much.",
+        "target": "그는 그것을 아주 좋아해요",
+        "category": 1,
+        "pronunciation": "geuneun geugeos-eul aju joh-ahaeyo"
+      },
+      {
+        "origin": "Help!",
+        "target": "도와주세요",
+        "category": 1,
+        "pronunciation": "dowajuseyo"
+      },
+      {
+        "origin": "He's coming soon.",
+        "target": "그가 곧 올거예요",
+        "category": 1,
+        "pronunciation": "geuga god olgeoyeyo"
+      },
+      {
+        "origin": "He's right.",
+        "target": "그 사람 말이 맞아요",
+        "category": 1,
+        "pronunciation": "geu salam mal-i maj-ayo"
+      },
+      {
+        "origin": "He's very annoying.",
+        "target": "그는 아주 성가신 사람이에요",
+        "category": 1,
+        "pronunciation": "geuneun aju seong-gasin salam-ieyo"
+      },
+      {
+        "origin": "He's very famous.",
+        "target": "그는 아주 유명해요",
+        "category": 1,
+        "pronunciation": "geuneun aju yumyeonghaeyo"
+      },
+      {
+        "origin": "How are you?",
+        "target": "안녕하세요?",
+        "category": 1,
+        "pronunciation": "annyeonghaseyo?"
+      },
+      {
+        "origin": "How's work going?",
+        "target": "일이 잘 되어가요?",
+        "category": 1,
+        "pronunciation": "il-i jal doeeogayo?"
+      },
+      {
+        "origin": "Hurry!",
+        "target": "서둘러요",
+        "category": 1,
+        "pronunciation": "seodulleoyo"
+      },
+      {
+        "origin": "I ate already.",
+        "target": "벌써 먹었어요",
+        "category": 1,
+        "pronunciation": "beolsseo meog-eoss-eoyo"
+      },
+      {
+        "origin": "I can't hear you.",
+        "target": "안 들려요",
+        "category": 1,
+        "pronunciation": "an deullyeoyo"
+      },
+      {
+        "origin": "I'd like to go for a walk.",
+        "target": "산책 가고 싶어요",
+        "category": 1,
+        "pronunciation": "sanchaeg gago sip-eoyo"
+      },
+      {
+        "origin": "I don't know how to use it.",
+        "target": "어떻게 사용하는지 몰라요",
+        "category": 1,
+        "pronunciation": "eotteohge sayonghaneunji mollayo"
+      },
+      {
+        "origin": "I don't like him.",
+        "target": "그 사람을 안 좋아해요",
+        "category": 1,
+        "pronunciation": "geu salam-eul an joh-ahaeyo"
+      },
+      {
+        "origin": "I don't like it.",
+        "target": "그것을 안 좋아해요",
+        "category": 1,
+        "pronunciation": "geugeos-eul an joh-ahaeyo"
+      },
+      {
+        "origin": "I don't speak very well.",
+        "target": "말을 잘 못해요",
+        "category": 1,
+        "pronunciation": "mal-eul jal moshaeyo"
+      },
+      {
+        "origin": "I don't understand.",
+        "target": "이해가 안 돼요",
+        "category": 1,
+        "pronunciation": "ihaega an dwaeyo"
+      },
+      {
+        "origin": "I don't want it.",
+        "target": "그것을 원하지 않아요",
+        "category": 1,
+        "pronunciation": "geugeos-eul wonhaji anh-ayo"
+      },
+      {
+        "origin": "I don't want that.",
+        "target": "그것을 원하지 않아요",
+        "category": 1,
+        "pronunciation": "geugeos-eul wonhaji anh-ayo"
+      },
+      {
+        "origin": "I don't want to bother you.",
+        "target": "당신을 괴롭히고 싶지 않아요",
+        "category": 1,
+        "pronunciation": "dangsin-eul goelobhigo sipji anh-ayo"
+      },
+      {
+        "origin": "I feel good.",
+        "target": "기분이 좋아요",
+        "category": 1,
+        "pronunciation": "gibun-i joh-ayo"
+      },
+      {
+        "origin": "If you need my help, please let me know.",
+        "target": "내 도움이 필요하면 이야기 하세요",
+        "category": 1,
+        "pronunciation": "nae doum-i pil-yohamyeon iyagi haseyo"
+      },
+      {
+        "origin": "I get off of work at 6.",
+        "target": "여섯시에 일이 끝나요",
+        "category": 1,
+        "pronunciation": "yeoseos-sie il-i kkeutnayo"
+      },
+      {
+        "origin": "I have a headache.",
+        "target": "머리가 아파요",
+        "category": 1,
+        "pronunciation": "meoliga apayo"
+      },
+      {
+        "origin": "I hope you and your wife have a nice trip.",
+        "target": "당신과 당신 부인이 좋은 여행이 되시기를 바래요",
+        "category": 1,
+        "pronunciation": "dangsingwa dangsin bu-in-i joh-eun yeohaeng-i doesigileul balaeyo"
+      },
+      {
+        "origin": "I know.",
+        "target": "알아요",
+        "category": 1,
+        "pronunciation": "al-ayo"
+      },
+      {
+        "origin": "I like her.",
+        "target": "그녀를 좋아해요",
+        "category": 1,
+        "pronunciation": "geunyeoleul joh-ahaeyo"
+      },
+      {
+        "origin": "I'll call you when I leave.",
+        "target": "내가 떠날때 전화할게요",
+        "category": 1,
+        "pronunciation": "naega tteonalttae jeonhwahalgeyo"
+      },
+      {
+        "origin": "I'll come back later.",
+        "target": "나중에 돌아 올게요",
+        "category": 1,
+        "pronunciation": "najung-e dol-a olgeyo"
+      },
+      {
+        "origin": "I'll pay.",
+        "target": "제가 살게요",
+        "category": 1,
+        "pronunciation": "jega salgeyo"
+      },
+      {
+        "origin": "I'll take it.",
+        "target": "그걸로 할게요",
+        "category": 1,
+        "pronunciation": "geugeollo halgeyo"
+      },
+      {
+        "origin": "I'll take you to the bus stop.",
+        "target": "제가 버스 정류장까지 데려다 드릴게요",
+        "category": 1,
+        "pronunciation": "jega beoseu jeonglyujangkkaji delyeoda deulilgeyo"
+      },
+      {
+        "origin": "I lost my watch.",
+        "target": "시계를 잃어버렸어요",
+        "category": 1,
+        "pronunciation": "sigyeleul ilh-eobeolyeoss-eoyo"
+      },
+      {
+        "origin": "I love you.",
+        "target": "사랑해요",
+        "category": 1,
+        "pronunciation": "salanghaeyo"
+      },
+      {
+        "origin": "I'm an American.",
+        "target": "미국인이에요",
+        "category": 1,
+        "pronunciation": "migug-in-ieyo"
+      },
+      {
+        "origin": "I'm cleaning my room.",
+        "target": "방을 청소하고 있어요",
+        "category": 1,
+        "pronunciation": "bang-eul cheongsohago iss-eoyo"
+      },
+      {
+        "origin": "I'm cold.",
+        "target": "추워요",
+        "category": 1,
+        "pronunciation": "chuwoyo"
+      },
+      {
+        "origin": "I'm coming to pick you up.",
+        "target": "지금 데리러 올레교",
+        "category": 1,
+        "pronunciation": "jigeum delileo ollegyo"
+      },
+      {
+        "origin": "I'm going to leave.",
+        "target": "지금 떠날 거예요",
+        "category": 1,
+        "pronunciation": "jigeum tteonal geoyeyo"
+      },
+      {
+        "origin": "I'm good, and you?",
+        "target": "저는 좋은데 어떠세요?",
+        "category": 1,
+        "pronunciation": "jeoneun joh-eunde eotteoseyo?"
+      },
+      {
+        "origin": "I'm happy.",
+        "target": "행복해요",
+        "category": 1,
+        "pronunciation": "haengboghaeyo"
+      },
+      {
+        "origin": "I'm hungry.",
+        "target": "배가 고파요",
+        "category": 1,
+        "pronunciation": "baega gopayo"
+      },
+      {
+        "origin": "I'm married.",
+        "target": "결혼했어요",
+        "category": 1,
+        "pronunciation": "gyeolhonhaess-eoyo"
+      },
+      {
+        "origin": "I'm not busy.",
+        "target": "바쁘지 않아요",
+        "category": 1,
+        "pronunciation": "bappeuji anh-ayo"
+      },
+      {
+        "origin": "I'm not married.",
+        "target": "결혼 안 했어요",
+        "category": 1,
+        "pronunciation": "gyeolhon an haess-eoyo"
+      },
+      {
+        "origin": "I'm not ready yet.",
+        "target": "아직 준비 안 되었어요",
+        "category": 1,
+        "pronunciation": "ajig junbi an doeeoss-eoyo"
+      },
+      {
+        "origin": "I'm not sure.",
+        "target": "확실하지 않아요",
+        "category": 1,
+        "pronunciation": "hwagsilhaji anh-ayo"
+      },
+      {
+        "origin": "I'm sorry, we're sold out.",
+        "target": "미안하지만 다 팔렸어요",
+        "category": 1,
+        "pronunciation": "mianhajiman da pallyeoss-eoyo"
+      },
+      {
+        "origin": "I'm thirsty.",
+        "target": "목이 말라요",
+        "category": 1,
+        "pronunciation": "mog-i mallayo"
+      },
+      {
+        "origin": "I'm very busy. I don't have time now.",
+        "target": "나는 매우 바빠요. 지금 시간이 없어요",
+        "category": 1,
+        "pronunciation": "naneun maeu bappayo. jigeum sigan-i eobs-eoyo"
+      },
+      {
+        "origin": "I need to change clothes.",
+        "target": "옷을 갈아 입어야 해요",
+        "category": 1,
+        "pronunciation": "os-eul gal-a ib-eoya haeyo"
+      },
+      {
+        "origin": "I need to go home.",
+        "target": "집에 가야해요",
+        "category": 1,
+        "pronunciation": "jib-e gayahaeyo"
+      },
+      {
+        "origin": "I only want a snack.",
+        "target": "간식만 먹고 싶어요",
+        "category": 1,
+        "pronunciation": "gansigman meoggo sip-eoyo"
+      },
+      {
+        "origin": "Is Mr. Smith an American?",
+        "target": "스미스씨가 미국인이에요?",
+        "category": 1,
+        "pronunciation": "seumiseussiga migug-in-ieyo?"
+      },
+      {
+        "origin": "Is that enough?",
+        "target": "충분해요?",
+        "category": 1,
+        "pronunciation": "chungbunhaeyo?"
+      },
+      {
+        "origin": "I think it's very good.",
+        "target": "아주 좋은 것 같아요",
+        "category": 1,
+        "pronunciation": "aju joh-eun geos gat-ayo"
+      },
+      {
+        "origin": "I think it tastes good.",
+        "target": "맛있는 것 같아요",
+        "category": 1,
+        "pronunciation": "mas-issneun geos gat-ayo"
+      },
+      {
+        "origin": "I thought the clothes were cheaper.",
+        "target": "그 옷들이 더 싸다고 생각했어요",
+        "category": 1,
+        "pronunciation": "geu osdeul-i deo ssadago saeng-gaghaess-eoyo"
+      },
+      {
+        "origin": "It's longer than 2 miles.",
+        "target": "이마일보다 더 길어요",
+        "category": 1,
+        "pronunciation": "imailboda deo gil-eoyo"
+      },
+      {
+        "origin": "I've been here for two days.",
+        "target": "여기 이틀이나 있었어요",
+        "category": 1,
+        "pronunciation": "yeogi iteul-ina iss-eoss-eoyo"
+      },
+      {
+        "origin": "I've heard Texas is a beautiful place.",
+        "target": "택사스기 아름다운 곳이라고 들었어요",
+        "category": 1,
+        "pronunciation": "taegsaseugi aleumdaun gos-ilago deul-eoss-eoyo"
+      },
+      {
+        "origin": "I've never seen that before.",
+        "target": "그것을 한번도 본 적이 없어요",
+        "category": 1,
+        "pronunciation": "geugeos-eul hanbeondo bon jeog-i eobs-eoyo"
+      },
+      {
+        "origin": "I was about to leave the restaurant when my friends arrived.",
+        "target": "내 친구가 도착했을때 막 식당을 나가려고 했어요",
+        "category": 1,
+        "pronunciation": "nae chinguga dochaghaess-eulttae mag sigdang-eul nagalyeogo haess-eoyo"
+      },
+      {
+        "origin": "Just a little.",
+        "target": "잠시만요",
+        "category": 1,
+        "pronunciation": "jamsiman-yo"
+      },
+      {
+        "origin": "Just a moment.",
+        "target": "잠깐만요",
+        "category": 1,
+        "pronunciation": "jamkkanman-yo"
+      },
+      {
+        "origin": "Let me check.",
+        "target": "한번 봅시다",
+        "category": 1,
+        "pronunciation": "hanbeon bobsida"
+      },
+      {
+        "origin": "Let me think about it.",
+        "target": "생각 좀 해 볼게요.",
+        "category": 1,
+        "pronunciation": "saeng-gag jom hae bolgeyo."
+      },
+      {
+        "origin": "Let's go have a look.",
+        "target": "한번 봅시다",
+        "category": 1,
+        "pronunciation": "hanbeon bobsida"
+      },
+      {
+        "origin": "Let's practice English.",
+        "target": "영어를 연습합시다",
+        "category": 1,
+        "pronunciation": "yeong-eoleul yeonseubhabsida"
+      },
+      {
+        "origin": "May I speak to Mrs. Smith please?",
+        "target": "스미스부인 좀 바꾸어 주세요",
+        "category": 1,
+        "pronunciation": "seumiseubu-in jom bakkueo juseyo"
+      },
+      {
+        "origin": "More than that.",
+        "target": "그것보다 많이",
+        "category": 1,
+        "pronunciation": "geugeosboda manh-i"
+      },
+      {
+        "origin": "Never mind.",
+        "target": "신경쓰지 마세요",
+        "category": 1,
+        "pronunciation": "singyeongsseuji maseyo"
+      },
+      {
+        "origin": "Next time.",
+        "target": "다음에",
+        "category": 1,
+        "pronunciation": "da-eum-e"
+      },
+      {
+        "origin": "No.",
+        "target": "아니오",
+        "category": 1,
+        "pronunciation": "anio"
+      },
+      {
+        "origin": "Nonsense.",
+        "target": "말도 안되어요",
+        "category": 1,
+        "pronunciation": "maldo andoeeoyo"
+      },
+      {
+        "origin": "No, thank you.",
+        "target": "괜찮습니다.",
+        "category": 1,
+        "pronunciation": "gwaenchanhseubnida."
+      },
+      {
+        "origin": "Nothing else.",
+        "target": "다른것은 없어요.",
+        "category": 1,
+        "pronunciation": "daleungeos-eun eobs-eoyo."
+      },
+      {
+        "origin": "Not recently.",
+        "target": "요즘은 아니에요",
+        "category": 1,
+        "pronunciation": "yojeum-eun anieyo"
+      },
+      {
+        "origin": "Not yet.",
+        "target": "아직은 아니네요",
+        "category": 1,
+        "pronunciation": "ajig-eun anineyo"
+      },
+      {
+        "origin": "Of course.",
+        "target": "물론요",
+        "category": 1,
+        "pronunciation": "mullon-yo"
+      },
+      {
+        "origin": "Okay.",
+        "target": "알았어요",
+        "category": 1,
+        "pronunciation": "al-ass-eoyo"
+      },
+      {
+        "origin": "Please fill out this form.",
+        "target": "이 서류를 작성하세요",
+        "category": 1,
+        "pronunciation": "i seolyuleul jagseonghaseyo"
+      },
+      {
+        "origin": "Please take me to this address.",
+        "target": "이 주소로 데려다 주세요",
+        "category": 1,
+        "pronunciation": "i jusolo delyeoda juseyo"
+      },
+      {
+        "origin": "Please write it down.",
+        "target": "적어 주세요",
+        "category": 1,
+        "pronunciation": "jeog-eo juseyo"
+      },
+      {
+        "origin": "Really?",
+        "target": "정말요?",
+        "category": 1,
+        "pronunciation": "jeongmal-yo?"
+      },
+      {
+        "origin": "Right here.",
+        "target": "여기요",
+        "category": 1,
+        "pronunciation": "yeogiyo"
+      },
+      {
+        "origin": "Right there.",
+        "target": "거기요",
+        "category": 1,
+        "pronunciation": "geogiyo"
+      },
+      {
+        "origin": "See you later.",
+        "target": "나중에 봐요",
+        "category": 1,
+        "pronunciation": "najung-e bwayo"
+      },
+      {
+        "origin": "See you tomorrow.",
+        "target": "내일 봐요",
+        "category": 1,
+        "pronunciation": "naeil bwayo"
+      },
+      {
+        "origin": "See you tonight.",
+        "target": "오늘 밤에 봐요",
+        "category": 1,
+        "pronunciation": "oneul bam-e bwayo"
+      },
+      {
+        "origin": "She's pretty.",
+        "target": "그녀는 예뻐요",
+        "category": 1,
+        "pronunciation": "geunyeoneun yeppeoyo"
+      },
+      {
+        "origin": "Sorry to bother you.",
+        "target": "귀찮게 해서 미얀해요",
+        "category": 1,
+        "pronunciation": "gwichanhge haeseo miyanhaeyo"
+      },
+      {
+        "origin": "Stop!",
+        "target": "멈추세요",
+        "category": 1,
+        "pronunciation": "meomchuseyo"
+      },
+      {
+        "origin": "Take a chance.",
+        "target": "기회를 잡으세요",
+        "category": 1,
+        "pronunciation": "gihoeleul jab-euseyo"
+      },
+      {
+        "origin": "Take it outside.",
+        "target": "밖으로 가지고 나가세요",
+        "category": 1,
+        "pronunciation": "bakk-eulo gajigo nagaseyo"
+      },
+      {
+        "origin": "Tell me.",
+        "target": "이야기 하세요",
+        "category": 1,
+        "pronunciation": "iyagi haseyo"
+      },
+      {
+        "origin": "Thanks for everything.",
+        "target": "모든것에 고맙습니다.",
+        "category": 1,
+        "pronunciation": "modeungeos-e gomabseubnida."
+      },
+      {
+        "origin": "Thanks for your help.",
+        "target": "도와 주어서 고맙습니다.",
+        "category": 1,
+        "pronunciation": "dowa jueoseo gomabseubnida."
+      },
+      {
+        "origin": "Thank you.",
+        "target": "고맙습니다.",
+        "category": 1,
+        "pronunciation": "gomabseubnida."
+      },
+      {
+        "origin": "Thank you miss.",
+        "target": "고맙습니다.",
+        "category": 1,
+        "pronunciation": "gomabseubnida."
+      },
+      {
+        "origin": "Thank you sir.",
+        "target": "고맙습니다.",
+        "category": 1,
+        "pronunciation": "gomabseubnida."
+      },
+      {
+        "origin": "Thank you very much.",
+        "target": "아주 고맙습니다",
+        "category": 1,
+        "pronunciation": "aju gomabseubnida"
+      },
+      {
+        "origin": "That looks great.",
+        "target": "훌륭해요",
+        "category": 1,
+        "pronunciation": "hullyunghaeyo"
+      },
+      {
+        "origin": "That's alright.",
+        "target": "괜찮습니다.",
+        "category": 1,
+        "pronunciation": "gwaenchanhseubnida."
+      },
+      {
+        "origin": "That's enough.",
+        "target": "충분해요",
+        "category": 1,
+        "pronunciation": "chungbunhaeyo"
+      },
+      {
+        "origin": "That's fine.",
+        "target": "괜찮아요.",
+        "category": 1,
+        "pronunciation": "gwaenchanh-ayo."
+      },
+      {
+        "origin": "That's it.",
+        "target": "그게 다예요",
+        "category": 1,
+        "pronunciation": "geuge dayeyo"
+      },
+      {
+        "origin": "That smells bad.",
+        "target": "냄새가 나빠요",
+        "category": 1,
+        "pronunciation": "naemsaega nappayo"
+      },
+      {
+        "origin": "That's not fair.",
+        "target": "공평하지 않아요",
+        "category": 1,
+        "pronunciation": "gongpyeonghaji anh-ayo"
+      },
+      {
+        "origin": "That's not right.",
+        "target": "맞지 않아요",
+        "category": 1,
+        "pronunciation": "maj-ji anh-ayo"
+      },
+      {
+        "origin": "That's right.",
+        "target": "맞아요",
+        "category": 1,
+        "pronunciation": "maj-ayo"
+      },
+      {
+        "origin": "That's too bad.",
+        "target": "너무 안 되었어요",
+        "category": 1,
+        "pronunciation": "neomu an doeeoss-eoyo"
+      },
+      {
+        "origin": "That's too many.",
+        "target": "너무 많아요",
+        "category": 1,
+        "pronunciation": "neomu manh-ayo"
+      },
+      {
+        "origin": "That's too much.",
+        "target": "너무 많아요",
+        "category": 1,
+        "pronunciation": "neomu manh-ayo"
+      },
+      {
+        "origin": "The book is under the table.",
+        "target": "이 책은 테이블 밑에 있어요",
+        "category": 1,
+        "pronunciation": "i chaeg-eun teibeul mit-e iss-eoyo"
+      },
+      {
+        "origin": "They'll be right back.",
+        "target": "그들이 곧 돌아 올거예요",
+        "category": 1,
+        "pronunciation": "geudeul-i god dol-a olgeoyeyo"
+      },
+      {
+        "origin": "They're the same.",
+        "target": "같은 사람들이에요",
+        "category": 1,
+        "pronunciation": "gat-eun salamdeul-ieyo"
+      },
+      {
+        "origin": "They're very busy.",
+        "target": "그들은 아주 바빠요",
+        "category": 1,
+        "pronunciation": "geudeul-eun aju bappayo"
+      },
+      {
+        "origin": "This doesn't work.",
+        "target": "일이 잘 안 되어가요",
+        "category": 1,
+        "pronunciation": "il-i jal an doeeogayo"
+      },
+      {
+        "origin": "This is very difficult.",
+        "target": "이것은 아주 어려워요",
+        "category": 1,
+        "pronunciation": "igeos-eun aju eolyeowoyo"
+      },
+      {
+        "origin": "This is very important.",
+        "target": "이것은 아주 중요해요",
+        "category": 1,
+        "pronunciation": "igeos-eun aju jung-yohaeyo"
+      },
+      {
+        "origin": "Try it.",
+        "target": "해 보세요",
+        "category": 1,
+        "pronunciation": "hae boseyo"
+      },
+      {
+        "origin": "Very good, thanks.",
+        "target": "아주 좋아요. 고마워요",
+        "category": 1,
+        "pronunciation": "aju joh-ayo. gomawoyo"
+      },
+      {
+        "origin": "We like it very much.",
+        "target": "우리는 그것을 아주 좋아해요",
+        "category": 1,
+        "pronunciation": "ulineun geugeos-eul aju joh-ahaeyo"
+      },
+      {
+        "origin": "Would you take a message please?",
+        "target": "메세지 좀 전해 주세요",
+        "category": 1,
+        "pronunciation": "meseji jom jeonhae juseyo"
+      },
+      {
+        "origin": "Yes, really.",
+        "target": "네, 사실은",
+        "category": 1,
+        "pronunciation": "ne, sasil-eun"
+      },
+      {
+        "origin": "You're beautiful.",
+        "target": "아름다우세요",
+        "category": 1,
+        "pronunciation": "aleumdauseyo"
+      },
+      {
+        "origin": "You're very nice.",
+        "target": "아주 친절하세요",
+        "category": 1,
+        "pronunciation": "aju chinjeolhaseyo"
+      },
+      {
+        "origin": "You're very smart.",
+        "target": "아주 똑똑하세요",
+        "category": 1,
+        "pronunciation": "aju ttogttoghaseyo"
+      },
+      {
+        "origin": "Your things are all here.",
+        "target": "당신 물건이 여기 다 있어요",
+        "category": 1,
+        "pronunciation": "dangsin mulgeon-i yeogi da iss-eoyo"
+      },
+      {
+        "origin": "Certainly!",
+        "target": "물론이에요",
+        "category": 2,
+        "pronunciation": "mullon-ieyo"
+      },
+      {
+        "origin": "Good afternoon",
+        "target": "안녕하세요",
+        "category": 2,
+        "pronunciation": "annyeonghaseyo"
+      },
+      {
+        "origin": "Good evening sir",
+        "target": "안녕하세요",
+        "category": 2,
+        "pronunciation": "annyeonghaseyo"
+      },
+      {
+        "origin": "Good Luck.",
+        "target": "행운을 빌어요",
+        "category": 2,
+        "pronunciation": "haeng-un-eul bil-eoyo"
+      },
+      {
+        "origin": "Good morning.",
+        "target": "안녕하세요",
+        "category": 2,
+        "pronunciation": "annyeonghaseyo"
+      },
+      {
+        "origin": "Great.",
+        "target": "좋아요",
+        "category": 2,
+        "pronunciation": "joh-ayo"
+      },
+      {
+        "origin": "Happy Birthday.",
+        "target": "생일 축하해요",
+        "category": 2,
+        "pronunciation": "saeng-il chughahaeyo"
+      },
+      {
+        "origin": "Have a good trip.",
+        "target": "좋은 여행이 되세요",
+        "category": 2,
+        "pronunciation": "joh-eun yeohaeng-i doeseyo"
+      },
+      {
+        "origin": "Hello.",
+        "target": "여보세요",
+        "category": 2,
+        "pronunciation": "yeoboseyo"
+      },
+      {
+        "origin": "Nice to meet you",
+        "target": "만나서 반가워요",
+        "category": 2,
+        "pronunciation": "mannaseo bangawoyo"
+      },
+      {
+        "origin": "Please call me.",
+        "target": "전화하세요",
+        "category": 2,
+        "pronunciation": "jeonhwahaseyo"
+      },
+      {
+        "origin": "About 300 kilometers.",
+        "target": "삼백 킬로 정도",
+        "category": 3,
+        "pronunciation": "sambaeg killo jeongdo"
+      },
+      {
+        "origin": "A one way ticket.",
+        "target": "편도 표",
+        "category": 3,
+        "pronunciation": "pyeondo pyo"
+      },
+      {
+        "origin": "Are you going to help her?",
+        "target": "그녀를 도와 줄 거예요?",
+        "category": 3,
+        "pronunciation": "geunyeoleul dowa jul geoyeyo?"
+      },
+      {
+        "origin": "A round trip ticket.",
+        "target": "왕복 표",
+        "category": 3,
+        "pronunciation": "wangbog pyo"
+      },
+      {
+        "origin": "At what time?",
+        "target": "몇시에?",
+        "category": 3,
+        "pronunciation": "myeochsie?"
+      },
+      {
+        "origin": "Can I make an appointment for next Wednesday?",
+        "target": "다음 주 수요일 예약 할 수 있어요?",
+        "category": 3,
+        "pronunciation": "da-eum ju suyoil yeyag hal su iss-eoyo?"
+      },
+      {
+        "origin": "Can you repeat that please?",
+        "target": "다시 이야기 해 주세요",
+        "category": 3,
+        "pronunciation": "dasi iyagi hae juseyo"
+      },
+      {
+        "origin": "Does this road go to New York?",
+        "target": "이 길이 뉴욕으로 가는 길이에요?",
+        "category": 3,
+        "pronunciation": "i gil-i nyuyog-eulo ganeun gil-ieyo?"
+      },
+      {
+        "origin": "Do you have enough money?",
+        "target": "돈 충분히 있어요?",
+        "category": 3,
+        "pronunciation": "don chungbunhi iss-eoyo?"
+      },
+      {
+        "origin": "Do you know how to cook?",
+        "target": "요리할 줄 알아요?",
+        "category": 3,
+        "pronunciation": "yolihal jul al-ayo?"
+      },
+      {
+        "origin": "Do you know what this says?",
+        "target": "뭐라고 말하는지 알아요?",
+        "category": 3,
+        "pronunciation": "mwolago malhaneunji al-ayo?"
+      },
+      {
+        "origin": "Do you want me to come and pick you up?",
+        "target": "내가 와서 차 태워 드릴까요?",
+        "category": 3,
+        "pronunciation": "naega waseo cha taewo deulilkkayo?"
+      },
+      {
+        "origin": "Follow me.",
+        "target": "따라 오세요",
+        "category": 3,
+        "pronunciation": "ttala oseyo"
+      },
+      {
+        "origin": "From here to there.",
+        "target": "여기저 저기까지",
+        "category": 3,
+        "pronunciation": "yeogijeo jeogikkaji"
+      },
+      {
+        "origin": "Go straight ahead.",
+        "target": "앞으로 똑바로 가세요",
+        "category": 3,
+        "pronunciation": "ap-eulo ttogbalo gaseyo"
+      },
+      {
+        "origin": "Have you arrived?",
+        "target": "도착했어요?",
+        "category": 3,
+        "pronunciation": "dochaghaess-eoyo?"
+      },
+      {
+        "origin": "Have you been to Boston?",
+        "target": "보스톤에 가 본 적 있어요?",
+        "category": 3,
+        "pronunciation": "boseuton-e ga bon jeog iss-eoyo?"
+      },
+      {
+        "origin": "How do I get there?",
+        "target": "어떻게 거기 가요?",
+        "category": 3,
+        "pronunciation": "eotteohge geogi gayo?"
+      },
+      {
+        "origin": "How do I get to Daniel Street?",
+        "target": "다니엘가에 어떻게 가나요?",
+        "category": 3,
+        "pronunciation": "danielga-e eotteohge ganayo?"
+      },
+      {
+        "origin": "How do I get to the American Embassy?",
+        "target": "미국 대사관에 어떻게 가요?",
+        "category": 3,
+        "pronunciation": "migug daesagwan-e eotteohge gayo?"
+      },
+      {
+        "origin": "How long does it take by car?",
+        "target": "자동차로 얼마나 걸려요?",
+        "category": 3,
+        "pronunciation": "jadongchalo eolmana geollyeoyo?"
+      },
+      {
+        "origin": "How long does it take to get to Georgia?",
+        "target": "조지아까지 얼마나 걸려요?",
+        "category": 3,
+        "pronunciation": "jojiakkaji eolmana geollyeoyo?"
+      },
+      {
+        "origin": "How long is the flight?",
+        "target": "비행시간이 얼마나 되어요?",
+        "category": 3,
+        "pronunciation": "bihaengsigan-i eolmana doeeoyo?"
+      },
+      {
+        "origin": "How was the movie?",
+        "target": "영화가 어땠어요?",
+        "category": 3,
+        "pronunciation": "yeonghwaga eottaess-eoyo?"
+      },
+      {
+        "origin": "I'd like to make a phone call.",
+        "target": "전화하고 싶어요",
+        "category": 3,
+        "pronunciation": "jeonhwahago sip-eoyo"
+      },
+      {
+        "origin": "I'd like to make a reservation.",
+        "target": "예약하고 싶어요",
+        "category": 3,
+        "pronunciation": "yeyaghago sip-eoyo"
+      },
+      {
+        "origin": "I have a question I want to ask you./ I want to ask you a question.",
+        "target": "질문이 있어요",
+        "category": 3,
+        "pronunciation": "jilmun-i iss-eoyo"
+      },
+      {
+        "origin": "I'll take that one also.",
+        "target": "그것도 살게요",
+        "category": 3,
+        "pronunciation": "geugeosdo salgeyo"
+      },
+      {
+        "origin": "I'm coming right now.",
+        "target": "지금 오고 있어요",
+        "category": 3,
+        "pronunciation": "jigeum ogo iss-eoyo"
+      },
+      {
+        "origin": "I'm going home in four days.",
+        "target": "사일 후에 집에 갈거예요",
+        "category": 3,
+        "pronunciation": "sail hue jib-e galgeoyeyo"
+      },
+      {
+        "origin": "I'm leaving Tomorrow.",
+        "target": "내일 떠나요",
+        "category": 3,
+        "pronunciation": "naeil tteonayo"
+      },
+      {
+        "origin": "I'm looking for the post office.",
+        "target": "우체국을 찾고 있어요",
+        "category": 3,
+        "pronunciation": "uchegug-eul chajgo iss-eoyo"
+      },
+      {
+        "origin": "Is this pen yours?",
+        "target": "이 펜이 당신 거예요?",
+        "category": 3,
+        "pronunciation": "i pen-i dangsin geoyeyo?"
+      },
+      {
+        "origin": "I wish I had one.",
+        "target": "나도 하나가 있으면 좋겠어요",
+        "category": 3,
+        "pronunciation": "nado hanaga iss-eumyeon johgess-eoyo"
+      },
+      {
+        "origin": "One ticket to New York please.",
+        "target": "뉴욕행 표 하나",
+        "category": 3,
+        "pronunciation": "nyuyoghaeng pyo hana"
+      },
+      {
+        "origin": "One way or round trip?",
+        "target": "편도 아니면 왕복행 표",
+        "category": 3,
+        "pronunciation": "pyeondo animyeon wangboghaeng pyo"
+      },
+      {
+        "origin": "Please speak slower.",
+        "target": "천천히 이야기 해 주세요",
+        "category": 3,
+        "pronunciation": "cheoncheonhi iyagi hae juseyo"
+      },
+      {
+        "origin": "Please take me to the airport.",
+        "target": "공항까지 데려다 주세요",
+        "category": 3,
+        "pronunciation": "gonghangkkaji delyeoda juseyo"
+      },
+      {
+        "origin": "That way.",
+        "target": "그 방식/그 길",
+        "category": 3,
+        "pronunciation": "geu bangsig/geu gil"
+      },
+      {
+        "origin": "The plane departs at 5:30P.",
+        "target": "비행기가 다섯시 반에 떠나요",
+        "category": 3,
+        "pronunciation": "bihaeng-giga daseos-si ban-e tteonayo"
+      },
+      {
+        "origin": "They arrived yesterday.",
+        "target": "그 사람들이 어제 도착했어요",
+        "category": 3,
+        "pronunciation": "geu salamdeul-i eoje dochaghaess-eoyo"
+      },
+      {
+        "origin": "Turn around.",
+        "target": "뒤 돌아 보세요",
+        "category": 3,
+        "pronunciation": "dwi dol-a boseyo"
+      },
+      {
+        "origin": "Turn left.",
+        "target": "죄회전하세요",
+        "category": 3,
+        "pronunciation": "joehoejeonhaseyo"
+      },
+      {
+        "origin": "Turn right.",
+        "target": "우회전하세요",
+        "category": 3,
+        "pronunciation": "uhoejeonhaseyo"
+      },
+      {
+        "origin": "What time are you going to the bus station?",
+        "target": "버스 정류장에 몇시에 가요?",
+        "category": 3,
+        "pronunciation": "beoseu jeonglyujang-e myeochsie gayo?"
+      },
+      {
+        "origin": "When did this happen?",
+        "target": "언제 이 일이 생겼어요?",
+        "category": 3,
+        "pronunciation": "eonje i il-i saeng-gyeoss-eoyo?"
+      },
+      {
+        "origin": "When did you arrive in Boston?",
+        "target": "보스톤에 언제 도착했어요?",
+        "category": 3,
+        "pronunciation": "boseuton-e eonje dochaghaess-eoyo?"
+      },
+      {
+        "origin": "When does he arrive?",
+        "target": "언제 그가 도착해요?",
+        "category": 3,
+        "pronunciation": "eonje geuga dochaghaeyo?"
+      },
+      {
+        "origin": "When does it arrive?",
+        "target": "언제 그것이 와요?",
+        "category": 3,
+        "pronunciation": "eonje geugeos-i wayo?"
+      },
+      {
+        "origin": "When does the bank open?",
+        "target": "언제 은행이 열어요?",
+        "category": 3,
+        "pronunciation": "eonje eunhaeng-i yeol-eoyo?"
+      },
+      {
+        "origin": "When does the bus leave?",
+        "target": "언제 버스가 떠나요?",
+        "category": 3,
+        "pronunciation": "eonje beoseuga tteonayo?"
+      },
+      {
+        "origin": "When do we arrive?",
+        "target": "언제 우리가 도착해요?",
+        "category": 3,
+        "pronunciation": "eonje uliga dochaghaeyo?"
+      },
+      {
+        "origin": "When do we leave?",
+        "target": "언제 우리가 떠나요?",
+        "category": 3,
+        "pronunciation": "eonje uliga tteonayo?"
+      },
+      {
+        "origin": "Where can I mail this?",
+        "target": "어디서 이것을 부칠 수 있어요?",
+        "category": 3,
+        "pronunciation": "eodiseo igeos-eul buchil su iss-eoyo?"
+      },
+      {
+        "origin": "Where is she from?",
+        "target": "그녀는 어디서 왔어요?",
+        "category": 3,
+        "pronunciation": "geunyeoneun eodiseo wass-eoyo?"
+      },
+      {
+        "origin": "Where is the bathroom?",
+        "target": "화장실이 어디에 있어요?",
+        "category": 3,
+        "pronunciation": "hwajangsil-i eodie iss-eoyo?"
+      },
+      {
+        "origin": "Why not?",
+        "target": "왜요?",
+        "category": 3,
+        "pronunciation": "waeyo?"
+      },
+      {
+        "origin": "Will you remind me?",
+        "target": "나중에 상기 시켜 주세요",
+        "category": 3,
+        "pronunciation": "najung-e sang-gi sikyeo juseyo"
+      },
+      {
+        "origin": "11 dollars.",
+        "target": "십일 일 달러",
+        "category": 4,
+        "pronunciation": "sib-il il dalleo"
+      },
+      {
+        "origin": "52 cents.",
+        "target": "오십 이 전",
+        "category": 4,
+        "pronunciation": "osib i jeon"
+      },
+      {
+        "origin": "A few.",
+        "target": "몇 개",
+        "category": 4,
+        "pronunciation": "myeoch gae"
+      },
+      {
+        "origin": "A little.",
+        "target": "조금",
+        "category": 4,
+        "pronunciation": "jogeum"
+      },
+      {
+        "origin": "Call the police.",
+        "target": "경찰에게 전화하세요",
+        "category": 4,
+        "pronunciation": "gyeongchal-ege jeonhwahaseyo"
+      },
+      {
+        "origin": "Did your wife like California?",
+        "target": "부인이 캘리포니아를 좋아했어요?.",
+        "category": 4,
+        "pronunciation": "bu-in-i kaelliponialeul joh-ahaess-eoyo?."
+      },
+      {
+        "origin": "Do you have any coffee?",
+        "target": "커피있어요?",
+        "category": 4,
+        "pronunciation": "keopiiss-eoyo?"
+      },
+      {
+        "origin": "Do you have anything cheaper?",
+        "target": "더 싼 것 있어요?",
+        "category": 4,
+        "pronunciation": "deo ssan geos iss-eoyo?"
+      },
+      {
+        "origin": "Do you take credit cards?",
+        "target": "신용 카드 받으세요?",
+        "category": 4,
+        "pronunciation": "sin-yong kadeu bad-euseyo?"
+      },
+      {
+        "origin": "How are you paying?",
+        "target": "어떻게 지불하실거예요?",
+        "category": 4,
+        "pronunciation": "eotteohge jibulhasilgeoyeyo?"
+      },
+      {
+        "origin": "How many people are there in New York?",
+        "target": "뉴욕에 인구가 몇 명이에요?",
+        "category": 4,
+        "pronunciation": "nyuyog-e inguga myeoch myeong-ieyo?"
+      },
+      {
+        "origin": "How much are these earrings?",
+        "target": "이 귀걸이가 얼마예요?",
+        "category": 4,
+        "pronunciation": "i gwigeol-iga eolmayeyo?"
+      },
+      {
+        "origin": "How much does it cost per day?",
+        "target": "하루에 얼마나 들어요?",
+        "category": 4,
+        "pronunciation": "halue eolmana deul-eoyo?"
+      },
+      {
+        "origin": "How much does this cost?",
+        "target": "얼마예요?",
+        "category": 4,
+        "pronunciation": "eolmayeyo?"
+      },
+      {
+        "origin": "How much do I owe you?",
+        "target": "내가 얼마 드려야 해요?",
+        "category": 4,
+        "pronunciation": "naega eolma deulyeoya haeyo?"
+      },
+      {
+        "origin": "How much is it to go to Miami?",
+        "target": "마이애미까지 가는데 얼마나 들어요?",
+        "category": 4,
+        "pronunciation": "maiaemikkaji ganeunde eolmana deul-eoyo?"
+      },
+      {
+        "origin": "How much money do you make?",
+        "target": "돈을 얼마나 벌어요?",
+        "category": 4,
+        "pronunciation": "don-eul eolmana beol-eoyo?"
+      },
+      {
+        "origin": "I'd like to eat at 5th street restaurant.",
+        "target": "5번 가의 식당에서 먹고 싶어요",
+        "category": 4,
+        "pronunciation": "5beon gaui sigdang-eseo meoggo sip-eoyo"
+      },
+      {
+        "origin": "I don't have a girlfriend.",
+        "target": "여자 친구가 없어요",
+        "category": 4,
+        "pronunciation": "yeoja chinguga eobs-eoyo"
+      },
+      {
+        "origin": "I don't have any money.",
+        "target": "돈이 없어요",
+        "category": 4,
+        "pronunciation": "don-i eobs-eoyo"
+      },
+      {
+        "origin": "I have a reservation.",
+        "target": "예약 했어요",
+        "category": 4,
+        "pronunciation": "yeyag haess-eoyo"
+      },
+      {
+        "origin": "I'll have the same thing.",
+        "target": "같은 거 할게요",
+        "category": 4,
+        "pronunciation": "gat-eun geo halgeyo"
+      },
+      {
+        "origin": "I'll pay for dinner.",
+        "target": "저녁 살게요",
+        "category": 4,
+        "pronunciation": "jeonyeog salgeyo"
+      },
+      {
+        "origin": "I'll pay for the tickets.",
+        "target": "제가 표를 살게요",
+        "category": 4,
+        "pronunciation": "jega pyoleul salgeyo"
+      },
+      {
+        "origin": "I'm 26 years old.",
+        "target": "지금 스물 여섯살 이에요",
+        "category": 4,
+        "pronunciation": "jigeum seumul yeoseos-sal ieyo"
+      },
+      {
+        "origin": "I need to practice my English.",
+        "target": "영어를 연습해야 해요",
+        "category": 4,
+        "pronunciation": "yeong-eoleul yeonseubhaeya haeyo"
+      },
+      {
+        "origin": "Isn't it?",
+        "target": "그래요?",
+        "category": 4,
+        "pronunciation": "geulaeyo?"
+      },
+      {
+        "origin": "Is that ok?",
+        "target": "괜찮아요?",
+        "category": 4,
+        "pronunciation": "gwaenchanh-ayo?"
+      },
+      {
+        "origin": "Is there any mail for me?",
+        "target": "나한테 온 우편물이 있어요?",
+        "category": 4,
+        "pronunciation": "nahante on upyeonmul-i iss-eoyo?"
+      },
+      {
+        "origin": "It's 11:30pm.",
+        "target": "오후 열한시 반이에요",
+        "category": 4,
+        "pronunciation": "ohu yeolhansi ban-ieyo"
+      },
+      {
+        "origin": "It's is a quarter past nine.",
+        "target": "아홉시 십오분이에요",
+        "category": 4,
+        "pronunciation": "ahobsi sib-obun-ieyo"
+      },
+      {
+        "origin": "Please come in.",
+        "target": "들어오세요",
+        "category": 4,
+        "pronunciation": "deul-eooseyo"
+      },
+      {
+        "origin": "Sorry, we don't accept credit cards.",
+        "target": "미얀하지만 신용카드를 안 받아요",
+        "category": 4,
+        "pronunciation": "miyanhajiman sin-yongkadeuleul an bad-ayo"
+      },
+      {
+        "origin": "Sorry, we only accept Cash.",
+        "target": "미안하지만 현금만 받아요",
+        "category": 4,
+        "pronunciation": "mianhajiman hyeongeumman bad-ayo"
+      },
+      {
+        "origin": "That restaurant is not expensive.",
+        "target": "그 식당은 비씨지 않아요",
+        "category": 4,
+        "pronunciation": "geu sigdang-eun bissiji anh-ayo"
+      },
+      {
+        "origin": "That's too expensive.",
+        "target": "그것은 너무 비싸요",
+        "category": 4,
+        "pronunciation": "geugeos-eun neomu bissayo"
+      },
+      {
+        "origin": "There are many people here.",
+        "target": "여기 사람이 많아요",
+        "category": 4,
+        "pronunciation": "yeogi salam-i manh-ayo"
+      },
+      {
+        "origin": "They charge 26 dollars per day.",
+        "target": "하루에 이십 육불 받아요",
+        "category": 4,
+        "pronunciation": "halue isib yugbul bad-ayo"
+      },
+      {
+        "origin": "What's the exchange rate for dollars?",
+        "target": "일 달러에 환율이 얼마예요?",
+        "category": 4,
+        "pronunciation": "il dalleoe hwan-yul-i eolmayeyo?"
+      },
+      {
+        "origin": "What's the phone number?",
+        "target": "전화 번호가 뭐예요?",
+        "category": 4,
+        "pronunciation": "jeonhwa beonhoga mwoyeyo?"
+      },
+      {
+        "origin": "Where can I buy tickets?",
+        "target": "어디서 표를 살 수 있어요?",
+        "category": 4,
+        "pronunciation": "eodiseo pyoleul sal su iss-eoyo?"
+      },
+      {
+        "origin": "Where would you like to meet?",
+        "target": "어디서 만나고 싶어요?",
+        "category": 4,
+        "pronunciation": "eodiseo mannago sip-eoyo?"
+      },
+      {
+        "origin": "Which one is better?",
+        "target": "어떤 것이 나아요?",
+        "category": 4,
+        "pronunciation": "eotteon geos-i naayo?"
+      },
+      {
+        "origin": "Across from the post office.",
+        "target": "우체국 건너편",
+        "category": 5,
+        "pronunciation": "uchegug geonneopyeon"
+      },
+      {
+        "origin": "At 3 o'clock.",
+        "target": "세시",
+        "category": 5,
+        "pronunciation": "sesi"
+      },
+      {
+        "origin": "Be quiet.",
+        "target": "조용히 해요",
+        "category": 5,
+        "pronunciation": "joyonghi haeyo"
+      },
+      {
+        "origin": "Can you recommend a good restaurant?",
+        "target": "좋은 식당 좀 소개 해 주세요",
+        "category": 5,
+        "pronunciation": "joh-eun sigdang jom sogae hae juseyo"
+      },
+      {
+        "origin": "Here it is.",
+        "target": "여기 있습니다.",
+        "category": 5,
+        "pronunciation": "yeogi issseubnida."
+      },
+      {
+        "origin": "Here you are.",
+        "target": "여기 있습니다.",
+        "category": 5,
+        "pronunciation": "yeogi issseubnida."
+      },
+      {
+        "origin": "He's in the kitchen.",
+        "target": "그는 부업에 있어요",
+        "category": 5,
+        "pronunciation": "geuneun bueob-e iss-eoyo"
+      },
+      {
+        "origin": "He studies at Boston University.",
+        "target": "그는 보스톤 대학에서 공부하고 있어요",
+        "category": 5,
+        "pronunciation": "geuneun boseuton daehag-eseo gongbuhago iss-eoyo"
+      },
+      {
+        "origin": "How far is it?",
+        "target": "얼마나 멀어요?",
+        "category": 5,
+        "pronunciation": "eolmana meol-eoyo?"
+      },
+      {
+        "origin": "How far is it to Chicago?",
+        "target": "시카고 까지 얼마나 걸려요?",
+        "category": 5,
+        "pronunciation": "sikago kkaji eolmana geollyeoyo?"
+      },
+      {
+        "origin": "How many miles is it to Pennsylvania?",
+        "target": "펜실베니아 주까지 몇 마일이에요?",
+        "category": 5,
+        "pronunciation": "pensilbenia jukkaji myeoch mail-ieyo?"
+      },
+      {
+        "origin": "I'd like a single room.",
+        "target": "침대 하나 있는 방을 주세요",
+        "category": 5,
+        "pronunciation": "chimdae hana issneun bang-eul juseyo"
+      },
+      {
+        "origin": "I like to watch TV.",
+        "target": "텔레비젼 보고 싶어요",
+        "category": 5,
+        "pronunciation": "tellebijyeon bogo sip-eoyo"
+      },
+      {
+        "origin": "It's delicious!",
+        "target": "맛이 있어요",
+        "category": 5,
+        "pronunciation": "mas-i iss-eoyo"
+      },
+      {
+        "origin": "It's half past 11.",
+        "target": "열한시 반이에요",
+        "category": 5,
+        "pronunciation": "yeolhansi ban-ieyo"
+      },
+      {
+        "origin": "It's less than 5 dollars.",
+        "target": "오불 이하예요",
+        "category": 5,
+        "pronunciation": "obul ihayeyo"
+      },
+      {
+        "origin": "It's more than 5 dollars.",
+        "target": "오불 이상이에요",
+        "category": 5,
+        "pronunciation": "obul isang-ieyo"
+      },
+      {
+        "origin": "It's near the Supermarket.",
+        "target": "수퍼마켓 근처예요",
+        "category": 5,
+        "pronunciation": "supeomakes geuncheoyeyo"
+      },
+      {
+        "origin": "it's not suppose to rain today.",
+        "target": "오늘은 비가 오지 않을 거예요",
+        "category": 5,
+        "pronunciation": "oneul-eun biga oji anh-eul geoyeyo"
+      },
+      {
+        "origin": "It's ok.",
+        "target": "괜찮아요",
+        "category": 5,
+        "pronunciation": "gwaenchanh-ayo"
+      },
+      {
+        "origin": "It's on 7th street.",
+        "target": "칠번가에 있어요",
+        "category": 5,
+        "pronunciation": "chilbeonga-e iss-eoyo"
+      },
+      {
+        "origin": "It's really hot.",
+        "target": "정말 더워요",
+        "category": 5,
+        "pronunciation": "jeongmal deowoyo"
+      },
+      {
+        "origin": "It's suppose to rain tomorrow.",
+        "target": "내일 비가 와요",
+        "category": 5,
+        "pronunciation": "naeil biga wayo"
+      },
+      {
+        "origin": "I was going to the library.",
+        "target": "도서관에 가려고 했어요",
+        "category": 5,
+        "pronunciation": "doseogwan-e galyeogo haess-eoyo"
+      },
+      {
+        "origin": "I was in the library.",
+        "target": "도서관에 있었어요",
+        "category": 5,
+        "pronunciation": "doseogwan-e iss-eoss-eoyo"
+      },
+      {
+        "origin": "Let's go.",
+        "target": "갑시다",
+        "category": 5,
+        "pronunciation": "gabsida"
+      },
+      {
+        "origin": "Maybe.",
+        "target": "아마도",
+        "category": 5,
+        "pronunciation": "amado"
+      },
+      {
+        "origin": "More than 200 miles.",
+        "target": "이백마일 보다 더 많이",
+        "category": 5,
+        "pronunciation": "ibaegmail boda deo manh-i"
+      },
+      {
+        "origin": "My house is close to the bank.",
+        "target": "우리 집은 은행에서 가까워요",
+        "category": 5,
+        "pronunciation": "uli jib-eun eunhaeng-eseo gakkawoyo"
+      },
+      {
+        "origin": "Near the bank.",
+        "target": "은행 근처",
+        "category": 5,
+        "pronunciation": "eunhaeng geuncheo"
+      },
+      {
+        "origin": "On the left.",
+        "target": "왼쪽에",
+        "category": 5,
+        "pronunciation": "oenjjog-e"
+      },
+      {
+        "origin": "On the right.",
+        "target": "오른쪽에",
+        "category": 5,
+        "pronunciation": "oleunjjog-e"
+      },
+      {
+        "origin": "On the second floor.",
+        "target": "이층에",
+        "category": 5,
+        "pronunciation": "icheung-e"
+      },
+      {
+        "origin": "Outside the hotel.",
+        "target": "호텔 밖",
+        "category": 5,
+        "pronunciation": "hotel bakk"
+      },
+      {
+        "origin": "Over here.",
+        "target": "여기요",
+        "category": 5,
+        "pronunciation": "yeogiyo"
+      },
+      {
+        "origin": "Over there.",
+        "target": "저기요",
+        "category": 5,
+        "pronunciation": "jeogiyo"
+      },
+      {
+        "origin": "The book is behind the table.",
+        "target": "이 책은 탁자 뒤에 있어요",
+        "category": 5,
+        "pronunciation": "i chaeg-eun tagja dwie iss-eoyo"
+      },
+      {
+        "origin": "The book is in front of the table.",
+        "target": "이 책은 탁자 앞에 있어요",
+        "category": 5,
+        "pronunciation": "i chaeg-eun tagja ap-e iss-eoyo"
+      },
+      {
+        "origin": "The book is near the table.",
+        "target": "이 책은 탁자 근처에 있어요",
+        "category": 5,
+        "pronunciation": "i chaeg-eun tagja geuncheoe iss-eoyo"
+      },
+      {
+        "origin": "The book is next to the table.",
+        "target": "이 책은 탁자 옆에 있어요",
+        "category": 5,
+        "pronunciation": "i chaeg-eun tagja yeop-e iss-eoyo"
+      },
+      {
+        "origin": "The book is on top of the table.",
+        "target": "이 책은 테이블 위에 있어요",
+        "category": 5,
+        "pronunciation": "i chaeg-eun teibeul wie iss-eoyo"
+      },
+      {
+        "origin": "There are some books on the table.",
+        "target": "탁자에 책이 있어요",
+        "category": 5,
+        "pronunciation": "tagja-e chaeg-i iss-eoyo"
+      },
+      {
+        "origin": "There's a book under the table.",
+        "target": "책이 탁자 밑에 있어요",
+        "category": 5,
+        "pronunciation": "chaeg-i tagja mit-e iss-eoyo"
+      },
+      {
+        "origin": "We're from California.",
+        "target": "캘리포니아에서 왔어요",
+        "category": 5,
+        "pronunciation": "kaelliponia-eseo wass-eoyo"
+      },
+      {
+        "origin": "What's the address?",
+        "target": "주소가 뭐예요?",
+        "category": 5,
+        "pronunciation": "jusoga mwoyeyo?"
+      },
+      {
+        "origin": "Where are you going?",
+        "target": "어디 가세요?",
+        "category": 5,
+        "pronunciation": "eodi gaseyo?"
+      },
+      {
+        "origin": "Where is it?",
+        "target": "그게 어디에 있어요?",
+        "category": 5,
+        "pronunciation": "geuge eodie iss-eoyo?"
+      },
+      {
+        "origin": "Where would you like to go?",
+        "target": "어디에 가고 싶어요?",
+        "category": 5,
+        "pronunciation": "eodie gago sip-eoyo?"
+      },
+      {
+        "origin": "Who won?",
+        "target": "누가 이겼어요?",
+        "category": 5,
+        "pronunciation": "nuga igyeoss-eoyo?"
+      },
+      {
+        "origin": "Can I see your passport please?",
+        "target": "여권 좀 보여 주세요",
+        "category": 6,
+        "pronunciation": "yeogwon jom boyeo juseyo"
+      },
+      {
+        "origin": "Can I take a message?",
+        "target": "메세지 전해 드릴까요?",
+        "category": 6,
+        "pronunciation": "meseji jeonhae deulilkkayo?"
+      },
+      {
+        "origin": "Can I try it on?",
+        "target": "입어 보아도 돼요?",
+        "category": 6,
+        "pronunciation": "ib-eo boado dwaeyo?"
+      },
+      {
+        "origin": "Can we sit over there?",
+        "target": "저기 앉아도 돼요?",
+        "category": 6,
+        "pronunciation": "jeogi anj-ado dwaeyo?"
+      },
+      {
+        "origin": "Did you come with your family?",
+        "target": "가족과 같이 왔어요",
+        "category": 6,
+        "pronunciation": "gajoggwa gat-i wass-eoyo"
+      },
+      {
+        "origin": "Do you think it's possible?",
+        "target": "가능 하다고 생각해요?",
+        "category": 6,
+        "pronunciation": "ganeung hadago saeng-gaghaeyo?"
+      },
+      {
+        "origin": "Here's my number.",
+        "target": "여기 제 전화 번호 있습니다.",
+        "category": 6,
+        "pronunciation": "yeogi je jeonhwa beonho issseubnida."
+      },
+      {
+        "origin": "He's not in right now.",
+        "target": "그는 지금 집에 없어요",
+        "category": 6,
+        "pronunciation": "geuneun jigeum jib-e eobs-eoyo"
+      },
+      {
+        "origin": "Hi, is Mrs. Smith there, please?",
+        "target": "스미스부인 계세요?",
+        "category": 6,
+        "pronunciation": "seumiseubu-in gyeseyo?"
+      },
+      {
+        "origin": "I'd like some water too, please.",
+        "target": "물 좀 주세요",
+        "category": 6,
+        "pronunciation": "mul jom juseyo"
+      },
+      {
+        "origin": "I'd like to buy a bottle of water, please.",
+        "target": "물 한병 사고 싶어요",
+        "category": 6,
+        "pronunciation": "mul hanbyeong sago sip-eoyo"
+      },
+      {
+        "origin": "I'd like to buy something.",
+        "target": "뭐 좀 사고 싶어요",
+        "category": 6,
+        "pronunciation": "mwo jom sago sip-eoyo"
+      },
+      {
+        "origin": "I'd like to go to the store.",
+        "target": "가게에 가고 싶어요",
+        "category": 6,
+        "pronunciation": "gagee gago sip-eoyo"
+      },
+      {
+        "origin": "I'd like to rent a car.",
+        "target": "차를 빌리고 싶어요",
+        "category": 6,
+        "pronunciation": "chaleul billigo sip-eoyo"
+      },
+      {
+        "origin": "I'd like to send a fax.",
+        "target": "팩스 보내고 싶어요",
+        "category": 6,
+        "pronunciation": "paegseu bonaego sip-eoyo"
+      },
+      {
+        "origin": "I'd like to send this to America.",
+        "target": "이것을 미국에 보내고 싶어요",
+        "category": 6,
+        "pronunciation": "igeos-eul migug-e bonaego sip-eoyo"
+      },
+      {
+        "origin": "I'd like to speak to Mr. Smith please.",
+        "target": "스미스씨 좀 바꾸어 주세요",
+        "category": 6,
+        "pronunciation": "seumiseussi jom bakkueo juseyo"
+      },
+      {
+        "origin": "I have three children, two girls and one boy.",
+        "target": "아이가 세명이에요. 딸 둘 아들 하나",
+        "category": 6,
+        "pronunciation": "aiga semyeong-ieyo. ttal dul adeul hana"
+      },
+      {
+        "origin": "I'll be right back.",
+        "target": "곧 돌아 돌게요",
+        "category": 6,
+        "pronunciation": "god dol-a dolgeyo"
+      },
+      {
+        "origin": "I'll call back later.",
+        "target": "나중에 전화 할게요",
+        "category": 6,
+        "pronunciation": "najung-e jeonhwa halgeyo"
+      },
+      {
+        "origin": "I'll call you on Friday.",
+        "target": "금요일에 전화할게요",
+        "category": 6,
+        "pronunciation": "geum-yoil-e jeonhwahalgeyo"
+      },
+      {
+        "origin": "I'll teach you.",
+        "target": "가르쳐드릴게요",
+        "category": 6,
+        "pronunciation": "galeuchyeodeulilgeyo"
+      },
+      {
+        "origin": "I'm ok.",
+        "target": "괜찮아요",
+        "category": 6,
+        "pronunciation": "gwaenchanh-ayo"
+      },
+      {
+        "origin": "I need some tissues.",
+        "target": "휴지가 필요해요",
+        "category": 6,
+        "pronunciation": "hyujiga pil-yohaeyo"
+      },
+      {
+        "origin": "Is there an English speaking guide?",
+        "target": "영어 할 줄 아는 가이드가 있어요?",
+        "category": 6,
+        "pronunciation": "yeong-eo hal jul aneun gaideuga iss-eoyo?"
+      },
+      {
+        "origin": "I want to give you a gift.",
+        "target": "당신에게 선물을 주고 싶어요",
+        "category": 6,
+        "pronunciation": "dangsin-ege seonmul-eul jugo sip-eoyo"
+      },
+      {
+        "origin": "Male or female?",
+        "target": "여자 아니면 남자",
+        "category": 6,
+        "pronunciation": "yeoja animyeon namja"
+      },
+      {
+        "origin": "My cell phone doesn't have good reception.",
+        "target": "내 휴대폰이 송신이 안 좋아요",
+        "category": 6,
+        "pronunciation": "nae hyudaepon-i songsin-i an joh-ayo"
+      },
+      {
+        "origin": "My cell phone doesn't work.",
+        "target": "내 휴대폰이 고장이 났어요",
+        "category": 6,
+        "pronunciation": "nae hyudaepon-i gojang-i nass-eoyo"
+      },
+      {
+        "origin": "Please take off your shoes.",
+        "target": "신발을 벗으세요",
+        "category": 6,
+        "pronunciation": "sinbal-eul beos-euseyo"
+      },
+      {
+        "origin": "Sorry, I think I have the wrong number.",
+        "target": "미안하지만 전화 잘 못 했어요",
+        "category": 6,
+        "pronunciation": "mianhajiman jeonhwa jal mos haess-eoyo"
+      },
+      {
+        "origin": "What is the area code?",
+        "target": "지역 번호가 뭐예요?",
+        "category": 6,
+        "pronunciation": "jiyeog beonhoga mwoyeyo?"
+      },
+      {
+        "origin": "What's the name of the company you work for?",
+        "target": "지금 일하시는 회사 이름이 뭐예요?",
+        "category": 6,
+        "pronunciation": "jigeum ilhasineun hoesa ileum-i mwoyeyo?"
+      },
+      {
+        "origin": "What's wrong?",
+        "target": "뭐가 잘못 되었어요?",
+        "category": 6,
+        "pronunciation": "mwoga jalmos doeeoss-eoyo?"
+      },
+      {
+        "origin": "What's your address?",
+        "target": "주소가 뭐예요?",
+        "category": 6,
+        "pronunciation": "jusoga mwoyeyo?"
+      },
+      {
+        "origin": "Where can I find a hospital?",
+        "target": "어디서 병원을 찾을 수 있어요?",
+        "category": 6,
+        "pronunciation": "eodiseo byeong-won-eul chaj-eul su iss-eoyo?"
+      },
+      {
+        "origin": "Where's the closest restaurant?",
+        "target": "가까운 식당이 어디에 있어요?",
+        "category": 6,
+        "pronunciation": "gakkaun sigdang-i eodie iss-eoyo?"
+      },
+      {
+        "origin": "Where's the pharmacy?",
+        "target": "약국이 어디 있어요?",
+        "category": 6,
+        "pronunciation": "yaggug-i eodi iss-eoyo?"
+      },
+      {
+        "origin": "Who are you?",
+        "target": "누구세요?",
+        "category": 6,
+        "pronunciation": "nuguseyo?"
+      },
+      {
+        "origin": "Who is that?",
+        "target": "누구세요?",
+        "category": 6,
+        "pronunciation": "nuguseyo?"
+      },
+      {
+        "origin": "Who would you like to speak to?",
+        "target": "누구 하고 통화하고 싶어요?",
+        "category": 6,
+        "pronunciation": "nugu hago tonghwahago sip-eoyo?"
+      },
+      {
+        "origin": "Will you take me home?",
+        "target": "집에 데려다 주세요",
+        "category": 6,
+        "pronunciation": "jib-e delyeoda juseyo"
+      },
+      {
+        "origin": "Would you like water or milk?",
+        "target": "우유 아니면 물 드시겠어요?",
+        "category": 6,
+        "pronunciation": "uyu animyeon mul deusigess-eoyo?"
+      },
+      {
+        "origin": "11 days ago.",
+        "target": "십일일 전",
+        "category": 7,
+        "pronunciation": "sib-il-il jeon"
+      },
+      {
+        "origin": "2 hours.",
+        "target": "두 시간",
+        "category": 7,
+        "pronunciation": "du sigan"
+      },
+      {
+        "origin": "All day.",
+        "target": "하루 종일",
+        "category": 7,
+        "pronunciation": "halu jong-il"
+      },
+      {
+        "origin": "A long time ago.",
+        "target": "오래 전에",
+        "category": 7,
+        "pronunciation": "olae jeon-e"
+      },
+      {
+        "origin": "Are they coming this evening?",
+        "target": "그들이 오늘 저녁에 와요?",
+        "category": 7,
+        "pronunciation": "geudeul-i oneul jeonyeog-e wayo?"
+      },
+      {
+        "origin": "Are you comfortable?",
+        "target": "편하세요?",
+        "category": 7,
+        "pronunciation": "pyeonhaseyo?"
+      },
+      {
+        "origin": "Are your children with you?",
+        "target": "지금 아이들과 있어요?",
+        "category": 7,
+        "pronunciation": "jigeum aideulgwa iss-eoyo?"
+      },
+      {
+        "origin": "As soon as possible.",
+        "target": "빠르면 빠를 수록",
+        "category": 7,
+        "pronunciation": "ppaleumyeon ppaleul sulog"
+      },
+      {
+        "origin": "At 3 o'clock in the afternoon.",
+        "target": "오후 세시",
+        "category": 7,
+        "pronunciation": "ohu sesi"
+      },
+      {
+        "origin": "At 5th street.",
+        "target": "오번 가",
+        "category": 7,
+        "pronunciation": "obeon ga"
+      },
+      {
+        "origin": "At 7 o'clock at night. (evening)?",
+        "target": "저녁 일곱시",
+        "category": 7,
+        "pronunciation": "jeonyeog ilgobsi"
+      },
+      {
+        "origin": "At 7 o'clock in the morning.",
+        "target": "아침 일곱시",
+        "category": 7,
+        "pronunciation": "achim ilgobsi"
+      },
+      {
+        "origin": "At what time did it happen?",
+        "target": "몇시에 그 일이 발생했어요?",
+        "category": 7,
+        "pronunciation": "myeochsie geu il-i balsaenghaess-eoyo?"
+      },
+      {
+        "origin": "Can I help you?",
+        "target": "도와 드릴까요?",
+        "category": 7,
+        "pronunciation": "dowa deulilkkayo?"
+      },
+      {
+        "origin": "Do you have a swimming pool?",
+        "target": "수영장 있어요?",
+        "category": 7,
+        "pronunciation": "suyeongjang iss-eoyo?"
+      },
+      {
+        "origin": "Do you have this in size 11?",
+        "target": "11 사이즈로 이거 있어요?",
+        "category": 7,
+        "pronunciation": "11 saijeulo igeo iss-eoyo?"
+      },
+      {
+        "origin": "Do you think you'll be back by 11:30?",
+        "target": "내일 열한시 반까지 올 수 있을 것 같아요?",
+        "category": 7,
+        "pronunciation": "naeil yeolhansi bankkaji ol su iss-eul geos gat-ayo?"
+      },
+      {
+        "origin": "Everyday I get up at 6AM.",
+        "target": "매일 나는 여섯시에 일어나요",
+        "category": 7,
+        "pronunciation": "maeil naneun yeoseos-sie il-eonayo"
+      },
+      {
+        "origin": "Every week.",
+        "target": "매주",
+        "category": 7,
+        "pronunciation": "maeju"
+      },
+      {
+        "origin": "Expiration date.",
+        "target": "유효기간",
+        "category": 7,
+        "pronunciation": "yuhyogigan"
+      },
+      {
+        "origin": "Have you been waiting long?",
+        "target": "오래 기다렸어요?",
+        "category": 7,
+        "pronunciation": "olae gidalyeoss-eoyo?"
+      },
+      {
+        "origin": "He'll be back in 20 minutes.",
+        "target": "그는 20분후에 돌아 올거예요",
+        "category": 7,
+        "pronunciation": "geuneun 20bunhue dol-a olgeoyeyo"
+      },
+      {
+        "origin": "His family is coming tomorrow.",
+        "target": "그의 가족이 내일 와요",
+        "category": 7,
+        "pronunciation": "geuui gajog-i naeil wayo"
+      },
+      {
+        "origin": "How about Saturday?",
+        "target": "토요일 어때요?",
+        "category": 7,
+        "pronunciation": "toyoil eottaeyo?"
+      },
+      {
+        "origin": "How long are you going to stay?",
+        "target": "얼마나 머무실거예요?",
+        "category": 7,
+        "pronunciation": "eolmana meomusilgeoyeyo?"
+      },
+      {
+        "origin": "How long are you going to stay in California?",
+        "target": "캘리포니아에서 얼마나 머물거예요?",
+        "category": 7,
+        "pronunciation": "kaelliponia-eseo eolmana meomulgeoyeyo?"
+      },
+      {
+        "origin": "How long will it take?",
+        "target": "얼마나 걸려요?",
+        "category": 7,
+        "pronunciation": "eolmana geollyeoyo?"
+      },
+      {
+        "origin": "How much altogether?",
+        "target": "전부다 얼마?",
+        "category": 7,
+        "pronunciation": "jeonbuda eolma?"
+      },
+      {
+        "origin": "How much will it cost?",
+        "target": "얼마나 돈이 들까요?",
+        "category": 7,
+        "pronunciation": "eolmana don-i deulkkayo?"
+      },
+      {
+        "origin": "I don't have enough money.",
+        "target": "돈이 충분히 없어요",
+        "category": 7,
+        "pronunciation": "don-i chungbunhi eobs-eoyo"
+      },
+      {
+        "origin": "I'm getting ready to go out.",
+        "target": "밖에 나갈 준비를 하고 있어요",
+        "category": 7,
+        "pronunciation": "bakk-e nagal junbileul hago iss-eoyo"
+      },
+      {
+        "origin": "I'm just looking. (Shopping)",
+        "target": "그냥 구경하고 있어요",
+        "category": 7,
+        "pronunciation": "geunyang gugyeonghago iss-eoyo"
+      },
+      {
+        "origin": "I'm worried too.",
+        "target": "저도 걱정이 되어요",
+        "category": 7,
+        "pronunciation": "jeodo geogjeong-i doeeoyo"
+      },
+      {
+        "origin": "It'll be cold this evening.",
+        "target": "오늘 저녁에 추울거예요",
+        "category": 7,
+        "pronunciation": "oneul jeonyeog-e chuulgeoyeyo"
+      },
+      {
+        "origin": "It rained very hard today.",
+        "target": "오늘 비가 많이 왔어요",
+        "category": 7,
+        "pronunciation": "oneul biga manh-i wass-eoyo"
+      },
+      {
+        "origin": "It's 17 dollars.",
+        "target": "십칠불 이에요",
+        "category": 7,
+        "pronunciation": "sibchilbul ieyo"
+      },
+      {
+        "origin": "It's 6AM.",
+        "target": "오전 여섯시예요",
+        "category": 7,
+        "pronunciation": "ojeon yeoseos-siyeyo"
+      },
+      {
+        "origin": "It's 8:45.",
+        "target": "여덟시 사십오분이에요",
+        "category": 7,
+        "pronunciation": "yeodeolbsi sasib-obun-ieyo"
+      },
+      {
+        "origin": "It's a quarter to 7.",
+        "target": "일곱시 십 오분 전이에요",
+        "category": 7,
+        "pronunciation": "ilgobsi sib obun jeon-ieyo"
+      },
+      {
+        "origin": "It's going to snow today.",
+        "target": "오늘 눈이 올거예요",
+        "category": 7,
+        "pronunciation": "oneul nun-i olgeoyeyo"
+      },
+      {
+        "origin": "It's here.",
+        "target": "여기예요",
+        "category": 7,
+        "pronunciation": "yeogiyeyo"
+      },
+      {
+        "origin": "It's there.",
+        "target": "거기에요",
+        "category": 7,
+        "pronunciation": "geogieyo"
+      },
+      {
+        "origin": "I've already seen it.",
+        "target": "벌써 보았어요",
+        "category": 7,
+        "pronunciation": "beolsseo boass-eoyo"
+      },
+      {
+        "origin": "John is going on vacation tomorrow.",
+        "target": "존은 내일 휴가에 가요",
+        "category": 7,
+        "pronunciation": "jon-eun naeil hyuga-e gayo"
+      },
+      {
+        "origin": "My birthday is August 27th.",
+        "target": "내 생일은 팔월 이십필일이에요",
+        "category": 7,
+        "pronunciation": "nae saeng-il-eun pal-wol isibpil-il-ieyo"
+      },
+      {
+        "origin": "Now or later?",
+        "target": "지금아니면 나중에",
+        "category": 7,
+        "pronunciation": "jigeum-animyeon najung-e"
+      },
+      {
+        "origin": "October 22nd.",
+        "target": "시월 이십이일",
+        "category": 7,
+        "pronunciation": "siwol isib-iil"
+      },
+      {
+        "origin": "She wants to know when you're coming.",
+        "target": "당신이 언제 오는지 알고 싶어해요",
+        "category": 7,
+        "pronunciation": "dangsin-i eonje oneunji algo sip-eohaeyo"
+      },
+      {
+        "origin": "Sometimes I go to sleep at 11PM, sometimes at 11:30PM.",
+        "target": "어떤 때는 오후 11시 어떤 때는 11시 반에 자요",
+        "category": 7,
+        "pronunciation": "eotteon ttaeneun ohu 11si eotteon ttaeneun 11si ban-e jayo"
+      },
+      {
+        "origin": "There's plenty of time.",
+        "target": "시간이 많아요",
+        "category": 7,
+        "pronunciation": "sigan-i manh-ayo"
+      },
+      {
+        "origin": "The whole day.",
+        "target": "하루종일",
+        "category": 7,
+        "pronunciation": "halujong-il"
+      },
+      {
+        "origin": "We're late.",
+        "target": "늦었어요",
+        "category": 7,
+        "pronunciation": "neuj-eoss-eoyo"
+      },
+      {
+        "origin": "What day are they coming over?",
+        "target": "그들이 언제 와요?",
+        "category": 7,
+        "pronunciation": "geudeul-i eonje wayo?"
+      },
+      {
+        "origin": "What day of the week is it?",
+        "target": "오늘이 무슨 요일이에요?",
+        "category": 7,
+        "pronunciation": "oneul-i museun yoil-ieyo?"
+      },
+      {
+        "origin": "What is today's date?",
+        "target": "오늘 며칠이에요?",
+        "category": 7,
+        "pronunciation": "oneul myeochil-ieyo?"
+      },
+      {
+        "origin": "What's your religion?",
+        "target": "종교가 뭐예요?",
+        "category": 7,
+        "pronunciation": "jong-gyoga mwoyeyo?"
+      },
+      {
+        "origin": "What time are they arriving?",
+        "target": "그들이 언제 도착해요?",
+        "category": 7,
+        "pronunciation": "geudeul-i eonje dochaghaeyo?"
+      },
+      {
+        "origin": "What time did you get up?",
+        "target": "몇시에 일어났어요?",
+        "category": 7,
+        "pronunciation": "myeochsie il-eonass-eoyo?"
+      },
+      {
+        "origin": "What time did you go to sleep?",
+        "target": "몇시에 잤어요?",
+        "category": 7,
+        "pronunciation": "myeochsie jass-eoyo?"
+      },
+      {
+        "origin": "What time did you wake up?",
+        "target": "몇시에 일어났어요?",
+        "category": 7,
+        "pronunciation": "myeochsie il-eonass-eoyo?"
+      },
+      {
+        "origin": "What time does it start?",
+        "target": "몇시에 시작해요?",
+        "category": 7,
+        "pronunciation": "myeochsie sijaghaeyo?"
+      },
+      {
+        "origin": "What time do you think you'll arrive?",
+        "target": "몇시에 도착할거 같아요?",
+        "category": 7,
+        "pronunciation": "myeochsie dochaghalgeo gat-ayo?"
+      },
+      {
+        "origin": "What time is it?",
+        "target": "지금 몇시예요?",
+        "category": 7,
+        "pronunciation": "jigeum myeochsiyeyo?"
+      },
+      {
+        "origin": "When are they coming?",
+        "target": "언제 그들이 와요?",
+        "category": 7,
+        "pronunciation": "eonje geudeul-i wayo?"
+      },
+      {
+        "origin": "When are you coming back?",
+        "target": "언제 돌아 오실거예요?",
+        "category": 7,
+        "pronunciation": "eonje dol-a osilgeoyeyo?"
+      },
+      {
+        "origin": "When are you going to pick up your friend?",
+        "target": "친구 데리러 언제 가실거예요?",
+        "category": 7,
+        "pronunciation": "chingu delileo eonje gasilgeoyeyo?"
+      },
+      {
+        "origin": "When are you leaving?",
+        "target": "언제 떠날 거예요?",
+        "category": 7,
+        "pronunciation": "eonje tteonal geoyeyo?"
+      },
+      {
+        "origin": "When are you moving?",
+        "target": "언제 이사하세요?",
+        "category": 7,
+        "pronunciation": "eonje isahaseyo?"
+      },
+      {
+        "origin": "When is the next bus to Philidalphia?",
+        "target": "언제 다음 필라델피아 행 버스가 있어요?",
+        "category": 7,
+        "pronunciation": "eonje da-eum pilladelpia haeng beoseuga iss-eoyo?"
+      },
+      {
+        "origin": "When is your birthday?",
+        "target": "생일이 언제예요?",
+        "category": 7,
+        "pronunciation": "saeng-il-i eonjeyeyo?"
+      },
+      {
+        "origin": "When I went to the store, they didn't have any apples.",
+        "target": "내가 가게에 갔을 때 사과가 없었어요",
+        "category": 7,
+        "pronunciation": "naega gagee gass-eul ttae sagwaga eobs-eoss-eoyo"
+      },
+      {
+        "origin": "When was the last time you talked to your mother?",
+        "target": "언제 마지막으로 어머니와 이야기 했어요?",
+        "category": 7,
+        "pronunciation": "eonje majimag-eulo eomeoniwa iyagi haess-eoyo?"
+      },
+      {
+        "origin": "When will he be back?",
+        "target": "언제 그가 돌아와요?",
+        "category": 7,
+        "pronunciation": "eonje geuga dol-awayo?"
+      },
+      {
+        "origin": "When will it be ready?",
+        "target": "언제 그게 준비가 되어요?",
+        "category": 7,
+        "pronunciation": "eonje geuge junbiga doeeoyo?"
+      },
+      {
+        "origin": "Where are you going to go?",
+        "target": "어디에 가실거예요?",
+        "category": 7,
+        "pronunciation": "eodie gasilgeoyeyo?"
+      },
+      {
+        "origin": "Are you busy?",
+        "target": "바빠요?",
+        "category": 8,
+        "pronunciation": "bappayo?"
+      },
+      {
+        "origin": "Can we have some more bread please?",
+        "target": "빵 좀 더 주세요",
+        "category": 8,
+        "pronunciation": "ppang jom deo juseyo"
+      },
+      {
+        "origin": "Do you have any money?",
+        "target": "돈 있어요?",
+        "category": 8,
+        "pronunciation": "don iss-eoyo?"
+      },
+      {
+        "origin": "For how many nights?",
+        "target": "며칠 동안",
+        "category": 8,
+        "pronunciation": "myeochil dong-an"
+      },
+      {
+        "origin": "How long will you be staying?",
+        "target": "얼마나 머무실거예요?",
+        "category": 8,
+        "pronunciation": "eolmana meomusilgeoyeyo?"
+      },
+      {
+        "origin": "I'd like a map of the city.",
+        "target": "이 도시 지도 주세요",
+        "category": 8,
+        "pronunciation": "i dosi jido juseyo"
+      },
+      {
+        "origin": "I'd like a non-smoking room.",
+        "target": "금연 방을 주세요",
+        "category": 8,
+        "pronunciation": "geum-yeon bang-eul juseyo"
+      },
+      {
+        "origin": "I'd like a room.",
+        "target": "방 하나 주세요",
+        "category": 8,
+        "pronunciation": "bang hana juseyo"
+      },
+      {
+        "origin": "I'd like a room with two beds please.",
+        "target": "침대가 두개 있는 방을 주세요",
+        "category": 8,
+        "pronunciation": "chimdaega dugae issneun bang-eul juseyo"
+      },
+      {
+        "origin": "I need a doctor.",
+        "target": "의사가 필요해요",
+        "category": 8,
+        "pronunciation": "uisaga pil-yohaeyo"
+      },
+      {
+        "origin": "Is there a nightclub in town?",
+        "target": "이 마을에 나이트 클럽이 있어요?",
+        "category": 8,
+        "pronunciation": "i ma-eul-e naiteu keulleob-i iss-eoyo?"
+      },
+      {
+        "origin": "Is there a restaurant in the hotel?",
+        "target": "호텔 안에 식당이 있어요?",
+        "category": 8,
+        "pronunciation": "hotel an-e sigdang-i iss-eoyo?"
+      },
+      {
+        "origin": "Is there a store near here?",
+        "target": "여기 근처에 가게가 있어요?",
+        "category": 8,
+        "pronunciation": "yeogi geuncheoe gagega iss-eoyo?"
+      },
+      {
+        "origin": "Sorry, we don't have any vacancies.",
+        "target": "미안하지만 자리가 없어요",
+        "category": 8,
+        "pronunciation": "mianhajiman jaliga eobs-eoyo"
+      },
+      {
+        "origin": "Take me to the Marriott Hotel.",
+        "target": "메리어트 호텔에 데려다 주세요",
+        "category": 8,
+        "pronunciation": "melieoteu hotel-e delyeoda juseyo"
+      },
+      {
+        "origin": "What's the charge per night? (Hotel)",
+        "target": "하루 밤에 얼마예요?",
+        "category": 8,
+        "pronunciation": "halu bam-e eolmayeyo?"
+      },
+      {
+        "origin": "What time is check out?",
+        "target": "몇시가 체크아웃 시간이에요?",
+        "category": 8,
+        "pronunciation": "myeochsiga chekeuaus sigan-ieyo?"
+      },
+      {
+        "origin": "Where is the airport?",
+        "target": "공항이 어디에 있어요?",
+        "category": 8,
+        "pronunciation": "gonghang-i eodie iss-eoyo?"
+      },
+      {
+        "origin": "Where's the mail box?",
+        "target": "우편함이 어디 있어요?",
+        "category": 8,
+        "pronunciation": "upyeonham-i eodi iss-eoyo?"
+      },
+      {
+        "origin": "Are you here alone?",
+        "target": "혼자 왔어요?",
+        "category": 9,
+        "pronunciation": "honja wass-eoyo?"
+      },
+      {
+        "origin": "Can I bring my friend?",
+        "target": "제 친구를 데려와도 돼요?",
+        "category": 9,
+        "pronunciation": "je chinguleul delyeowado dwaeyo?"
+      },
+      {
+        "origin": "Can I have a receipt please?",
+        "target": "영수증 좀 주세요",
+        "category": 9,
+        "pronunciation": "yeongsujeung jom juseyo"
+      },
+      {
+        "origin": "Can it be cheaper?",
+        "target": "더 싸게 해 주세요",
+        "category": 9,
+        "pronunciation": "deo ssage hae juseyo"
+      },
+      {
+        "origin": "Can we have a menu please.",
+        "target": "메뉴 좀 보여 주세요",
+        "category": 9,
+        "pronunciation": "menyu jom boyeo juseyo"
+      },
+      {
+        "origin": "Can you hold this for me?",
+        "target": "이것 좀 잡아 주세요",
+        "category": 9,
+        "pronunciation": "igeos jom jab-a juseyo"
+      },
+      {
+        "origin": "Do you have any children?",
+        "target": "자녀가 있어요?",
+        "category": 9,
+        "pronunciation": "janyeoga iss-eoyo?"
+      },
+      {
+        "origin": "Do you know how much it costs?",
+        "target": "이게 얼마인지 알아요?",
+        "category": 9,
+        "pronunciation": "ige eolmainji al-ayo?"
+      },
+      {
+        "origin": "Have you eaten at that restaurant?",
+        "target": "그 식당에서 먹어 본적 있어요?",
+        "category": 9,
+        "pronunciation": "geu sigdang-eseo meog-eo bonjeog iss-eoyo?"
+      },
+      {
+        "origin": "Have you eaten yet?",
+        "target": "식사했어요?",
+        "category": 9,
+        "pronunciation": "sigsahaess-eoyo?"
+      },
+      {
+        "origin": "Have you ever had Potato soup?",
+        "target": "감자탕 먹어 보았어요?",
+        "category": 9,
+        "pronunciation": "gamjatang meog-eo boass-eoyo?"
+      },
+      {
+        "origin": "He likes juice but he doesn't like milk",
+        "target": "그는 쥬스는 좋아하지만 우유는 별로 좋아하지 않아요",
+        "category": 9,
+        "pronunciation": "geuneun jyuseuneun joh-ahajiman uyuneun byeollo joh-ahaji anh-ayo"
+      },
+      {
+        "origin": "Here is your salad.",
+        "target": "여기 샐러드 있습니다.",
+        "category": 9,
+        "pronunciation": "yeogi saelleodeu issseubnida."
+      },
+      {
+        "origin": "Here's your order.",
+        "target": "여기 주문하신 것 입니다.",
+        "category": 9,
+        "pronunciation": "yeogi jumunhasin geos ibnida."
+      },
+      {
+        "origin": "How does it taste?",
+        "target": "어떤 맛이에요?",
+        "category": 9,
+        "pronunciation": "eotteon mas-ieyo?"
+      },
+      {
+        "origin": "How many people? (restaurant)",
+        "target": "몇 분이세요?",
+        "category": 9,
+        "pronunciation": "myeoch bun-iseyo?"
+      },
+      {
+        "origin": "I agree.",
+        "target": "동의 해요",
+        "category": 9,
+        "pronunciation": "dong-ui haeyo"
+      },
+      {
+        "origin": "I'd like a table near the window.",
+        "target": "창문 옆 자리를 주세요",
+        "category": 9,
+        "pronunciation": "changmun yeop jalileul juseyo"
+      },
+      {
+        "origin": "I'd like to call the United States.",
+        "target": "미국에 전화 하고 싶어요",
+        "category": 9,
+        "pronunciation": "migug-e jeonhwa hago sip-eoyo"
+      },
+      {
+        "origin": "I haven't been there.",
+        "target": "거기에 안 가 보았어요",
+        "category": 9,
+        "pronunciation": "geogie an ga boass-eoyo"
+      },
+      {
+        "origin": "I haven't finished eating.",
+        "target": "아직 다 못 먹었어요",
+        "category": 9,
+        "pronunciation": "ajig da mos meog-eoss-eoyo"
+      },
+      {
+        "origin": "I like it.",
+        "target": "그것을 좋아해요",
+        "category": 9,
+        "pronunciation": "geugeos-eul joh-ahaeyo"
+      },
+      {
+        "origin": "I'll give you a call.",
+        "target": "전화 할게요",
+        "category": 9,
+        "pronunciation": "jeonhwa halgeyo"
+      },
+      {
+        "origin": "I'll have a cup of tea please.",
+        "target": "차 한잔 할게요",
+        "category": 9,
+        "pronunciation": "cha hanjan halgeyo"
+      },
+      {
+        "origin": "I'll have a glass of water please.",
+        "target": "물 한 잔 주세요",
+        "category": 9,
+        "pronunciation": "mul han jan juseyo"
+      },
+      {
+        "origin": "I'm from America.",
+        "target": "미국에서 왔어요",
+        "category": 9,
+        "pronunciation": "migug-eseo wass-eoyo"
+      },
+      {
+        "origin": "I'm going to bed.",
+        "target": "잘 거예요",
+        "category": 9,
+        "pronunciation": "jal geoyeyo"
+      },
+      {
+        "origin": "I'm here on business.",
+        "target": "여기에 일 때문에 왔어요",
+        "category": 9,
+        "pronunciation": "yeogie il ttaemun-e wass-eoyo"
+      },
+      {
+        "origin": "I'm sorry.",
+        "target": "미얀합니다.",
+        "category": 9,
+        "pronunciation": "miyanhabnida."
+      },
+      {
+        "origin": "I only have 5 dollars.",
+        "target": "5불 밖에 없어요",
+        "category": 9,
+        "pronunciation": "5bul bakk-e eobs-eoyo"
+      },
+      {
+        "origin": "I think I need to see a doctor.",
+        "target": "병원에 가야 할 것 같아요",
+        "category": 9,
+        "pronunciation": "byeong-won-e gaya hal geos gat-ayo"
+      },
+      {
+        "origin": "It's August 25th.",
+        "target": "팔월 이십 오일이에요",
+        "category": 9,
+        "pronunciation": "pal-wol isib oil-ieyo"
+      },
+      {
+        "origin": "I understand.",
+        "target": "이해해요",
+        "category": 9,
+        "pronunciation": "ihaehaeyo"
+      },
+      {
+        "origin": "June 3rd.",
+        "target": "유월 삼일",
+        "category": 9,
+        "pronunciation": "yuwol sam-il"
+      },
+      {
+        "origin": "The food was delicious.",
+        "target": "이 음식이 맛이 있어요",
+        "category": 9,
+        "pronunciation": "i eumsig-i mas-i iss-eoyo"
+      },
+      {
+        "origin": "There are some apples in the refrigerator.",
+        "target": "냉장고에 사과가 있어요",
+        "category": 9,
+        "pronunciation": "naengjang-go-e sagwaga iss-eoyo"
+      },
+      {
+        "origin": "There's a restaurant near here.",
+        "target": "여기 근처에 식당이 있어요",
+        "category": 9,
+        "pronunciation": "yeogi geuncheoe sigdang-i iss-eoyo"
+      },
+      {
+        "origin": "There's a restaurant over there, but I don't think it's very good.",
+        "target": "거기에 식당이 있는데 별로 맛이 없어요",
+        "category": 9,
+        "pronunciation": "geogie sigdang-i issneunde byeollo mas-i eobs-eoyo"
+      },
+      {
+        "origin": "Waiter!",
+        "target": "웨이터",
+        "category": 9,
+        "pronunciation": "weiteo"
+      },
+      {
+        "origin": "Waitress!",
+        "target": "웨이트레스",
+        "category": 9,
+        "pronunciation": "weiteuleseu"
+      },
+      {
+        "origin": "We can eat Italian or Chinese food.",
+        "target": "우리는 이태리 음식이나 중국 음식을 먹을 수 있어요",
+        "category": 9,
+        "pronunciation": "ulineun itaeli eumsig-ina jung-gug eumsig-eul meog-eul su iss-eoyo"
+      },
+      {
+        "origin": "We'll have two glasses of water please.",
+        "target": "물 두 잔 좀 주세요",
+        "category": 9,
+        "pronunciation": "mul du jan jom juseyo"
+      },
+      {
+        "origin": "What are you going to have?",
+        "target": "뭘 드실 거예요?",
+        "category": 9,
+        "pronunciation": "mwol deusil geoyeyo?"
+      },
+      {
+        "origin": "What do you recommend?",
+        "target": "뭘 추천 하시겠어요?",
+        "category": 9,
+        "pronunciation": "mwol chucheon hasigess-eoyo?"
+      },
+      {
+        "origin": "What's your email address?",
+        "target": "이메일이 뭐예요?",
+        "category": 9,
+        "pronunciation": "imeil-i mwoyeyo?"
+      },
+      {
+        "origin": "What would you like to drink?",
+        "target": "뭐 마시고 싶어요?",
+        "category": 9,
+        "pronunciation": "mwo masigo sip-eoyo?"
+      },
+      {
+        "origin": "What would you like to eat?",
+        "target": "뭐 드시고 싶어요?",
+        "category": 9,
+        "pronunciation": "mwo deusigo sip-eoyo?"
+      },
+      {
+        "origin": "Where is an ATM?",
+        "target": "현금 인출기가 어디 있어요?",
+        "category": 9,
+        "pronunciation": "hyeongeum inchulgiga eodi iss-eoyo?"
+      },
+      {
+        "origin": "Where is there a doctor who speaks English?",
+        "target": "영어를 할 수 있는 의사가 어디에 있어요?",
+        "category": 9,
+        "pronunciation": "yeong-eoleul hal su issneun uisaga eodie iss-eoyo?"
+      },
+      {
+        "origin": "Which one?",
+        "target": "어떤 것?",
+        "category": 9,
+        "pronunciation": "eotteon geos?"
+      },
+      {
+        "origin": "Would you ask him to come here?",
+        "target": "여기 오라고 이야기 해 주세요",
+        "category": 9,
+        "pronunciation": "yeogi olago iyagi hae juseyo"
+      },
+      {
+        "origin": "Would you like a glass of water?",
+        "target": "물 한 잔 드시겠어요?",
+        "category": 9,
+        "pronunciation": "mul han jan deusigess-eoyo?"
+      },
+      {
+        "origin": "Would you like coffee or tea?",
+        "target": "커피 드시겠어요 아니면 차 드시겠어요?",
+        "category": 9,
+        "pronunciation": "keopi deusigess-eoyo animyeon cha deusigess-eoyo?"
+      },
+      {
+        "origin": "Would you like something to drink?",
+        "target": "뭐 좀 마시겠어요?",
+        "category": 9,
+        "pronunciation": "mwo jom masigess-eoyo?"
+      },
+      {
+        "origin": "Would you like some water?",
+        "target": "물 좀 드시겠어요?",
+        "category": 9,
+        "pronunciation": "mul jom deusigess-eoyo?"
+      },
+      {
+        "origin": "Would you like some wine?",
+        "target": "포도주 한 잔 드세요",
+        "category": 9,
+        "pronunciation": "podoju han jan deuseyo"
+      },
+      {
+        "origin": "Would you like to go for a walk?",
+        "target": "산책 좀 하시겠어요?",
+        "category": 9,
+        "pronunciation": "sanchaeg jom hasigess-eoyo?"
+      },
+      {
+        "origin": "Would you like to watch TV?",
+        "target": "텔레비젼 보시겠어요?",
+        "category": 9,
+        "pronunciation": "tellebijyeon bosigess-eoyo?"
+      },
+      {
+        "origin": "Are you American?",
+        "target": "미국인이세요?",
+        "category": 10,
+        "pronunciation": "migug-in-iseyo?"
+      },
+      {
+        "origin": "Are you coming this evening?",
+        "target": "오늘 저녁에 와요?",
+        "category": 10,
+        "pronunciation": "oneul jeonyeog-e wayo?"
+      },
+      {
+        "origin": "Are you free tonight?",
+        "target": "오늘 저녁에 시간 있어요?",
+        "category": 10,
+        "pronunciation": "oneul jeonyeog-e sigan iss-eoyo?"
+      },
+      {
+        "origin": "Are you going to take a plane or train?",
+        "target": "비행기를 탈거에요 아니면 기차를 탈 거예요?",
+        "category": 10,
+        "pronunciation": "bihaeng-gileul talgeoeyo animyeon gichaleul tal geoyeyo?"
+      },
+      {
+        "origin": "Are you hungry?",
+        "target": "배가 고파요?",
+        "category": 10,
+        "pronunciation": "baega gopayo?"
+      },
+      {
+        "origin": "Are you sure?",
+        "target": "확실해요?",
+        "category": 10,
+        "pronunciation": "hwagsilhaeyo?"
+      },
+      {
+        "origin": "Are you working Tomorrow?",
+        "target": "내일 일해요?",
+        "category": 10,
+        "pronunciation": "naeil ilhaeyo?"
+      },
+      {
+        "origin": "Business is good.",
+        "target": "장사가 잘 돼요",
+        "category": 10,
+        "pronunciation": "jangsaga jal dwaeyo"
+      },
+      {
+        "origin": "Cheers!",
+        "target": "건배",
+        "category": 10,
+        "pronunciation": "geonbae"
+      },
+      {
+        "origin": "Did it snow yesterday?",
+        "target": "어제 눈 왔어요",
+        "category": 10,
+        "pronunciation": "eoje nun wass-eoyo"
+      },
+      {
+        "origin": "Did you get my email?",
+        "target": "이메일 받았어요?",
+        "category": 10,
+        "pronunciation": "imeil bad-ass-eoyo?"
+      },
+      {
+        "origin": "Did you take your medicine?",
+        "target": "약을 먹었어요?",
+        "category": 10,
+        "pronunciation": "yag-eul meog-eoss-eoyo?"
+      },
+      {
+        "origin": "Do you feel better?",
+        "target": "지금 조금 나아지세요?",
+        "category": 10,
+        "pronunciation": "jigeum jogeum naajiseyo?"
+      },
+      {
+        "origin": "Do you go to Florida often?",
+        "target": "플로리다에 자주 가요?",
+        "category": 10,
+        "pronunciation": "peullolida-e jaju gayo?"
+      },
+      {
+        "origin": "Do you have another one?",
+        "target": "또 하나 있어요?",
+        "category": 10,
+        "pronunciation": "tto hana iss-eoyo?"
+      },
+      {
+        "origin": "Do you know where there's a store that sells towels?",
+        "target": "수건을 파는 가게가 어디 있는지 알아요?",
+        "category": 10,
+        "pronunciation": "sugeon-eul paneun gagega eodi issneunji al-ayo?"
+      },
+      {
+        "origin": "Do you like it here?",
+        "target": "여기 좋아요?",
+        "category": 10,
+        "pronunciation": "yeogi joh-ayo?"
+      },
+      {
+        "origin": "Do you like the book?",
+        "target": "그 책이 좋아요?",
+        "category": 10,
+        "pronunciation": "geu chaeg-i joh-ayo?"
+      },
+      {
+        "origin": "Do you need anything?",
+        "target": "필요한 것 없으세요?",
+        "category": 10,
+        "pronunciation": "pil-yohan geos eobs-euseyo?"
+      },
+      {
+        "origin": "Do you play any sports?",
+        "target": "운동 하시는 것 있어요?",
+        "category": 10,
+        "pronunciation": "undong hasineun geos iss-eoyo?"
+      },
+      {
+        "origin": "Do you sell medicine? (store)",
+        "target": "약 팔아요?",
+        "category": 10,
+        "pronunciation": "yag pal-ayo?"
+      },
+      {
+        "origin": "Do you study English?",
+        "target": "영어 공부 해요?",
+        "category": 10,
+        "pronunciation": "yeong-eo gongbu haeyo?"
+      },
+      {
+        "origin": "Do you want to come with me?",
+        "target": "저하고 같이 오고 싶으세요?",
+        "category": 10,
+        "pronunciation": "jeohago gat-i ogo sip-euseyo?"
+      },
+      {
+        "origin": "Do you want to go with me?",
+        "target": "나하고 같이 가고 싶으세요?",
+        "category": 10,
+        "pronunciation": "nahago gat-i gago sip-euseyo?"
+      },
+      {
+        "origin": "Excuse me.",
+        "target": "죄송합니다",
+        "category": 10,
+        "pronunciation": "joesonghabnida"
+      },
+      {
+        "origin": "Give me a call.",
+        "target": "전화 주세요",
+        "category": 10,
+        "pronunciation": "jeonhwa juseyo"
+      },
+      {
+        "origin": "Has your brother been to California?",
+        "target": "남동생이 캘리포니아에 가 본 적이 있어요?",
+        "category": 10,
+        "pronunciation": "namdongsaeng-i kaelliponia-e ga bon jeog-i iss-eoyo?"
+      },
+      {
+        "origin": "Have they met her yet?",
+        "target": "그들이 그녀을 벌써 만났어요?",
+        "category": 10,
+        "pronunciation": "geudeul-i geunyeoeul beolsseo mannass-eoyo?"
+      },
+      {
+        "origin": "Have you done this before?",
+        "target": "그 전에 해본 적 있어요?",
+        "category": 10,
+        "pronunciation": "geu jeon-e haebon jeog iss-eoyo?"
+      },
+      {
+        "origin": "How long have you been here?",
+        "target": "얼마나 오랫동안 있었어요?",
+        "category": 10,
+        "pronunciation": "eolmana olaesdong-an iss-eoss-eoyo?"
+      },
+      {
+        "origin": "How long have you been in America?",
+        "target": "미국에 얼마나 있었어요?",
+        "category": 10,
+        "pronunciation": "migug-e eolmana iss-eoss-eoyo?"
+      },
+      {
+        "origin": "How long have you lived here?",
+        "target": "여기 얼마나 살았어요?",
+        "category": 10,
+        "pronunciation": "yeogi eolmana sal-ass-eoyo?"
+      },
+      {
+        "origin": "How many children do you have?",
+        "target": "자녀가 몇명이에요?",
+        "category": 10,
+        "pronunciation": "janyeoga myeochmyeong-ieyo?"
+      },
+      {
+        "origin": "How many languages do you speak?",
+        "target": "몇 개 국어를 해요?",
+        "category": 10,
+        "pronunciation": "myeoch gae gug-eoleul haeyo?"
+      },
+      {
+        "origin": "How many people do you have in your family?",
+        "target": "가족이 몇 명이에요?",
+        "category": 10,
+        "pronunciation": "gajog-i myeoch myeong-ieyo?"
+      },
+      {
+        "origin": "How much would you like?",
+        "target": "얼마나 드릴까요?",
+        "category": 10,
+        "pronunciation": "eolmana deulilkkayo?"
+      },
+      {
+        "origin": "How old are you?",
+        "target": "몇 살이에요?",
+        "category": 10,
+        "pronunciation": "myeoch sal-ieyo?"
+      },
+      {
+        "origin": "I bought a shirt yesterday.",
+        "target": "어제 새 셔츠를 샀어요",
+        "category": 10,
+        "pronunciation": "eoje sae syeocheuleul sass-eoyo"
+      },
+      {
+        "origin": "I don't feel well.",
+        "target": "잘 안 느껴져요",
+        "category": 10,
+        "pronunciation": "jal an neukkyeojyeoyo"
+      },
+      {
+        "origin": "I have pain in my arm.",
+        "target": "팔이 아파요",
+        "category": 10,
+        "pronunciation": "pal-i apayo"
+      },
+      {
+        "origin": "I have to wash my clothes.",
+        "target": "옷을 빨아햐 해요",
+        "category": 10,
+        "pronunciation": "os-eul ppal-ahya haeyo"
+      },
+      {
+        "origin": "I have two sisters.",
+        "target": "여동생/언니가 두명 있어요",
+        "category": 10,
+        "pronunciation": "yeodongsaeng/eonniga dumyeong iss-eoyo"
+      },
+      {
+        "origin": "I'll tell him you called.",
+        "target": "전화하셨다고 전해드릴게요",
+        "category": 10,
+        "pronunciation": "jeonhwahasyeossdago jeonhaedeulilgeyo"
+      },
+      {
+        "origin": "I'm 32.",
+        "target": "저는 서른 세살이에요",
+        "category": 10,
+        "pronunciation": "jeoneun seoleun sesal-ieyo"
+      },
+      {
+        "origin": "I'm 6'2\".",
+        "target": "육인치 이피트예요",
+        "category": 10,
+        "pronunciation": "yug-inchi ipiteuyeyo"
+      },
+      {
+        "origin": "I'm allergic to seafood.",
+        "target": "해물에 알러지가 있어요",
+        "category": 10,
+        "pronunciation": "haemul-e alleojiga iss-eoyo"
+      },
+      {
+        "origin": "I'm American.",
+        "target": "미국 사람이에요",
+        "category": 10,
+        "pronunciation": "migug salam-ieyo"
+      },
+      {
+        "origin": "I'm a size 8.",
+        "target": "8 사이즈예요",
+        "category": 10,
+        "pronunciation": "8 saijeuyeyo"
+      },
+      {
+        "origin": "I'm fine, and you?",
+        "target": "저는 좋은데 어떠세요?",
+        "category": 10,
+        "pronunciation": "jeoneun joh-eunde eotteoseyo?"
+      },
+      {
+        "origin": "I'm not afraid.",
+        "target": "두렵지 않아요",
+        "category": 10,
+        "pronunciation": "dulyeobji anh-ayo"
+      },
+      {
+        "origin": "I'm sick.",
+        "target": "바빠요",
+        "category": 10,
+        "pronunciation": "bappayo"
+      },
+      {
+        "origin": "I remember.",
+        "target": "기억이 나요",
+        "category": 10,
+        "pronunciation": "gieog-i nayo"
+      },
+      {
+        "origin": "I speak a little English.",
+        "target": "영어를 조금 해요",
+        "category": 10,
+        "pronunciation": "yeong-eoleul jogeum haeyo"
+      },
+      {
+        "origin": "Is your house like this one?",
+        "target": "당신 집이 이것과 비슷해요?",
+        "category": 10,
+        "pronunciation": "dangsin jib-i igeosgwa biseushaeyo?"
+      },
+      {
+        "origin": "Is your husband also from Boston?",
+        "target": "남편도 보스톤에서 왔어요?",
+        "category": 10,
+        "pronunciation": "nampyeondo boseuton-eseo wass-eoyo?"
+      },
+      {
+        "origin": "It's not very expensive.",
+        "target": "그리 비싸지 않아요",
+        "category": 10,
+        "pronunciation": "geuli bissaji anh-ayo"
+      },
+      {
+        "origin": "I've been there.",
+        "target": "거기 가 보았어요.",
+        "category": 10,
+        "pronunciation": "geogi ga boass-eoyo."
+      },
+      {
+        "origin": "Let's share.",
+        "target": "같이 나눕시다",
+        "category": 10,
+        "pronunciation": "gat-i nanubsida"
+      },
+      {
+        "origin": "My daughter is here.",
+        "target": "내 딸이여기 있어요",
+        "category": 10,
+        "pronunciation": "nae ttal-iyeogi iss-eoyo"
+      },
+      {
+        "origin": "My father has been there.",
+        "target": "내 아버지가 여기 있었어요",
+        "category": 10,
+        "pronunciation": "nae abeojiga yeogi iss-eoss-eoyo"
+      },
+      {
+        "origin": "My father is a lawyer.",
+        "target": "내 아버지가 미국인이에요",
+        "category": 10,
+        "pronunciation": "nae abeojiga migug-in-ieyo"
+      },
+      {
+        "origin": "My grandmother passed away last year.",
+        "target": "우리 할아버지가 작년에 돌아가셨어요",
+        "category": 10,
+        "pronunciation": "uli hal-abeojiga jagnyeon-e dol-agasyeoss-eoyo"
+      },
+      {
+        "origin": "My name is John Smith.",
+        "target": "내 이름은 존 스미스예요",
+        "category": 10,
+        "pronunciation": "nae ileum-eun jon seumiseuyeyo"
+      },
+      {
+        "origin": "My son.",
+        "target": "내 아들",
+        "category": 10,
+        "pronunciation": "nae adeul"
+      },
+      {
+        "origin": "My son studies computers.",
+        "target": "내 아들은 컴퓨터를 공부해요",
+        "category": 10,
+        "pronunciation": "nae adeul-eun keompyuteoleul gongbuhaeyo"
+      },
+      {
+        "origin": "No, I'm American.",
+        "target": "아니오, 저는 미국인이에요",
+        "category": 10,
+        "pronunciation": "anio, jeoneun migug-in-ieyo"
+      },
+      {
+        "origin": "No, this is the first time.",
+        "target": "아니오, 이번이 처음이에요",
+        "category": 10,
+        "pronunciation": "anio, ibeon-i cheoeum-ieyo"
+      },
+      {
+        "origin": "Our children are in America.",
+        "target": "내 아이들이 미국에 있어요",
+        "category": 10,
+        "pronunciation": "nae aideul-i migug-e iss-eoyo"
+      },
+      {
+        "origin": "She's an expert.",
+        "target": "그녀는 전문가예요",
+        "category": 10,
+        "pronunciation": "geunyeoneun jeonmungayeyo"
+      },
+      {
+        "origin": "She's older than me.",
+        "target": "그녀는 나보다 나이가 많아요",
+        "category": 10,
+        "pronunciation": "geunyeoneun naboda naiga manh-ayo"
+      },
+      {
+        "origin": "That car is similar to my car.",
+        "target": "이 차는 내 차와 비슷해요",
+        "category": 10,
+        "pronunciation": "i chaneun nae chawa biseushaeyo"
+      },
+      {
+        "origin": "This is Mrs. Smith.",
+        "target": "이 분은 스미스 부인입니다.",
+        "category": 10,
+        "pronunciation": "i bun-eun seumiseu bu-in-ibnida."
+      },
+      {
+        "origin": "This is my mother.",
+        "target": "이분은 우리 어머니입니다.",
+        "category": 10,
+        "pronunciation": "ibun-eun uli eomeoniibnida."
+      },
+      {
+        "origin": "This is the first time I've been here.",
+        "target": "이번이 여기 처음입니다.",
+        "category": 10,
+        "pronunciation": "ibeon-i yeogi cheoeum-ibnida."
+      },
+      {
+        "origin": "We have two boys and one girl.",
+        "target": "우리는 아들 둘과 딸 하나가 있어요",
+        "category": 10,
+        "pronunciation": "ulineun adeul dulgwa ttal hanaga iss-eoyo"
+      },
+      {
+        "origin": "What are you going to do tonight?",
+        "target": "오늘 밤 무엇을 할 거예요?",
+        "category": 10,
+        "pronunciation": "oneul bam mueos-eul hal geoyeyo?"
+      },
+      {
+        "origin": "What are your hobbies?",
+        "target": "취미가 뭐예요?",
+        "category": 10,
+        "pronunciation": "chwimiga mwoyeyo?"
+      },
+      {
+        "origin": "What do you study?",
+        "target": "뭘 공부하세요?",
+        "category": 10,
+        "pronunciation": "mwol gongbuhaseyo?"
+      },
+      {
+        "origin": "What do you want to do?",
+        "target": "뭘 하고 싶어요?",
+        "category": 10,
+        "pronunciation": "mwol hago sip-eoyo?"
+      },
+      {
+        "origin": "What school did you go to?",
+        "target": "어느 학교를 졸업했어요?",
+        "category": 10,
+        "pronunciation": "eoneu haggyoleul jol-eobhaess-eoyo?"
+      },
+      {
+        "origin": "What's your favorite movie?",
+        "target": "가장 좋아하는 영화가 뭐예요?",
+        "category": 10,
+        "pronunciation": "gajang joh-ahaneun yeonghwaga mwoyeyo?"
+      },
+      {
+        "origin": "What's your last name?",
+        "target": "성이 뭐예요?",
+        "category": 10,
+        "pronunciation": "seong-i mwoyeyo?"
+      },
+      {
+        "origin": "What's your name?",
+        "target": "이름이 뭐예요?",
+        "category": 10,
+        "pronunciation": "ileum-i mwoyeyo?"
+      },
+      {
+        "origin": "Where are the t-shirts?",
+        "target": "티셔츠가 어디 있어요?",
+        "category": 10,
+        "pronunciation": "tisyeocheuga eodi iss-eoyo?"
+      },
+      {
+        "origin": "Where did you go?",
+        "target": "어디 갔어요?",
+        "category": 10,
+        "pronunciation": "eodi gass-eoyo?"
+      },
+      {
+        "origin": "Where did you learn English?",
+        "target": "어디서 영어를 배웠어요?",
+        "category": 10,
+        "pronunciation": "eodiseo yeong-eoleul baewoss-eoyo?"
+      },
+      {
+        "origin": "Where did you work before you worked here?",
+        "target": "어기서 일하기 전에 어디서 일했어요?",
+        "category": 10,
+        "pronunciation": "eogiseo ilhagi jeon-e eodiseo ilhaess-eoyo?"
+      },
+      {
+        "origin": "Where do you live?",
+        "target": "어디서 사세요?",
+        "category": 10,
+        "pronunciation": "eodiseo saseyo?"
+      },
+      {
+        "origin": "Where were you?",
+        "target": "어디에 있었어요?",
+        "category": 10,
+        "pronunciation": "eodie iss-eoss-eoyo?"
+      },
+      {
+        "origin": "Who sent this letter?",
+        "target": "이 편지를 누가 보냈어요?",
+        "category": 10,
+        "pronunciation": "i pyeonjileul nuga bonaess-eoyo?"
+      },
+      {
+        "origin": "Would you like to buy this?",
+        "target": "이것 사고 싶으세요?",
+        "category": 10,
+        "pronunciation": "igeos sago sip-euseyo?"
+      },
+      {
+        "origin": "Your children are very well behaved.",
+        "target": "아이들이 아주 교육을 잘 받았어요",
+        "category": 10,
+        "pronunciation": "aideul-i aju gyoyug-eul jal bad-ass-eoyo"
+      },
+      {
+        "origin": "Your daughter.",
+        "target": "당신 딸",
+        "category": 10,
+        "pronunciation": "dangsin ttal"
+      },
+      {
+        "origin": "You're smarter than him.",
+        "target": "당신이 그 사람보다 현명해요",
+        "category": 10,
+        "pronunciation": "dangsin-i geu salamboda hyeonmyeonghaeyo"
+      },
+      {
+        "origin": "You speak English very well.",
+        "target": "영어를 아주 잘 하세요",
+        "category": 10,
+        "pronunciation": "yeong-eoleul aju jal haseyo"
+      },
+      {
+        "origin": "Are there any concerts?",
+        "target": "음악회가 있어요?",
+        "category": 11,
+        "pronunciation": "eum-aghoega iss-eoyo?"
+      },
+      {
+        "origin": "Do you want to go to the movies?",
+        "target": "극장에 같이 가고 싶으세요?",
+        "category": 11,
+        "pronunciation": "geugjang-e gat-i gago sip-euseyo?"
+      },
+      {
+        "origin": "Have you seen this movie?",
+        "target": "이 영화 보았어요?",
+        "category": 11,
+        "pronunciation": "i yeonghwa boass-eoyo?"
+      },
+      {
+        "origin": "He said you like to watch movies.",
+        "target": "그가 그러는데 영화를 좋아하신다면서요",
+        "category": 11,
+        "pronunciation": "geuga geuleoneunde yeonghwaleul joh-ahasindamyeonseoyo"
+      },
+      {
+        "origin": "How tall are you?",
+        "target": "키가 얼마나 커요?",
+        "category": 11,
+        "pronunciation": "kiga eolmana keoyo?"
+      },
+      {
+        "origin": "Is the bank far?",
+        "target": "은행이 멀어요?",
+        "category": 11,
+        "pronunciation": "eunhaeng-i meol-eoyo?"
+      },
+      {
+        "origin": "Is there a movie theater nearby?",
+        "target": "여기 가까운 곳에 극장이 있어요?",
+        "category": 11,
+        "pronunciation": "yeogi gakkaun gos-e geugjang-i iss-eoyo?"
+      },
+      {
+        "origin": "What do people usually do in the summer in Los Angeles?",
+        "target": "엘에이에서는 여름에 주로 사람들이 뭘 해요?",
+        "category": 11,
+        "pronunciation": "el-eieseoneun yeoleum-e julo salamdeul-i mwol haeyo?"
+      },
+      {
+        "origin": "What kind of music do you like?",
+        "target": "무슨 음악을 좋아해요?",
+        "category": 11,
+        "pronunciation": "museun eum-ag-eul joh-ahaeyo?"
+      },
+      {
+        "origin": "What's your favorite food?",
+        "target": "가장 좋아하는 음식이 뭐예요?",
+        "category": 11,
+        "pronunciation": "gajang joh-ahaneun eumsig-i mwoyeyo?"
+      },
+      {
+        "origin": "What time does the movie start?",
+        "target": "몇시에 영화가 시작해요?",
+        "category": 11,
+        "pronunciation": "myeochsie yeonghwaga sijaghaeyo?"
+      },
+      {
+        "origin": "Who was your teacher?",
+        "target": "선생님이 누구셨어요?",
+        "category": 11,
+        "pronunciation": "seonsaengnim-i nugusyeoss-eoyo?"
+      },
+      {
+        "origin": "Would you like to have dinner with me?",
+        "target": "저하고 식사하시겠어요?",
+        "category": 11,
+        "pronunciation": "jeohago sigsahasigess-eoyo?"
+      },
+      {
+        "origin": "Would you like to rent a movie?",
+        "target": "영화 하나 빌리시겠어요?",
+        "category": 11,
+        "pronunciation": "yeonghwa hana billisigess-eoyo?"
+      },
+      {
+        "origin": "Can I have a glass of water please?",
+        "target": "물 한 잔 주세요",
+        "category": 12,
+        "pronunciation": "mul han jan juseyo"
+      },
+      {
+        "origin": "Can I use your phone?",
+        "target": "전화 좀 쓸 수 있어요?",
+        "category": 12,
+        "pronunciation": "jeonhwa jom sseul su iss-eoyo?"
+      },
+      {
+        "origin": "Do you have any vacancies?",
+        "target": "방 있어요?",
+        "category": 12,
+        "pronunciation": "bang iss-eoyo?"
+      },
+      {
+        "origin": "Do you have the number for a taxi?",
+        "target": "택시회사 번호 있어요?",
+        "category": 12,
+        "pronunciation": "taegsihoesa beonho iss-eoyo?"
+      },
+      {
+        "origin": "Do you know her?",
+        "target": "그녀를 알아요?",
+        "category": 12,
+        "pronunciation": "geunyeoleul al-ayo?"
+      },
+      {
+        "origin": "Do you know where she is?",
+        "target": "그녀가 어디 있는지 알아요?",
+        "category": 12,
+        "pronunciation": "geunyeoga eodi issneunji al-ayo?"
+      },
+      {
+        "origin": "Do you play basketball?",
+        "target": "농구 하세요?",
+        "category": 12,
+        "pronunciation": "nong-gu haseyo?"
+      },
+      {
+        "origin": "Fill it up, please. (gas station)",
+        "target": "꽉 채워 주세요",
+        "category": 12,
+        "pronunciation": "kkwag chaewo juseyo"
+      },
+      {
+        "origin": "He needs some new clothes.",
+        "target": "그는 새 옷이 필요해요",
+        "category": 12,
+        "pronunciation": "geuneun sae os-i pil-yohaeyo"
+      },
+      {
+        "origin": "How much is that?",
+        "target": "저게 얼마예요?",
+        "category": 12,
+        "pronunciation": "jeoge eolmayeyo?"
+      },
+      {
+        "origin": "How much is this?",
+        "target": "이게 얼마예요?",
+        "category": 12,
+        "pronunciation": "ige eolmayeyo?"
+      },
+      {
+        "origin": "I believe you.",
+        "target": "당신을 믿어요",
+        "category": 12,
+        "pronunciation": "dangsin-eul mid-eoyo"
+      },
+      {
+        "origin": "I'd like the number for the Hilton Hotel please.",
+        "target": "힐튼 호텔 전화 번호 좀 주세요",
+        "category": 12,
+        "pronunciation": "hilteun hotel jeonhwa beonho jom juseyo"
+      },
+      {
+        "origin": "I'd like to buy a phone card please.",
+        "target": "전화 카드 하나 주세요",
+        "category": 12,
+        "pronunciation": "jeonhwa kadeu hana juseyo"
+      },
+      {
+        "origin": "I'd like to go home.",
+        "target": "집에 가고 싶어요",
+        "category": 12,
+        "pronunciation": "jib-e gago sip-eoyo"
+      },
+      {
+        "origin": "I'd like to go shopping.",
+        "target": "쇼핑가고 싶어요",
+        "category": 12,
+        "pronunciation": "syoping-gago sip-eoyo"
+      },
+      {
+        "origin": "If you like it I can buy more.",
+        "target": "만일 좋으시면 제가 더 살게요",
+        "category": 12,
+        "pronunciation": "man-il joh-eusimyeon jega deo salgeyo"
+      },
+      {
+        "origin": "I'm a beginner.",
+        "target": "초보자예요",
+        "category": 12,
+        "pronunciation": "chobojayeyo"
+      },
+      {
+        "origin": "I'm full.",
+        "target": "배가 불러요",
+        "category": 12,
+        "pronunciation": "baega bulleoyo"
+      },
+      {
+        "origin": "I'm just kidding.",
+        "target": "농담이에요",
+        "category": 12,
+        "pronunciation": "nongdam-ieyo"
+      },
+      {
+        "origin": "I'm single.",
+        "target": "미혼이에요",
+        "category": 12,
+        "pronunciation": "mihon-ieyo"
+      },
+      {
+        "origin": "I speak two languages.",
+        "target": "이 개 국어를 해요",
+        "category": 12,
+        "pronunciation": "i gae gug-eoleul haeyo"
+      },
+      {
+        "origin": "I thought he said something else.",
+        "target": "제 생각에는 그가 다르게 이야기 한 것 같아요",
+        "category": 12,
+        "pronunciation": "je saeng-gag-eneun geuga daleuge iyagi han geos gat-ayo"
+      },
+      {
+        "origin": "It's not too far.",
+        "target": "여기서 멀지 않아요",
+        "category": 12,
+        "pronunciation": "yeogiseo meolji anh-ayo"
+      },
+      {
+        "origin": "I usually drink coffee at breakfast.",
+        "target": "나는 주로 아침에 커피를 마셔요",
+        "category": 12,
+        "pronunciation": "naneun julo achim-e keopileul masyeoyo"
+      },
+      {
+        "origin": "Sorry, we don't have any.",
+        "target": "미안하지만 더 이상 없어요",
+        "category": 12,
+        "pronunciation": "mianhajiman deo isang eobs-eoyo"
+      },
+      {
+        "origin": "The books are expensive.",
+        "target": "이 책은 비싸요",
+        "category": 12,
+        "pronunciation": "i chaeg-eun bissayo"
+      },
+      {
+        "origin": "Try it on.",
+        "target": "입어보세요",
+        "category": 12,
+        "pronunciation": "ib-eoboseyo"
+      },
+      {
+        "origin": "What do you want to buy?",
+        "target": "뭘 사고 싶어요?",
+        "category": 12,
+        "pronunciation": "mwol sago sip-eoyo?"
+      },
+      {
+        "origin": "What size?",
+        "target": "무슨 사이즈를 입어요?",
+        "category": 12,
+        "pronunciation": "museun saijeuleul ib-eoyo?"
+      },
+      {
+        "origin": "What time does the store open?",
+        "target": "몇시에 가게가 문을 열어요?",
+        "category": 12,
+        "pronunciation": "myeochsie gagega mun-eul yeol-eoyo?"
+      },
+      {
+        "origin": "When does the plane arrive?",
+        "target": "언제 비행기가 떠나요?",
+        "category": 12,
+        "pronunciation": "eonje bihaeng-giga tteonayo?"
+      },
+      {
+        "origin": "Where are you?",
+        "target": "어디 있어요?",
+        "category": 12,
+        "pronunciation": "eodi iss-eoyo?"
+      },
+      {
+        "origin": "Would you like something to eat?",
+        "target": "뭐 좀 드시겠어요?",
+        "category": 12,
+        "pronunciation": "mwo jom deusigess-eoyo?"
+      },
+      {
+        "origin": "Am I pronouncing it correctly?",
+        "target": "내가 정확히 발음 하고 있어요?",
+        "category": 13,
+        "pronunciation": "naega jeonghwaghi bal-eum hago iss-eoyo?"
+      },
+      {
+        "origin": "Can you do me a favor?",
+        "target": "부탁 좀 들어 주세요",
+        "category": 13,
+        "pronunciation": "butag jom deul-eo juseyo"
+      },
+      {
+        "origin": "Can you help me?",
+        "target": "도와 주세요",
+        "category": 13,
+        "pronunciation": "dowa juseyo"
+      },
+      {
+        "origin": "Can you please say that again?",
+        "target": "다시 한 번 이야기 해 주세요",
+        "category": 13,
+        "pronunciation": "dasi han beon iyagi hae juseyo"
+      },
+      {
+        "origin": "Can you show me?",
+        "target": "저한테 좀 보여 주세요",
+        "category": 13,
+        "pronunciation": "jeohante jom boyeo juseyo"
+      },
+      {
+        "origin": "Can you throw that away for me?",
+        "target": "나한테 좀 전해 주세요",
+        "category": 13,
+        "pronunciation": "nahante jom jeonhae juseyo"
+      },
+      {
+        "origin": "Does anyone here speak English?",
+        "target": "여기 영어 할 수 있는 사람있어요?",
+        "category": 13,
+        "pronunciation": "yeogi yeong-eo hal su issneun salam-iss-eoyo?"
+      },
+      {
+        "origin": "Don't do that.",
+        "target": "하지 마세요",
+        "category": 13,
+        "pronunciation": "haji maseyo"
+      },
+      {
+        "origin": "Do you believe that?",
+        "target": "그것을 믿으세요?",
+        "category": 13,
+        "pronunciation": "geugeos-eul mid-euseyo?"
+      },
+      {
+        "origin": "Do you have a pencil?",
+        "target": "펜 있어요?",
+        "category": 13,
+        "pronunciation": "pen iss-eoyo?"
+      },
+      {
+        "origin": "Do you smoke?",
+        "target": "담배 펴요?",
+        "category": 13,
+        "pronunciation": "dambae pyeoyo?"
+      },
+      {
+        "origin": "Do you speak English?",
+        "target": "영어 할 줄 알아요?",
+        "category": 13,
+        "pronunciation": "yeong-eo hal jul al-ayo?"
+      },
+      {
+        "origin": "Excuse me, what did you say?",
+        "target": "죄송하지만 뭐라고 하셨지요?",
+        "category": 13,
+        "pronunciation": "joesonghajiman mwolago hasyeossjiyo?"
+      },
+      {
+        "origin": "Forget it.",
+        "target": "됐습니다.",
+        "category": 13,
+        "pronunciation": "dwaessseubnida."
+      },
+      {
+        "origin": "How do you pronounce that?",
+        "target": "그것을 어떻게 발음해요?",
+        "category": 13,
+        "pronunciation": "geugeos-eul eotteohge bal-eumhaeyo?"
+      },
+      {
+        "origin": "How do you say it in English?",
+        "target": "이것을 어떻게 영어로 이야기 해요?",
+        "category": 13,
+        "pronunciation": "igeos-eul eotteohge yeong-eolo iyagi haeyo?"
+      },
+      {
+        "origin": "How do you spell it?",
+        "target": "철자가 어떻게 돼요?",
+        "category": 13,
+        "pronunciation": "cheoljaga eotteohge dwaeyo?"
+      },
+      {
+        "origin": "How do you spell the word \"Seattle?\"",
+        "target": "시애틀 이라는 단어 철자가 어떻게 되어요?",
+        "category": 13,
+        "pronunciation": "siaeteul ilaneun dan-eo cheoljaga eotteohge doeeoyo?"
+      },
+      {
+        "origin": "I can swim.",
+        "target": "수영할 줄 알아요",
+        "category": 13,
+        "pronunciation": "suyeonghal jul al-ayo"
+      },
+      {
+        "origin": "I can't hear you clearly.",
+        "target": "잘 안들려요",
+        "category": 13,
+        "pronunciation": "jal andeullyeoyo"
+      },
+      {
+        "origin": "I don't mind.",
+        "target": "상관없어요",
+        "category": 13,
+        "pronunciation": "sang-gwan-eobs-eoyo"
+      },
+      {
+        "origin": "I don't speak English very well.",
+        "target": "영어를 잘 못 해요",
+        "category": 13,
+        "pronunciation": "yeong-eoleul jal mos haeyo"
+      },
+      {
+        "origin": "I don't think so.",
+        "target": "그렇게 생각하지 않아요",
+        "category": 13,
+        "pronunciation": "geuleohge saeng-gaghaji anh-ayo"
+      },
+      {
+        "origin": "I don't understand what your saying.",
+        "target": "무슨 말씀인지 잘 모르겠어요",
+        "category": 13,
+        "pronunciation": "museun malsseum-inji jal moleugess-eoyo"
+      },
+      {
+        "origin": "Is there air conditioning in the room?",
+        "target": "방 안에 에어컨이 있어요?",
+        "category": 13,
+        "pronunciation": "bang an-e eeokeon-i iss-eoyo?"
+      },
+      {
+        "origin": "I think you have too many clothes.",
+        "target": "당신은 옷이 너무 많은 것 같아요",
+        "category": 13,
+        "pronunciation": "dangsin-eun os-i neomu manh-eun geos gat-ayo"
+      },
+      {
+        "origin": "I trust you.",
+        "target": "당신을 믿어요",
+        "category": 13,
+        "pronunciation": "dangsin-eul mid-eoyo"
+      },
+      {
+        "origin": "I understand now.",
+        "target": "지금 이해가 되어요",
+        "category": 13,
+        "pronunciation": "jigeum ihaega doeeoyo"
+      },
+      {
+        "origin": "Let's meet in front of the hotel.",
+        "target": "호텔 앞에서 만납시다",
+        "category": 13,
+        "pronunciation": "hotel ap-eseo mannabsida"
+      },
+      {
+        "origin": "Please sit down.",
+        "target": "앉으세요",
+        "category": 13,
+        "pronunciation": "anj-euseyo"
+      },
+      {
+        "origin": "Please speak English.",
+        "target": "영어로 말해 주세요",
+        "category": 13,
+        "pronunciation": "yeong-eolo malhae juseyo"
+      },
+      {
+        "origin": "Please speak more slowly.",
+        "target": "더 천천히 이야기 해 주세요",
+        "category": 13,
+        "pronunciation": "deo cheoncheonhi iyagi hae juseyo"
+      },
+      {
+        "origin": "Sorry, I didn't hear clearly.",
+        "target": "미안하지만 잘 안 들려요",
+        "category": 13,
+        "pronunciation": "mianhajiman jal an deullyeoyo"
+      },
+      {
+        "origin": "That means friend.",
+        "target": "이게 친구예요",
+        "category": 13,
+        "pronunciation": "ige chinguyeyo"
+      },
+      {
+        "origin": "That's wrong.",
+        "target": "틀렸어요",
+        "category": 13,
+        "pronunciation": "teullyeoss-eoyo"
+      },
+      {
+        "origin": "Try to say it.",
+        "target": "말 해 보세요",
+        "category": 13,
+        "pronunciation": "mal hae boseyo"
+      },
+      {
+        "origin": "What does this mean?",
+        "target": "이게 무슨 소리예요?",
+        "category": 13,
+        "pronunciation": "ige museun soliyeyo?"
+      },
+      {
+        "origin": "What does this say?",
+        "target": "이게 무슨 뜻 이에요?",
+        "category": 13,
+        "pronunciation": "ige museun tteus ieyo?"
+      },
+      {
+        "origin": "What does this word mean?",
+        "target": "이 말이 무슨 뜻이에요?",
+        "category": 13,
+        "pronunciation": "i mal-i museun tteus-ieyo?"
+      },
+      {
+        "origin": "What's the exchange rate?",
+        "target": "환율이 어떻게 되어요?",
+        "category": 13,
+        "pronunciation": "hwan-yul-i eotteohge doeeoyo?"
+      },
+      {
+        "origin": "Whose book is that?",
+        "target": "누구 책이에요?",
+        "category": 13,
+        "pronunciation": "nugu chaeg-ieyo?"
+      },
+      {
+        "origin": "Why aren't you going?",
+        "target": "가지 그러세요?",
+        "category": 13,
+        "pronunciation": "gaji geuleoseyo?"
+      },
+      {
+        "origin": "Why are you laughing?",
+        "target": "왜 웃으세요?",
+        "category": 13,
+        "pronunciation": "wae us-euseyo?"
+      },
+      {
+        "origin": "Why did you do that?",
+        "target": "왜 그러셨어요?",
+        "category": 13,
+        "pronunciation": "wae geuleosyeoss-eoyo?"
+      },
+      {
+        "origin": "Are you allergic to anything?",
+        "target": "알러지가 있어요?",
+        "category": 14,
+        "pronunciation": "alleojiga iss-eoyo?"
+      },
+      {
+        "origin": "Are you ready?",
+        "target": "준비 되었어요?",
+        "category": 14,
+        "pronunciation": "junbi doeeoss-eoyo?"
+      },
+      {
+        "origin": "Call me.",
+        "target": "전화하세요",
+        "category": 14,
+        "pronunciation": "jeonhwahaseyo"
+      },
+      {
+        "origin": "Did you send me flowers?",
+        "target": "나한테 꽃을 보냈어요?",
+        "category": 14,
+        "pronunciation": "nahante kkoch-eul bonaess-eoyo?"
+      },
+      {
+        "origin": "Do you sell batteries?",
+        "target": "전지 팔아요?",
+        "category": 14,
+        "pronunciation": "jeonji pal-ayo?"
+      },
+      {
+        "origin": "I don't care.",
+        "target": "상관없어요",
+        "category": 14,
+        "pronunciation": "sang-gwan-eobs-eoyo"
+      },
+      {
+        "origin": "I give up.",
+        "target": "포기해요",
+        "category": 14,
+        "pronunciation": "pogihaeyo"
+      },
+      {
+        "origin": "I got in an accident.",
+        "target": "차 사고가 났어요",
+        "category": 14,
+        "pronunciation": "cha sagoga nass-eoyo"
+      },
+      {
+        "origin": "I have a cold.",
+        "target": "감기 걸렸어요",
+        "category": 14,
+        "pronunciation": "gamgi geollyeoss-eoyo"
+      },
+      {
+        "origin": "I have one in my car.",
+        "target": "제 차에 있어요",
+        "category": 14,
+        "pronunciation": "je cha-e iss-eoyo"
+      },
+      {
+        "origin": "I made this cake.",
+        "target": "이 케익을 만들었어요",
+        "category": 14,
+        "pronunciation": "i keig-eul mandeul-eoss-eoyo"
+      },
+      {
+        "origin": "I'm a teacher.",
+        "target": "교사예요",
+        "category": 14,
+        "pronunciation": "gyosayeyo"
+      },
+      {
+        "origin": "I'm self-employed.",
+        "target": "자영업을 해요",
+        "category": 14,
+        "pronunciation": "jayeong-eob-eul haeyo"
+      },
+      {
+        "origin": "I still have a lot to do.",
+        "target": "할일이 많아요",
+        "category": 14,
+        "pronunciation": "hal-il-i manh-ayo"
+      },
+      {
+        "origin": "I still haven't decided.",
+        "target": "아직 결정 못 했어요",
+        "category": 14,
+        "pronunciation": "ajig gyeoljeong mos haess-eoyo"
+      },
+      {
+        "origin": "It depends on the weather.",
+        "target": "날씨에 달려있어요",
+        "category": 14,
+        "pronunciation": "nalssie dallyeoiss-eoyo"
+      },
+      {
+        "origin": "It's very cold today.",
+        "target": "오늘 매우 추워요",
+        "category": 14,
+        "pronunciation": "oneul maeu chuwoyo"
+      },
+      {
+        "origin": "My luggage is missing.",
+        "target": "내 짐이 없어졌어요",
+        "category": 14,
+        "pronunciation": "nae jim-i eobs-eojyeoss-eoyo"
+      },
+      {
+        "origin": "My stomach hurts.",
+        "target": "위가 아파요",
+        "category": 14,
+        "pronunciation": "wiga apayo"
+      },
+      {
+        "origin": "My throat is sore.",
+        "target": "목이 아파요",
+        "category": 14,
+        "pronunciation": "mog-i apayo"
+      },
+      {
+        "origin": "My watch has been stolen.",
+        "target": "내 시계가 도단 당했어요",
+        "category": 14,
+        "pronunciation": "nae sigyega dodan danghaess-eoyo"
+      },
+      {
+        "origin": "Take this medicine.",
+        "target": "이 약을 드세요",
+        "category": 14,
+        "pronunciation": "i yag-eul deuseyo"
+      },
+      {
+        "origin": "The accident happened at the intersection.",
+        "target": "그 사고는 사거리에서 났어요",
+        "category": 14,
+        "pronunciation": "geu sagoneun sageolieseo nass-eoyo"
+      },
+      {
+        "origin": "There has been a car accident.",
+        "target": "차 사고가 났어요",
+        "category": 14,
+        "pronunciation": "cha sagoga nass-eoyo"
+      },
+      {
+        "origin": "Where can I exchange U.S. dollars?",
+        "target": "어디서 미국 달러를 바꿀 수 있어요?",
+        "category": 14,
+        "pronunciation": "eodiseo migug dalleoleul bakkul su iss-eoyo?"
+      },
+      {
+        "origin": "Where do you work?",
+        "target": "어디서 일해요?",
+        "category": 14,
+        "pronunciation": "eodiseo ilhaeyo?"
+      },
+      {
+        "origin": "Where's the nearest hospital?",
+        "target": "가까운 병원이 어디에 있어요?",
+        "category": 14,
+        "pronunciation": "gakkaun byeong-won-i eodie iss-eoyo?"
+      },
+      {
+        "origin": "Where's the post office?",
+        "target": "우체국이 어디 있어요?",
+        "category": 14,
+        "pronunciation": "uchegug-i eodi iss-eoyo?"
+      },
+      {
+        "origin": "And you?",
+        "target": "당신은요?",
+        "category": 16,
+        "pronunciation": "dangsin-eun-yo?"
+      },
+      {
+        "origin": "Anything else?",
+        "target": "다른것은요",
+        "category": 16,
+        "pronunciation": "daleungeos-eun-yo"
+      },
+      {
+        "origin": "Are they the same?",
+        "target": "다 같아요?",
+        "category": 16,
+        "pronunciation": "da gat-ayo?"
+      },
+      {
+        "origin": "Are you afraid?",
+        "target": "무서워요?",
+        "category": 16,
+        "pronunciation": "museowoyo?"
+      },
+      {
+        "origin": "Are you going to attend their wedding?",
+        "target": "결혼식 참석 할 거예요?",
+        "category": 16,
+        "pronunciation": "gyeolhonsig chamseog hal geoyeyo?"
+      },
+      {
+        "origin": "Are you married?",
+        "target": "결혼 했어요?",
+        "category": 16,
+        "pronunciation": "gyeolhon haess-eoyo?"
+      },
+      {
+        "origin": "Are you okay?",
+        "target": "괜찮아요?",
+        "category": 16,
+        "pronunciation": "gwaenchanh-ayo?"
+      },
+      {
+        "origin": "Are you sick?",
+        "target": "바빠요?",
+        "category": 16,
+        "pronunciation": "bappayo?"
+      },
+      {
+        "origin": "Behind the bank.",
+        "target": "은행 뒤",
+        "category": 16,
+        "pronunciation": "eunhaeng dwi"
+      },
+      {
+        "origin": "Can I borrow some money?",
+        "target": "돈 좀 빌려 주세요",
+        "category": 16,
+        "pronunciation": "don jom billyeo juseyo"
+      },
+      {
+        "origin": "Can I have the bill please?",
+        "target": "계산서 좀 주세요",
+        "category": 16,
+        "pronunciation": "gyesanseo jom juseyo"
+      },
+      {
+        "origin": "Can you call back later?",
+        "target": "나중에 전화 해 주세요",
+        "category": 16,
+        "pronunciation": "najung-e jeonhwa hae juseyo"
+      },
+      {
+        "origin": "Can you call me back later?",
+        "target": "나중에 전화 해 주세요",
+        "category": 16,
+        "pronunciation": "najung-e jeonhwa hae juseyo"
+      },
+      {
+        "origin": "Can you carry this for me?",
+        "target": "이것 좀 가지고 가 주세요",
+        "category": 16,
+        "pronunciation": "igeos jom gajigo ga juseyo"
+      },
+      {
+        "origin": "Can you fix this?",
+        "target": "이것 좀 고쳐 주세요",
+        "category": 16,
+        "pronunciation": "igeos jom gochyeo juseyo"
+      },
+      {
+        "origin": "Can you give me an example?",
+        "target": "예를 좀 들어 주세요",
+        "category": 16,
+        "pronunciation": "yeleul jom deul-eo juseyo"
+      },
+      {
+        "origin": "Can you speak louder please?",
+        "target": "좀 더 크게 이야기 해 주세요",
+        "category": 16,
+        "pronunciation": "jom deo keuge iyagi hae juseyo"
+      },
+      {
+        "origin": "Can you swim?",
+        "target": "수영 할 수 있어요?",
+        "category": 16,
+        "pronunciation": "suyeong hal su iss-eoyo?"
+      },
+      {
+        "origin": "Does he like the school?",
+        "target": "그가 이 학교를 좋아해요?",
+        "category": 16,
+        "pronunciation": "geuga i haggyoleul joh-ahaeyo?"
+      },
+      {
+        "origin": "Do you accept U.S. Dollars?",
+        "target": "미국 돈을 받으세요?",
+        "category": 16,
+        "pronunciation": "migug don-eul bad-euseyo?"
+      },
+      {
+        "origin": "Do you have a girlfriend?",
+        "target": "여자 친구 있어요?",
+        "category": 16,
+        "pronunciation": "yeoja chingu iss-eoyo?"
+      },
+      {
+        "origin": "Do you have an appointment?",
+        "target": "아파트 있어요?",
+        "category": 16,
+        "pronunciation": "apateu iss-eoyo?"
+      },
+      {
+        "origin": "Do you have a problem?",
+        "target": "문제 있어요?",
+        "category": 16,
+        "pronunciation": "munje iss-eoyo?"
+      },
+      {
+        "origin": "Do you hear that?",
+        "target": "들려요?",
+        "category": 16,
+        "pronunciation": "deullyeoyo?"
+      },
+      {
+        "origin": "Do you know how to get to the Marriott Hotel?",
+        "target": "메리어트 호텔에 어떻게 가는 지 알아요?",
+        "category": 16,
+        "pronunciation": "melieoteu hotel-e eotteohge ganeun ji al-ayo?"
+      },
+      {
+        "origin": "Do you know what this means?",
+        "target": "무슨 뜻인지 알아요?",
+        "category": 16,
+        "pronunciation": "museun tteus-inji al-ayo?"
+      },
+      {
+        "origin": "Do you know where I can get a taxi?",
+        "target": "어디서 택시 탈수 있는지 알아요?",
+        "category": 16,
+        "pronunciation": "eodiseo taegsi talsu issneunji al-ayo?"
+      },
+      {
+        "origin": "Do you know where my glasses are?",
+        "target": "안경이 어디 있는지 알아요?",
+        "category": 16,
+        "pronunciation": "angyeong-i eodi issneunji al-ayo?"
+      },
+      {
+        "origin": "Do you like your co-workers?",
+        "target": "동료를 좋아해요?",
+        "category": 16,
+        "pronunciation": "donglyoleul joh-ahaeyo?"
+      },
+      {
+        "origin": "Do you need anything else?",
+        "target": "다른 것 필요한 것 없어요?",
+        "category": 16,
+        "pronunciation": "daleun geos pil-yohan geos eobs-eoyo?"
+      },
+      {
+        "origin": "Do you understand?",
+        "target": "이해하세요?",
+        "category": 16,
+        "pronunciation": "ihaehaseyo?"
+      },
+      {
+        "origin": "Give me the pen.",
+        "target": "펜 좀 주세요",
+        "category": 16,
+        "pronunciation": "pen jom juseyo"
+      },
+      {
+        "origin": "How do you know?",
+        "target": "어떻게 알아요?",
+        "category": 16,
+        "pronunciation": "eotteohge al-ayo?"
+      },
+      {
+        "origin": "How is she?",
+        "target": "그녀는 어떻게 지내요?",
+        "category": 16,
+        "pronunciation": "geunyeoneun eotteohge jinaeyo?"
+      },
+      {
+        "origin": "How long is it?",
+        "target": "얼마나 길어요?",
+        "category": 16,
+        "pronunciation": "eolmana gil-eoyo?"
+      },
+      {
+        "origin": "How many?",
+        "target": "몇 명?",
+        "category": 16,
+        "pronunciation": "myeoch myeong?"
+      },
+      {
+        "origin": "How much is it?",
+        "target": "얼마예요?",
+        "category": 16,
+        "pronunciation": "eolmayeyo?"
+      },
+      {
+        "origin": "I have a lot of things to do.",
+        "target": "할 일이 많아요",
+        "category": 16,
+        "pronunciation": "hal il-i manh-ayo"
+      },
+      {
+        "origin": "In 30 minutes.",
+        "target": "삼십분 안에",
+        "category": 16,
+        "pronunciation": "samsibbun an-e"
+      },
+      {
+        "origin": "Is anyone else coming?",
+        "target": "다른 사람도 와요?",
+        "category": 16,
+        "pronunciation": "daleun salamdo wayo?"
+      },
+      {
+        "origin": "Is everything ok?",
+        "target": "모두 괜찮아요?",
+        "category": 16,
+        "pronunciation": "modu gwaenchanh-ayo?"
+      },
+      {
+        "origin": "Is it cold outside?",
+        "target": "밖에 추워요?",
+        "category": 16,
+        "pronunciation": "bakk-e chuwoyo?"
+      },
+      {
+        "origin": "Is it far from here?",
+        "target": "여기서 멀어요?",
+        "category": 16,
+        "pronunciation": "yeogiseo meol-eoyo?"
+      },
+      {
+        "origin": "Is it hot?",
+        "target": "더워요?",
+        "category": 16,
+        "pronunciation": "deowoyo?"
+      },
+      {
+        "origin": "Is it raining?",
+        "target": "비가와요?",
+        "category": 16,
+        "pronunciation": "bigawayo?"
+      },
+      {
+        "origin": "Is there anything cheaper?",
+        "target": "더 싼거 있어요?",
+        "category": 16,
+        "pronunciation": "deo ssangeo iss-eoyo?"
+      },
+      {
+        "origin": "Is your son here?",
+        "target": "아들이 여기 있어요?",
+        "category": 16,
+        "pronunciation": "adeul-i yeogi iss-eoyo?"
+      },
+      {
+        "origin": "Should I wait?",
+        "target": "기다릴까요?",
+        "category": 16,
+        "pronunciation": "gidalilkkayo?"
+      },
+      {
+        "origin": "The big one or the small one?",
+        "target": "큰거요 아니면 작은거요?",
+        "category": 16,
+        "pronunciation": "keungeoyo animyeon jag-eungeoyo?"
+      },
+      {
+        "origin": "The cars are American.",
+        "target": "이 차는 미국 차예요",
+        "category": 16,
+        "pronunciation": "i chaneun migug chayeyo"
+      },
+      {
+        "origin": "Were there any problems?",
+        "target": "무슨 문제 있어요?",
+        "category": 16,
+        "pronunciation": "museun munje iss-eoyo?"
+      },
+      {
+        "origin": "Were you at the library last night?",
+        "target": "어젯밤 도서관에 있었어요?",
+        "category": 16,
+        "pronunciation": "eojesbam doseogwan-e iss-eoss-eoyo?"
+      },
+      {
+        "origin": "What are you doing?",
+        "target": "지금 뭐 해요?",
+        "category": 16,
+        "pronunciation": "jigeum mwo haeyo?"
+      },
+      {
+        "origin": "What are you thinking about?",
+        "target": "지금 무슨 생각을 해요?",
+        "category": 16,
+        "pronunciation": "jigeum museun saeng-gag-eul haeyo?"
+      },
+      {
+        "origin": "What are you two talking about?",
+        "target": "지금 무슨 이야기를 하고 있어요?",
+        "category": 16,
+        "pronunciation": "jigeum museun iyagileul hago iss-eoyo?"
+      },
+      {
+        "origin": "What did you do last night?",
+        "target": "어젯밤 뭐 했어요?",
+        "category": 16,
+        "pronunciation": "eojesbam mwo haess-eoyo?"
+      },
+      {
+        "origin": "What did you do yesterday?",
+        "target": "어제 뭐 했어요?",
+        "category": 16,
+        "pronunciation": "eoje mwo haess-eoyo?"
+      },
+      {
+        "origin": "What did you think?",
+        "target": "무엇을 생각했어요?",
+        "category": 16,
+        "pronunciation": "mueos-eul saeng-gaghaess-eoyo?"
+      },
+      {
+        "origin": "What do they study?",
+        "target": "그들이 무슨 공부를 해요?",
+        "category": 16,
+        "pronunciation": "geudeul-i museun gongbuleul haeyo?"
+      },
+      {
+        "origin": "What do you have?",
+        "target": "뭘 가지고 있어요?",
+        "category": 16,
+        "pronunciation": "mwol gajigo iss-eoyo?"
+      },
+      {
+        "origin": "What do you think?",
+        "target": "어때요?",
+        "category": 16,
+        "pronunciation": "eottaeyo?"
+      },
+      {
+        "origin": "What happened?",
+        "target": "무슨 일이에요?",
+        "category": 16,
+        "pronunciation": "museun il-ieyo?"
+      },
+      {
+        "origin": "What is it?",
+        "target": "이게 뭐예요?",
+        "category": 16,
+        "pronunciation": "ige mwoyeyo?"
+      },
+      {
+        "origin": "What is that?",
+        "target": "저게 뭐예요?",
+        "category": 16,
+        "pronunciation": "jeoge mwoyeyo?"
+      },
+      {
+        "origin": "What should I wear?",
+        "target": "뭘 입을 까요?",
+        "category": 16,
+        "pronunciation": "mwol ib-eul kkayo?"
+      },
+      {
+        "origin": "What's in it?",
+        "target": "안에 뭐가 있어요?",
+        "category": 16,
+        "pronunciation": "an-e mwoga iss-eoyo?"
+      },
+      {
+        "origin": "What's the temperature?",
+        "target": "온도가 얼마예요?",
+        "category": 16,
+        "pronunciation": "ondoga eolmayeyo?"
+      },
+      {
+        "origin": "What's this?",
+        "target": "이게 뭐예요?",
+        "category": 16,
+        "pronunciation": "ige mwoyeyo?"
+      },
+      {
+        "origin": "What's up?",
+        "target": "왠일이에요?",
+        "category": 16,
+        "pronunciation": "waen-il-ieyo?"
+      },
+      {
+        "origin": "Where are you from?",
+        "target": "어디서 오셨어요?",
+        "category": 16,
+        "pronunciation": "eodiseo osyeoss-eoyo?"
+      },
+      {
+        "origin": "Where can I rent a car?",
+        "target": "어디서 차를 빌릴 수 있어요?",
+        "category": 16,
+        "pronunciation": "eodiseo chaleul billil su iss-eoyo?"
+      },
+      {
+        "origin": "Where did it happen?",
+        "target": "어디서 발생했어요?",
+        "category": 16,
+        "pronunciation": "eodiseo balsaenghaess-eoyo?"
+      },
+      {
+        "origin": "Where did you learn it?",
+        "target": "어디서 그것을 배웠어요?",
+        "category": 16,
+        "pronunciation": "eodiseo geugeos-eul baewoss-eoyo?"
+      },
+      {
+        "origin": "Where is he?",
+        "target": "그가 어디에 있어요?",
+        "category": 16,
+        "pronunciation": "geuga eodie iss-eoyo?"
+      },
+      {
+        "origin": "Where is he from?",
+        "target": "그 사람은 어디서 왔어요?",
+        "category": 16,
+        "pronunciation": "geu salam-eun eodiseo wass-eoyo?"
+      },
+      {
+        "origin": "Which is better, the spaghetti or chicken salad?",
+        "target": "스파게티가 나아요? 닭 샐러드가 나아요?",
+        "category": 16,
+        "pronunciation": "seupagetiga naayo? dalg saelleodeuga naayo?"
+      },
+      {
+        "origin": "Which one do you want?",
+        "target": "어떤 것을 원해요?",
+        "category": 16,
+        "pronunciation": "eotteon geos-eul wonhaeyo?"
+      },
+      {
+        "origin": "Which one is cheaper?",
+        "target": "어떤 것이 더 싸요?",
+        "category": 16,
+        "pronunciation": "eotteon geos-i deo ssayo?"
+      },
+      {
+        "origin": "Which one is the best?",
+        "target": "어떤 것이 가장 좋아요?",
+        "category": 16,
+        "pronunciation": "eotteon geos-i gajang joh-ayo?"
+      },
+      {
+        "origin": "Which school does he go to?",
+        "target": "그 사람은 어느 학교에 다녀요?",
+        "category": 16,
+        "pronunciation": "geu salam-eun eoneu haggyoe danyeoyo?"
+      },
+      {
+        "origin": "Who are they?",
+        "target": "그 사람들이 누구예요?",
+        "category": 16,
+        "pronunciation": "geu salamdeul-i nuguyeyo?"
+      },
+      {
+        "origin": "Who are you looking for?",
+        "target": "누구를 찾으세요?",
+        "category": 16,
+        "pronunciation": "nuguleul chaj-euseyo?"
+      },
+      {
+        "origin": "Who is it? (Inquiring about who is on the phone)",
+        "target": "누구세요? (전화 받았을 때)",
+        "category": 16,
+        "pronunciation": "nuguseyo? (jeonhwa bad-ass-eul ttae)"
+      },
+      {
+        "origin": "Who's calling?",
+        "target": "누구세요?",
+        "category": 16,
+        "pronunciation": "nuguseyo?"
+      },
+      {
+        "origin": "Who's that man over there?",
+        "target": "저기 있는 사람이 누구예요?",
+        "category": 16,
+        "pronunciation": "jeogi issneun salam-i nuguyeyo?"
+      },
+      {
+        "origin": "Who taught you that?",
+        "target": "누가 그것을 이야기 했어요?",
+        "category": 16,
+        "pronunciation": "nuga geugeos-eul iyagi haess-eoyo?"
+      },
+      {
+        "origin": "Why did you say that?",
+        "target": "왜 그렇게 이야기 하세요?",
+        "category": 16,
+        "pronunciation": "wae geuleohge iyagi haseyo?"
+      },
+      {
+        "origin": "Will you pass me the salt please?",
+        "target": "소금 좀 건네 주세요",
+        "category": 16,
+        "pronunciation": "sogeum jom geonne juseyo"
+      },
+      {
+        "origin": "Will you put this in the car for me?",
+        "target": "이것을 차에 넣어 주세요",
+        "category": 16,
+        "pronunciation": "igeos-eul cha-e neoh-eo juseyo"
+      },
+      {
+        "origin": "Would you ask him to call me back please?",
+        "target": "그 사람에게 나한테 전화하라고 전해 주세요",
+        "category": 16,
+        "pronunciation": "geu salam-ege nahante jeonhwahalago jeonhae juseyo"
+      },
+      {
+        "origin": "Yes.",
+        "target": "네",
+        "category": 16,
+        "pronunciation": "ne"
+      },
+      {
+        "origin": "You have a very nice car.",
+        "target": "차가 아주 좋아요",
+        "category": 16,
+        "pronunciation": "chaga aju joh-ayo"
+      },
+      {
+        "origin": "You look like my sister.",
+        "target": "당신은 내 여동생 닮았어요",
+        "category": 16,
+        "pronunciation": "dangsin-eun nae yeodongsaeng dalm-ass-eoyo"
+      },
+      {
+        "origin": "6 dollars per hour.",
+        "target": "한 시간에 육불",
+        "category": 17,
+        "pronunciation": "han sigan-e yugbul"
+      },
+      {
+        "origin": "Are you waiting for someone?",
+        "target": "누구 기다려요?",
+        "category": 17,
+        "pronunciation": "nugu gidalyeoyo?"
+      },
+      {
+        "origin": "Are you working today?",
+        "target": "오늘 일해요?",
+        "category": 17,
+        "pronunciation": "oneul ilhaeyo?"
+      },
+      {
+        "origin": "Bring me my shirt please.",
+        "target": "내 셔츠를 가져다 주세요",
+        "category": 17,
+        "pronunciation": "nae syeocheuleul gajyeoda juseyo"
+      },
+      {
+        "origin": "Do you like to watch TV?",
+        "target": "텔레비젼 보는 것을 좋아해요?",
+        "category": 17,
+        "pronunciation": "tellebijyeon boneun geos-eul joh-ahaeyo?"
+      },
+      {
+        "origin": "Do you like your boss?",
+        "target": "상사를 좋아해요?",
+        "category": 17,
+        "pronunciation": "sangsaleul joh-ahaeyo?"
+      },
+      {
+        "origin": "Have you finished studying?",
+        "target": "공부 다 끝냈어요?",
+        "category": 17,
+        "pronunciation": "gongbu da kkeutnaess-eoyo?"
+      },
+      {
+        "origin": "He's an Engineer.",
+        "target": "그는 엔지니어입니다.",
+        "category": 17,
+        "pronunciation": "geuneun enjinieoibnida."
+      },
+      {
+        "origin": "He's very hard working.",
+        "target": "그는 아주 열심히 일하는 사람이에요",
+        "category": 17,
+        "pronunciation": "geuneun aju yeolsimhi ilhaneun salam-ieyo"
+      },
+      {
+        "origin": "He works at a computer company in New York.",
+        "target": "그는 뉴욕에 있는 컴푸터 회사에서 일해요",
+        "category": 17,
+        "pronunciation": "geuneun nyuyog-e issneun keomputeo hoesa-eseo ilhaeyo"
+      },
+      {
+        "origin": "How long have you worked here?",
+        "target": "얼마나 여기서 일했어요?",
+        "category": 17,
+        "pronunciation": "eolmana yeogiseo ilhaess-eoyo?"
+      },
+      {
+        "origin": "How many hours a week do you work?",
+        "target": "일주일에 몇시간 일해요?",
+        "category": 17,
+        "pronunciation": "ilju-il-e myeochsigan ilhaeyo?"
+      },
+      {
+        "origin": "How much money do you have?",
+        "target": "지금 얼마 있어요?",
+        "category": 17,
+        "pronunciation": "jigeum eolma iss-eoyo?"
+      },
+      {
+        "origin": "How's the weather?",
+        "target": "날씨가 어때요?",
+        "category": 17,
+        "pronunciation": "nalssiga eottaeyo?"
+      },
+      {
+        "origin": "How was the trip?",
+        "target": "여행이 어땠어요?",
+        "category": 17,
+        "pronunciation": "yeohaeng-i eottaess-eoyo?"
+      },
+      {
+        "origin": "I forget.",
+        "target": "잊어벌렸어요",
+        "category": 17,
+        "pronunciation": "ij-eobeollyeoss-eoyo"
+      },
+      {
+        "origin": "I'm good.",
+        "target": "저는 좋아요",
+        "category": 17,
+        "pronunciation": "jeoneun joh-ayo"
+      },
+      {
+        "origin": "I'm ready.",
+        "target": "준비 되었어요?",
+        "category": 17,
+        "pronunciation": "junbi doeeoss-eoyo?"
+      },
+      {
+        "origin": "I still have a lot of things to buy.",
+        "target": "아직 살게 많아요",
+        "category": 17,
+        "pronunciation": "ajig salge manh-ayo"
+      },
+      {
+        "origin": "I've seen it.",
+        "target": "보았어요",
+        "category": 17,
+        "pronunciation": "boass-eoyo"
+      },
+      {
+        "origin": "What does he do for work?",
+        "target": "그 사람은 무슨 일을 해요?",
+        "category": 17,
+        "pronunciation": "geu salam-eun museun il-eul haeyo?"
+      },
+      {
+        "origin": "What does your father do for work?",
+        "target": "아버지께서 어떤 일을 하세요?",
+        "category": 17,
+        "pronunciation": "abeojikkeseo eotteon il-eul haseyo?"
+      },
+      {
+        "origin": "What do you do for work?",
+        "target": "무슨 일을 해요?",
+        "category": 17,
+        "pronunciation": "museun il-eul haeyo?"
+      },
+      {
+        "origin": "What do your parents do for work?",
+        "target": "부모님이 어떤 일을 하세요?",
+        "category": 17,
+        "pronunciation": "bumonim-i eotteon il-eul haseyo?"
+      },
+      {
+        "origin": "What's the matter?",
+        "target": "무슨 일이에요?",
+        "category": 17,
+        "pronunciation": "museun il-ieyo?"
+      },
+      {
+        "origin": "What time do you go to work everyday?",
+        "target": "매일 몇시에 일하러 가요?",
+        "category": 17,
+        "pronunciation": "maeil myeochsie ilhaleo gayo?"
+      },
+      {
+        "origin": "When do you arrive in the U.S.?",
+        "target": "미국에 언제 도착해요?",
+        "category": 17,
+        "pronunciation": "migug-e eonje dochaghaeyo?"
+      },
+      {
+        "origin": "When do you get off work?",
+        "target": "일 언제 끝나요?",
+        "category": 17,
+        "pronunciation": "il eonje kkeutnayo?"
+      },
+      {
+        "origin": "Where did you put it?",
+        "target": "어디에 그것을 두었어요?",
+        "category": 17,
+        "pronunciation": "eodie geugeos-eul dueoss-eoyo?"
+      },
+      {
+        "origin": "Where does it hurt?",
+        "target": "어디가 아파요?",
+        "category": 17,
+        "pronunciation": "eodiga apayo?"
+      },
+      {
+        "origin": "Where do you want to go?",
+        "target": "어디에 가고 싶어요?",
+        "category": 17,
+        "pronunciation": "eodie gago sip-eoyo?"
+      },
+      {
+        "origin": "Come here.",
+        "target": "여기로 오세요",
+        "category": 18,
+        "pronunciation": "yeogilo oseyo"
+      },
+      {
+        "origin": "Does it often snow in the winter in Massachusetts?",
+        "target": "매사스세츠 주는 겨울에 자주 눈이 와요?",
+        "category": 18,
+        "pronunciation": "maesaseusecheu juneun gyeoul-e jaju nun-i wayo?"
+      },
+      {
+        "origin": "Do you think it'll rain today?",
+        "target": "오늘 비 올 것 같아요?",
+        "category": 18,
+        "pronunciation": "oneul bi ol geos gat-ayo?"
+      },
+      {
+        "origin": "Do you think it's going to rain tomorrow?",
+        "target": "내일 비가 올까요?",
+        "category": 18,
+        "pronunciation": "naeil biga olkkayo?"
+      },
+      {
+        "origin": "How's business?",
+        "target": "장사가 잘 돼요?",
+        "category": 18,
+        "pronunciation": "jangsaga jal dwaeyo?"
+      },
+      {
+        "origin": "Is it close?",
+        "target": "가까워요?",
+        "category": 18,
+        "pronunciation": "gakkawoyo?"
+      },
+      {
+        "origin": "Is it possible?",
+        "target": "가능해요?",
+        "category": 18,
+        "pronunciation": "ganeunghaeyo?"
+      },
+      {
+        "origin": "Is it ready?",
+        "target": "준비 되었어요?",
+        "category": 18,
+        "pronunciation": "junbi doeeoss-eoyo?"
+      },
+      {
+        "origin": "It costs 20 dollars per hour.",
+        "target": "한 시간에 이십불이에요",
+        "category": 18,
+        "pronunciation": "han sigan-e isibbul-ieyo"
+      },
+      {
+        "origin": "It hurts here.",
+        "target": "여기가 아파요",
+        "category": 18,
+        "pronunciation": "yeogiga apayo"
+      },
+      {
+        "origin": "It's far from here.",
+        "target": "여기서 멀어요",
+        "category": 18,
+        "pronunciation": "yeogiseo meol-eoyo"
+      },
+      {
+        "origin": "It's going to be hot today.",
+        "target": "오늘 날씨가 더울거예요",
+        "category": 18,
+        "pronunciation": "oneul nalssiga deoulgeoyeyo"
+      },
+      {
+        "origin": "It's north of here.",
+        "target": "여기에서 북쪽 방향이에요",
+        "category": 18,
+        "pronunciation": "yeogieseo bugjjog banghyang-ieyo"
+      },
+      {
+        "origin": "It's over there.",
+        "target": "저쪽이에요",
+        "category": 18,
+        "pronunciation": "jeojjog-ieyo"
+      },
+      {
+        "origin": "It's raining.",
+        "target": "비가 와요",
+        "category": 18,
+        "pronunciation": "biga wayo"
+      },
+      {
+        "origin": "It's too late.",
+        "target": "너무 늦어요",
+        "category": 18,
+        "pronunciation": "neomu neuj-eoyo"
+      },
+      {
+        "origin": "It's very important.",
+        "target": "아주 중요해요",
+        "category": 18,
+        "pronunciation": "aju jung-yohaeyo"
+      },
+      {
+        "origin": "It will arrive shortly.",
+        "target": "곧 도착할거예요",
+        "category": 18,
+        "pronunciation": "god dochaghalgeoyeyo"
+      },
+      {
+        "origin": "The roads are slippery.",
+        "target": "길이 미끄러워요",
+        "category": 18,
+        "pronunciation": "gil-i mikkeuleowoyo"
+      },
+      {
+        "origin": "What's the room rate?",
+        "target": "방값이 얼마예요?",
+        "category": 18,
+        "pronunciation": "bang-gabs-i eolmayeyo?"
+      },
+      {
+        "origin": "What will the weather be like tomorrow?",
+        "target": "내일 날씨가 어떨가요?",
+        "category": 18,
+        "pronunciation": "naeil nalssiga eotteolgayo?"
+      }
+
+],
+  "categories":[
+      {
+        "id": 1,
+        "name": "Common expressions",
+        "translatedName": "일상적인 표현들"
+      },
+      {
+        "id": 2,
+        "name": "Greetings",
+        "translatedName": "인사"
+      },
+      {
+        "id": 3,
+        "name": "Travel, directions",
+        "translatedName": "여행, 방향"
+      },
+      {
+        "id": 4,
+        "name": "Numbers and money",
+        "translatedName": "숫자와 돈"
+      },
+      {
+        "id": 5,
+        "name": "Location",
+        "translatedName": "위치"
+      },
+      {
+        "id": 6,
+        "name": "Phone/internet/mail",
+        "translatedName": "전화/인터넷/우편"
+      },
+      {
+        "id": 7,
+        "name": "Time and dates",
+        "translatedName": "시간과 날짜"
+      },
+      {
+        "id": 8,
+        "name": "Accommodations",
+        "translatedName": "숙박"
+      },
+      {
+        "id": 9,
+        "name": "Dining",
+        "translatedName": "식사"
+      },
+      {
+        "id": 10,
+        "name": "Making friends",
+        "translatedName": "친구 사귀기"
+      },
+      {
+        "id": 11,
+        "name": "Entertainment",
+        "translatedName": "오락"
+      },
+      {
+        "id": 12,
+        "name": "Shopping",
+        "translatedName": "쇼핑"
+      },
+      {
+        "id": 13,
+        "name": "Communication difficulties",
+        "translatedName": "대화의 문제"
+      },
+      {
+        "id": 14,
+        "name": "Emergency and health",
+        "translatedName": "응급 상황과 건강"
+      },
+      {
+        "id": 16,
+        "name": "General questions",
+        "translatedName": "일반적인 질문들"
+      },
+      {
+        "id": 17,
+        "name": "Work",
+        "translatedName": "일"
+      },
+      {
+        "id": 18,
+        "name": "Weather",
+        "translatedName": "날씨"
+      }
+  ]}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="Settings"
+    >
+    <CheckBoxPreference
+        android:key="pref_auto_play"
+        android:title="Auto play"
+        android:summary="Auto read the phrase when clicked"
+        android:defaultValue="true" />
+    <!--<SeekBarPreference
+        android:key="pref_voice_speed"
+        android:title="Voice Speed"
+        android:max="2"
+        android:defaultValue="1"
+        />-->
+    <Preference
+        android:key="pref_delete_favorites"
+        android:title="Clear favorites list"
+        android:summary="You have 10 favorite phrases"
+        />
+    <Preference
+        android:title="About"
+        android:summary="Version 1.0.0"
+
+        />
+
+</PreferenceScreen>
