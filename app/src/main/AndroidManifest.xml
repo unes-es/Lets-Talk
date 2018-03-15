@@ -22,9 +22,8 @@
         <activity
             android:name=".Phrases"
             android:label="@string/title_activity_phrases"
-            android:parentActivityName=".Categories"
             android:theme="@style/AppTheme.NoActionBar">
-           <!-- <meta-data
+            <!--<meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".Categories" />-->
         </activity>
@@ -32,6 +31,8 @@
             android:name=".MainActivity"
             android:label="@string/title_activity_main"
             android:theme="@style/AppTheme.NoActionBar">
+
+
 
             <!--
               <intent-filter>

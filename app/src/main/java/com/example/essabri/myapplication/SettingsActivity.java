@@ -11,8 +11,7 @@ public class SettingsActivity extends AppCompatPreferenceActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        android.app.ActionBar actionBar = getActionBar();
-        if (actionBar != null) {
+        if (getActionBar() != null) {
             getActionBar().setDisplayShowHomeEnabled(true);
             getActionBar().setDisplayHomeAsUpEnabled(true);
         }

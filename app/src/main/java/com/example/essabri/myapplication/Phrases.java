@@ -55,15 +55,18 @@ public class Phrases extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_phrases);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        toolbar.setNavigationIcon(R.drawable.ic_arrow_back_white_24dp);
-        toolbar.setNavigationOnClickListener(new View.OnClickListener() {
+        /*toolbar.setNavigationIcon(R.drawable.ic_arrow_back_white_24dp);
+          toolbar.setNavigationOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 onBackPressed();
             }
-        });
+        });*/
         setSupportActionBar(toolbar);
-        //getSupportActionBar().setDefaultDisplayHomeAsUpEnabled(true);
+        if (getSupportActionBar() != null) {
+            getSupportActionBar().setDisplayShowHomeEnabled(true);
+            getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        }
         sharedPref = PreferenceManager.getDefaultSharedPreferences(this);
         noDataView = (ConstraintLayout)findViewById(R.id.emptyListMessage);
         noDataMsg = (TextView) findViewById(R.id.emptyMsg);
@@ -274,6 +277,9 @@ public class Phrases extends AppCompatActivity {
             case R.id.action_settings:
                 Intent s = new Intent(this,SettingsActivity.class);
                 startActivity(s);
+                break;
+            case android.R.id.home:
+                onBackPressed();
                 break;
             default:
                 return super.onOptionsItemSelected(item);
