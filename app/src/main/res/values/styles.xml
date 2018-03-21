@@ -6,7 +6,13 @@
         <item name="colorPrimary">@color/primary</item>
         <item name="colorPrimaryDark">@color/primary_dark</item>
         <item name="colorAccent">@color/colorAccent</item>
-        <item name="android:textColorPrimary">@color/colorAccent</item>
+        <!--<item name="android:textColorPrimary">@color/colorAccent</item>-->
+    </style>
+
+
+
+    <style name="AppThemeList" parent="AppTheme">
+        <item name="android:textColorPrimary">@color/primary</item>
     </style>
 
     <style name="PrimaryText">

@@ -15,10 +15,10 @@ import java.util.ArrayList;
 
 public class CategoriesListAdapter extends BaseAdapter {
 
-    Context context;
+    private Context context;
 
-    ArrayList<Category> categories = new ArrayList<>();
-    ArrayList<Category> backup = new ArrayList<>();
+    private ArrayList<Category> categories = new ArrayList<>();
+    private ArrayList<Category> backup = new ArrayList<>();
 
     CategoriesListAdapter(Context context){
         this.context = context;

@@ -36,15 +36,6 @@ public class Categories extends AppCompatActivity {
         adapter = new CategoriesListAdapter(this);
         categoriesListView.setAdapter(adapter);
 
-        Util.tts = new TextToSpeech(this, new TextToSpeech.OnInitListener() {
-            @Override
-            public void onInit(int status) {
-                if(status != TextToSpeech.ERROR) {
-                    Util.tts.setLanguage(Locale.KOREAN);
-                }
-            }
-
-        });
 
         categoriesListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override

@@ -2,6 +2,7 @@ package com.example.essabri.myapplication;
 
 import android.content.Context;
 import android.speech.tts.TextToSpeech;
+import android.speech.tts.UtteranceProgressListener;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -23,6 +24,7 @@ public class PhrasesListAdapter extends BaseExpandableListAdapter {
 
     ArrayList<Phrase> phrases = new ArrayList<>();
     private ArrayList<Phrase> backup = new ArrayList<>();
+    ToggleButton t;
 
     PhrasesListAdapter(Context context,ArrayList<Phrase> _phrases){
         Log.d("mtag","PhrasesListAdapter");
@@ -93,9 +95,34 @@ public class PhrasesListAdapter extends BaseExpandableListAdapter {
 
         playPauseBtn.setTag(groupPosition);
 
-        playPauseBtn.setOnClickListener(new View.OnClickListener() {
+        /*playPauseBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                t = (ToggleButton)v;
+                Util.tts.setOnUtteranceProgressListener(new UtteranceProgressListener() {
+                    @Override
+                    public void onStart(String utteranceId) {
+                        Log.d("mtag","start"+" "+utteranceId);
+                        //playPauseBtn.setChecked(true);
+                        test(true);
+                    }
+                    @Override
+                    public void onDone(String utteranceId) {
+                        Log.d("mtag","done"+" "+utteranceId);
+                        test(false);
+                    }
+                    @Override
+                    public void onError(String utteranceId) {
+                        Log.d("mtag","error"+" "+utteranceId);
+                        test(false);
+                    }
+                    @Override
+                    public void onStop(String utteranceId, boolean interrupted) {
+                        super.onStop(utteranceId, interrupted);
+                        Log.d("mtag","stop"+" "+utteranceId+" "+interrupted);
+                        test(false);
+                    }
+                });
                 Log.d("mtag",playPauseBtn.isChecked()+"");
                 if(Util.tts.isSpeaking()){
                     Util.tts.stop();
@@ -105,10 +132,14 @@ public class PhrasesListAdapter extends BaseExpandableListAdapter {
                 }
 
             }
-        });
+        });*/
         //Log.d("mtag","View opened");
         //((Phrases)context).onListViewExpand(convertView,groupPosition);
         return convertView;
+    }
+
+    void test(boolean c){
+        t.setChecked(c);
     }
 
     @Override
