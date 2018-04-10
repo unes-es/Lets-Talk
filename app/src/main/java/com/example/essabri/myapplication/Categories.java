@@ -3,25 +3,24 @@ package com.example.essabri.myapplication;
 import android.content.Intent;
 import android.os.Bundle;
 import android.speech.tts.TextToSpeech;
-import android.speech.tts.UtteranceProgressListener;
 import android.support.v4.view.MenuItemCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.SearchView;
 import android.support.v7.widget.Toolbar;
-import android.util.Log;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
+
 import java.util.Locale;
 
 public class Categories extends AppCompatActivity {
 
     ListView categoriesListView;
     CategoriesListAdapter adapter;
-    //TextToSpeech tts;
+    private int MY_DATA_CHECK_CODE = 0;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -30,6 +29,22 @@ public class Categories extends AppCompatActivity {
         //toolbar.setTitleTextColor(getResources().getColor(R.color.colorAccent));
         setSupportActionBar(toolbar);
 
+
+
+        Intent checkTTSIntent = new Intent();
+        checkTTSIntent.setAction(TextToSpeech.Engine.ACTION_CHECK_TTS_DATA);
+        startActivityForResult(checkTTSIntent, MY_DATA_CHECK_CODE);
+
+        Util.tts = new TextToSpeech(this, new TextToSpeech.OnInitListener() {
+            @Override
+            public void onInit(int status) {
+                if(status != TextToSpeech.ERROR) {
+                    Util.tts.setLanguage(Locale.KOREAN);
+                    Util.tts.setSpeechRate(1);
+                }
+            }
+
+        });
 
         new Data.Manager(this);
         categoriesListView = (ListView)findViewById(R.id.categoriesListView);
@@ -41,13 +56,15 @@ public class Categories extends AppCompatActivity {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 Intent i = new Intent(Categories.this,Phrases.class);
+                //Intent i = new Intent();
                 i.putExtra("categoryId_",adapter.getItemId(position));
+                //i.setAction(TextToSpeech.Engine.ACTION_CHECK_TTS_DATA);
+                //startActivityForResult(i, 1);
                 startActivity(i);
             }
         });
 
     }
-
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {

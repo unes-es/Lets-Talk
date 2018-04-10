@@ -1,11 +1,13 @@
 package com.example.essabri.myapplication;
 
-import android.app.Application;
 import android.content.Context;
+import android.media.AudioManager;
 import android.speech.tts.TextToSpeech;
+import android.widget.Toast;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
+
 import java.io.InputStream;
 import java.util.HashMap;
 
@@ -43,5 +45,12 @@ public final class Util {
 
     public static String toUpperCaseSentence(String text){
         return text.substring(0,1).toUpperCase()+text.substring(1);
+    }
+
+    public static void audioVolumeTest(Context context){
+        AudioManager audioManager = (AudioManager) context.getSystemService(Context.AUDIO_SERVICE);
+        if(audioManager.getStreamVolume(AudioManager.STREAM_MUSIC)<5){
+            Toast.makeText(context, "Turn up the volume", Toast.LENGTH_SHORT).show();
+        }
     }
 }

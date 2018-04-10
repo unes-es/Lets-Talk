@@ -91,55 +91,38 @@ public class PhrasesListAdapter extends BaseExpandableListAdapter {
             }
         });
 
-        final ToggleButton playPauseBtn = (ToggleButton)convertView.findViewById(R.id.playPauseBtn);
+        final ImageButton playPauseBtn = (ImageButton)convertView.findViewById(R.id.playPauseBtn);
 
-        playPauseBtn.setTag(groupPosition);
-
-        /*playPauseBtn.setOnClickListener(new View.OnClickListener() {
+        playPauseBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                t = (ToggleButton)v;
                 Util.tts.setOnUtteranceProgressListener(new UtteranceProgressListener() {
                     @Override
                     public void onStart(String utteranceId) {
                         Log.d("mtag","start"+" "+utteranceId);
-                        //playPauseBtn.setChecked(true);
-                        test(true);
                     }
                     @Override
                     public void onDone(String utteranceId) {
                         Log.d("mtag","done"+" "+utteranceId);
-                        test(false);
                     }
                     @Override
                     public void onError(String utteranceId) {
                         Log.d("mtag","error"+" "+utteranceId);
-                        test(false);
                     }
                     @Override
                     public void onStop(String utteranceId, boolean interrupted) {
                         super.onStop(utteranceId, interrupted);
                         Log.d("mtag","stop"+" "+utteranceId+" "+interrupted);
-                        test(false);
                     }
                 });
-                Log.d("mtag",playPauseBtn.isChecked()+"");
-                if(Util.tts.isSpeaking()){
+                if (Util.tts.isSpeaking()){
                     Util.tts.stop();
                 }
-                if(playPauseBtn.isChecked()){
-                    Util.tts.speak(phrase.target, TextToSpeech.QUEUE_FLUSH, null, phrase.target);
-                }
-
+                Util.audioVolumeTest(context);
+                Util.tts.speak(phrase.target, TextToSpeech.QUEUE_FLUSH, null, phrase.target);
             }
-        });*/
-        //Log.d("mtag","View opened");
-        //((Phrases)context).onListViewExpand(convertView,groupPosition);
+        });
         return convertView;
-    }
-
-    void test(boolean c){
-        t.setChecked(c);
     }
 
     @Override

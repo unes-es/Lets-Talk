@@ -16,7 +16,7 @@
         android:id="@+id/action_settings"
         android:title="@string/action_settings"
         android:icon="@drawable/ic_settings_black_24dp"
-        app:showAsAction="always" />
+        app:showAsAction="ifRoom" />
 
 
 </menu>

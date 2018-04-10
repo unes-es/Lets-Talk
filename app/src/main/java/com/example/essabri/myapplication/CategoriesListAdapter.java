@@ -5,6 +5,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import java.util.ArrayList;
@@ -29,12 +30,19 @@ public class CategoriesListAdapter extends BaseAdapter {
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
 
+        Category category = categories.get(position);
+
         if (convertView == null) {
             LayoutInflater inflater = LayoutInflater.from(context);
             convertView = inflater.inflate(R.layout.categoy_list_item,parent,false);
         }
-        ((TextView)convertView.findViewById(R.id.categoryTextView)).setText(Util.toUpperCaseSentence(categories.get(position).name));
-        ((TextView)convertView.findViewById(R.id.translatedName)).setText(Util.toUpperCaseSentence(categories.get(position).translatedName));
+
+
+        if(context.getResources().getIdentifier("c"+category.id, "drawable", context.getPackageName())>0) {
+            ((ImageView) convertView.findViewById(R.id.categoryImageView)).setImageDrawable(context.getDrawable(context.getResources().getIdentifier("c" + category.id, "drawable", context.getPackageName())));
+        }
+        ((TextView)convertView.findViewById(R.id.categoryTextView)).setText(Util.toUpperCaseSentence(category.name));
+        ((TextView)convertView.findViewById(R.id.translatedName)).setText(Util.toUpperCaseSentence(category.translatedName));
 
         return convertView;
     }

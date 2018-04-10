@@ -8,16 +8,11 @@ import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.speech.tts.TextToSpeech;
-import android.speech.tts.UtteranceProgressListener;
-import android.support.annotation.BoolRes;
 import android.support.constraint.ConstraintLayout;
 import android.support.v4.view.MenuItemCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.SearchView;
-import android.support.v7.widget.ShareActionProvider;
 import android.support.v7.widget.Toolbar;
-import android.text.Layout;
-import android.util.Log;
 import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.Menu;
@@ -26,19 +21,15 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
-import android.widget.ArrayAdapter;
 import android.widget.ExpandableListView;
+import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.PopupWindow;
-import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
-import android.widget.ToggleButton;
 
-import java.util.Locale;
-
-public class Phrases extends AppCompatActivity {
+public class Phrases extends AppCompatActivity{
 
     ExpandableListView phrasesListView;
     PhrasesListAdapter adapter;
@@ -50,42 +41,29 @@ public class Phrases extends AppCompatActivity {
     boolean b;
     Menu mainMenu;
     SharedPreferences sharedPref;
-    ToggleButton btn;
+    ImageButton btn;
     View targetPhraseView;
+    Context context;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_phrases);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        /*toolbar.setNavigationIcon(R.drawable.ic_arrow_back_white_24dp);
-          toolbar.setNavigationOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                onBackPressed();
-            }
-        });*/
 
-        Util.tts = new TextToSpeech(this, new TextToSpeech.OnInitListener() {
-            @Override
-            public void onInit(int status) {
-                if(status != TextToSpeech.ERROR) {
-                    Util.tts.setLanguage(Locale.KOREAN);
-                }
-            }
-
-        });
         setSupportActionBar(toolbar);
         if (getSupportActionBar() != null) {
             getSupportActionBar().setDisplayShowHomeEnabled(true);
             getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         }
+
+        context = this;
+
         sharedPref = PreferenceManager.getDefaultSharedPreferences(this);
         noDataView = (ConstraintLayout)findViewById(R.id.emptyListMessage);
         noDataMsg = (TextView) findViewById(R.id.emptyMsg);
         noDataImg = (ImageView) findViewById(R.id.emptyListImg);
-
-
-
 
         phrasesListView = (ExpandableListView)findViewById(R.id.phrasesListView);
         if (getIntent().hasExtra("categoryId_")) {
@@ -100,53 +78,26 @@ public class Phrases extends AppCompatActivity {
             isFavoriteView = true;
         }
 
-
-
         phrasesListView.setAdapter(adapter);
-
-        /*Util.tts.setOnUtteranceProgressListener(new UtteranceProgressListener() {
-            @Override
-            public void onStart(String utteranceId) {
-                Log.d("mtag","start"+" "+utteranceId);
-                //((ToggleButton)phrasesListView.findViewWithTag(test)).setChecked(true);
-                //((ToggleButton)targetPhraseView.findViewById(R.id.playPauseBtn)).setChecked(true);
-            }
-            @Override
-            public void onDone(String utteranceId) {
-                Log.d("mtag","done"+" "+utteranceId);
-                //((ToggleButton)phrasesListView.findViewWithTag(test)).setChecked(false);
-                //((ToggleButton)targetPhraseView.findViewById(R.id.playPauseBtn)).setChecked(false);
-            }
-            @Override
-            public void onError(String utteranceId) {
-                Log.d("mtag","error"+" "+utteranceId);
-                //((ToggleButton)phrasesListView.findViewWithTag(test)).setChecked(false);
-                //((ToggleButton)targetPhraseView.findViewById(R.id.playPauseBtn)).setChecked(false);
-            }
-            @Override
-            public void onStop(String utteranceId, boolean interrupted) {
-                super.onStop(utteranceId, interrupted);
-                Log.d("mtag","stop"+" "+utteranceId+" "+interrupted);
-                //((ToggleButton)phrasesListView.findViewWithTag(test)).setChecked(false);
-                //((ToggleButton)targetPhraseView.findViewById(R.id.playPauseBtn)).setChecked(false);
-            }
-        });*/
 
         phrasesListView.setOnGroupExpandListener(new ExpandableListView.OnGroupExpandListener() {
             int previousGroup = -1;
             @Override
             public void onGroupExpand(int groupPosition)
             {
-                Log.d("mtag","Expanded");
                 test = groupPosition;
-                /*if (sharedPref.getBoolean("pref_auto_play",true)) {
+                if (sharedPref.getBoolean("pref_auto_play",true)) {
                     //Util.tts.setSpeechRate(sharedPref.getInt("pref_auto_play",1));
-                    Util.tts.setSpeechRate(1);
+                    if (Util.tts.isSpeaking()){
+                        Util.tts.stop();
+                    }
+
+                    Util.audioVolumeTest(context);
                     Util.tts.speak(adapter.phrases.get(groupPosition).target,
                             TextToSpeech.QUEUE_FLUSH,
                             null,
                             adapter.phrases.get(groupPosition).target);
-                }*/
+                }
                 if(groupPosition != previousGroup)
                     phrasesListView.collapseGroup(previousGroup);
                 previousGroup = groupPosition;
@@ -161,53 +112,11 @@ public class Phrases extends AppCompatActivity {
                 }
             }
         });*/
+
+
     }
 
 
-
-
-    public void onListViewExpand(View v,int pos){
-        /*if (test == pos)
-        targetPhraseView = v;
-        Log.d("mtag","onListViewExpand");
-
-        Util.tts.setOnUtteranceProgressListener(new UtteranceProgressListener() {
-            @Override
-            public void onStart(String utteranceId) {
-                Log.d("mtag","start"+" "+utteranceId);
-                //((ToggleButton)phrasesListView.findViewWithTag(test)).setChecked(true);
-                ((ToggleButton)targetPhraseView.findViewById(R.id.playPauseBtn)).setChecked(true);
-            }
-            @Override
-            public void onDone(String utteranceId) {
-                Log.d("mtag","done"+" "+utteranceId);
-                //((ToggleButton)phrasesListView.findViewWithTag(test)).setChecked(false);
-                ((ToggleButton)targetPhraseView.findViewById(R.id.playPauseBtn)).setChecked(false);
-            }
-            @Override
-            public void onError(String utteranceId) {
-                Log.d("mtag","error"+" "+utteranceId);
-                //((ToggleButton)phrasesListView.findViewWithTag(test)).setChecked(false);
-                ((ToggleButton)targetPhraseView.findViewById(R.id.playPauseBtn)).setChecked(false);
-            }
-            @Override
-            public void onStop(String utteranceId, boolean interrupted) {
-                super.onStop(utteranceId, interrupted);
-                Log.d("mtag","stop"+" "+utteranceId+" "+interrupted);
-                //((ToggleButton)phrasesListView.findViewWithTag(test)).setChecked(false);
-                ((ToggleButton)targetPhraseView.findViewById(R.id.playPauseBtn)).setChecked(false);
-            }
-        });
-
-        if (sharedPref.getBoolean("pref_auto_play",true)) {
-            //Util.tts.setSpeechRate(sharedPref.getInt("pref_auto_play",1));
-            Util.tts.setSpeechRate(1);
-            Util.tts.speak(adapter.phrases.get(pos).target,
-                    TextToSpeech.QUEUE_FLUSH,
-                    null,
-                    adapter.phrases.get(pos).target);
-        }*/
-    }
 
     void onDataChanged(int imgDrawable,String msg){
         if (adapter.phrases.size() == 0) {
@@ -268,45 +177,10 @@ public class Phrases extends AppCompatActivity {
     }
 
 
-    public void playPauseBtnClicked(View v){
-        Log.d("mtag","Clicked "+((ToggleButton)v).isChecked());
-        btn = (ToggleButton)v;
-        Util.tts.setOnUtteranceProgressListener(new UtteranceProgressListener() {
-            @Override
-            public void onStart(String utteranceId) {
-                Log.d("mtag","start"+" "+utteranceId);
-                test(true);
-            }
-            @Override
-            public void onDone(String utteranceId) {
-                Log.d("mtag","done"+" "+utteranceId);
-                test(false);
-            }
-            @Override
-            public void onError(String utteranceId) {
-                Log.d("mtag","error"+" "+utteranceId);
-                test(false);
-            }
-            @Override
-            public void onStop(String utteranceId, boolean interrupted) {
-                super.onStop(utteranceId, interrupted);
-                Log.d("mtag","stop"+" "+utteranceId+" "+interrupted);
-                test(false);
-            }
-        });
-        Util.tts.speak("당신을 괴롭히고 싶지 않아요", TextToSpeech.QUEUE_FLUSH, null, "당신을 괴롭히고 싶지 않아요");
-        //((ToggleButton)v).setChecked(b);
-    }
-
-    void test(boolean c){
-        btn.setChecked(c);
-    }
-
     @Override
     protected void onResume() {
         super.onResume();
         adapter.notifyDataSetChanged();
-        Log.d("mtag","onResume");
     }
 
     @Override
