@@ -56,6 +56,7 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+        app:titleTextColor="@color/colorAccent"
         tools:layout_constraintTop_creator="1" />
 
     <ExpandableListView

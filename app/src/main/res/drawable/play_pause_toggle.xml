@@ -5,5 +5,5 @@
         android:drawable="@drawable/ic_play_arrow_black_24dp" />
     <item
         android:state_checked="true"
-        android:drawable="@drawable/ic_play_arrow_black_24dp" />
+        android:drawable="@drawable/ic_pause_black_24dp" />
 </selector>

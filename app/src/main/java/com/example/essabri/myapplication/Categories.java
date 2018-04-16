@@ -14,8 +14,6 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
 
-import java.util.Locale;
-
 public class Categories extends AppCompatActivity {
 
     ListView categoriesListView;
@@ -35,16 +33,6 @@ public class Categories extends AppCompatActivity {
         checkTTSIntent.setAction(TextToSpeech.Engine.ACTION_CHECK_TTS_DATA);
         startActivityForResult(checkTTSIntent, MY_DATA_CHECK_CODE);
 
-        Util.tts = new TextToSpeech(this, new TextToSpeech.OnInitListener() {
-            @Override
-            public void onInit(int status) {
-                if(status != TextToSpeech.ERROR) {
-                    Util.tts.setLanguage(Locale.KOREAN);
-                    Util.tts.setSpeechRate(1);
-                }
-            }
-
-        });
 
         new Data.Manager(this);
         categoriesListView = (ListView)findViewById(R.id.categoriesListView);

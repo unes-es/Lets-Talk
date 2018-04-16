@@ -8,11 +8,13 @@ import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.speech.tts.TextToSpeech;
+import android.speech.tts.UtteranceProgressListener;
 import android.support.constraint.ConstraintLayout;
 import android.support.v4.view.MenuItemCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.SearchView;
 import android.support.v7.widget.Toolbar;
+import android.util.Log;
 import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.Menu;
@@ -22,14 +24,15 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ExpandableListView;
-import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.PopupWindow;
 import android.widget.TextView;
 import android.widget.Toast;
 
-public class Phrases extends AppCompatActivity{
+import java.util.Locale;
+
+public class Phrases extends AppCompatActivity implements TextToSpeech.OnInitListener{
 
     ExpandableListView phrasesListView;
     PhrasesListAdapter adapter;
@@ -37,23 +40,56 @@ public class Phrases extends AppCompatActivity{
     ConstraintLayout noDataView;
     TextView noDataMsg;
     ImageView noDataImg;
-    int test;
-    boolean b;
     Menu mainMenu;
     SharedPreferences sharedPref;
-    ImageButton btn;
-    View targetPhraseView;
     Context context;
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    public void onInit(int status) {
+        if(status != TextToSpeech.ERROR) {
+            Util.tts.setLanguage(Locale.KOREAN);
+            Util.tts.setSpeechRate(1);
+        }
+        Util.tts.setOnUtteranceProgressListener(new UtteranceProgressListener() {
+            @Override
+            public void onStart(String utteranceId) {
+                Log.d("mtag","start"+" "+utteranceId);
+                test("start");
+            }
+            @Override
+            public void onDone(String utteranceId) {
+                Log.d("mtag","done"+" "+utteranceId);
+                test("done");
 
+            }
+            @Override
+            public void onError(String utteranceId) {
+                Log.d("mtag","error"+" "+utteranceId);
+                test("error");
+
+            }
+            @Override
+            public void onStop(String utteranceId, boolean interrupted) {
+                super.onStop(utteranceId, interrupted);
+                Log.d("mtag","stop"+" "+utteranceId+" "+interrupted);
+                test("stop");
+
+            }
+        });
+    }
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_phrases);
+
+        Util.tts = new TextToSpeech(this,this);
+
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
 
         setSupportActionBar(toolbar);
         if (getSupportActionBar() != null) {
+            getSupportActionBar().setHomeAsUpIndicator(getDrawable(R.drawable.ic_arrow_back_white_24dp));
             getSupportActionBar().setDisplayShowHomeEnabled(true);
             getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         }
@@ -85,38 +121,24 @@ public class Phrases extends AppCompatActivity{
             @Override
             public void onGroupExpand(int groupPosition)
             {
-                test = groupPosition;
+                if (Util.tts.isSpeaking()){
+                    Util.tts.stop();
+                }
                 if (sharedPref.getBoolean("pref_auto_play",true)) {
                     //Util.tts.setSpeechRate(sharedPref.getInt("pref_auto_play",1));
-                    if (Util.tts.isSpeaking()){
-                        Util.tts.stop();
-                    }
-
                     Util.audioVolumeTest(context);
-                    Util.tts.speak(adapter.phrases.get(groupPosition).target,
-                            TextToSpeech.QUEUE_FLUSH,
-                            null,
-                            adapter.phrases.get(groupPosition).target);
+                    Util.tts.speak(adapter.phrases.get(groupPosition).target,TextToSpeech.QUEUE_FLUSH, null, adapter.phrases.get(groupPosition).target);
                 }
                 if(groupPosition != previousGroup)
                     phrasesListView.collapseGroup(previousGroup);
                 previousGroup = groupPosition;
             }
         });
-
-        /*phrasesListView.setOnGroupCollapseListener(new ExpandableListView.OnGroupCollapseListener() {
-            @Override
-            public void onGroupCollapse(int groupPosition) {
-                if(Util.tts.isSpeaking()){
-                    Util.tts.stop();
-                }
-            }
-        });*/
-
-
     }
 
-
+    void test(String msg){
+        Toast.makeText(context, msg, Toast.LENGTH_SHORT).show();
+    }
 
     void onDataChanged(int imgDrawable,String msg){
         if (adapter.phrases.size() == 0) {
@@ -134,6 +156,9 @@ public class Phrases extends AppCompatActivity{
 
 
     void onCopyToClipboardClicked(Phrase phrase){
+        if (Util.tts.isSpeaking()){
+            Util.tts.stop();
+        }
         LayoutInflater inflater = LayoutInflater.from(this);
         View list = inflater.inflate(R.layout.phrase_to_copy_list,null);
         String[] values = new String[] {
@@ -145,7 +170,7 @@ public class Phrases extends AppCompatActivity{
         SimpleListAdapter adapter = new SimpleListAdapter(this,values);
         final ListView listView = (ListView)list.findViewById(R.id.listCopy);
         listView.setAdapter(adapter);
-        final PopupWindow listWindow = new PopupWindow(list, ViewGroup.LayoutParams.WRAP_CONTENT, ViewGroup.LayoutParams.WRAP_CONTENT);
+        final PopupWindow listWindow = new PopupWindow(list, ViewGroup.LayoutParams.WRAP_CONTENT, ViewGroup.LayoutParams.WRAP_CONTENT,true);
 
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
@@ -169,6 +194,9 @@ public class Phrases extends AppCompatActivity{
     }
 
     public void onShareBtnClicked(Phrase phrase){
+        if (Util.tts.isSpeaking()){
+            Util.tts.stop();
+        }
         Intent sendIntent = new Intent();
         sendIntent.setAction(Intent.ACTION_SEND);
         sendIntent.putExtra(Intent.EXTRA_TEXT, phrase.origin+": "+phrase.target);
@@ -181,6 +209,23 @@ public class Phrases extends AppCompatActivity{
     protected void onResume() {
         super.onResume();
         adapter.notifyDataSetChanged();
+    }
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+        if (Util.tts.isSpeaking()){
+            Util.tts.stop();
+        }
+    }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+
+        if (Util.tts.isSpeaking()){
+            Util.tts.stop();
+        }
     }
 
     @Override
@@ -205,7 +250,7 @@ public class Phrases extends AppCompatActivity{
                 @Override
                 public boolean onQueryTextChange(String newText) {
                     adapter.filter(newText);
-                    //onDataChanged(R.drawable.ic_search_blue_24dp, "No result for \"" + newText + "\"!!");
+                    onDataChanged(R.drawable.ic_search_blue_24dp, "No result for \"" + newText + "\"!!");
                     return false;
                 }
             });

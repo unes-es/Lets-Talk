@@ -2,7 +2,6 @@ package com.example.essabri.myapplication;
 
 import android.content.Context;
 import android.speech.tts.TextToSpeech;
-import android.speech.tts.UtteranceProgressListener;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -96,25 +95,6 @@ public class PhrasesListAdapter extends BaseExpandableListAdapter {
         playPauseBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Util.tts.setOnUtteranceProgressListener(new UtteranceProgressListener() {
-                    @Override
-                    public void onStart(String utteranceId) {
-                        Log.d("mtag","start"+" "+utteranceId);
-                    }
-                    @Override
-                    public void onDone(String utteranceId) {
-                        Log.d("mtag","done"+" "+utteranceId);
-                    }
-                    @Override
-                    public void onError(String utteranceId) {
-                        Log.d("mtag","error"+" "+utteranceId);
-                    }
-                    @Override
-                    public void onStop(String utteranceId, boolean interrupted) {
-                        super.onStop(utteranceId, interrupted);
-                        Log.d("mtag","stop"+" "+utteranceId+" "+interrupted);
-                    }
-                });
                 if (Util.tts.isSpeaking()){
                     Util.tts.stop();
                 }
@@ -125,14 +105,7 @@ public class PhrasesListAdapter extends BaseExpandableListAdapter {
         return convertView;
     }
 
-    @Override
-    public void onGroupExpanded(int groupPosition) {
-        super.onGroupExpanded(groupPosition);
-        Log.d("mtag","AdapterExpand");
-    }
-
     public void filter(String text){
-        Log.d("mtag","filter "+text);
         phrases.clear();
         if(!text.isEmpty()) {
             for (Phrase phrase : backup) {
@@ -146,7 +119,6 @@ public class PhrasesListAdapter extends BaseExpandableListAdapter {
         else {
             phrases.addAll(backup);
         }
-        Log.d("mtag","filter "+phrases.size());
         notifyDataSetChanged();
     }
 
