@@ -1,7 +1,6 @@
 package com.example.essabri.myapplication;
 
 import android.content.Context;
-import android.speech.tts.TextToSpeech;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -90,18 +89,21 @@ public class PhrasesListAdapter extends BaseExpandableListAdapter {
             }
         });
 
-        final ImageButton playPauseBtn = (ImageButton)convertView.findViewById(R.id.playPauseBtn);
+        final ToggleButton playPauseBtn = (ToggleButton)convertView.findViewById(R.id.playPauseBtn);
+
+        ((Phrases)context).ttsController.ttsPlayPause = playPauseBtn;
 
         playPauseBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                if (Util.tts.isSpeaking()){
-                    Util.tts.stop();
+                if (((Phrases)context).ttsController.tts.isSpeaking()){
+                    ((Phrases)context).ttsController.tts.stop();
                 }
                 Util.audioVolumeTest(context);
-                Util.tts.speak(phrase.target, TextToSpeech.QUEUE_FLUSH, null, phrase.target);
+                ((Phrases)context).ttsController.speak(phrase.target);
             }
         });
+        //Toast.makeText(context, "aa"+playPauseBtn.getId(), Toast.LENGTH_SHORT).show();
         return convertView;
     }
 

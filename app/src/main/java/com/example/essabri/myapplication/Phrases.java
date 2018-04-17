@@ -7,14 +7,11 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
-import android.speech.tts.TextToSpeech;
-import android.speech.tts.UtteranceProgressListener;
 import android.support.constraint.ConstraintLayout;
 import android.support.v4.view.MenuItemCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.SearchView;
 import android.support.v7.widget.Toolbar;
-import android.util.Log;
 import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.Menu;
@@ -30,9 +27,7 @@ import android.widget.PopupWindow;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import java.util.Locale;
-
-public class Phrases extends AppCompatActivity implements TextToSpeech.OnInitListener{
+public class Phrases extends AppCompatActivity {
 
     ExpandableListView phrasesListView;
     PhrasesListAdapter adapter;
@@ -43,49 +38,17 @@ public class Phrases extends AppCompatActivity implements TextToSpeech.OnInitLis
     Menu mainMenu;
     SharedPreferences sharedPref;
     Context context;
+    TextToSpeechController ttsController;
 
-    @Override
-    public void onInit(int status) {
-        if(status != TextToSpeech.ERROR) {
-            Util.tts.setLanguage(Locale.KOREAN);
-            Util.tts.setSpeechRate(1);
-        }
-        Util.tts.setOnUtteranceProgressListener(new UtteranceProgressListener() {
-            @Override
-            public void onStart(String utteranceId) {
-                Log.d("mtag","start"+" "+utteranceId);
-                test("start");
-            }
-            @Override
-            public void onDone(String utteranceId) {
-                Log.d("mtag","done"+" "+utteranceId);
-                test("done");
-
-            }
-            @Override
-            public void onError(String utteranceId) {
-                Log.d("mtag","error"+" "+utteranceId);
-                test("error");
-
-            }
-            @Override
-            public void onStop(String utteranceId, boolean interrupted) {
-                super.onStop(utteranceId, interrupted);
-                Log.d("mtag","stop"+" "+utteranceId+" "+interrupted);
-                test("stop");
-
-            }
-        });
-    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_phrases);
-
-        Util.tts = new TextToSpeech(this,this);
-
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+
+        ttsController = new TextToSpeechController(this);
+
 
         setSupportActionBar(toolbar);
         if (getSupportActionBar() != null) {
@@ -113,27 +76,28 @@ public class Phrases extends AppCompatActivity implements TextToSpeech.OnInitLis
             setTitle(R.string.favorites);
             isFavoriteView = true;
         }
-
         phrasesListView.setAdapter(adapter);
+
 
         phrasesListView.setOnGroupExpandListener(new ExpandableListView.OnGroupExpandListener() {
             int previousGroup = -1;
             @Override
             public void onGroupExpand(int groupPosition)
             {
-                if (Util.tts.isSpeaking()){
-                    Util.tts.stop();
+                if (ttsController.tts.isSpeaking()){
+                    ttsController.tts.stop();
                 }
                 if (sharedPref.getBoolean("pref_auto_play",true)) {
-                    //Util.tts.setSpeechRate(sharedPref.getInt("pref_auto_play",1));
+                    //ttsController.tts.setSpeechRate(sharedPref.getInt("pref_auto_play",1));
                     Util.audioVolumeTest(context);
-                    Util.tts.speak(adapter.phrases.get(groupPosition).target,TextToSpeech.QUEUE_FLUSH, null, adapter.phrases.get(groupPosition).target);
+                    ttsController.speak(adapter.phrases.get(groupPosition).target);
                 }
                 if(groupPosition != previousGroup)
                     phrasesListView.collapseGroup(previousGroup);
                 previousGroup = groupPosition;
             }
         });
+
     }
 
     void test(String msg){
@@ -156,8 +120,8 @@ public class Phrases extends AppCompatActivity implements TextToSpeech.OnInitLis
 
 
     void onCopyToClipboardClicked(Phrase phrase){
-        if (Util.tts.isSpeaking()){
-            Util.tts.stop();
+        if (ttsController.tts.isSpeaking()){
+            ttsController.tts.stop();
         }
         LayoutInflater inflater = LayoutInflater.from(this);
         View list = inflater.inflate(R.layout.phrase_to_copy_list,null);
@@ -194,8 +158,8 @@ public class Phrases extends AppCompatActivity implements TextToSpeech.OnInitLis
     }
 
     public void onShareBtnClicked(Phrase phrase){
-        if (Util.tts.isSpeaking()){
-            Util.tts.stop();
+        if (ttsController.tts.isSpeaking()){
+            ttsController.tts.stop();
         }
         Intent sendIntent = new Intent();
         sendIntent.setAction(Intent.ACTION_SEND);
@@ -214,8 +178,8 @@ public class Phrases extends AppCompatActivity implements TextToSpeech.OnInitLis
     @Override
     protected void onPause() {
         super.onPause();
-        if (Util.tts.isSpeaking()){
-            Util.tts.stop();
+        if (ttsController.tts.isSpeaking()){
+            ttsController.tts.stop();
         }
     }
 
@@ -223,8 +187,8 @@ public class Phrases extends AppCompatActivity implements TextToSpeech.OnInitLis
     protected void onDestroy() {
         super.onDestroy();
 
-        if (Util.tts.isSpeaking()){
-            Util.tts.stop();
+        if (ttsController.tts.isSpeaking()){
+            ttsController.tts.stop();
         }
     }
 
