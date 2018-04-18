@@ -1,7 +1,6 @@
 package com.example.essabri.myapplication;
 
 import android.content.Context;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -25,7 +24,6 @@ public class PhrasesListAdapter extends BaseExpandableListAdapter {
     ToggleButton t;
 
     PhrasesListAdapter(Context context,ArrayList<Phrase> _phrases){
-        Log.d("mtag","PhrasesListAdapter");
         this.context = context;
         phrases = _phrases;
         backup.addAll(phrases);
@@ -99,11 +97,11 @@ public class PhrasesListAdapter extends BaseExpandableListAdapter {
                 if (((Phrases)context).ttsController.tts.isSpeaking()){
                     ((Phrases)context).ttsController.tts.stop();
                 }
-                Util.audioVolumeTest(context);
-                ((Phrases)context).ttsController.speak(phrase.target);
+                else{
+                    ((Phrases) context).ttsController.speak(phrase.target);
+                }
             }
         });
-        //Toast.makeText(context, "aa"+playPauseBtn.getId(), Toast.LENGTH_SHORT).show();
         return convertView;
     }
 

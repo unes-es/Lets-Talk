@@ -21,10 +21,10 @@ public class Categories extends AppCompatActivity {
     private int MY_DATA_CHECK_CODE = 0;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        setTheme(R.style.AppTheme_NoActionBar);
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_categories);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        //toolbar.setTitleTextColor(getResources().getColor(R.color.colorAccent));
         setSupportActionBar(toolbar);
 
 
@@ -44,10 +44,7 @@ public class Categories extends AppCompatActivity {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 Intent i = new Intent(Categories.this,Phrases.class);
-                //Intent i = new Intent();
                 i.putExtra("categoryId_",adapter.getItemId(position));
-                //i.setAction(TextToSpeech.Engine.ACTION_CHECK_TTS_DATA);
-                //startActivityForResult(i, 1);
                 startActivity(i);
             }
         });

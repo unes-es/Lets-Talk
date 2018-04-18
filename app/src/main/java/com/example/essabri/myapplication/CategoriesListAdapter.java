@@ -77,7 +77,8 @@ public class CategoriesListAdapter extends BaseAdapter {
                     }
                 }
                 if (category.name.contains(text.toLowerCase()) || exist) {*/
-                if (category.name.toLowerCase().contains(text.toLowerCase()) || category.translatedName.toLowerCase().contains(text.toLowerCase())) {
+                if (category.name.toLowerCase().contains(text.toLowerCase())
+                        || category.translatedName.toLowerCase().contains(text.toLowerCase())) {
                     categories.add(category);
                 }
             }

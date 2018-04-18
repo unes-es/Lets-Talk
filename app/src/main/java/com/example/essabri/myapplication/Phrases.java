@@ -89,7 +89,6 @@ public class Phrases extends AppCompatActivity {
                 }
                 if (sharedPref.getBoolean("pref_auto_play",true)) {
                     //ttsController.tts.setSpeechRate(sharedPref.getInt("pref_auto_play",1));
-                    Util.audioVolumeTest(context);
                     ttsController.speak(adapter.phrases.get(groupPosition).target);
                 }
                 if(groupPosition != previousGroup)
@@ -98,10 +97,6 @@ public class Phrases extends AppCompatActivity {
             }
         });
 
-    }
-
-    void test(String msg){
-        Toast.makeText(context, msg, Toast.LENGTH_SHORT).show();
     }
 
     void onDataChanged(int imgDrawable,String msg){

@@ -1,6 +1,7 @@
 package com.example.essabri.myapplication;
 
 import android.content.Context;
+import android.media.AudioManager;
 import android.speech.tts.TextToSpeech;
 import android.speech.tts.UtteranceProgressListener;
 import android.widget.Toast;
@@ -31,7 +32,15 @@ public class TextToSpeechController extends UtteranceProgressListener implements
         tts.setOnUtteranceProgressListener(this);
     }
 
+    public static void audioVolumeTest(Context context){
+        AudioManager audioManager = (AudioManager) context.getSystemService(Context.AUDIO_SERVICE);
+        if(audioManager.getStreamVolume(AudioManager.STREAM_MUSIC)<1){
+            Toast.makeText(context, "Turn up the volume", Toast.LENGTH_SHORT).show();
+        }
+    }
+
     public void speak(String text){
+        audioVolumeTest(context);
         tts.speak(text, TextToSpeech.QUEUE_FLUSH, null, text);
     }
 

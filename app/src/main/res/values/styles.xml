@@ -34,6 +34,10 @@
     <style name="DisabledText.Light">
         <item name="android:textColor">@color/disabled_text_light</item>
     </style>
+    <style name="AppTheme.NoActionBar.BrandedLunch" parent="AppTheme.NoActionBar">
+        <item name="android:windowBackground">@drawable/branded_logo</item>
+    </style>
+
 
     <style name="AppTheme.NoActionBar">
         <item name="windowActionBar">false</item>
