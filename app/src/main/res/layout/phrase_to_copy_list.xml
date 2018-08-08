@@ -6,7 +6,7 @@
     android:layout_height="wrap_content"
     android:background="@color/primary"
     android:padding="8dp"
-    tools:context="com.example.essabri.myapplication.Phrases"
+    tools:context="com.applications.coffee.letstalkrussian_free.Phrases"
     tools:layout_editor_absoluteX="0dp"
     tools:layout_editor_absoluteY="81dp">
 
@@ -34,7 +34,7 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView4"
-        tools:context="com.example.essabri.myapplication.Phrases"
+        tools:context="com.applications.coffee.letstalkrussian_free.Phrases"
         app:layout_constraintVertical_bias="0.0">
 
 

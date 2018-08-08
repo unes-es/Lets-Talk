@@ -6,7 +6,8 @@
     </item>
     <item>
         <bitmap
-            android:src="@drawable/c1"
+            android:mipMap="true"
+            android:src="@mipmap/ic_launcher"
             android:tileMode="disabled"
             android:gravity="center"/>
     </item>

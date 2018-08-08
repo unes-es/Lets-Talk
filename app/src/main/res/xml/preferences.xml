@@ -2,7 +2,7 @@
 <PreferenceScreen
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.example.essabri.myapplication.SettingsActivity"
+    tools:context="com.applications.coffee.letstalkrussian_free.SettingsActivity"
     android:title="Settings"
     >
     <CheckBoxPreference
@@ -25,6 +25,10 @@
         android:title="About"
         android:summary="Version 1.0.0"
 
+        />
+    <Preference
+        android:key="pref_rate"
+        android:title="Rate this app"
         />
 
 </PreferenceScreen>
