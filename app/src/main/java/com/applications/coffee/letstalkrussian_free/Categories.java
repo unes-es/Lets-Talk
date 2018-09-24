@@ -13,15 +13,19 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
+import android.widget.Toast;
 
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
+import com.google.android.gms.ads.MobileAds;
+
+import java.util.ArrayList;
 
 public class Categories extends AppCompatActivity {
 
     ListView categoriesListView;
     CategoriesListAdapter adapter;
-    private int MY_DATA_CHECK_CODE = 0;
+    private final int MY_DATA_CHECK_CODE = 0;
     //private InterstitialAd mInterstitialAd;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -31,6 +35,9 @@ public class Categories extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
+
+        MobileAds.initialize(this,"ca-app-pub-9134221301797717~4517805068");
+
        /* mInterstitialAd = new InterstitialAd(this);
         mInterstitialAd.setAdUnitId("ca-app-pub-3940256099942544/1033173712");
         mInterstitialAd.loadAd(new AdRequest.Builder().build());*/
@@ -38,17 +45,10 @@ public class Categories extends AppCompatActivity {
         AdRequest adRequest = new AdRequest.Builder().build();
         mAdView.loadAd(adRequest);
 
-
-        Intent checkTTSIntent = new Intent();
-        checkTTSIntent.setAction(TextToSpeech.Engine.ACTION_CHECK_TTS_DATA);
-        startActivityForResult(checkTTSIntent, MY_DATA_CHECK_CODE);
-
-
         new Data.Manager(this);
         categoriesListView = (ListView)findViewById(R.id.categoriesListView);
         adapter = new CategoriesListAdapter(this);
         categoriesListView.setAdapter(adapter);
-
 
         categoriesListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
@@ -60,6 +60,29 @@ public class Categories extends AppCompatActivity {
             }
         });
 
+
+        Intent checkIntent = new Intent();
+        checkIntent.setAction(TextToSpeech.Engine.ACTION_CHECK_TTS_DATA);
+        startActivityForResult(checkIntent, MY_DATA_CHECK_CODE);
+
+    }
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+
+        //Toast.makeText(this, "onActivityResult", Toast.LENGTH_SHORT).show();
+
+        if (requestCode == MY_DATA_CHECK_CODE) {
+            ArrayList<String> availableLanguages = data.getStringArrayListExtra(TextToSpeech.Engine.EXTRA_AVAILABLE_VOICES);
+            //Log.d("mtag",availableLanguages.toString());
+            if (!availableLanguages.contains("rus-rus")) {
+                Intent installIntent = new Intent();
+                installIntent.setAction(TextToSpeech.Engine.ACTION_INSTALL_TTS_DATA);
+                startActivity(installIntent);
+                Toast.makeText(this, "INSTALLING TTS ...", Toast.LENGTH_SHORT).show();
+            }
+        }
     }
 
     @Override

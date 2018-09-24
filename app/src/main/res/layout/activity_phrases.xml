@@ -38,7 +38,7 @@
             android:layout_marginRight="8dp"
             android:layout_marginTop="8dp"
             android:maxWidth="160dp"
-            android:text="you have no favorite phrases o favorite phrase"
+            android:text="@string/no_favorite_msg"
             android:textAlignment="center"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintHorizontal_bias="0.0"
@@ -64,10 +64,23 @@
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:groupIndicator="@null"
-        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/adView"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/toolbar" />
-
+    <com.google.android.gms.ads.AdView
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-9134221301797717/2760000646"
+        ads:layout_constraintLeft_toLeftOf="parent"
+        ads:layout_constraintRight_toRightOf="parent"
+        ads:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="0dp">
+    </com.google.android.gms.ads.AdView>
 
 </android.support.constraint.ConstraintLayout>

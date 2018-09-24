@@ -7,9 +7,12 @@
         android:fullBackupContent="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-9134221301797717~4517805068"/>
         <activity
             android:name="com.applications.coffee.letstalkrussian_free.Categories"
             android:label="@string/title_activity_categories"
@@ -27,20 +30,6 @@
             <!--<meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".Categories" />-->
-        </activity>
-        <activity
-            android:name="com.applications.coffee.letstalkrussian_free.MainActivity"
-            android:label="@string/title_activity_main"
-            android:theme="@style/AppTheme.NoActionBar">
-
-
-
-            <!--
-              <intent-filter>
-                  <action android:name="android.intent.action.MAIN" />
-                  <category android:name="android.intent.category.LAUNCHER" />
-              </intent-filter>
-            -->
         </activity>
         <activity
             android:name="com.applications.coffee.letstalkrussian_free.SettingsActivity"

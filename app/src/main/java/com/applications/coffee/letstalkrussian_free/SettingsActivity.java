@@ -21,21 +21,21 @@ public class SettingsActivity extends AppCompatPreferenceActivity {
 
         final int favCount = Data.Manager.getFavorites().size();
         if(favCount>0) {
-            findPreference("pref_delete_favorites").setSummary("You have " + favCount + " favorite phrases");
+            findPreference("pref_delete_favorites").setSummary(getResources().getString(R.string.favorite_count,""+favCount));
         }
         else{
-            findPreference("pref_delete_favorites").setSummary("You have no favorite phrases");
+            findPreference("pref_delete_favorites").setSummary(getResources().getString(R.string.no_favorites));
         }
         findPreference("pref_delete_favorites").setOnPreferenceClickListener(new Preference.OnPreferenceClickListener() {
             @Override
             public boolean onPreferenceClick(Preference preference) {
                 if (favCount>0) {
                     Data.Manager.clearFavorites();
-                    findPreference("pref_delete_favorites").setSummary("You have no favorite phrases");
-                    Toast.makeText(SettingsActivity.this, "Favorite cleared", Toast.LENGTH_SHORT).show();
+                    findPreference("pref_delete_favorites").setSummary(getResources().getString(R.string.no_favorites));
+                    Toast.makeText(SettingsActivity.this, getResources().getString(R.string.favorite_cleared), Toast.LENGTH_SHORT).show();
                 }
                 else{
-                    Toast.makeText(SettingsActivity.this, "You have no favorite phrases", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(SettingsActivity.this, getResources().getString(R.string.no_favorites), Toast.LENGTH_SHORT).show();
                 }
                 return false;
             }
@@ -53,6 +53,20 @@ public class SettingsActivity extends AppCompatPreferenceActivity {
                     startActivity(new Intent(Intent.ACTION_VIEW,
                             Uri.parse("http://play.google.com/store/apps/details?id=" + pn)));
                 }
+                return false;
+            }
+        });
+        findPreference("pref_recommend").setOnPreferenceClickListener(new Preference.OnPreferenceClickListener() {
+            @Override
+            public boolean onPreferenceClick(Preference preference) {
+
+                final String pn = getPackageName();
+                Intent sendIntent = new Intent();
+                sendIntent.setAction(Intent.ACTION_SEND);
+                //TODO: translate hard coded strings
+                sendIntent.putExtra(Intent.EXTRA_TEXT, "I learned Russian with this app try it:http://play.google.com/store/apps/details?id=" + pn);
+                sendIntent.setType("text/plain");
+                startActivity(sendIntent);
                 return false;
             }
         });

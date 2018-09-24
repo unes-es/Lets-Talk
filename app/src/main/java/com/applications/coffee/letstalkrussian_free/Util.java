@@ -39,4 +39,9 @@ public final class Util {
     public static String toUpperCaseSentence(String text){
         return text.substring(0,1).toUpperCase()+text.substring(1);
     }
+
+    public static String getStringFromResourcesByName(String resourceName,Context c){
+        int resourceId = c.getResources().getIdentifier(resourceName,"string",c.getPackageName());
+        return c.getString(resourceId);
+    }
 }

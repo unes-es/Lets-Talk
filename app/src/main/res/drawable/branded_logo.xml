@@ -7,7 +7,7 @@
     <item>
         <bitmap
             android:mipMap="true"
-            android:src="@mipmap/ic_launcher"
+            android:src="@drawable/branded_logo_asset"
             android:tileMode="disabled"
             android:gravity="center"/>
     </item>

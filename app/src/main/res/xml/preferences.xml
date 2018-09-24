@@ -3,12 +3,12 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="com.applications.coffee.letstalkrussian_free.SettingsActivity"
-    android:title="Settings"
+    android:title="@string/title_activity_settings"
     >
     <CheckBoxPreference
         android:key="pref_auto_play"
-        android:title="Auto play"
-        android:summary="Auto read the phrase when clicked"
+        android:title="@string/auto_play_title"
+        android:summary="@string/auto_play_summary"
         android:defaultValue="true" />
     <!--<SeekBarPreference
         android:key="pref_voice_speed"
@@ -18,17 +18,22 @@
         />-->
     <Preference
         android:key="pref_delete_favorites"
-        android:title="Clear favorites list"
-        android:summary="You have 10 favorite phrases"
+        android:title="@string/clear_favorites_list"
+        android:summary="@string/favorite_count"
         />
     <Preference
-        android:title="About"
-        android:summary="Version 1.0.0"
+        android:title="@string/about"
+        android:summary="@string/version"
 
         />
     <Preference
         android:key="pref_rate"
-        android:title="Rate this app"
+        android:title="@string/rating"
+        />
+
+    <Preference
+        android:key="pref_recommend"
+        android:title="@string/recommend"
         />
 
 </PreferenceScreen>

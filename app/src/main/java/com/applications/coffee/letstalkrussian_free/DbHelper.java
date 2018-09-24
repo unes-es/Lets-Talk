@@ -8,15 +8,16 @@ import android.database.sqlite.SQLiteOpenHelper;
  * Created by essabri on 07/12/2017.
  */
 
-public class DbHelper extends SQLiteOpenHelper {
+class DbHelper extends SQLiteOpenHelper {
     // If you change the database schema, you must increment the database version.
-    private static final int DATABASE_VERSION = 7;
+    private static final int DATABASE_VERSION = 3;
     private static final String DATABASE_NAME = "letsSpeakKoreanPhraseBook.db";
 
     private static final String SQL_CREATE_PHRASES =
             "CREATE TABLE " + Data.PhraseTable.TABLE_NAME + " (" +
-                    Data.PhraseTable._ID + " INTEGER PRIMARY KEY," +
-                    Data.PhraseTable.ORIGIN + " TEXT," +
+                    /*Data.PhraseTable._ID + " INTEGER PRIMARY KEY," +*/
+                    Data.PhraseTable.ID + " INTEGER," +
+                    /*Data.PhraseTable.ORIGIN + " TEXT," +*/
                     Data.PhraseTable.TARGET + " TEXT," +
                     Data.PhraseTable.PRONUNCIATION + " TEXT," +
                     Data.PhraseTable.CATEGORY + " INTEGER," +
@@ -29,12 +30,12 @@ public class DbHelper extends SQLiteOpenHelper {
             "CREATE TABLE " + Data.CategoryTable.TABLE_NAME + " (" +
                     Data.CategoryTable._ID + " INTEGER PRIMARY KEY," +
                     Data.CategoryTable.ID + " INTEGER," +
-                    Data.CategoryTable.NAME + " TEXT,"+
+                    //Data.CategoryTable.NAME + " TEXT,"+
                     Data.CategoryTable.TRANSLATEDNAME + " TEXT)";
 
     private static final String SQL_DELETE_CATEGORIES = "DROP TABLE IF EXISTS " + Data.CategoryTable.TABLE_NAME;
 
-    public DbHelper(Context context) {
+    DbHelper(Context context) {
         super(context, DATABASE_NAME, null, DATABASE_VERSION);
     }
     public void onCreate(SQLiteDatabase db) {

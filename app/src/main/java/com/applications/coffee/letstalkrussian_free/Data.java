@@ -17,23 +17,23 @@ import java.util.HashMap;
  * Created by essabri on 04/12/2017.
  */
 
-public final class Data {
+final class Data {
 
-    private static String CATEGORIES = "categories";
-    private static String PHRASES = "phrases";
+    private final static String CATEGORIES = "categories";
+    private final static String PHRASES = "phrases";
 
-    public static SQLiteDatabase db;
+    static SQLiteDatabase db;
 
     private Data(){}
-    public static class Manager{
+    static class Manager{
 
-        public static ArrayList<Category> categories = new ArrayList<>();
+        static ArrayList<Category> categories = new ArrayList<>();
         public static ArrayList<Phrase> phrases = new ArrayList<>();
 
         private Context context;
         private static DbHelper mDbHelper;
 
-        public Manager(Context context) {
+        Manager(Context context) {
             this.context = context;
             mDbHelper = new DbHelper(context);
             HashMap<String, JSONArray> data = Util.Json.getJsonFromAssets(context);
@@ -45,7 +45,7 @@ public final class Data {
                     ContentValues values = new ContentValues();
                     for (int i = 0; i < data.get(CATEGORIES).length(); i++) {
                         JSONObject categoryObject = data.get(CATEGORIES).getJSONObject(i);
-                        values.put(CategoryTable.NAME,categoryObject.getString("name"));
+                        //values.put(CategoryTable.NAME,categoryObject.getString("name"));
                         values.put(CategoryTable.TRANSLATEDNAME,categoryObject.getString("translatedName"));
                         values.put(CategoryTable.ID, categoryObject.getInt("id"));
                         db.insert(CategoryTable.TABLE_NAME, null, values);
@@ -53,11 +53,12 @@ public final class Data {
                     values = new ContentValues();
                     for (int i = 0; i < data.get(PHRASES).length(); i++) {
                         JSONObject phraseObject = data.get(PHRASES).getJSONObject(i);
-                        values.put(PhraseTable.ORIGIN, phraseObject.getString("origin"));
+                        //values.put(PhraseTable.ORIGIN,Util.getStringFromResourcesByName("phrase_"+phraseObject.getInt("id"),context));
                         values.put(PhraseTable.TARGET, phraseObject.getString("target"));
                         values.put(PhraseTable.PRONUNCIATION, phraseObject.getString("pronunciation"));
                         values.put(PhraseTable.IS_FAVORITE, 0);
                         values.put(PhraseTable.CATEGORY, phraseObject.getInt("category"));
+                        values.put(PhraseTable.ID, phraseObject.getInt("id"));
                         db.insert(PhraseTable.TABLE_NAME, null, values);
                     }
                 }
@@ -72,16 +73,19 @@ public final class Data {
             while(cursor.moveToNext()) {
                 Category category = new Category();
                 category.id = cursor.getInt(cursor.getColumnIndexOrThrow(CategoryTable.ID));
-                category.name = cursor.getString(cursor.getColumnIndexOrThrow(CategoryTable.NAME));
+                //category.name = cursor.getString(cursor.getColumnIndexOrThrow(CategoryTable.NAME));
+                category.name = Util.getStringFromResourcesByName("category_"+category.id,context);
                 category.translatedName = cursor.getString(cursor.getColumnIndexOrThrow(CategoryTable.TRANSLATEDNAME));
                 categories.add(category);
             }
             cursor = db.query(PhraseTable.TABLE_NAME,null,null,null,null,null,null);
             while(cursor.moveToNext()) {
                 Phrase phrase = new Phrase();
-                phrase.id = cursor.getInt(cursor.getColumnIndexOrThrow(PhraseTable._ID));
+
+                phrase.id = cursor.getInt(cursor.getColumnIndexOrThrow(PhraseTable.ID));
                 phrase.target = cursor.getString(cursor.getColumnIndexOrThrow(PhraseTable.TARGET));
-                phrase.origin = cursor.getString(cursor.getColumnIndexOrThrow(PhraseTable.ORIGIN));
+                phrase.origin = Util.getStringFromResourcesByName("phrase_"+phrase.id,context);
+                /*phrase.origin = cursor.getString(cursor.getColumnIndexOrThrow(PhraseTable.ORIGIN));*/
                 phrase.pronunciation = cursor.getString(cursor.getColumnIndexOrThrow(PhraseTable.PRONUNCIATION));
                 phrase.setIsFavorite(cursor.getInt(cursor.getColumnIndexOrThrow(PhraseTable.IS_FAVORITE)));
                 phrase.category =  cursor.getInt(cursor.getColumnIndexOrThrow(PhraseTable.CATEGORY));
@@ -90,7 +94,7 @@ public final class Data {
             cursor.close();
         }
 
-        public static ArrayList<Phrase> getPhrasesWithCategory(int id){
+        static ArrayList<Phrase> getPhrasesWithCategory(int id){
             ArrayList<Phrase> phrases_ = new ArrayList<>();
             for (Phrase phrase:phrases) {
                 if(phrase.category == id){
@@ -110,7 +114,7 @@ public final class Data {
             return phrases_;
         }
 
-        public static Category getCategoryById(int id){
+        static Category getCategoryById(int id){
             for (Category category:categories) {
                 if(category.id == id){
                     return category;
@@ -119,7 +123,7 @@ public final class Data {
             return null;
         }
 
-        public static void clearFavorites(){
+        static void clearFavorites(){
             //phrases.forEach(phrase->{if(phrase.isFavorite) {phrase.isFavorite = false;}});
             for (Phrase phrase:getFavorites()) {
                 phrase.isFavorite = false;
@@ -130,18 +134,19 @@ public final class Data {
     }
 
     //---------------------------------- SQLITE --------------------------------------------
-    public static class PhraseTable implements BaseColumns {
-        public static final String TABLE_NAME = "phrase";
-        public static final String ORIGIN = "origin";
-        public static final String TARGET = "target";
-        public static final String PRONUNCIATION = "pronunciation";
-        public static final String IS_FAVORITE = "isFavorite";
-        public static final String CATEGORY = "category";
+    static class PhraseTable implements BaseColumns {
+        static final String ID = "id";
+        static final String TABLE_NAME = "phrase";
+        /*public static final String ORIGIN = "origin";*/
+        static final String TARGET = "target";
+        static final String PRONUNCIATION = "pronunciation";
+        static final String IS_FAVORITE = "isFavorite";
+        static final String CATEGORY = "category";
     }
-    public static class CategoryTable implements BaseColumns {
-        public static final String TABLE_NAME = "category";
-        public static final String ID = "id";
-        public static final String NAME = "name";
-        public static final String TRANSLATEDNAME = "translatedName";
+    static class CategoryTable implements BaseColumns {
+        static final String TABLE_NAME = "category";
+        static final String ID = "id";
+        //public static final String NAME = "name";
+        static final String TRANSLATEDNAME = "translatedName";
     }
 }

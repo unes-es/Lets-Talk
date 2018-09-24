@@ -35,7 +35,7 @@ public class TextToSpeechController extends UtteranceProgressListener implements
     public static void audioVolumeTest(Context context){
         AudioManager audioManager = (AudioManager) context.getSystemService(Context.AUDIO_SERVICE);
         if(audioManager.getStreamVolume(AudioManager.STREAM_MUSIC)<1){
-            Toast.makeText(context, "Turn up the volume", Toast.LENGTH_SHORT).show();
+            Toast.makeText(context, "Turn up the volume please", Toast.LENGTH_SHORT).show();
         }
     }
 

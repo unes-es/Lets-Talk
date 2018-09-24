@@ -26,6 +26,10 @@ import android.widget.ListView;
 import android.widget.PopupWindow;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
+
 public class Phrases extends AppCompatActivity {
 
     ExpandableListView phrasesListView;
@@ -58,6 +62,10 @@ public class Phrases extends AppCompatActivity {
 
         context = this;
 
+        AdView mAdView = (AdView)findViewById(R.id.adView);
+        AdRequest adRequest = new AdRequest.Builder().build();
+        mAdView.loadAd(adRequest);
+
         sharedPref = PreferenceManager.getDefaultSharedPreferences(this);
         noDataView = (ConstraintLayout)findViewById(R.id.emptyListMessage);
         noDataMsg = (TextView) findViewById(R.id.emptyMsg);
@@ -71,7 +79,7 @@ public class Phrases extends AppCompatActivity {
         }
         else{
             adapter = new PhrasesListAdapter(this, Data.Manager.getFavorites());
-            onDataChanged(R.drawable.ic_favorite_black_24dp,"You have no favorite phrases yet!");
+            onDataChanged(R.drawable.ic_favorite_black_24dp,getResources().getString(R.string.no_favorite_msg));
             setTitle(R.string.favorites);
             isFavoriteView = true;
         }
@@ -137,7 +145,7 @@ public class Phrases extends AppCompatActivity {
                 ClipData clip = ClipData.newPlainText("Copy", (String) listView.getItemAtPosition(position));
                 clipboard.setPrimaryClip(clip);
                 listWindow.dismiss();
-                Toast.makeText(Phrases.this, "Copied to clipboard", Toast.LENGTH_SHORT).show();
+                Toast.makeText(Phrases.this, R.string.copied_to_clipboard, Toast.LENGTH_SHORT).show();
             }
         });
 
@@ -158,6 +166,7 @@ public class Phrases extends AppCompatActivity {
         }
         Intent sendIntent = new Intent();
         sendIntent.setAction(Intent.ACTION_SEND);
+        //TODO: translate hard coded strings
         sendIntent.putExtra(Intent.EXTRA_TEXT, phrase.origin+": "+phrase.target + "\nYou read it : "+phrase.pronunciation+"\n Find more in our app:http://play.google.com/store/apps/details?id=" + pn);
         sendIntent.setType("text/plain");
         startActivity(sendIntent);
@@ -209,7 +218,7 @@ public class Phrases extends AppCompatActivity {
                 @Override
                 public boolean onQueryTextChange(String newText) {
                     adapter.filter(newText);
-                    onDataChanged(R.drawable.ic_search_blue_24dp, "No result for \"" + newText + "\"!!");
+                    onDataChanged(R.drawable.ic_search_blue_24dp,getResources().getString(R.string.no_result_msg)+"\"" + newText + "\"");
                     return false;
                 }
             });

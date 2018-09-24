@@ -29,6 +29,6 @@ public class Phrase{
     public void save(){
         ContentValues data = new ContentValues();
         data.put(Data.PhraseTable.IS_FAVORITE,this.getIsFavorite());
-        Data.db.update(Data.PhraseTable.TABLE_NAME,data, Data.PhraseTable._ID+" = "+this.id,null);
+        Data.db.update(Data.PhraseTable.TABLE_NAME,data, Data.PhraseTable.ID+" = "+this.id,null);
     }
 }
