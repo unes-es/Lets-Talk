@@ -6,16 +6,17 @@
         android:allowBackup="true"
         android:fullBackupContent="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
+        android:label="@string/override_name"
 
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
             android:value="ca-app-pub-9134221301797717~4517805068"/>
+        <!--TODO : android:label="@string/app_name" for Categories-->
         <activity
+            android:label="@string/override_name"
             android:name="com.applications.coffee.letstalkrussian_free.Categories"
-            android:label="@string/title_activity_categories"
             android:theme="@style/AppTheme.NoActionBar.BrandedLunch">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

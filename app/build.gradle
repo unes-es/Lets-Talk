@@ -1,15 +1,15 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 26
-    buildToolsVersion '28.0.1'
+    compileSdkVersion 28
     defaultConfig {
         applicationId "com.applications.coffee.letstalkrussian_free"
-        minSdkVersion 22
-        targetSdkVersion 26
-        versionCode 1
-        versionName "1.0"
+        minSdkVersion 15
+        targetSdkVersion 28
+        versionCode 2
+        versionName "2.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        vectorDrawables.useSupportLibrary = true
     }
     buildTypes {
         release {
@@ -17,24 +17,104 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+
+    flavorDimensions "language"
+    productFlavors {
+        french {
+            dimension "language"
+            applicationId "com.applications.coffee.letstalk.french"
+            resValue "string", "override_name", "Let\\'s Talk French"
+            resConfigs "ja","ar","de","es","tr","zh","ru"
+            resValue "string","tts_local","fr"
+            versionCode 1
+            versionName "1.0"
+        }
+        german {
+            dimension "language"
+            applicationId "com.applications.coffee.letstalk.german"
+            resValue "string", "override_name", "Let\\'s Talk German"
+            resConfigs "ja","ar","es","tr","zh","fr","ru"
+            resValue "string","tts_local","de"
+            versionCode 1
+            versionName "1.0"
+        }
+        japanese {
+            dimension "language"
+            applicationId "com.applications.coffee.letstalk.japanese"
+            resValue "string", "override_name", "Let\\'s Talk Japanese"
+            resConfigs "de","ar","es","tr","zh","fr","ru"
+            resValue "string","tts_local","ja"
+            versionCode 1
+            versionName "1.0"
+        }
+        arabic{
+            dimension "language"
+            applicationId "com.applications.coffee.letstalk.arabic"
+            resValue "string", "override_name", "Let\\'s Talk Arabic"
+            resConfigs "de","ja","es","tr","zh","fr","ru"
+            resValue "string","tts_local","ar"
+            versionCode 1
+            versionName "1.0"
+        }
+        turkish{
+            dimension "language"
+            applicationId "com.applications.coffee.letstalk.turkish"
+            resValue "string", "override_name", "Let\\'s Talk Turkish"
+            resConfigs "de","ja","es","ar","zh","fr","ru"
+            resValue "string","tts_local","tr"
+            versionCode 1
+            versionName "1.0"
+        }
+        chinese{
+            dimension "language"
+            applicationId "com.applications.coffee.letstalk.chinese"
+            resValue "string", "override_name", "Let\\'s Talk Chinese"
+            resConfigs "de","ja","es","tr","ar","fr","ru"
+            resValue "string","tts_local","zh"
+            versionCode 1
+            versionName "1.0"
+        }
+        spanish{
+            dimension "language"
+            applicationId "com.applications.coffee.letstalk.spanish"
+            resValue "string", "override_name", "Let\\'s Talk Spanish"
+            resConfigs "de","ja","ar","tr","zh","fr","ru"
+            resValue "string","tts_local","es"
+            versionCode 1
+            versionName "1.0"
+        }
+        russian{
+            dimension "language"
+            applicationId "com.applications.coffee.letstalk.russian"
+            resValue "string", "override_name", "Let\\'s Talk Russian"
+            resConfigs "de","ja","ar","tr","zh","fr","es"
+            resValue "string","tts_local","ru"
+            versionCode 1
+            versionName "1.0"
+        }
+        //TODO:you know what to do
+        /*
+        english{
+            dimension "language"
+            applicationId "com.applications.coffee.letstalk.english"
+            resValue "string", "override_name", "Let\\'s Talk English"
+            resConfigs "de","ja","es","tr","zh","fr"
+        }*/
+    }
 }
 
 dependencies {
-    compile fileTree(include: ['*.jar'], dir: 'libs')
-    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
-        exclude group: 'com.android.support', module: 'support-annotations'
-    })
-    //compile 'com.pavelsikun:material-seekbar-preference:2.3.0'
-    //compile 'org.florescu.android.rangeseekbar:rangeseekbar-library:0.3.0'
-    compile 'com.android.support:appcompat-v7:25.3.1'
-    compile 'com.android.support.constraint:constraint-layout:1.0.2'
-    compile 'com.android.support:design:25.3.1'
-    compile 'com.android.support:support-v4:25.3.1'
-    compile 'com.google.firebase:firebase-core:16.0.1'
-    compile 'com.google.android.gms:play-services-ads:15.0.0'
-    compile 'com.google.firebase:firebase-ads:10.0.1'
-    testCompile 'junit:junit:4.12'
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation 'com.android.support:appcompat-v7:28.0.0'
+    implementation 'com.android.support.constraint:constraint-layout:1.1.3'
+    implementation 'com.android.support:design:28.0.0'
+    implementation 'com.android.support:support-v4:28.0.0'
+    implementation 'com.google.firebase:firebase-core:16.0.5'
+    implementation 'com.google.android.gms:play-services-ads:17.1.0'
+    implementation 'com.google.firebase:firebase-ads:17.1.0'
+    //testImplementation 'junit:junit:4.12'
+    //androidTestImplementation 'com.android.support.test:runner:1.0.2'
+    //androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 }
-
 
 apply plugin: 'com.google.gms.google-services'

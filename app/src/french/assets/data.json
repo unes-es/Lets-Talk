@@ -1,0 +1,4217 @@
+{
+  "phrases":[
+    {
+      "target":"Faites attention.",
+      "category":1,
+      "id":1
+    },
+    {
+      "target":"Conduisez prudemment.",
+      "category":1,
+      "id":2
+    },
+    {
+      "target":"Pouvez-vous traduire cela pour moi?",
+      "category":1,
+      "id":3
+    },
+    {
+      "target":"Chicago est très différente de Boston.",
+      "category":1,
+      "id":4
+    },
+    {
+      "target":"Ne t'inquiète pas.",
+      "category":1,
+      "id":5
+    },
+    {
+      "target":"Tout le monde le sait.",
+      "category":1,
+      "id":6
+    },
+    {
+      "target":"Tout est prêt.",
+      "category":1,
+      "id":7
+    },
+    {
+      "target":"Excellent.",
+      "category":1,
+      "id":8
+    },
+    {
+      "target":"De temps en temps.",
+      "category":1,
+      "id":9
+    },
+    {
+      "target":"Bonne idée.",
+      "category":1,
+      "id":10
+    },
+    {
+      "target":"Il l'aime beaucoup.",
+      "category":1,
+      "id":11
+    },
+    {
+      "target":"Aidez-moi!",
+      "category":1,
+      "id":12
+    },
+    {
+      "target":"Il arrive bientôt.",
+      "category":1,
+      "id":13
+    },
+    {
+      "target":"Il a raison.",
+      "category":1,
+      "id":14
+    },
+    {
+      "target":"Il est très énervant.",
+      "category":1,
+      "id":15
+    },
+    {
+      "target":"Il est très célèbre.",
+      "category":1,
+      "id":16
+    },
+    {
+      "target":"Comment vas-tu?",
+      "category":1,
+      "id":17
+    },
+    {
+      "target":"Comment va le travail?",
+      "category":1,
+      "id":18
+    },
+    {
+      "target":"Se dépêcher!",
+      "category":1,
+      "id":19
+    },
+    {
+      "target":"J'ai déjà mangé.",
+      "category":1,
+      "id":20
+    },
+    {
+      "target":"Je ne peux pas t'entendre.",
+      "category":1,
+      "id":21
+    },
+    {
+      "target":"J'aimerais aller me promener.",
+      "category":1,
+      "id":22
+    },
+    {
+      "target":"Je ne sais pas comment l'utiliser.",
+      "category":1,
+      "id":23
+    },
+    {
+      "target":"Je ne l'aime pas.",
+      "category":1,
+      "id":24
+    },
+    {
+      "target":"Je n'aime pas ça",
+      "category":1,
+      "id":25
+    },
+    {
+      "target":"Je ne parle pas très bien.",
+      "category":1,
+      "id":26
+    },
+    {
+      "target":"Je ne comprend pas.",
+      "category":1,
+      "id":27
+    },
+    {
+      "target":"Je n'en veux pas.",
+      "category":1,
+      "id":28
+    },
+    {
+      "target":"Je ne veux pas ça.",
+      "category":1,
+      "id":29
+    },
+    {
+      "target":"Je ne veux pas vous déranger.",
+      "category":1,
+      "id":30
+    },
+    {
+      "target":"Je me sens bien.",
+      "category":1,
+      "id":31
+    },
+    {
+      "target":"Si vous avez besoin de mon aide, s'il vous plaît faites le moi savoir.",
+      "category":1,
+      "id":32
+    },
+    {
+      "target":"Je sors du travail à 6 heures.",
+      "category":1,
+      "id":33
+    },
+    {
+      "target":"J'ai mal à la tête.",
+      "category":1,
+      "id":34
+    },
+    {
+      "target":"J'espère que vous et votre femme passez un bon voyage.",
+      "category":1,
+      "id":35
+    },
+    {
+      "target":"Je connais.",
+      "category":1,
+      "id":36
+    },
+    {
+      "target":"Je l'aime bien.",
+      "category":1,
+      "id":37
+    },
+    {
+      "target":"Je t'appellerai quand je partirai.",
+      "category":1,
+      "id":38
+    },
+    {
+      "target":"Je reviendrai plus tard.",
+      "category":1,
+      "id":39
+    },
+    {
+      "target":"Je payerai.",
+      "category":1,
+      "id":40
+    },
+    {
+      "target":"Je vais le prendre.",
+      "category":1,
+      "id":41
+    },
+    {
+      "target":"Je t'emmène à l'arrêt de bus.",
+      "category":1,
+      "id":42
+    },
+    {
+      "target":"J'ai perdu ma montre.",
+      "category":1,
+      "id":43
+    },
+    {
+      "target":"Je t'aime.",
+      "category":1,
+      "id":44
+    },
+    {
+      "target":"Je suis Américain.",
+      "category":1,
+      "id":45
+    },
+    {
+      "target":"Je nettoie ma chambre.",
+      "category":1,
+      "id":46
+    },
+    {
+      "target":"J'ai froid.",
+      "category":1,
+      "id":47
+    },
+    {
+      "target":"Je viens vous chercher.",
+      "category":1,
+      "id":48
+    },
+    {
+      "target":"Je vais partir.",
+      "category":1,
+      "id":49
+    },
+    {
+      "target":"Je vais bien et toi?",
+      "category":1,
+      "id":50
+    },
+    {
+      "target":"Je suis heureux.",
+      "category":1,
+      "id":51
+    },
+    {
+      "target":"J'ai faim.",
+      "category":1,
+      "id":52
+    },
+    {
+      "target":"Je suis marié.",
+      "category":1,
+      "id":53
+    },
+    {
+      "target":"Je ne suis pas occupé.",
+      "category":1,
+      "id":54
+    },
+    {
+      "target":"Je ne suis pas marié.",
+      "category":1,
+      "id":55
+    },
+    {
+      "target":"Je ne suis pas encore prêt.",
+      "category":1,
+      "id":56
+    },
+    {
+      "target":"Je ne suis pas sûr.",
+      "category":1,
+      "id":57
+    },
+    {
+      "target":"Je suis désolé, nous sommes épuisés.",
+      "category":1,
+      "id":58
+    },
+    {
+      "target":"J'ai soif.",
+      "category":1,
+      "id":59
+    },
+    {
+      "target":"Je suis très occupé. Je n'ai pas le temps maintenant.",
+      "category":1,
+      "id":60
+    },
+    {
+      "target":"J'ai besoin de changer de vêtements.",
+      "category":1,
+      "id":61
+    },
+    {
+      "target":"J ai besoin de rentrer a la maison.",
+      "category":1,
+      "id":62
+    },
+    {
+      "target":"Je veux seulement une collation.",
+      "category":1,
+      "id":63
+    },
+    {
+      "target":"M. Smith est-il un Américain?",
+      "category":1,
+      "id":64
+    },
+    {
+      "target":"Est-ce suffisant?",
+      "category":1,
+      "id":65
+    },
+    {
+      "target":"Je pense que c'est très bien.",
+      "category":1,
+      "id":66
+    },
+    {
+      "target":"Je pense que c'est bon.",
+      "category":1,
+      "id":67
+    },
+    {
+      "target":"Je pensais que les vêtements étaient moins chers.",
+      "category":1,
+      "id":68
+    },
+    {
+      "target":"C'est plus long que 2 miles.",
+      "category":1,
+      "id":69
+    },
+    {
+      "target":"Je suis ici depuis deux jours.",
+      "category":1,
+      "id":70
+    },
+    {
+      "target":"J'ai entendu dire que le Texas est un endroit magnifique.",
+      "category":1,
+      "id":71
+    },
+    {
+      "target":"Je n'ai jamais vu ça auparavant.",
+      "category":1,
+      "id":72
+    },
+    {
+      "target":"J'étais sur le point de quitter le restaurant lorsque mes amis sont arrivés.",
+      "category":1,
+      "id":73
+    },
+    {
+      "target":"Juste un peu.",
+      "category":1,
+      "id":74
+    },
+    {
+      "target":"Juste un moment.",
+      "category":1,
+      "id":75
+    },
+    {
+      "target":"Laisse moi vérifier.",
+      "category":1,
+      "id":76
+    },
+    {
+      "target":"Laisse moi y réfléchir.",
+      "category":1,
+      "id":77
+    },
+    {
+      "target":"Allons jeter un coup d'oeil.",
+      "category":1,
+      "id":78
+    },
+    {
+      "target":"Pratiquons l'anglais.",
+      "category":1,
+      "id":79
+    },
+    {
+      "target":"Puis-je parler à Mme Smith s'il vous plaît?",
+      "category":1,
+      "id":80
+    },
+    {
+      "target":"Plus que ça.",
+      "category":1,
+      "id":81
+    },
+    {
+      "target":"Ça ne fait rien.",
+      "category":1,
+      "id":82
+    },
+    {
+      "target":"La prochaine fois.",
+      "category":1,
+      "id":83
+    },
+    {
+      "target":"Non.",
+      "category":1,
+      "id":84
+    },
+    {
+      "target":"Absurdité.",
+      "category":1,
+      "id":85
+    },
+    {
+      "target":"Non, merci.",
+      "category":1,
+      "id":86
+    },
+    {
+      "target":"Rien d'autre.",
+      "category":1,
+      "id":87
+    },
+    {
+      "target":"Pas récemment.",
+      "category":1,
+      "id":88
+    },
+    {
+      "target":"Pas encore.",
+      "category":1,
+      "id":89
+    },
+    {
+      "target":"Bien sûr.",
+      "category":1,
+      "id":90
+    },
+    {
+      "target":"D'accord.",
+      "category":1,
+      "id":91
+    },
+    {
+      "target":"S'il vous plait remplissez le formulaire.",
+      "category":1,
+      "id":92
+    },
+    {
+      "target":"S'il vous plaît, emmenez-moi à cette adresse.",
+      "category":1,
+      "id":93
+    },
+    {
+      "target":"S'il vous plaît écrivez-le.",
+      "category":1,
+      "id":94
+    },
+    {
+      "target":"Vraiment?",
+      "category":1,
+      "id":95
+    },
+    {
+      "target":"Ici.",
+      "category":1,
+      "id":96
+    },
+    {
+      "target":"Juste là.",
+      "category":1,
+      "id":97
+    },
+    {
+      "target":"À plus tard.",
+      "category":1,
+      "id":98
+    },
+    {
+      "target":"À demain.",
+      "category":1,
+      "id":99
+    },
+    {
+      "target":"À ce soir.",
+      "category":1,
+      "id":100
+    },
+    {
+      "target":"Elle est jolie.",
+      "category":1,
+      "id":101
+    },
+    {
+      "target":"Désolé de vous déranger.",
+      "category":1,
+      "id":102
+    },
+    {
+      "target":"Arrêtez!",
+      "category":1,
+      "id":103
+    },
+    {
+      "target":"Tente ta chance.",
+      "category":1,
+      "id":104
+    },
+    {
+      "target":"Ammenes le dehors.",
+      "category":1,
+      "id":105
+    },
+    {
+      "target":"Dîtes-moi.",
+      "category":1,
+      "id":106
+    },
+    {
+      "target":"Merci pour tout.",
+      "category":1,
+      "id":107
+    },
+    {
+      "target":"Merci de votre aide.",
+      "category":1,
+      "id":108
+    },
+    {
+      "target":"Je vous remercie.",
+      "category":1,
+      "id":109
+    },
+    {
+      "target":"Merci mademoiselle.",
+      "category":1,
+      "id":110
+    },
+    {
+      "target":"Merci Monsieur.",
+      "category":1,
+      "id":111
+    },
+    {
+      "target":"Merci beaucoup.",
+      "category":1,
+      "id":112
+    },
+    {
+      "target":"Ça a l'air génial.",
+      "category":1,
+      "id":113
+    },
+    {
+      "target":"Ça va.",
+      "category":1,
+      "id":114
+    },
+    {
+      "target":"C'est assez.",
+      "category":1,
+      "id":115
+    },
+    {
+      "target":"C'est très bien.",
+      "category":1,
+      "id":116
+    },
+    {
+      "target":"C'est tout.",
+      "category":1,
+      "id":117
+    },
+    {
+      "target":"Ça sent mauvais.",
+      "category":1,
+      "id":118
+    },
+    {
+      "target":"Ce n'est pas juste.",
+      "category":1,
+      "id":119
+    },
+    {
+      "target":"Ce n'est pas juste.",
+      "category":1,
+      "id":120
+    },
+    {
+      "target":"C'est vrai.",
+      "category":1,
+      "id":121
+    },
+    {
+      "target":"C'est dommage.",
+      "category":1,
+      "id":122
+    },
+    {
+      "target":"C'est trop.",
+      "category":1,
+      "id":123
+    },
+    {
+      "target":"C'est trop.",
+      "category":1,
+      "id":124
+    },
+    {
+      "target":"Le livre est sous la table.",
+      "category":1,
+      "id":125
+    },
+    {
+      "target":"Ils seront de retour.",
+      "category":1,
+      "id":126
+    },
+    {
+      "target":"Ils sont les mêmes.",
+      "category":1,
+      "id":127
+    },
+    {
+      "target":"Ils sont très occupés.",
+      "category":1,
+      "id":128
+    },
+    {
+      "target":"Ça ne marche pas.",
+      "category":1,
+      "id":129
+    },
+    {
+      "target":"C'est très difficile.",
+      "category":1,
+      "id":130
+    },
+    {
+      "target":"C'est très important.",
+      "category":1,
+      "id":131
+    },
+    {
+      "target":"Essayez-le",
+      "category":1,
+      "id":132
+    },
+    {
+      "target":"Très bien, merci.",
+      "category":1,
+      "id":133
+    },
+    {
+      "target":"Nous l'aimons beaucoup.",
+      "category":1,
+      "id":134
+    },
+    {
+      "target":"Voulez-vous prendre un message s'il vous plaît?",
+      "category":1,
+      "id":135
+    },
+    {
+      "target":"Oui vraiment.",
+      "category":1,
+      "id":136
+    },
+    {
+      "target":"Tu es beau.",
+      "category":1,
+      "id":137
+    },
+    {
+      "target":"Tu es très gentil.",
+      "category":1,
+      "id":138
+    },
+    {
+      "target":"Vous êtes très intelligent.",
+      "category":1,
+      "id":139
+    },
+    {
+      "target":"Vos affaires sont toutes ici.",
+      "category":1,
+      "id":140
+    },
+    {
+      "target":"Bonjour.",
+      "category":2,
+      "id":141
+    },
+    {
+      "target":"Bonsoir Monsieur.",
+      "category":2,
+      "id":142
+    },
+    {
+      "target":"Bonne après-midi.",
+      "category":2,
+      "id":143
+    },
+    {
+      "target":"Bonjour.",
+      "category":2,
+      "id":144
+    },
+    {
+      "target":"Certainement!",
+      "category":2,
+      "id":145
+    },
+    {
+      "target":"S'il te plait appelle moi.",
+      "category":2,
+      "id":146
+    },
+    {
+      "target":"Génial.",
+      "category":2,
+      "id":147
+    },
+    {
+      "target":"Ravi de vous rencontrer",
+      "category":2,
+      "id":148
+    },
+    {
+      "target":"Bon anniversaire.",
+      "category":2,
+      "id":149
+    },
+    {
+      "target":"Bonne chance.",
+      "category":2,
+      "id":150
+    },
+    {
+      "target":"Bon voyage.",
+      "category":2,
+      "id":151
+    },
+    {
+      "target":"Un billet aller-retour.",
+      "category":3,
+      "id":152
+    },
+    {
+      "target":"Un billet aller.",
+      "category":3,
+      "id":153
+    },
+    {
+      "target":"À quelle heure?",
+      "category":3,
+      "id":154
+    },
+    {
+      "target":"Aller tout droit.",
+      "category":3,
+      "id":155
+    },
+    {
+      "target":"Comment était le film?",
+      "category":3,
+      "id":156
+    },
+    {
+      "target":"Comment puis-je me rendre à l'ambassade américaine?",
+      "category":3,
+      "id":157
+    },
+    {
+      "target":"Comment puis-je arriver à Daniel Street?",
+      "category":3,
+      "id":158
+    },
+    {
+      "target":"Comment puis-je y arriver?",
+      "category":3,
+      "id":159
+    },
+    {
+      "target":"Puis-je prendre rendez-vous pour mercredi prochain?",
+      "category":3,
+      "id":160
+    },
+    {
+      "target":"Combien de temps dure le vol?",
+      "category":3,
+      "id":161
+    },
+    {
+      "target":"Environ 300 kilomètres.",
+      "category":3,
+      "id":162
+    },
+    {
+      "target":"D'ici à là-bas.",
+      "category":3,
+      "id":163
+    },
+    {
+      "target":"Combien de temps faut-il pour arriver en Géorgie?",
+      "category":3,
+      "id":164
+    },
+    {
+      "target":"Combien de temps faut-il en voiture?",
+      "category":3,
+      "id":165
+    },
+    {
+      "target":"Suis moi.",
+      "category":3,
+      "id":166
+    },
+    {
+      "target":"Avez-vous été à Boston?",
+      "category":3,
+      "id":167
+    },
+    {
+      "target":"Savez-vous ce que cela dit?",
+      "category":3,
+      "id":168
+    },
+    {
+      "target":"Pouvez-vous répéter ça, s'il vous plaît?",
+      "category":3,
+      "id":169
+    },
+    {
+      "target":"Es-tu arrivé?",
+      "category":3,
+      "id":170
+    },
+    {
+      "target":"Est-ce que tu vas l'aider?",
+      "category":3,
+      "id":171
+    },
+    {
+      "target":"Savez-vous comment faire cuire?",
+      "category":3,
+      "id":172
+    },
+    {
+      "target":"Voulez-vous que je vienne vous chercher?",
+      "category":3,
+      "id":173
+    },
+    {
+      "target":"As-tu assez d'argent?",
+      "category":3,
+      "id":174
+    },
+    {
+      "target":"J'ai une question à vous poser. / Je veux vous poser une question.",
+      "category":3,
+      "id":175
+    },
+    {
+      "target":"Est-ce que cette route va à New York?",
+      "category":3,
+      "id":176
+    },
+    {
+      "target":"Je vais prendre celui-là aussi.",
+      "category":3,
+      "id":177
+    },
+    {
+      "target":"Je rentre chez moi dans quatre jours.",
+      "category":3,
+      "id":178
+    },
+    {
+      "target":"J'arrive maintenant.",
+      "category":3,
+      "id":179
+    },
+    {
+      "target":"J'aimerais faire une réservation.",
+      "category":3,
+      "id":180
+    },
+    {
+      "target":"J'aimerais passer un appel téléphonique.",
+      "category":3,
+      "id":181
+    },
+    {
+      "target":"11 dollars.",
+      "category":4,
+      "id":182
+    },
+    {
+      "target":"52 cents.",
+      "category":4,
+      "id":183
+    },
+    {
+      "target":"Prenez-vous les cartes de crédit?",
+      "category":4,
+      "id":184
+    },
+    {
+      "target":"Où voudrais-tu que l'on se rencontre?",
+      "category":4,
+      "id":185
+    },
+    {
+      "target":"Où puis-je acheter des billets?",
+      "category":4,
+      "id":186
+    },
+    {
+      "target":"Y a t-il un message pour moi?",
+      "category":4,
+      "id":187
+    },
+    {
+      "target":"Il y a beaucoup de gens ici.",
+      "category":4,
+      "id":188
+    },
+    {
+      "target":"Désolé, nous n'acceptons pas les cartes de crédit.",
+      "category":4,
+      "id":189
+    },
+    {
+      "target":"Désolé, nous n'acceptons que les espèces.",
+      "category":4,
+      "id":190
+    },
+    {
+      "target":"Comment allez-vous payer?",
+      "category":4,
+      "id":191
+    },
+    {
+      "target":"Quel est le numéro de téléphone?",
+      "category":4,
+      "id":192
+    },
+    {
+      "target":"Quel est le taux de change en dollars?",
+      "category":4,
+      "id":193
+    },
+    {
+      "target":"Quel est le meilleur?",
+      "category":4,
+      "id":194
+    },
+    {
+      "target":"J'ai 26 ans.",
+      "category":4,
+      "id":195
+    },
+    {
+      "target":"J'ai besoin de pratiquer mon anglais.",
+      "category":4,
+      "id":196
+    },
+    {
+      "target":"N'est-ce pas?",
+      "category":4,
+      "id":197
+    },
+    {
+      "target":"Quelques.",
+      "category":4,
+      "id":198
+    },
+    {
+      "target":"Ils facturent 26 dollars par jour.",
+      "category":4,
+      "id":199
+    },
+    {
+      "target":"S'il vous plaît entrer.",
+      "category":4,
+      "id":200
+    },
+    {
+      "target":"Appelle la police.",
+      "category":4,
+      "id":201
+    },
+    {
+      "target":"Combien coûtent ces boucles d'oreilles?",
+      "category":4,
+      "id":202
+    },
+    {
+      "target":"Ce restaurant n'est pas cher.",
+      "category":4,
+      "id":203
+    },
+    {
+      "target":"Il est 23h30.",
+      "category":4,
+      "id":204
+    },
+    {
+      "target":"Il est neuf heures et quart.",
+      "category":4,
+      "id":205
+    },
+    {
+      "target":"Combien d'argent faites-vous?",
+      "category":4,
+      "id":206
+    },
+    {
+      "target":"Combien y a-t-il de personnes à New York?",
+      "category":4,
+      "id":207
+    },
+    {
+      "target":"Combien coûte aller à Miami?",
+      "category":4,
+      "id":208
+    },
+    {
+      "target":"Combien est-ce que ça coûte par jour?",
+      "category":4,
+      "id":209
+    },
+    {
+      "target":"Combien cela coûte?",
+      "category":4,
+      "id":210
+    },
+    {
+      "target":"Combien je te dois?",
+      "category":4,
+      "id":211
+    },
+    {
+      "target":"Votre femme a-t-elle aimé la Californie?",
+      "category":4,
+      "id":212
+    },
+    {
+      "target":"Avez-vous quelque chose de moins cher?",
+      "category":4,
+      "id":213
+    },
+    {
+      "target":"Je prendrai la même chose.",
+      "category":4,
+      "id":214
+    },
+    {
+      "target":"J'ai une réservation.",
+      "category":4,
+      "id":215
+    },
+    {
+      "target":"Je n'ai pas de petite amie.",
+      "category":4,
+      "id":216
+    },
+    {
+      "target":"Je n'ai pas d'argent.",
+      "category":4,
+      "id":217
+    },
+    {
+      "target":"Avez-vous du café?",
+      "category":4,
+      "id":218
+    },
+    {
+      "target":"Un peu.",
+      "category":4,
+      "id":219
+    },
+    {
+      "target":"Est-ce que ça va?",
+      "category":4,
+      "id":220
+    },
+    {
+      "target":"C'est trop cher.",
+      "category":4,
+      "id":221
+    },
+    {
+      "target":"Je vais payer les billets.",
+      "category":4,
+      "id":222
+    },
+    {
+      "target":"Je vais payer pour le dîner.",
+      "category":4,
+      "id":223
+    },
+    {
+      "target":"Je voudrais manger au restaurant 5ème rue.",
+      "category":4,
+      "id":224
+    },
+    {
+      "target":"Plus de 200 miles.",
+      "category":5,
+      "id":225
+    },
+    {
+      "target":"Soyez silencieux.",
+      "category":5,
+      "id":226
+    },
+    {
+      "target":"À 3 heures.",
+      "category":5,
+      "id":227
+    },
+    {
+      "target":"Par ici.",
+      "category":5,
+      "id":228
+    },
+    {
+      "target":"Là bas.",
+      "category":5,
+      "id":229
+    },
+    {
+      "target":"Vous voilà.",
+      "category":5,
+      "id":230
+    },
+    {
+      "target":"C'est ici.",
+      "category":5,
+      "id":231
+    },
+    {
+      "target":"C'est bon.",
+      "category":5,
+      "id":232
+    },
+    {
+      "target":"Où est-ce?",
+      "category":5,
+      "id":233
+    },
+    {
+      "target":"Jusqu'où est-il à Chicago?",
+      "category":5,
+      "id":234
+    },
+    {
+      "target":"A quelle distance est-ce?",
+      "category":5,
+      "id":235
+    },
+    {
+      "target":"Quelle est l'adresse?",
+      "category":5,
+      "id":236
+    },
+    {
+      "target":"Il y a un livre sous la table.",
+      "category":5,
+      "id":237
+    },
+    {
+      "target":"Le livre est sur la table.",
+      "category":5,
+      "id":238
+    },
+    {
+      "target":"Le livre est près de la table.",
+      "category":5,
+      "id":239
+    },
+    {
+      "target":"Le livre est à côté de la table.",
+      "category":5,
+      "id":240
+    },
+    {
+      "target":"Le livre est derrière la table.",
+      "category":5,
+      "id":241
+    },
+    {
+      "target":"Le livre est devant la table.",
+      "category":5,
+      "id":242
+    },
+    {
+      "target":"Qui a gagné?",
+      "category":5,
+      "id":243
+    },
+    {
+      "target":"Où voudrais-tu aller?",
+      "category":5,
+      "id":244
+    },
+    {
+      "target":"Où allez-vous?",
+      "category":5,
+      "id":245
+    },
+    {
+      "target":"Je voudrais une chambre simple.",
+      "category":5,
+      "id":246
+    },
+    {
+      "target":"Peut être.",
+      "category":5,
+      "id":247
+    },
+    {
+      "target":"Ma maison est proche de la banque.",
+      "category":5,
+      "id":248
+    },
+    {
+      "target":"Nous sommes de Californie.",
+      "category":5,
+      "id":249
+    },
+    {
+      "target":"Au deuxième étage.",
+      "category":5,
+      "id":250
+    },
+    {
+      "target":"C'est supposé pleuvoir demain.",
+      "category":5,
+      "id":251
+    },
+    {
+      "target":"Sur la gauche.",
+      "category":5,
+      "id":252
+    },
+    {
+      "target":"Sur la droite.",
+      "category":5,
+      "id":253
+    },
+    {
+      "target":"En face de la poste.",
+      "category":5,
+      "id":254
+    },
+    {
+      "target":"Il y a quelques livres sur la table.",
+      "category":5,
+      "id":255
+    },
+    {
+      "target":"Près de la banque.",
+      "category":5,
+      "id":256
+    },
+    {
+      "target":"Il est dans la cuisine.",
+      "category":5,
+      "id":257
+    },
+    {
+      "target":"Il étudie à l'Université de Boston.",
+      "category":5,
+      "id":258
+    },
+    {
+      "target":"Allons-y.",
+      "category":5,
+      "id":259
+    },
+    {
+      "target":"ce n'est pas supposé pleuvoir aujourd'hui.",
+      "category":5,
+      "id":260
+    },
+    {
+      "target":"Il fait très chaud.",
+      "category":5,
+      "id":261
+    },
+    {
+      "target":"Il est onze heures et demie.",
+      "category":5,
+      "id":262
+    },
+    {
+      "target":"Combien de miles est-il à la Pennsylvanie?",
+      "category":5,
+      "id":263
+    },
+    {
+      "target":"En dehors de l'hôtel.",
+      "category":5,
+      "id":264
+    },
+    {
+      "target":"Pouvez-vous recommander un bon restaurant?",
+      "category":5,
+      "id":265
+    },
+    {
+      "target":"C'est plus que 5 dollars.",
+      "category":5,
+      "id":266
+    },
+    {
+      "target":"C'est délicieux!",
+      "category":5,
+      "id":267
+    },
+    {
+      "target":"C'est moins de 5 dollars.",
+      "category":5,
+      "id":268
+    },
+    {
+      "target":"C'est sur la 7ème rue.",
+      "category":5,
+      "id":269
+    },
+    {
+      "target":"C'est près du supermarché.",
+      "category":5,
+      "id":270
+    },
+    {
+      "target":"J'étais dans la bibliothèque.",
+      "category":5,
+      "id":271
+    },
+    {
+      "target":"J'aime regarder la tv.",
+      "category":5,
+      "id":272
+    },
+    {
+      "target":"J'allais à la bibliothèque.",
+      "category":5,
+      "id":273
+    },
+    {
+      "target":"Voici mon numéro.",
+      "category":6,
+      "id":274
+    },
+    {
+      "target":"Où est la pharmacie?",
+      "category":6,
+      "id":275
+    },
+    {
+      "target":"Où est le restaurant le plus proche?",
+      "category":6,
+      "id":276
+    },
+    {
+      "target":"Où puis-je trouver un hôpital?",
+      "category":6,
+      "id":277
+    },
+    {
+      "target":"Existe-t-il un guide parlant anglais?",
+      "category":6,
+      "id":278
+    },
+    {
+      "target":"Bonjour, est-ce que Mme Smith est là, s'il vous plaît?",
+      "category":6,
+      "id":279
+    },
+    {
+      "target":"Désolé, je pense avoir le mauvais numéro.",
+      "category":6,
+      "id":280
+    },
+    {
+      "target":"Quel est le nom de l'entreprise pour laquelle vous travaillez?",
+      "category":6,
+      "id":281
+    },
+    {
+      "target":"Quel est l'indicatif régional?",
+      "category":6,
+      "id":282
+    },
+    {
+      "target":"Quelle est ton adresse?",
+      "category":6,
+      "id":283
+    },
+    {
+      "target":"Qui es-tu?",
+      "category":6,
+      "id":284
+    },
+    {
+      "target":"Qui est-ce?",
+      "category":6,
+      "id":285
+    },
+    {
+      "target":"J'ai besoin de mouchoirs.",
+      "category":6,
+      "id":286
+    },
+    {
+      "target":"J'aimerais aussi de l'eau, s'il vous plaît.",
+      "category":6,
+      "id":287
+    },
+    {
+      "target":"Puis-je prendre un message?",
+      "category":6,
+      "id":288
+    },
+    {
+      "target":"Puis-je l'essayer?",
+      "category":6,
+      "id":289
+    },
+    {
+      "target":"Peut-on s'asseoir là-bas?",
+      "category":6,
+      "id":290
+    },
+    {
+      "target":"Puis-je voir votre passeport, s'il vous plaît?",
+      "category":6,
+      "id":291
+    },
+    {
+      "target":"Mon téléphone portable ne fonctionne pas.",
+      "category":6,
+      "id":292
+    },
+    {
+      "target":"Masculin ou féminin?",
+      "category":6,
+      "id":293
+    },
+    {
+      "target":"Il n'est pas en ce moment.",
+      "category":6,
+      "id":294
+    },
+    {
+      "target":"Enlevez vos chaussures, s'il vous plait.",
+      "category":6,
+      "id":295
+    },
+    {
+      "target":"À qui voulez-vous parler?",
+      "category":6,
+      "id":296
+    },
+    {
+      "target":"Je vais bien.",
+      "category":6,
+      "id":297
+    },
+    {
+      "target":"Pensez-vous que c'est possible?",
+      "category":6,
+      "id":298
+    },
+    {
+      "target":"Allez-vous me ramener chez moi?",
+      "category":6,
+      "id":299
+    },
+    {
+      "target":"Es-tu venu avec ta famille?",
+      "category":6,
+      "id":300
+    },
+    {
+      "target":"J'ai trois enfants, deux filles et un garçon.",
+      "category":6,
+      "id":301
+    },
+    {
+      "target":"Mon téléphone portable n'a pas une bonne réception.",
+      "category":6,
+      "id":302
+    },
+    {
+      "target":"Voulez-vous de l'eau ou du lait?",
+      "category":6,
+      "id":303
+    },
+    {
+      "target":"Qu'est-ce qui ne va pas?",
+      "category":6,
+      "id":304
+    },
+    {
+      "target":"J'aimerais acheter une bouteille d'eau, s'il vous plaît.",
+      "category":6,
+      "id":305
+    },
+    {
+      "target":"J'aimerais parler à M. Smith s'il vous plaît.",
+      "category":6,
+      "id":306
+    },
+    {
+      "target":"Je voudrais acheter quelque chose.",
+      "category":6,
+      "id":307
+    },
+    {
+      "target":"Je vous apprendrai.",
+      "category":6,
+      "id":308
+    },
+    {
+      "target":"Je rappellerai plus tard.",
+      "category":6,
+      "id":309
+    },
+    {
+      "target":"Je t'appellerai vendredi.",
+      "category":6,
+      "id":310
+    },
+    {
+      "target":"Je reviens tout de suite.",
+      "category":6,
+      "id":311
+    },
+    {
+      "target":"Je voudrais louer une voiture.",
+      "category":6,
+      "id":312
+    },
+    {
+      "target":"J'aimerais envoyer un fax.",
+      "category":6,
+      "id":313
+    },
+    {
+      "target":"J'aimerais envoyer ceci en Amérique.",
+      "category":6,
+      "id":314
+    },
+    {
+      "target":"J'aimerais aller au magasin.",
+      "category":6,
+      "id":315
+    },
+    {
+      "target":"Je veux te donner un cadeau.",
+      "category":6,
+      "id":316
+    },
+    {
+      "target":"Il y a 11 jours.",
+      "category":7,
+      "id":317
+    },
+    {
+      "target":"2 heures.",
+      "category":7,
+      "id":318
+    },
+    {
+      "target":"22 octobre.",
+      "category":7,
+      "id":319
+    },
+    {
+      "target":"À 3 heures de l'après-midi.",
+      "category":7,
+      "id":320
+    },
+    {
+      "target":"À 7 heures du soir. (soir)?",
+      "category":7,
+      "id":321
+    },
+    {
+      "target":"À 7 heures du matin.",
+      "category":7,
+      "id":322
+    },
+    {
+      "target":"À quelle heure arrivent-ils?",
+      "category":7,
+      "id":323
+    },
+    {
+      "target":"A quelle heure t'es-tu levé?",
+      "category":7,
+      "id":324
+    },
+    {
+      "target":"À quelle heure pensez-vous arriver?",
+      "category":7,
+      "id":325
+    },
+    {
+      "target":"À quelle heure êtes-vous allé dormir?",
+      "category":7,
+      "id":326
+    },
+    {
+      "target":"À quelle heure t'es-tu réveillé?",
+      "category":7,
+      "id":327
+    },
+    {
+      "target":"A quelle heure ça commence?",
+      "category":7,
+      "id":328
+    },
+    {
+      "target":"Quel jour de la semaine est-il?",
+      "category":7,
+      "id":329
+    },
+    {
+      "target":"Quel jour viennent-ils?",
+      "category":7,
+      "id":330
+    },
+    {
+      "target":"Toute la journée.",
+      "category":7,
+      "id":331
+    },
+    {
+      "target":"Toute la journée.",
+      "category":7,
+      "id":332
+    },
+    {
+      "target":"A quelle heure est-ce arrivé?",
+      "category":7,
+      "id":333
+    },
+    {
+      "target":"Il y a longtemps.",
+      "category":7,
+      "id":334
+    },
+    {
+      "target":"John part en vacances demain.",
+      "category":7,
+      "id":335
+    },
+    {
+      "target":"Sa famille vient demain.",
+      "category":7,
+      "id":336
+    },
+    {
+      "target":"Parfois, je me couche à 23h, parfois à 23h30.",
+      "category":7,
+      "id":337
+    },
+    {
+      "target":"Toutes les semaines.",
+      "category":7,
+      "id":338
+    },
+    {
+      "target":"Tous les jours je me lève à 6h.",
+      "category":7,
+      "id":339
+    },
+    {
+      "target":"Combien de temps allez-vous rester en Californie?",
+      "category":7,
+      "id":340
+    },
+    {
+      "target":"Combien de temps allez-vous rester?",
+      "category":7,
+      "id":341
+    },
+    {
+      "target":"Dès que possible.",
+      "category":7,
+      "id":342
+    },
+    {
+      "target":"Que dirais-tu de samedi?",
+      "category":7,
+      "id":343
+    },
+    {
+      "target":"Quelle est la date d'aujourd'hui?",
+      "category":7,
+      "id":344
+    },
+    {
+      "target":"Quelle est ta religion?",
+      "category":7,
+      "id":345
+    },
+    {
+      "target":"Quand déménagez-vous?",
+      "category":7,
+      "id":346
+    },
+    {
+      "target":"Quand sera-t-il de retour?",
+      "category":7,
+      "id":347
+    },
+    {
+      "target":"Quand viennent-ils?",
+      "category":7,
+      "id":348
+    },
+    {
+      "target":"Quand est le prochain bus pour Philidalphia?",
+      "category":7,
+      "id":349
+    },
+    {
+      "target":"C'est quand votre anniversaire?",
+      "category":7,
+      "id":350
+    },
+    {
+      "target":"Quand revenez-vous?",
+      "category":7,
+      "id":351
+    },
+    {
+      "target":"Quand était la dernière fois que vous avez parlé à votre mère?",
+      "category":7,
+      "id":352
+    },
+    {
+      "target":"Quand vas-tu chercher ton ami?",
+      "category":7,
+      "id":353
+    },
+    {
+      "target":"Quand pars-tu?",
+      "category":7,
+      "id":354
+    },
+    {
+      "target":"Quand sera-t-il prêt?",
+      "category":7,
+      "id":355
+    },
+    {
+      "target":"Quand je suis allé au magasin, ils n'avaient pas de pommes.",
+      "category":7,
+      "id":356
+    },
+    {
+      "target":"Où vas-tu aller?",
+      "category":7,
+      "id":357
+    },
+    {
+      "target":"Il ya beaucoup de temps.",
+      "category":7,
+      "id":358
+    },
+    {
+      "target":"Puis-je vous aider?",
+      "category":7,
+      "id":359
+    },
+    {
+      "target":"Mon anniversaire est le 27 août.",
+      "category":7,
+      "id":360
+    },
+    {
+      "target":"Nous sommes en retard.",
+      "category":7,
+      "id":361
+    },
+    {
+      "target":"À la 5ème rue.",
+      "category":7,
+      "id":362
+    },
+    {
+      "target":"Il sera de retour dans 20 minutes.",
+      "category":7,
+      "id":363
+    },
+    {
+      "target":"Elle veut savoir quand tu viendras.",
+      "category":7,
+      "id":364
+    },
+    {
+      "target":"Est-ce qu'ils viennent ce soir?",
+      "category":7,
+      "id":365
+    },
+    {
+      "target":"Il va neiger aujourd'hui.",
+      "category":7,
+      "id":366
+    },
+    {
+      "target":"Il fera froid ce soir.",
+      "category":7,
+      "id":367
+    },
+    {
+      "target":"Il a plu très fort aujourd'hui.",
+      "category":7,
+      "id":368
+    },
+    {
+      "target":"Il est 6h du matin.",
+      "category":7,
+      "id":369
+    },
+    {
+      "target":"Il est 8h45.",
+      "category":7,
+      "id":370
+    },
+    {
+      "target":"Il est sept heures moins le quart.",
+      "category":7,
+      "id":371
+    },
+    {
+      "target":"Maintenant ou plus tard?",
+      "category":7,
+      "id":372
+    },
+    {
+      "target":"Quelle heure est-il?",
+      "category":7,
+      "id":373
+    },
+    {
+      "target":"Combien en tout?",
+      "category":7,
+      "id":374
+    },
+    {
+      "target":"Combien ça coûtera?",
+      "category":7,
+      "id":375
+    },
+    {
+      "target":"Combien de temps cela prendra-t-il?",
+      "category":7,
+      "id":376
+    },
+    {
+      "target":"Date d'expiration.",
+      "category":7,
+      "id":377
+    },
+    {
+      "target":"Vos enfants sont avec vous?",
+      "category":7,
+      "id":378
+    },
+    {
+      "target":"Es-tu installé confortablement?",
+      "category":7,
+      "id":379
+    },
+    {
+      "target":"Cela fait longtemps que tu attends?",
+      "category":7,
+      "id":380
+    },
+    {
+      "target":"Pensez-vous que vous serez de retour à 11h30?",
+      "category":7,
+      "id":381
+    },
+    {
+      "target":"Avez-vous ceci en taille 11?",
+      "category":7,
+      "id":382
+    },
+    {
+      "target":"Je n'ai pas assez d'argent",
+      "category":7,
+      "id":383
+    },
+    {
+      "target":"Avez-vous une piscine?",
+      "category":7,
+      "id":384
+    },
+    {
+      "target":"C'est ici.",
+      "category":7,
+      "id":385
+    },
+    {
+      "target":"C'est 17 dollars.",
+      "category":7,
+      "id":386
+    },
+    {
+      "target":"C'est là.",
+      "category":7,
+      "id":387
+    },
+    {
+      "target":"Je me prépare à sortir.",
+      "category":7,
+      "id":388
+    },
+    {
+      "target":"Je regarde juste. (Achats)",
+      "category":7,
+      "id":389
+    },
+    {
+      "target":"Je suis inquiet aussi.",
+      "category":7,
+      "id":390
+    },
+    {
+      "target":"Je l'ai déjà vu.",
+      "category":7,
+      "id":391
+    },
+    {
+      "target":"Quelle heure est-il?",
+      "category":8,
+      "id":392
+    },
+    {
+      "target":"Où est l'aéroport?",
+      "category":8,
+      "id":393
+    },
+    {
+      "target":"Où est la boîte aux lettres?",
+      "category":8,
+      "id":394
+    },
+    {
+      "target":"Y a-t-il un magasin près d'ici?",
+      "category":8,
+      "id":395
+    },
+    {
+      "target":"Y a-t-il une boîte de nuit en ville?",
+      "category":8,
+      "id":396
+    },
+    {
+      "target":"Y a-t-il un restaurant dans l'hôtel?",
+      "category":8,
+      "id":397
+    },
+    {
+      "target":"Désolé, nous n'avons pas de postes vacants.",
+      "category":8,
+      "id":398
+    },
+    {
+      "target":"Combien de temps vas-tu rester?",
+      "category":8,
+      "id":399
+    },
+    {
+      "target":"Quel est le tarif par nuit? (Un hôtel)",
+      "category":8,
+      "id":400
+    },
+    {
+      "target":"J'ai besoin d'un docteur.",
+      "category":8,
+      "id":401
+    },
+    {
+      "target":"Je voudrais une carte de la ville.",
+      "category":8,
+      "id":402
+    },
+    {
+      "target":"Je voudrais une chambre avec deux lits s'il vous plaît.",
+      "category":8,
+      "id":403
+    },
+    {
+      "target":"Je voudrais une chambre.",
+      "category":8,
+      "id":404
+    },
+    {
+      "target":"Pouvons-nous avoir plus de pain s'il vous plaît?",
+      "category":8,
+      "id":405
+    },
+    {
+      "target":"Pour combien de nuits?",
+      "category":8,
+      "id":406
+    },
+    {
+      "target":"Emmenez-moi à l'hôtel Marriott.",
+      "category":8,
+      "id":407
+    },
+    {
+      "target":"Es tu occupé?",
+      "category":8,
+      "id":408
+    },
+    {
+      "target":"As tu de l'argent?",
+      "category":8,
+      "id":409
+    },
+    {
+      "target":"Je voudrais une chambre non-fumeur.",
+      "category":8,
+      "id":410
+    },
+    {
+      "target":"3 juin.",
+      "category":9,
+      "id":411
+    },
+    {
+      "target":"Il y a un restaurant là-bas, mais je ne pense pas que ce soit très bon.",
+      "category":9,
+      "id":412
+    },
+    {
+      "target":"Voici votre commande.",
+      "category":9,
+      "id":413
+    },
+    {
+      "target":"Voici ta salade.",
+      "category":9,
+      "id":414
+    },
+    {
+      "target":"Où est un guichet automatique?",
+      "category":9,
+      "id":415
+    },
+    {
+      "target":"Où y a-t-il un médecin qui parle anglais?",
+      "category":9,
+      "id":416
+    },
+    {
+      "target":"La nourriture était délicieuse.",
+      "category":9,
+      "id":417
+    },
+    {
+      "target":"Quel est son goût?",
+      "category":9,
+      "id":418
+    },
+    {
+      "target":"Quelle est votre adresse e-mail?",
+      "category":9,
+      "id":419
+    },
+    {
+      "target":"Laquelle?",
+      "category":9,
+      "id":420
+    },
+    {
+      "target":"Je pense que j'ai besoin de voir un médecin.",
+      "category":9,
+      "id":421
+    },
+    {
+      "target":"Je l'aime.",
+      "category":9,
+      "id":422
+    },
+    {
+      "target":"Peut-il être moins cher?",
+      "category":9,
+      "id":423
+    },
+    {
+      "target":"Puis-je amener mon ami?",
+      "category":9,
+      "id":424
+    },
+    {
+      "target":"Pouvons-nous avoir un menu s'il vous plaît.",
+      "category":9,
+      "id":425
+    },
+    {
+      "target":"Puis-je avoir un reçu s'il vous plaît?",
+      "category":9,
+      "id":426
+    },
+    {
+      "target":"Nous pouvons manger de la nourriture italienne ou chinoise.",
+      "category":9,
+      "id":427
+    },
+    {
+      "target":"Nous aurons deux verres d'eau s'il vous plaît.",
+      "category":9,
+      "id":428
+    },
+    {
+      "target":"Voulez-vous un peu d'eau?",
+      "category":9,
+      "id":429
+    },
+    {
+      "target":"Voudriez-vous un café ou un thé?",
+      "category":9,
+      "id":430
+    },
+    {
+      "target":"Voulez-vous un verre d'eau?",
+      "category":9,
+      "id":431
+    },
+    {
+      "target":"Voudrais-tu du vin?",
+      "category":9,
+      "id":432
+    },
+    {
+      "target":"Voulez-vous regarder la télévision?",
+      "category":9,
+      "id":433
+    },
+    {
+      "target":"Voulez-vous faire une promenade?",
+      "category":9,
+      "id":434
+    },
+    {
+      "target":"Voulez-vous boire quelque chose?",
+      "category":9,
+      "id":435
+    },
+    {
+      "target":"Il y a des pommes dans le réfrigérateur.",
+      "category":9,
+      "id":436
+    },
+    {
+      "target":"Il aime les jus mais il n'aime pas le lait",
+      "category":9,
+      "id":437
+    },
+    {
+      "target":"Serveur!",
+      "category":9,
+      "id":438
+    },
+    {
+      "target":"Serveuse!",
+      "category":9,
+      "id":439
+    },
+    {
+      "target":"Il y a un restaurant près d'ici.",
+      "category":9,
+      "id":440
+    },
+    {
+      "target":"C'est le 25 août.",
+      "category":9,
+      "id":441
+    },
+    {
+      "target":"Combien de personnes? (restaurant)",
+      "category":9,
+      "id":442
+    },
+    {
+      "target":"Je vais prendre un verre d'eau s'il vous plaît.",
+      "category":9,
+      "id":443
+    },
+    {
+      "target":"Êtes-vous ici seul?",
+      "category":9,
+      "id":444
+    },
+    {
+      "target":"Savez-vous combien cela coûte?",
+      "category":9,
+      "id":445
+    },
+    {
+      "target":"Avez-vous déjà pris une soupe de pommes de terre?",
+      "category":9,
+      "id":446
+    },
+    {
+      "target":"Avez-vous mangé dans ce restaurant?",
+      "category":9,
+      "id":447
+    },
+    {
+      "target":"Pouvez-vous garder ça pour moi?",
+      "category":9,
+      "id":448
+    },
+    {
+      "target":"Voulez-vous lui demander de venir ici?",
+      "category":9,
+      "id":449
+    },
+    {
+      "target":"As-tu déjà mangé?",
+      "category":9,
+      "id":450
+    },
+    {
+      "target":"Je n'ai que 5 dollars.",
+      "category":9,
+      "id":451
+    },
+    {
+      "target":"Avez-vous des enfants?",
+      "category":9,
+      "id":452
+    },
+    {
+      "target":"Je vais prendre une tasse de thé s'il vous plaît.",
+      "category":9,
+      "id":453
+    },
+    {
+      "target":"Que voulez-vous boire?",
+      "category":9,
+      "id":454
+    },
+    {
+      "target":"Que voudriez-vous manger?",
+      "category":9,
+      "id":455
+    },
+    {
+      "target":"Que recommandez-vous?",
+      "category":9,
+      "id":456
+    },
+    {
+      "target":"Qu'allez-vous avoir?",
+      "category":9,
+      "id":457
+    },
+    {
+      "target":"Je voudrais une table près de la fenêtre.",
+      "category":9,
+      "id":458
+    },
+    {
+      "target":"Je suis ici pour affaires.",
+      "category":9,
+      "id":459
+    },
+    {
+      "target":"Je vais au lit.",
+      "category":9,
+      "id":460
+    },
+    {
+      "target":"Je viens d'Amérique.",
+      "category":9,
+      "id":461
+    },
+    {
+      "target":"Je suis désolé.",
+      "category":9,
+      "id":462
+    },
+    {
+      "target":"Je n'ai pas fini de manger.",
+      "category":9,
+      "id":463
+    },
+    {
+      "target":"Je vais t'appeler.",
+      "category":9,
+      "id":464
+    },
+    {
+      "target":"Je comprends.",
+      "category":9,
+      "id":465
+    },
+    {
+      "target":"Je suis d'accord.",
+      "category":9,
+      "id":466
+    },
+    {
+      "target":"Je n'y suis pas allé.",
+      "category":9,
+      "id":467
+    },
+    {
+      "target":"J'aimerais appeler les États-Unis.",
+      "category":9,
+      "id":468
+    },
+    {
+      "target":"Les affaires sont bonnes.",
+      "category":10,
+      "id":469
+    },
+    {
+      "target":"Dans quelle école as tu été?",
+      "category":10,
+      "id":470
+    },
+    {
+      "target":"Ta fille.",
+      "category":10,
+      "id":471
+    },
+    {
+      "target":"Vos enfants se sont très bien comportés.",
+      "category":10,
+      "id":472
+    },
+    {
+      "target":"Est-ce qu'il a neigé hier?",
+      "category":10,
+      "id":473
+    },
+    {
+      "target":"Étudies-tu l'anglais?",
+      "category":10,
+      "id":474
+    },
+    {
+      "target":"Vendez-vous des médicaments? (le magasin)",
+      "category":10,
+      "id":475
+    },
+    {
+      "target":"Où étiez-vous?",
+      "category":10,
+      "id":476
+    },
+    {
+      "target":"Où as-tu appris l'anglais?",
+      "category":10,
+      "id":477
+    },
+    {
+      "target":"Où habites-tu?",
+      "category":10,
+      "id":478
+    },
+    {
+      "target":"Où avez-vous travaillé avant de travailler ici?",
+      "category":10,
+      "id":479
+    },
+    {
+      "target":"Où sont les t-shirts?",
+      "category":10,
+      "id":480
+    },
+    {
+      "target":"Partageons.",
+      "category":10,
+      "id":481
+    },
+    {
+      "target":"Excusez-moi.",
+      "category":10,
+      "id":482
+    },
+    {
+      "target":"Depuis combien de temps êtes-vous en Amérique?",
+      "category":10,
+      "id":483
+    },
+    {
+      "target":"Depuis combien de temps êtes-vous ici?",
+      "category":10,
+      "id":484
+    },
+    {
+      "target":"Combien de temps avez-vous vécu ici?",
+      "category":10,
+      "id":485
+    },
+    {
+      "target":"Quel est ton nom?",
+      "category":10,
+      "id":486
+    },
+    {
+      "target":"Quel est votre nom de famille?",
+      "category":10,
+      "id":487
+    },
+    {
+      "target":"Quels sont vos hobbies?",
+      "category":10,
+      "id":488
+    },
+    {
+      "target":"Quel est votre film préféré?",
+      "category":10,
+      "id":489
+    },
+    {
+      "target":"Qui a envoyé cette lettre?",
+      "category":10,
+      "id":490
+    },
+    {
+      "target":"Où êtes-vous allé?",
+      "category":10,
+      "id":491
+    },
+    {
+      "target":"Cette voiture est similaire à ma voiture.",
+      "category":10,
+      "id":492
+    },
+    {
+      "target":"Je m'appelle John Smith.",
+      "category":10,
+      "id":493
+    },
+    {
+      "target":"J'ai 32 ans.",
+      "category":10,
+      "id":494
+    },
+    {
+      "target":"Je dois laver mes vêtements.",
+      "category":10,
+      "id":495
+    },
+    {
+      "target":"Ma grand-mère est décédée l'année dernière.",
+      "category":10,
+      "id":496
+    },
+    {
+      "target":"Mon père est avocat.",
+      "category":10,
+      "id":497
+    },
+    {
+      "target":"Mon père est passé par là.",
+      "category":10,
+      "id":498
+    },
+    {
+      "target":"Je suis une taille 8.",
+      "category":10,
+      "id":499
+    },
+    {
+      "target":"Mon fils étudie l'informatique.",
+      "category":10,
+      "id":500
+    },
+    {
+      "target":"Mon fils.",
+      "category":10,
+      "id":501
+    },
+    {
+      "target":"Ma fille est ici",
+      "category":10,
+      "id":502
+    },
+    {
+      "target":"Combien de langues parlez-vous?",
+      "category":10,
+      "id":503
+    },
+    {
+      "target":"Nos enfants sont en Amérique.",
+      "category":10,
+      "id":504
+    },
+    {
+      "target":"Voulez-vous acheter ceci?",
+      "category":10,
+      "id":505
+    },
+    {
+      "target":"Non, c'est la première fois.",
+      "category":10,
+      "id":506
+    },
+    {
+      "target":"Non, je suis américain.",
+      "category":10,
+      "id":507
+    },
+    {
+      "target":"Elle est plus âgée que moi.",
+      "category":10,
+      "id":508
+    },
+    {
+      "target":"C'est une experte.",
+      "category":10,
+      "id":509
+    },
+    {
+      "target":"L'ont-ils déjà rencontrée?",
+      "category":10,
+      "id":510
+    },
+    {
+      "target":"Appelle moi.",
+      "category":10,
+      "id":511
+    },
+    {
+      "target":"À votre santé!",
+      "category":10,
+      "id":512
+    },
+    {
+      "target":"Quel âge avez-vous?",
+      "category":10,
+      "id":513
+    },
+    {
+      "target":"Combien voudriez-vous?",
+      "category":10,
+      "id":514
+    },
+    {
+      "target":"Combien d'enfants avez-vous?",
+      "category":10,
+      "id":515
+    },
+    {
+      "target":"Combien de personnes avez-vous dans votre famille?",
+      "category":10,
+      "id":516
+    },
+    {
+      "target":"Votre frère est-il allé en Californie?",
+      "category":10,
+      "id":517
+    },
+    {
+      "target":"Votre maison est-elle comme celle-ci?",
+      "category":10,
+      "id":518
+    },
+    {
+      "target":"Votre mari est aussi de Boston?",
+      "category":10,
+      "id":519
+    },
+    {
+      "target":"Vous aimez ça ici?",
+      "category":10,
+      "id":520
+    },
+    {
+      "target":"Aimez-vous le livre?",
+      "category":10,
+      "id":521
+    },
+    {
+      "target":"As-tu besoin de quelque chose?",
+      "category":10,
+      "id":522
+    },
+    {
+      "target":"Êtes-vous américain?",
+      "category":10,
+      "id":523
+    },
+    {
+      "target":"Avez-vous faim?",
+      "category":10,
+      "id":524
+    },
+    {
+      "target":"L'avez-vous déjà fait?",
+      "category":10,
+      "id":525
+    },
+    {
+      "target":"Savez-vous où il y a un magasin qui vend des serviettes?",
+      "category":10,
+      "id":526
+    },
+    {
+      "target":"Tu fais du sport?",
+      "category":10,
+      "id":527
+    },
+    {
+      "target":"Vous parlez très bien anglais.",
+      "category":10,
+      "id":528
+    },
+    {
+      "target":"Avez-vous recu mon email?",
+      "category":10,
+      "id":529
+    },
+    {
+      "target":"Avez-vous pris vos médicaments?",
+      "category":10,
+      "id":530
+    },
+    {
+      "target":"Tu viens ce soir?",
+      "category":10,
+      "id":531
+    },
+    {
+      "target":"Est-ce que tu travailles demain?",
+      "category":10,
+      "id":532
+    },
+    {
+      "target":"Êtes-vous libre ce soir?",
+      "category":10,
+      "id":533
+    },
+    {
+      "target":"Allez-vous prendre un avion ou un train?",
+      "category":10,
+      "id":534
+    },
+    {
+      "target":"Êtes-vous sûr?",
+      "category":10,
+      "id":535
+    },
+    {
+      "target":"Tu es plus intelligent que lui.",
+      "category":10,
+      "id":536
+    },
+    {
+      "target":"Voulez-vous venir avec moi?",
+      "category":10,
+      "id":537
+    },
+    {
+      "target":"Voulez-vous venir avec moi?",
+      "category":10,
+      "id":538
+    },
+    {
+      "target":"Tu vas souvent en Floride?",
+      "category":10,
+      "id":539
+    },
+    {
+      "target":"Te sens-tu mieux?",
+      "category":10,
+      "id":540
+    },
+    {
+      "target":"Je suis allergique aux fruits de mer.",
+      "category":10,
+      "id":541
+    },
+    {
+      "target":"J'ai mal au bras.",
+      "category":10,
+      "id":542
+    },
+    {
+      "target":"J'ai deux soeurs.",
+      "category":10,
+      "id":543
+    },
+    {
+      "target":"Nous avons deux garçons et une fille.",
+      "category":10,
+      "id":544
+    },
+    {
+      "target":"En as-tu un autre?",
+      "category":10,
+      "id":545
+    },
+    {
+      "target":"Qu'est-ce que tu veux faire?",
+      "category":10,
+      "id":546
+    },
+    {
+      "target":"Qu'est-ce que tu étudies?",
+      "category":10,
+      "id":547
+    },
+    {
+      "target":"Que vas-tu faire ce soir?",
+      "category":10,
+      "id":548
+    },
+    {
+      "target":"Voici Mme Smith.",
+      "category":10,
+      "id":549
+    },
+    {
+      "target":"C'est ma mère.",
+      "category":10,
+      "id":550
+    },
+    {
+      "target":"Ce n'est pas tres cher.",
+      "category":10,
+      "id":551
+    },
+    {
+      "target":"Je suis 6'2 \".",
+      "category":10,
+      "id":552
+    },
+    {
+      "target":"Je suis Américain.",
+      "category":10,
+      "id":553
+    },
+    {
+      "target":"Je suis malade.",
+      "category":10,
+      "id":554
+    },
+    {
+      "target":"J'ai été là.",
+      "category":10,
+      "id":555
+    },
+    {
+      "target":"Je parle un peu l'anglais.",
+      "category":10,
+      "id":556
+    },
+    {
+      "target":"C'est la première fois que je suis ici.",
+      "category":10,
+      "id":557
+    },
+    {
+      "target":"J'ai acheté une chemise hier.",
+      "category":10,
+      "id":558
+    },
+    {
+      "target":"Je n'ai pas peur.",
+      "category":10,
+      "id":559
+    },
+    {
+      "target":"Je ne me sens pas bien",
+      "category":10,
+      "id":560
+    },
+    {
+      "target":"Je me rappelle.",
+      "category":10,
+      "id":561
+    },
+    {
+      "target":"Je lui dirai que tu as appelé.",
+      "category":10,
+      "id":562
+    },
+    {
+      "target":"Je vais bien et vous?",
+      "category":10,
+      "id":563
+    },
+    {
+      "target":"A quelle heure le film débute-t-il?",
+      "category":11,
+      "id":564
+    },
+    {
+      "target":"La banque est loin?",
+      "category":11,
+      "id":565
+    },
+    {
+      "target":"Il y a-t-il une salle de cinéma à proximité?",
+      "category":11,
+      "id":566
+    },
+    {
+      "target":"Y a-t-il des concerts?",
+      "category":11,
+      "id":567
+    },
+    {
+      "target":"Quel genre de musique aimez-vous?",
+      "category":11,
+      "id":568
+    },
+    {
+      "target":"Quel est ton plat préféré?",
+      "category":11,
+      "id":569
+    },
+    {
+      "target":"Quelle est votre taille?",
+      "category":11,
+      "id":570
+    },
+    {
+      "target":"Qui était ton professeur?",
+      "category":11,
+      "id":571
+    },
+    {
+      "target":"Voulez-vous louer un film?",
+      "category":11,
+      "id":572
+    },
+    {
+      "target":"Voulez-vous dîner avec moi?",
+      "category":11,
+      "id":573
+    },
+    {
+      "target":"Il a dit que vous aimez regarder des films.",
+      "category":11,
+      "id":574
+    },
+    {
+      "target":"As-tu vu ce film?",
+      "category":11,
+      "id":575
+    },
+    {
+      "target":"Voulez-vous aller au cinéma?",
+      "category":11,
+      "id":576
+    },
+    {
+      "target":"Qu'est-ce que les gens font habituellement l'été à Los Angeles?",
+      "category":11,
+      "id":577
+    },
+    {
+      "target":"À quelle heure ouvre le magasin?",
+      "category":12,
+      "id":578
+    },
+    {
+      "target":"Où es-tu?",
+      "category":12,
+      "id":579
+    },
+    {
+      "target":"Il a besoin de nouveaux vêtements.",
+      "category":12,
+      "id":580
+    },
+    {
+      "target":"Si vous l'aimez, je peux en acheter plus.",
+      "category":12,
+      "id":581
+    },
+    {
+      "target":"Désolé, nous n'en avons pas.",
+      "category":12,
+      "id":582
+    },
+    {
+      "target":"Quelle taille?",
+      "category":12,
+      "id":583
+    },
+    {
+      "target":"Les livres sont chers.",
+      "category":12,
+      "id":584
+    },
+    {
+      "target":"Quand arrive l'avion?",
+      "category":12,
+      "id":585
+    },
+    {
+      "target":"Puis-je utiliser votre téléphone?",
+      "category":12,
+      "id":586
+    },
+    {
+      "target":"Puis-je avoir un verre d'eau s'il vous plaît?",
+      "category":12,
+      "id":587
+    },
+    {
+      "target":"À remplir, s'il vous plait. (station-essence)",
+      "category":12,
+      "id":588
+    },
+    {
+      "target":"Voulez-vous manger quelque chose?",
+      "category":12,
+      "id":589
+    },
+    {
+      "target":"J'aimerais le numéro de l'hôtel Hilton, s'il vous plaît.",
+      "category":12,
+      "id":590
+    },
+    {
+      "target":"Essaye le.",
+      "category":12,
+      "id":591
+    },
+    {
+      "target":"C'est combien?",
+      "category":12,
+      "id":592
+    },
+    {
+      "target":"Combien ça coûte?",
+      "category":12,
+      "id":593
+    },
+    {
+      "target":"Est-ce que tu la connais?",
+      "category":12,
+      "id":594
+    },
+    {
+      "target":"Savez-vous où elle est?",
+      "category":12,
+      "id":595
+    },
+    {
+      "target":"Joues-tu au basket?",
+      "category":12,
+      "id":596
+    },
+    {
+      "target":"Avez-vous des postes vacants?",
+      "category":12,
+      "id":597
+    },
+    {
+      "target":"Avez-vous le numéro d'un taxi?",
+      "category":12,
+      "id":598
+    },
+    {
+      "target":"Que veux-tu acheter?",
+      "category":12,
+      "id":599
+    },
+    {
+      "target":"Ce n'est pas très loin.",
+      "category":12,
+      "id":600
+    },
+    {
+      "target":"Je voudrais acheter une carte de téléphone s'il vous plaît.",
+      "category":12,
+      "id":601
+    },
+    {
+      "target":"Je te crois.",
+      "category":12,
+      "id":602
+    },
+    {
+      "target":"Je parle deux langues.",
+      "category":12,
+      "id":603
+    },
+    {
+      "target":"Je pensais qu'il avait dit autre chose.",
+      "category":12,
+      "id":604
+    },
+    {
+      "target":"Je suis un débutant.",
+      "category":12,
+      "id":605
+    },
+    {
+      "target":"Je bois habituellement du café au petit-déjeuner.",
+      "category":12,
+      "id":606
+    },
+    {
+      "target":"Je suis plein.",
+      "category":12,
+      "id":607
+    },
+    {
+      "target":"Je suis célibataire.",
+      "category":12,
+      "id":608
+    },
+    {
+      "target":"Je voudrais rentrer à la maison.",
+      "category":12,
+      "id":609
+    },
+    {
+      "target":"Je voudrais faire du shopping.",
+      "category":12,
+      "id":610
+    },
+    {
+      "target":"C'est juste une plaisanterie.",
+      "category":12,
+      "id":611
+    },
+    {
+      "target":"Est-ce que je le prononce correctement?",
+      "category":13,
+      "id":612
+    },
+    {
+      "target":"Peut tu me rendre un service?",
+      "category":13,
+      "id":613
+    },
+    {
+      "target":"Pouvez-vous m'aider?",
+      "category":13,
+      "id":614
+    },
+    {
+      "target":"Pouvez-vous s'il vous plaît répéter cela?",
+      "category":13,
+      "id":615
+    },
+    {
+      "target":"Peux-tu me montrer?",
+      "category":13,
+      "id":616
+    },
+    {
+      "target":"Pouvez-vous jeter ça pour moi?",
+      "category":13,
+      "id":617
+    },
+    {
+      "target":"Croyez-vous cela?",
+      "category":13,
+      "id":618
+    },
+    {
+      "target":"As-tu un crayon?",
+      "category":13,
+      "id":619
+    },
+    {
+      "target":"Est-ce que tu fumes?",
+      "category":13,
+      "id":620
+    },
+    {
+      "target":"Parlez vous anglais?",
+      "category":13,
+      "id":621
+    },
+    {
+      "target":"Y-a-t-il quelqu'un qui parle anglais ici?",
+      "category":13,
+      "id":622
+    },
+    {
+      "target":"Ne fais pas ça.",
+      "category":13,
+      "id":623
+    },
+    {
+      "target":"Excusez-moi, qu'avez-vous dit?",
+      "category":13,
+      "id":624
+    },
+    {
+      "target":"Oublie.",
+      "category":13,
+      "id":625
+    },
+    {
+      "target":"Comment prononcez-vous cela?",
+      "category":13,
+      "id":626
+    },
+    {
+      "target":"Comment dis-tu cela en anglais?",
+      "category":13,
+      "id":627
+    },
+    {
+      "target":"Comment ça s'épelle?",
+      "category":13,
+      "id":628
+    },
+    {
+      "target":"Comment épelez-vous le mot \"Seattle?\"",
+      "category":13,
+      "id":629
+    },
+    {
+      "target":"Je peux nager.",
+      "category":13,
+      "id":630
+    },
+    {
+      "target":"Je ne peux pas vous entendre clairement.",
+      "category":13,
+      "id":631
+    },
+    {
+      "target":"Ça ne me dérange pas.",
+      "category":13,
+      "id":632
+    },
+    {
+      "target":"Je ne parle pas très bien anglais.",
+      "category":13,
+      "id":633
+    },
+    {
+      "target":"Je ne pense pas.",
+      "category":13,
+      "id":634
+    },
+    {
+      "target":"Je ne comprend pas ce que tu dis.",
+      "category":13,
+      "id":635
+    },
+    {
+      "target":"Je pense que tu as trop de vêtements.",
+      "category":13,
+      "id":636
+    },
+    {
+      "target":"Je compte sur toi.",
+      "category":13,
+      "id":637
+    },
+    {
+      "target":"Je comprends maintenant.",
+      "category":13,
+      "id":638
+    },
+    {
+      "target":"Y a-t-il l'air conditionné dans la chambre?",
+      "category":13,
+      "id":639
+    },
+    {
+      "target":"Rendez-vous devant l'hôtel.",
+      "category":13,
+      "id":640
+    },
+    {
+      "target":"Asseyez-vous s'il vous plaît.",
+      "category":13,
+      "id":641
+    },
+    {
+      "target":"S'il vous plait parlez anglais.",
+      "category":13,
+      "id":642
+    },
+    {
+      "target":"Parlez plus lentement s'il vous plaît.",
+      "category":13,
+      "id":643
+    },
+    {
+      "target":"Désolé, je n'ai pas entendu clairement.",
+      "category":13,
+      "id":644
+    },
+    {
+      "target":"Cela signifie ami.",
+      "category":13,
+      "id":645
+    },
+    {
+      "target":"C'est faux.",
+      "category":13,
+      "id":646
+    },
+    {
+      "target":"Essayez de le dire.",
+      "category":13,
+      "id":647
+    },
+    {
+      "target":"Qu'est-ce que ça veut dire?",
+      "category":13,
+      "id":648
+    },
+    {
+      "target":"Qu'est-ce que ça veut dire?",
+      "category":13,
+      "id":649
+    },
+    {
+      "target":"Que signifie ce mot?",
+      "category":13,
+      "id":650
+    },
+    {
+      "target":"Quel est le taux de change?",
+      "category":13,
+      "id":651
+    },
+    {
+      "target":"À qui est ce livre?",
+      "category":13,
+      "id":652
+    },
+    {
+      "target":"Pourquoi ris-tu?",
+      "category":13,
+      "id":653
+    },
+    {
+      "target":"Pourquoi tu n'y vas pas?",
+      "category":13,
+      "id":654
+    },
+    {
+      "target":"Pourquoi fais-tu ça?",
+      "category":13,
+      "id":655
+    },
+    {
+      "target":"L'accident s'est produit à l'intersection.",
+      "category":14,
+      "id":656
+    },
+    {
+      "target":"Vendez-vous des batteries?",
+      "category":14,
+      "id":657
+    },
+    {
+      "target":"Où est l'hôpital le plus proche?",
+      "category":14,
+      "id":658
+    },
+    {
+      "target":"Ou est le bureau de poste?",
+      "category":14,
+      "id":659
+    },
+    {
+      "target":"Où travaillez vous?",
+      "category":14,
+      "id":660
+    },
+    {
+      "target":"Où puis-je échanger des dollars américains?",
+      "category":14,
+      "id":661
+    },
+    {
+      "target":"Je m'en fiche.",
+      "category":14,
+      "id":662
+    },
+    {
+      "target":"J'ai encore beaucoup à faire.",
+      "category":14,
+      "id":663
+    },
+    {
+      "target":"Ma gorge est sèche.",
+      "category":14,
+      "id":664
+    },
+    {
+      "target":"Mes bagages sont manquants.",
+      "category":14,
+      "id":665
+    },
+    {
+      "target":"J'ai mal à l'estomac.",
+      "category":14,
+      "id":666
+    },
+    {
+      "target":"Ma montre a été volée.",
+      "category":14,
+      "id":667
+    },
+    {
+      "target":"Appelle-moi.",
+      "category":14,
+      "id":668
+    },
+    {
+      "target":"Prends ce médicament.",
+      "category":14,
+      "id":669
+    },
+    {
+      "target":"Il y a eu un accident de voiture.",
+      "category":14,
+      "id":670
+    },
+    {
+      "target":"Il fait très froid aujourd'hui.",
+      "category":14,
+      "id":671
+    },
+    {
+      "target":"Es-tu prêt?",
+      "category":14,
+      "id":672
+    },
+    {
+      "target":"M'as-tu envoyé des fleurs?",
+      "category":14,
+      "id":673
+    },
+    {
+      "target":"J'en ai un dans ma voiture.",
+      "category":14,
+      "id":674
+    },
+    {
+      "target":"J'ai un rhume.",
+      "category":14,
+      "id":675
+    },
+    {
+      "target":"Êtes-vous allergique à quelque chose?",
+      "category":14,
+      "id":676
+    },
+    {
+      "target":"Cela dépend du temps.",
+      "category":14,
+      "id":677
+    },
+    {
+      "target":"Je n'ai toujours pas décidé.",
+      "category":14,
+      "id":678
+    },
+    {
+      "target":"J'ai eu un accident.",
+      "category":14,
+      "id":679
+    },
+    {
+      "target":"J'ai fait ce gâteau.",
+      "category":14,
+      "id":680
+    },
+    {
+      "target":"Je suis travailleur indépendant.",
+      "category":14,
+      "id":681
+    },
+    {
+      "target":"J'abandonne.",
+      "category":14,
+      "id":682
+    },
+    {
+      "target":"Je suis un enseignant.",
+      "category":14,
+      "id":683
+    },
+    {
+      "target":"Et vous?",
+      "category":16,
+      "id":684
+    },
+    {
+      "target":"A quelle école va-t-il?",
+      "category":16,
+      "id":685
+    },
+    {
+      "target":"Quoi de neuf?",
+      "category":16,
+      "id":686
+    },
+    {
+      "target":"Est-ce que tout va bien?",
+      "category":16,
+      "id":687
+    },
+    {
+      "target":"Acceptez-vous les dollars américains?",
+      "category":16,
+      "id":688
+    },
+    {
+      "target":"Où est-il?",
+      "category":16,
+      "id":689
+    },
+    {
+      "target":"Où l'as-tu appris?",
+      "category":16,
+      "id":690
+    },
+    {
+      "target":"Où cela s'est-il passé?",
+      "category":16,
+      "id":691
+    },
+    {
+      "target":"Où puis-je louer une voiture?",
+      "category":16,
+      "id":692
+    },
+    {
+      "target":"Oui.",
+      "category":16,
+      "id":693
+    },
+    {
+      "target":"Donne moi le stylo.",
+      "category":16,
+      "id":694
+    },
+    {
+      "target":"Est-ce qu'il aime l'école?",
+      "category":16,
+      "id":695
+    },
+    {
+      "target":"Y a-t-il quelque chose de moins cher?",
+      "category":16,
+      "id":696
+    },
+    {
+      "target":"Il pleut?",
+      "category":16,
+      "id":697
+    },
+    {
+      "target":"C'est combien de temps?",
+      "category":16,
+      "id":698
+    },
+    {
+      "target":"Comment est-elle?",
+      "category":16,
+      "id":699
+    },
+    {
+      "target":"Quelle est la température?",
+      "category":16,
+      "id":700
+    },
+    {
+      "target":"Qui cherches-tu?",
+      "category":16,
+      "id":701
+    },
+    {
+      "target":"Lequel est le moins cher?",
+      "category":16,
+      "id":702
+    },
+    {
+      "target":"Lequel est le meilleur?",
+      "category":16,
+      "id":703
+    },
+    {
+      "target":"Lequel veut-tu?",
+      "category":16,
+      "id":704
+    },
+    {
+      "target":"Qui appelle?",
+      "category":16,
+      "id":705
+    },
+    {
+      "target":"Qui sont-ils?",
+      "category":16,
+      "id":706
+    },
+    {
+      "target":"Qui t'a appris ça?",
+      "category":16,
+      "id":707
+    },
+    {
+      "target":"Qui est cet homme là-bas?",
+      "category":16,
+      "id":708
+    },
+    {
+      "target":"Qu'est-ce? (Demander qui est au téléphone)",
+      "category":16,
+      "id":709
+    },
+    {
+      "target":"Est-ce que quelqu'un d'autre arrive?",
+      "category":16,
+      "id":710
+    },
+    {
+      "target":"Le grand ou le petit?",
+      "category":16,
+      "id":711
+    },
+    {
+      "target":"Les voitures sont américaines.",
+      "category":16,
+      "id":712
+    },
+    {
+      "target":"Devrais-je attendre?",
+      "category":16,
+      "id":713
+    },
+    {
+      "target":"J'ai beaucoup de choses à faire.",
+      "category":16,
+      "id":714
+    },
+    {
+      "target":"Puis-je emprunter de l'argent?",
+      "category":16,
+      "id":715
+    },
+    {
+      "target":"Puis-je avoir la note s'il vous plaît?",
+      "category":16,
+      "id":716
+    },
+    {
+      "target":"Est-ce que c'est chaud?",
+      "category":16,
+      "id":717
+    },
+    {
+      "target":"Il fait froid dehors?",
+      "category":16,
+      "id":718
+    },
+    {
+      "target":"Pouvez-vous parler plus fort s'il vous plaît?",
+      "category":16,
+      "id":719
+    },
+    {
+      "target":"De quoi parlez-vous?",
+      "category":16,
+      "id":720
+    },
+    {
+      "target":"A quoi penses-tu?",
+      "category":16,
+      "id":721
+    },
+    {
+      "target":"Sont-ils les mêmes?",
+      "category":16,
+      "id":722
+    },
+    {
+      "target":"D'où est-il?",
+      "category":16,
+      "id":723
+    },
+    {
+      "target":"Comment le sais-tu?",
+      "category":16,
+      "id":724
+    },
+    {
+      "target":"Pourquoi as-tu dis cela?",
+      "category":16,
+      "id":725
+    },
+    {
+      "target":"Derrière la banque.",
+      "category":16,
+      "id":726
+    },
+    {
+      "target":"Combien ça coûte?",
+      "category":16,
+      "id":727
+    },
+    {
+      "target":"Combien?",
+      "category":16,
+      "id":728
+    },
+    {
+      "target":"Y a-t-il eu des problèmes?",
+      "category":16,
+      "id":729
+    },
+    {
+      "target":"Votre fils est ici?",
+      "category":16,
+      "id":730
+    },
+    {
+      "target":"Aimez-vous vos collègues?",
+      "category":16,
+      "id":731
+    },
+    {
+      "target":"As-tu besoin d'autre chose?",
+      "category":16,
+      "id":732
+    },
+    {
+      "target":"As tu peur?",
+      "category":16,
+      "id":733
+    },
+    {
+      "target":"Es tu malade?",
+      "category":16,
+      "id":734
+    },
+    {
+      "target":"Étiez-vous à la bibliothèque hier soir?",
+      "category":16,
+      "id":735
+    },
+    {
+      "target":"ESt ce que ça va?",
+      "category":16,
+      "id":736
+    },
+    {
+      "target":"Tu ressembles à ma soeur.",
+      "category":16,
+      "id":737
+    },
+    {
+      "target":"Es-tu marié?",
+      "category":16,
+      "id":738
+    },
+    {
+      "target":"Savez-vous où sont mes lunettes?",
+      "category":16,
+      "id":739
+    },
+    {
+      "target":"Savez-vous où je peux prendre un taxi?",
+      "category":16,
+      "id":740
+    },
+    {
+      "target":"Savez-vous comment vous rendre à l'hôtel Marriott?",
+      "category":16,
+      "id":741
+    },
+    {
+      "target":"Savez-vous ce que cela signifie?",
+      "category":16,
+      "id":742
+    },
+    {
+      "target":"Pouvez-vous me rappeler plus tard?",
+      "category":16,
+      "id":743
+    },
+    {
+      "target":"Pouvez-vous rappeler plus tard?",
+      "category":16,
+      "id":744
+    },
+    {
+      "target":"Pouvez-vous porter ceci pour moi?",
+      "category":16,
+      "id":745
+    },
+    {
+      "target":"Peux-tu me donner un exemple?",
+      "category":16,
+      "id":746
+    },
+    {
+      "target":"Pouvez-vous réparer ceci?",
+      "category":16,
+      "id":747
+    },
+    {
+      "target":"Voulez-vous lui demander de me rappeler s'il vous plaît?",
+      "category":16,
+      "id":748
+    },
+    {
+      "target":"D'où êtes-vous?",
+      "category":16,
+      "id":749
+    },
+    {
+      "target":"Voulez-vous me passer le sel s'il vous plaît?",
+      "category":16,
+      "id":750
+    },
+    {
+      "target":"Voulez-vous mettre cela dans la voiture pour moi?",
+      "category":16,
+      "id":751
+    },
+    {
+      "target":"Comprenez vous?",
+      "category":16,
+      "id":752
+    },
+    {
+      "target":"Allez-vous assister à leur mariage?",
+      "category":16,
+      "id":753
+    },
+    {
+      "target":"Savez-vous nager?",
+      "category":16,
+      "id":754
+    },
+    {
+      "target":"Entends-tu cela?",
+      "category":16,
+      "id":755
+    },
+    {
+      "target":"Avez-vous une petite amie?",
+      "category":16,
+      "id":756
+    },
+    {
+      "target":"As-tu un rendez-vous?",
+      "category":16,
+      "id":757
+    },
+    {
+      "target":"Vous avez une très belle voiture.",
+      "category":16,
+      "id":758
+    },
+    {
+      "target":"Avez-vous un problème?",
+      "category":16,
+      "id":759
+    },
+    {
+      "target":"Dans 30 minutes.",
+      "category":16,
+      "id":760
+    },
+    {
+      "target":"Qu'est-ce que tu penses?",
+      "category":16,
+      "id":761
+    },
+    {
+      "target":"Quel est le meilleur, la salade de spaghettis ou de poulet?",
+      "category":16,
+      "id":762
+    },
+    {
+      "target":"Que dois-je porter?",
+      "category":16,
+      "id":763
+    },
+    {
+      "target":"Qu'est-ce qu'ils étudient?",
+      "category":16,
+      "id":764
+    },
+    {
+      "target":"Qu'est-il arrivé?",
+      "category":16,
+      "id":765
+    },
+    {
+      "target":"Qu'y a-t-il dedans?",
+      "category":16,
+      "id":766
+    },
+    {
+      "target":"Qu'est-ce que c'est?",
+      "category":16,
+      "id":767
+    },
+    {
+      "target":"Que faites-vous?",
+      "category":16,
+      "id":768
+    },
+    {
+      "target":"Qu'est-ce que vous avez fait hier?",
+      "category":16,
+      "id":769
+    },
+    {
+      "target":"Qu'as tu fais la nuit dernière?",
+      "category":16,
+      "id":770
+    },
+    {
+      "target":"Qu'as-tu pensé?",
+      "category":16,
+      "id":771
+    },
+    {
+      "target":"Qu'est-ce que tu as?",
+      "category":16,
+      "id":772
+    },
+    {
+      "target":"Qu'Est-ce que c'est?",
+      "category":16,
+      "id":773
+    },
+    {
+      "target":"Qu'est-ce que c'est ça?",
+      "category":16,
+      "id":774
+    },
+    {
+      "target":"Rien d'autre?",
+      "category":16,
+      "id":775
+    },
+    {
+      "target":"Est-ce loin d 'ici?",
+      "category":16,
+      "id":776
+    },
+    {
+      "target":"6 dollars par heure.",
+      "category":17,
+      "id":777
+    },
+    {
+      "target":"À quelle heure allez-vous au travail tous les jours?",
+      "category":17,
+      "id":778
+    },
+    {
+      "target":"Quel est le problème?",
+      "category":17,
+      "id":779
+    },
+    {
+      "target":"Où est-ce que ça fait mal?",
+      "category":17,
+      "id":780
+    },
+    {
+      "target":"Comment était le voyage?",
+      "category":17,
+      "id":781
+    },
+    {
+      "target":"Combien de temps avez-vous travaillé ici?",
+      "category":17,
+      "id":782
+    },
+    {
+      "target":"Quel temps fait-il?",
+      "category":17,
+      "id":783
+    },
+    {
+      "target":"Quand arrivez-vous au travail?",
+      "category":17,
+      "id":784
+    },
+    {
+      "target":"Quand arrivez-vous aux États-Unis?",
+      "category":17,
+      "id":785
+    },
+    {
+      "target":"Où veux-tu aller?",
+      "category":17,
+      "id":786
+    },
+    {
+      "target":"Où l'avez-vous mis?",
+      "category":17,
+      "id":787
+    },
+    {
+      "target":"J'ai encore beaucoup de choses à acheter.",
+      "category":17,
+      "id":788
+    },
+    {
+      "target":"Il est ingénieur.",
+      "category":17,
+      "id":789
+    },
+    {
+      "target":"Il travaille très fort.",
+      "category":17,
+      "id":790
+    },
+    {
+      "target":"Il travaille dans une société d'informatique à New York.",
+      "category":17,
+      "id":791
+    },
+    {
+      "target":"Apportez-moi ma chemise s'il vous plaît.",
+      "category":17,
+      "id":792
+    },
+    {
+      "target":"Combien d'argent as tu?",
+      "category":17,
+      "id":793
+    },
+    {
+      "target":"Combien d'heures travaillez-vous par semaine?",
+      "category":17,
+      "id":794
+    },
+    {
+      "target":"Aimez-vous votre patron?",
+      "category":17,
+      "id":795
+    },
+    {
+      "target":"Attends tu quelqu'un?",
+      "category":17,
+      "id":796
+    },
+    {
+      "target":"Avez-vous fini d'étudier?",
+      "category":17,
+      "id":797
+    },
+    {
+      "target":"Aimez-vous regarder la télévision?",
+      "category":17,
+      "id":798
+    },
+    {
+      "target":"Travaillez-vous aujourd'hui?",
+      "category":17,
+      "id":799
+    },
+    {
+      "target":"Que fais-tu pour le travail?",
+      "category":17,
+      "id":800
+    },
+    {
+      "target":"Que fait ton père pour le travail?",
+      "category":17,
+      "id":801
+    },
+    {
+      "target":"Que font tes parents pour le travail?",
+      "category":17,
+      "id":802
+    },
+    {
+      "target":"Que fait-il pour le travail?",
+      "category":17,
+      "id":803
+    },
+    {
+      "target":"Je suis prêt.",
+      "category":17,
+      "id":804
+    },
+    {
+      "target":"J'oublie.",
+      "category":17,
+      "id":805
+    },
+    {
+      "target":"Je vais bien.",
+      "category":17,
+      "id":806
+    },
+    {
+      "target":"Je l'ai vu.",
+      "category":17,
+      "id":807
+    },
+    {
+      "target":"Les routes sont glissantes.",
+      "category":18,
+      "id":808
+    },
+    {
+      "target":"Ça fait mal ici.",
+      "category":18,
+      "id":809
+    },
+    {
+      "target":"Il pleut.",
+      "category":18,
+      "id":810
+    },
+    {
+      "target":"Comment vont les affaires?",
+      "category":18,
+      "id":811
+    },
+    {
+      "target":"Comment sera le temps demain?",
+      "category":18,
+      "id":812
+    },
+    {
+      "target":"Quel est le tarif de la chambre?",
+      "category":18,
+      "id":813
+    },
+    {
+      "target":"Venez ici.",
+      "category":18,
+      "id":814
+    },
+    {
+      "target":"Il va faire chaud aujourd'hui.",
+      "category":18,
+      "id":815
+    },
+    {
+      "target":"C'est trop tard.",
+      "category":18,
+      "id":816
+    },
+    {
+      "target":"Pensez-vous qu'il va pleuvoir demain?",
+      "category":18,
+      "id":817
+    },
+    {
+      "target":"Pensez-vous qu'il va pleuvoir aujourd'hui?",
+      "category":18,
+      "id":818
+    },
+    {
+      "target":"Fait-il souvent de la neige en hiver dans le Massachusetts?",
+      "category":18,
+      "id":819
+    },
+    {
+      "target":"Est-ce fermé?",
+      "category":18,
+      "id":820
+    },
+    {
+      "target":"C'est possible?",
+      "category":18,
+      "id":821
+    },
+    {
+      "target":"C'est là-bas.",
+      "category":18,
+      "id":822
+    },
+    {
+      "target":"Est-ce pret?",
+      "category":18,
+      "id":823
+    },
+    {
+      "target":"C'est loin d'ici.",
+      "category":18,
+      "id":824
+    },
+    {
+      "target":"C'est au nord d'ici.",
+      "category":18,
+      "id":825
+    },
+    {
+      "target":"C'est très important.",
+      "category":18,
+      "id":826
+    },
+    {
+      "target":"Il arrivera sous peu.",
+      "category":18,
+      "id":827
+    },
+    {
+      "target":"Cela coûte 20 dollars de l'heure.",
+      "category":18,
+      "id":828
+    }]
+
+  ,
+  "categories":[
+    {
+      "id": 1,
+      "translatedName": "Expressions communes"
+    },
+    {
+      "id": 2,
+      "translatedName": "Salutations"
+    },
+    {
+      "id": 3,
+      "translatedName": "Voyage, directions"
+    },
+    {
+      "id": 4,
+      "translatedName": "Chiffres et argent"
+    },
+    {
+      "id": 5,
+      "translatedName": "Emplacement"
+    },
+    {
+      "id": 6,
+      "translatedName": "Téléphone / internet / mail"
+    },
+    {
+      "id": 7,
+      "translatedName": "Heure et dates"
+    },
+    {
+      "id": 8,
+      "translatedName": "Hébergement"
+    },
+    {
+      "id": 9,
+      "translatedName": "À manger"
+    },
+    {
+      "id": 10,
+      "translatedName": "Se faire des amis"
+    },
+    {
+      "id": 11,
+      "translatedName": "Divertissement"
+    },
+    {
+      "id": 12,
+      "translatedName": "Achats"
+    },
+    {
+      "id": 13,
+      "translatedName": "Difficultés de communication"
+    },
+    {
+      "id": 14,
+      "translatedName": "Urgence et santé"
+    },
+    {
+      "id": 16,
+      "translatedName": "Questions générales"
+    },
+    {
+      "id": 17,
+      "translatedName": "Travail"
+    },
+    {
+      "id": 18,
+      "translatedName": "Météo"
+    }
+]
+
+
+}

@@ -55,7 +55,7 @@ final class Data {
                         JSONObject phraseObject = data.get(PHRASES).getJSONObject(i);
                         //values.put(PhraseTable.ORIGIN,Util.getStringFromResourcesByName("phrase_"+phraseObject.getInt("id"),context));
                         values.put(PhraseTable.TARGET, phraseObject.getString("target"));
-                        values.put(PhraseTable.PRONUNCIATION, phraseObject.getString("pronunciation"));
+                        values.put(PhraseTable.PRONUNCIATION, phraseObject.has("pronunciation")?phraseObject.getString("pronunciation"):"-");
                         values.put(PhraseTable.IS_FAVORITE, 0);
                         values.put(PhraseTable.CATEGORY, phraseObject.getInt("category"));
                         values.put(PhraseTable.ID, phraseObject.getInt("id"));
@@ -81,7 +81,6 @@ final class Data {
             cursor = db.query(PhraseTable.TABLE_NAME,null,null,null,null,null,null);
             while(cursor.moveToNext()) {
                 Phrase phrase = new Phrase();
-
                 phrase.id = cursor.getInt(cursor.getColumnIndexOrThrow(PhraseTable.ID));
                 phrase.target = cursor.getString(cursor.getColumnIndexOrThrow(PhraseTable.TARGET));
                 phrase.origin = Util.getStringFromResourcesByName("phrase_"+phrase.id,context);

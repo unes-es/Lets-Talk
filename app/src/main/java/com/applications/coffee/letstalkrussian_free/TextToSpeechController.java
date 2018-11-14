@@ -27,7 +27,7 @@ public class TextToSpeechController extends UtteranceProgressListener implements
 
     @Override
     public void onInit(int status) {
-        tts.setLanguage(new Locale("ru","RU"));
+        tts.setLanguage(new Locale(Util.getStringFromResourcesByName("tts_local",context)));
         tts.setSpeechRate(1);
         tts.setOnUtteranceProgressListener(this);
     }
