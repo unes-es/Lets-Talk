@@ -1,0 +1,5042 @@
+{
+  "phrases":[
+  {
+    "category": 1,
+    "id": 1,
+    "target": "小心。",
+    "pronunciation": "Xiǎoxīn."
+  },
+  {
+    "category": 1,
+    "id": 2,
+    "target": "要小心驾驶。",
+    "pronunciation": "Yào xiǎoxīn jiàshǐ."
+  },
+  {
+    "category": 1,
+    "id": 3,
+    "target": "您可以把这个给我吗？",
+    "pronunciation": "Nín kěyǐ bǎ zhège gěi wǒ ma?"
+  },
+  {
+    "category": 1,
+    "id": 4,
+    "target": "芝加哥是从波士顿很大的不同。",
+    "pronunciation": "Zhījiāgē shì cóng bōshìdùn hěn dà de bùtóng."
+  },
+  {
+    "category": 1,
+    "id": 5,
+    "target": "别担心。",
+    "pronunciation": "Bié dānxīn."
+  },
+  {
+    "category": 1,
+    "id": 6,
+    "target": "每个人都知道这一点。",
+    "pronunciation": "Měi gèrén dōu zhīdào zhè yīdiǎn."
+  },
+  {
+    "category": 1,
+    "id": 7,
+    "target": "都准备好了。",
+    "pronunciation": "Dōu zhǔnbèi hǎole."
+  },
+  {
+    "category": 1,
+    "id": 8,
+    "target": "优秀。",
+    "pronunciation": "Yōuxiù."
+  },
+  {
+    "category": 1,
+    "id": 9,
+    "target": "不时。",
+    "pronunciation": "Bùshí."
+  },
+  {
+    "category": 1,
+    "id": 10,
+    "target": "好主意。",
+    "pronunciation": "Hǎo zhǔyì."
+  },
+  {
+    "category": 1,
+    "id": 11,
+    "target": "他特别喜欢看。",
+    "pronunciation": "Tā tèbié xǐhuān kàn."
+  },
+  {
+    "category": 1,
+    "id": 12,
+    "target": "救命！",
+    "pronunciation": "Jiùmìng!"
+  },
+  {
+    "category": 1,
+    "id": 13,
+    "target": "他即将推出。",
+    "pronunciation": "Tā jíjiāng tuīchū."
+  },
+  {
+    "category": 1,
+    "id": 14,
+    "target": "他是对的。",
+    "pronunciation": "Tā shì duì de."
+  },
+  {
+    "category": 1,
+    "id": 15,
+    "target": "他非常讨厌。",
+    "pronunciation": "Tā fēicháng tǎoyàn."
+  },
+  {
+    "category": 1,
+    "id": 16,
+    "target": "他是非常有名的。",
+    "pronunciation": "Tā shì fēicháng yǒumíng de."
+  },
+  {
+    "category": 1,
+    "id": 17,
+    "target": "你好吗？",
+    "pronunciation": "Nǐ hǎo ma?"
+  },
+  {
+    "category": 1,
+    "id": 18,
+    "target": "工作怎么样了？",
+    "pronunciation": "Gōngzuò zěnme yàngle?"
+  },
+  {
+    "category": 1,
+    "id": 19,
+    "target": "匆忙！",
+    "pronunciation": "Cōngmáng!"
+  },
+  {
+    "category": 1,
+    "id": 20,
+    "target": "我已经吃了。",
+    "pronunciation": "Wǒ yǐjīng chīle."
+  },
+  {
+    "category": 1,
+    "id": 21,
+    "target": "我不能听你的。",
+    "pronunciation": "Wǒ bùnéng tīng nǐ de."
+  },
+  {
+    "category": 1,
+    "id": 22,
+    "target": "我想出去散散步。",
+    "pronunciation": "Wǒ xiǎng chūqù sàn sànbù."
+  },
+  {
+    "category": 1,
+    "id": 23,
+    "target": "我不知道如何使用它。",
+    "pronunciation": "Wǒ bù zhīdào rúhé shǐyòng tā."
+  },
+  {
+    "category": 1,
+    "id": 24,
+    "target": "我不喜欢他。",
+    "pronunciation": "Wǒ bù xǐhuān tā."
+  },
+  {
+    "category": 1,
+    "id": 25,
+    "target": "我不喜欢它。",
+    "pronunciation": "Wǒ bù xǐhuān tā."
+  },
+  {
+    "category": 1,
+    "id": 26,
+    "target": "我不会说非常好。",
+    "pronunciation": "Wǒ bù huì shuō fēicháng hǎo."
+  },
+  {
+    "category": 1,
+    "id": 27,
+    "target": "我听不懂。",
+    "pronunciation": "Wǒ tīng bù dǒng."
+  },
+  {
+    "category": 1,
+    "id": 28,
+    "target": "我不希望它。",
+    "pronunciation": "Wǒ bù xīwàng tā."
+  },
+  {
+    "category": 1,
+    "id": 29,
+    "target": "我不希望出现这种情况。",
+    "pronunciation": "Wǒ bù xīwàng chūxiàn zhè zhǒng qíngkuàng."
+  },
+  {
+    "category": 1,
+    "id": 30,
+    "target": "我不想打扰你。",
+    "pronunciation": "Wǒ bùxiǎng dǎrǎo nǐ."
+  },
+  {
+    "category": 1,
+    "id": 31,
+    "target": "我感觉很好。",
+    "pronunciation": "Wǒ gǎnjué hěn hǎo."
+  },
+  {
+    "category": 1,
+    "id": 32,
+    "target": "如果你需要我的帮助，请让我知道。",
+    "pronunciation": "Rúguǒ nǐ xūyào wǒ de bāngzhù, qǐng ràng wǒ zhīdào."
+  },
+  {
+    "category": 1,
+    "id": 33,
+    "target": "我下班的6。",
+    "pronunciation": "Wǒ xiàbān de 6."
+  },
+  {
+    "category": 1,
+    "id": 34,
+    "target": "我头疼。",
+    "pronunciation": "Wǒ tóuténg."
+  },
+  {
+    "category": 1,
+    "id": 35,
+    "target": "我希望你和你的妻子有一个很好的旅程。",
+    "pronunciation": "Wǒ xīwàng nǐ hé nǐ de qīzi yǒu yīgè hěn hǎo de lǚchéng."
+  },
+  {
+    "category": 1,
+    "id": 36,
+    "target": "我知道。",
+    "pronunciation": "Wǒ zhīdào."
+  },
+  {
+    "category": 1,
+    "id": 37,
+    "target": "我喜欢她。",
+    "pronunciation": "Wǒ xǐhuān tā."
+  },
+  {
+    "category": 1,
+    "id": 38,
+    "target": "当我离开，我会打电话给你。",
+    "pronunciation": "Dāng wǒ líkāi, wǒ huì dǎ diànhuà gěi nǐ."
+  },
+  {
+    "category": 1,
+    "id": 39,
+    "target": "我稍后再来。",
+    "pronunciation": "Wǒ shāo hòu zàilái."
+  },
+  {
+    "category": 1,
+    "id": 40,
+    "target": "我来付。",
+    "pronunciation": "Wǒ lái fù."
+  },
+  {
+    "category": 1,
+    "id": 41,
+    "target": "我要买它。",
+    "pronunciation": "Wǒ yāomǎi tā."
+  },
+  {
+    "category": 1,
+    "id": 42,
+    "target": "我会带你到公共汽车站。",
+    "pronunciation": "Wǒ huì dài nǐ dào gōnggòng qìchē zhàn."
+  },
+  {
+    "category": 1,
+    "id": 43,
+    "target": "我失去了我的手表。",
+    "pronunciation": "Wǒ shīqùle wǒ de shǒubiǎo."
+  },
+  {
+    "category": 1,
+    "id": 44,
+    "target": "我爱你。",
+    "pronunciation": "Wǒ ài nǐ."
+  },
+  {
+    "category": 1,
+    "id": 45,
+    "target": "我是美国人。",
+    "pronunciation": "Wǒ shì měiguó rén."
+  },
+  {
+    "category": 1,
+    "id": 46,
+    "target": "我打扫我的房间。",
+    "pronunciation": "Wǒ dǎsǎo wǒ de fángjiān."
+  },
+  {
+    "category": 1,
+    "id": 47,
+    "target": "我很冷。",
+    "pronunciation": "Wǒ hěn lěng."
+  },
+  {
+    "category": 1,
+    "id": 48,
+    "target": "我来接你。",
+    "pronunciation": "Wǒ lái jiē nǐ."
+  },
+  {
+    "category": 1,
+    "id": 49,
+    "target": "我要离开了。",
+    "pronunciation": "Wǒ yào líkāile."
+  },
+  {
+    "category": 1,
+    "id": 50,
+    "target": "我很好你呢？",
+    "pronunciation": "Wǒ hěn hǎo nǐ ne?"
+  },
+  {
+    "category": 1,
+    "id": 51,
+    "target": "我很高兴。",
+    "pronunciation": "Wǒ hěn gāoxìng."
+  },
+  {
+    "category": 1,
+    "id": 52,
+    "target": "我饿了。",
+    "pronunciation": "Wǒ èle."
+  },
+  {
+    "category": 1,
+    "id": 53,
+    "target": "我已结婚。",
+    "pronunciation": "Wǒ yǐ jiéhūn."
+  },
+  {
+    "category": 1,
+    "id": 54,
+    "target": "我不忙。",
+    "pronunciation": "Wǒ bù máng."
+  },
+  {
+    "category": 1,
+    "id": 55,
+    "target": "我未婚。",
+    "pronunciation": "Wǒ wèihūn."
+  },
+  {
+    "category": 1,
+    "id": 56,
+    "target": "我还没准备好。",
+    "pronunciation": "Wǒ hái méi zhǔnbèi hǎo."
+  },
+  {
+    "category": 1,
+    "id": 57,
+    "target": "我不确定。",
+    "pronunciation": "Wǒ bù quèdìng."
+  },
+  {
+    "category": 1,
+    "id": 58,
+    "target": "对不起，卖完了。",
+    "pronunciation": "Duìbùqǐ, mài wánliǎo."
+  },
+  {
+    "category": 1,
+    "id": 59,
+    "target": "我口渴。",
+    "pronunciation": "Wǒ kǒu kě."
+  },
+  {
+    "category": 1,
+    "id": 60,
+    "target": "我很忙。我没有时间了。",
+    "pronunciation": "Wǒ hěn máng. Wǒ méiyǒu shíjiānle."
+  },
+  {
+    "category": 1,
+    "id": 61,
+    "target": "我要换衣服。",
+    "pronunciation": "Wǒ yào huàn yīfú."
+  },
+  {
+    "category": 1,
+    "id": 62,
+    "target": "我要回家了。",
+    "pronunciation": "Wǒ yào huí jiāle."
+  },
+  {
+    "category": 1,
+    "id": 63,
+    "target": "我只想要一份快餐。",
+    "pronunciation": "Wǒ zhǐ xiǎng yào yī fèn kuàicān."
+  },
+  {
+    "category": 1,
+    "id": 64,
+    "target": "史密斯先生是美国人吗？",
+    "pronunciation": "Shǐmìsī xiānshēng shì měiguó rén ma?"
+  },
+  {
+    "category": 1,
+    "id": 65,
+    "target": "够了吗？",
+    "pronunciation": "Gòule ma?"
+  },
+  {
+    "category": 1,
+    "id": 66,
+    "target": "我觉得这是非常好的。",
+    "pronunciation": "Wǒ juédé zhè shì fēicháng hǎo de."
+  },
+  {
+    "category": 1,
+    "id": 67,
+    "target": "我觉得它的味道不错。",
+    "pronunciation": "Wǒ juédé tā de wèidào bùcuò."
+  },
+  {
+    "category": 1,
+    "id": 68,
+    "target": "我认为衣服便宜。",
+    "pronunciation": "Wǒ rènwéi yīfú piányí."
+  },
+  {
+    "category": 1,
+    "id": 69,
+    "target": "这是2英里长。",
+    "pronunciation": "Zhè shì 2 yīnglǐ cháng."
+  },
+  {
+    "category": 1,
+    "id": 70,
+    "target": "我已经在这里两天了。",
+    "pronunciation": "Wǒ yǐjīng zài zhèlǐ liǎng tiānle."
+  },
+  {
+    "category": 1,
+    "id": 71,
+    "target": "我听说得克萨斯州是一个美丽的地方。",
+    "pronunciation": "Wǒ tīng shuō dékèsàsī zhōu shì yīgè měilì dì dìfāng."
+  },
+  {
+    "category": 1,
+    "id": 72,
+    "target": "我从来没有看到过。",
+    "pronunciation": "Wǒ cónglái méiyǒu kàn dàoguò."
+  },
+  {
+    "category": 1,
+    "id": 73,
+    "target": "我正要离开餐馆时，我的朋友们来了。",
+    "pronunciation": "Wǒ zhèng yào líkāi cānguǎn shí, wǒ de péngyǒumen láile."
+  },
+  {
+    "category": 1,
+    "id": 74,
+    "target": "只是一点点。",
+    "pronunciation": "Zhǐshì yī diǎndiǎn."
+  },
+  {
+    "category": 1,
+    "id": 75,
+    "target": "一会儿。",
+    "pronunciation": "Yīhuǐ'er."
+  },
+  {
+    "category": 1,
+    "id": 76,
+    "target": "让我看看。",
+    "pronunciation": "Ràng wǒ kàn kàn."
+  },
+  {
+    "category": 1,
+    "id": 77,
+    "target": "让我想想。",
+    "pronunciation": "Ràng wǒ xiǎng xiǎng."
+  },
+  {
+    "category": 1,
+    "id": 78,
+    "target": "让我们去看看。",
+    "pronunciation": "Ràng wǒmen qù kàn kàn."
+  },
+  {
+    "category": 1,
+    "id": 79,
+    "target": "让我们来练习英语。",
+    "pronunciation": "Ràng wǒmen lái liànxí yīngyǔ."
+  },
+  {
+    "category": 1,
+    "id": 80,
+    "target": "我可以和史密斯女士讲话吗？",
+    "pronunciation": "Wǒ kěyǐ hé shǐmìsī nǚshì jiǎnghuà ma?"
+  },
+  {
+    "category": 1,
+    "id": 81,
+    "target": "比那更多的。",
+    "pronunciation": "Bǐ nà gèng duō de."
+  },
+  {
+    "category": 1,
+    "id": 82,
+    "target": "没关系。",
+    "pronunciation": "Méiguānxì."
+  },
+  {
+    "category": 1,
+    "id": 83,
+    "target": "下次。",
+    "pronunciation": "Xià cì."
+  },
+  {
+    "category": 1,
+    "id": 84,
+    "target": "没有。",
+    "pronunciation": "Méiyǒu."
+  },
+  {
+    "category": 1,
+    "id": 85,
+    "target": "废话。",
+    "pronunciation": "Fèihuà."
+  },
+  {
+    "category": 1,
+    "id": 86,
+    "target": "不，谢谢。",
+    "pronunciation": "Bù, xièxiè."
+  },
+  {
+    "category": 1,
+    "id": 87,
+    "target": "没有其他的。",
+    "pronunciation": "Méiyǒu qítā de."
+  },
+  {
+    "category": 1,
+    "id": 88,
+    "target": "最近没有。",
+    "pronunciation": "Zuìjìn méiyǒu."
+  },
+  {
+    "category": 1,
+    "id": 89,
+    "target": "还没。",
+    "pronunciation": "Hái méi."
+  },
+  {
+    "category": 1,
+    "id": 90,
+    "target": "当然。",
+    "pronunciation": "Dāngrán."
+  },
+  {
+    "category": 1,
+    "id": 91,
+    "target": "好的。",
+    "pronunciation": "Hǎo de."
+  },
+  {
+    "category": 1,
+    "id": 92,
+    "target": "请填写此表。",
+    "pronunciation": "Qǐng tiánxiě cǐ biǎo."
+  },
+  {
+    "category": 1,
+    "id": 93,
+    "target": "请送我到这个地址。",
+    "pronunciation": "Qǐng sòng wǒ dào zhège dìzhǐ."
+  },
+  {
+    "category": 1,
+    "id": 94,
+    "target": "请写下来。",
+    "pronunciation": "Qǐng xiě xiàlái."
+  },
+  {
+    "category": 1,
+    "id": 95,
+    "target": "真？",
+    "pronunciation": "Zhēn?"
+  },
+  {
+    "category": 1,
+    "id": 96,
+    "target": "就在这儿。",
+    "pronunciation": "Jiù zài zhè'er."
+  },
+  {
+    "category": 1,
+    "id": 97,
+    "target": "在那里。",
+    "pronunciation": "Zài nàlǐ."
+  },
+  {
+    "category": 1,
+    "id": 98,
+    "target": "回头见。",
+    "pronunciation": "Huítóu jiàn."
+  },
+  {
+    "category": 1,
+    "id": 99,
+    "target": "明天见。",
+    "pronunciation": "Míngtiān jiàn."
+  },
+  {
+    "category": 1,
+    "id": 100,
+    "target": "今晚见。",
+    "pronunciation": "Jīn wǎn jiàn."
+  },
+  {
+    "category": 1,
+    "id": 101,
+    "target": "她漂亮。",
+    "pronunciation": "Tā piàoliang."
+  },
+  {
+    "category": 1,
+    "id": 102,
+    "target": "抱歉打扰你。",
+    "pronunciation": "Bàoqiàn dǎrǎo nǐ."
+  },
+  {
+    "category": 1,
+    "id": 103,
+    "target": "停止！",
+    "pronunciation": "Tíngzhǐ!"
+  },
+  {
+    "category": 1,
+    "id": 104,
+    "target": "冒一次险。",
+    "pronunciation": "Mào yīcì xiǎn."
+  },
+  {
+    "category": 1,
+    "id": 105,
+    "target": "把它外面。",
+    "pronunciation": "Bǎ tā wàimiàn."
+  },
+  {
+    "category": 1,
+    "id": 106,
+    "target": "告诉我。",
+    "pronunciation": "Gàosù wǒ."
+  },
+  {
+    "category": 1,
+    "id": 107,
+    "target": "感谢一切。",
+    "pronunciation": "Gǎnxiè yīqiè."
+  },
+  {
+    "category": 1,
+    "id": 108,
+    "target": "谢谢你的帮助。",
+    "pronunciation": "Xièxiè nǐ de bāngzhù."
+  },
+  {
+    "category": 1,
+    "id": 109,
+    "target": "谢谢。",
+    "pronunciation": "Xièxiè."
+  },
+  {
+    "category": 1,
+    "id": 110,
+    "target": "谢谢你怀念。",
+    "pronunciation": "Xièxiè nǐ huáiniàn."
+  },
+  {
+    "category": 1,
+    "id": 111,
+    "target": "谢谢你，先生。",
+    "pronunciation": "Xièxiè nǐ, xiānshēng."
+  },
+  {
+    "category": 1,
+    "id": 112,
+    "target": "非常感谢你。",
+    "pronunciation": "Fēicháng gǎnxiè nǐ."
+  },
+  {
+    "category": 1,
+    "id": 113,
+    "target": "这看起来很棒。",
+    "pronunciation": "Zhè kàn qǐlái hěn bàng."
+  },
+  {
+    "category": 1,
+    "id": 114,
+    "target": "没关系。",
+    "pronunciation": "Méiguānxì."
+  },
+  {
+    "category": 1,
+    "id": 115,
+    "target": "这就够了。",
+    "pronunciation": "Zhè jiù gòule."
+  },
+  {
+    "category": 1,
+    "id": 116,
+    "target": "没关系。",
+    "pronunciation": "Méiguānxì."
+  },
+  {
+    "category": 1,
+    "id": 117,
+    "target": "而已。",
+    "pronunciation": "Éryǐ."
+  },
+  {
+    "category": 1,
+    "id": 118,
+    "target": "那难闻。",
+    "pronunciation": "Nà nán wén."
+  },
+  {
+    "category": 1,
+    "id": 119,
+    "target": "这不公平。",
+    "pronunciation": "Zhè bù gōngpíng."
+  },
+  {
+    "category": 1,
+    "id": 120,
+    "target": "那是不对的。",
+    "pronunciation": "Nà shì bùduì de."
+  },
+  {
+    "category": 1,
+    "id": 121,
+    "target": "那就对了。",
+    "pronunciation": "Nà jiù duìle."
+  },
+  {
+    "category": 1,
+    "id": 122,
+    "target": "这太糟糕了。",
+    "pronunciation": "Zhè tài zāogāole."
+  },
+  {
+    "category": 1,
+    "id": 123,
+    "target": "这是太多了。",
+    "pronunciation": "Zhè shì tài duōle."
+  },
+  {
+    "category": 1,
+    "id": 124,
+    "target": "这太多了。",
+    "pronunciation": "Zhè tài duōle."
+  },
+  {
+    "category": 1,
+    "id": 125,
+    "target": "这本书在桌子底下。",
+    "pronunciation": "Zhè běn shū zài zhuōzi dǐxia."
+  },
+  {
+    "category": 1,
+    "id": 126,
+    "target": "他们马上就回来。",
+    "pronunciation": "Tāmen mǎshàng jiù huílái."
+  },
+  {
+    "category": 1,
+    "id": 127,
+    "target": "它们是相同的。",
+    "pronunciation": "Tāmen shì xiāngtóng de."
+  },
+  {
+    "category": 1,
+    "id": 128,
+    "target": "他们很忙。",
+    "pronunciation": "Tāmen hěn máng."
+  },
+  {
+    "category": 1,
+    "id": 129,
+    "target": "这是行不通的。",
+    "pronunciation": "Zhè shì xíng bùtōng de."
+  },
+  {
+    "category": 1,
+    "id": 130,
+    "target": "这是非常困难的。",
+    "pronunciation": "Zhè shì fēicháng kùnnán de."
+  },
+  {
+    "category": 1,
+    "id": 131,
+    "target": "这是非常重要的。",
+    "pronunciation": "Zhè shì fēicháng zhòngyào de."
+  },
+  {
+    "category": 1,
+    "id": 132,
+    "target": "试试吧。",
+    "pronunciation": "Shì shì ba."
+  },
+  {
+    "category": 1,
+    "id": 133,
+    "target": "非常好谢谢。",
+    "pronunciation": "Fēicháng hǎo xièxiè."
+  },
+  {
+    "category": 1,
+    "id": 134,
+    "target": "我们非常喜欢它。",
+    "pronunciation": "Wǒmen fēicháng xǐhuān tā."
+  },
+  {
+    "category": 1,
+    "id": 135,
+    "target": "你带个口信吗？",
+    "pronunciation": "Nǐ dài gè kǒuxìn ma?"
+  },
+  {
+    "category": 1,
+    "id": 136,
+    "target": "对真的。",
+    "pronunciation": "Duì zhēn de."
+  },
+  {
+    "category": 1,
+    "id": 137,
+    "target": "你非常美。",
+    "pronunciation": "Nǐ fēicháng měi."
+  },
+  {
+    "category": 1,
+    "id": 138,
+    "target": "您非常友善。",
+    "pronunciation": "Nín fēicháng yǒushàn."
+  },
+  {
+    "category": 1,
+    "id": 139,
+    "target": "你很聪明。",
+    "pronunciation": "Nǐ hěn cōngmíng."
+  },
+  {
+    "category": 1,
+    "id": 140,
+    "target": "你的东西都在这里。",
+    "pronunciation": "Nǐ de dōngxī dū zài zhèlǐ."
+  },
+  {
+    "category": 2,
+    "id": 141,
+    "target": "早上好。",
+    "pronunciation": "Zǎoshang hǎo."
+  },
+  {
+    "category": 2,
+    "id": 142,
+    "target": "晚上好，先生。",
+    "pronunciation": "Wǎnshàng hǎo, xiānshēng."
+  },
+  {
+    "category": 2,
+    "id": 143,
+    "target": "下午好。",
+    "pronunciation": "Xiàwǔ hǎo."
+  },
+  {
+    "category": 2,
+    "id": 144,
+    "target": "你好。",
+    "pronunciation": "Nǐ hǎo."
+  },
+  {
+    "category": 2,
+    "id": 145,
+    "target": "当然！",
+    "pronunciation": "Dāngrán!"
+  },
+  {
+    "category": 2,
+    "id": 146,
+    "target": "请给我打电话。",
+    "pronunciation": "Qǐng gěi wǒ dǎ diànhuà."
+  },
+  {
+    "category": 2,
+    "id": 147,
+    "target": "大。",
+    "pronunciation": "Dà."
+  },
+  {
+    "category": 2,
+    "id": 148,
+    "target": "很高兴见到你",
+    "pronunciation": "Hěn gāoxìng jiàn dào nǐ"
+  },
+  {
+    "category": 2,
+    "id": 149,
+    "target": "生日快乐。",
+    "pronunciation": "shēngrì kuàilè."
+  },
+  {
+    "category": 2,
+    "id": 150,
+    "target": "祝好运。",
+    "pronunciation": "Zhù hǎo yùn."
+  },
+  {
+    "category": 2,
+    "id": 151,
+    "target": "旅行愉快。",
+    "pronunciation": "Lǚxíng yúkuài."
+  },
+  {
+    "category": 3,
+    "id": 152,
+    "target": "往返车票。",
+    "pronunciation": "Wǎngfǎn chēpiào."
+  },
+  {
+    "category": 3,
+    "id": 153,
+    "target": "单程票。",
+    "pronunciation": "Dānchéng piào."
+  },
+  {
+    "category": 3,
+    "id": 154,
+    "target": "在什么时候？",
+    "pronunciation": "Zài shénme shíhòu?"
+  },
+  {
+    "category": 3,
+    "id": 155,
+    "target": "一直往前走。",
+    "pronunciation": "Yīzhí wǎng qián zǒu."
+  },
+  {
+    "category": 3,
+    "id": 156,
+    "target": "电影怎么样？",
+    "pronunciation": "Diànyǐng zěnme yàng?"
+  },
+  {
+    "category": 3,
+    "id": 157,
+    "target": "我如何获得美国大使馆？",
+    "pronunciation": "Wǒ rúhé huòdé měiguó dàshǐ guǎn?"
+  },
+  {
+    "category": 3,
+    "id": 158,
+    "target": "我如何获得丹尼尔街？",
+    "pronunciation": "Wǒ rúhé huòdé dānní'ěr jiē?"
+  },
+  {
+    "category": 3,
+    "id": 159,
+    "target": "我如何到达那里？",
+    "pronunciation": "Wǒ rúhé dàodá nàlǐ?"
+  },
+  {
+    "category": 3,
+    "id": 160,
+    "target": "我可以在下周三预约吗？",
+    "pronunciation": "Wǒ kěyǐ zàixià zhōusān yùyuē ma?"
+  },
+  {
+    "category": 3,
+    "id": 161,
+    "target": "飞多长时间？",
+    "pronunciation": "Fēi duō cháng shíjiān?"
+  },
+  {
+    "category": 3,
+    "id": 162,
+    "target": "约300公里。",
+    "pronunciation": "Yuē 300 gōnglǐ."
+  },
+  {
+    "category": 3,
+    "id": 163,
+    "target": "从这里到那里。",
+    "pronunciation": "Cóng zhèlǐ dào nàlǐ."
+  },
+  {
+    "category": 3,
+    "id": 164,
+    "target": "多长时间才能到达格鲁吉亚？",
+    "pronunciation": "Duō cháng shíjiān cáinéng dàodá gélǔjíyà?"
+  },
+  {
+    "category": 3,
+    "id": 165,
+    "target": "如何长时间才能开车？",
+    "pronunciation": "Rúhé cháng shíjiān cáinéng kāichē?"
+  },
+  {
+    "category": 3,
+    "id": 166,
+    "target": "跟着我。",
+    "pronunciation": "Gēnzhe wǒ."
+  },
+  {
+    "category": 3,
+    "id": 167,
+    "target": "你去过波士顿？",
+    "pronunciation": "Nǐ qùguò bōshìdùn?"
+  },
+  {
+    "category": 3,
+    "id": 168,
+    "target": "你知道这是什么说？",
+    "pronunciation": "Nǐ zhīdào zhè shì shénme shuō?"
+  },
+  {
+    "category": 3,
+    "id": 169,
+    "target": "请你再说一遍？",
+    "pronunciation": "Qǐng nǐ zàishuō yībiàn?"
+  },
+  {
+    "category": 3,
+    "id": 170,
+    "target": "你到了吗？",
+    "pronunciation": "Nǐ dàole ma?"
+  },
+  {
+    "category": 3,
+    "id": 171,
+    "target": "你要帮助她吗？",
+    "pronunciation": "Nǐ yào bāngzhù tā ma?"
+  },
+  {
+    "category": 3,
+    "id": 172,
+    "target": "你会做饭吗？",
+    "pronunciation": "Nǐ huì zuò fàn ma?"
+  },
+  {
+    "category": 3,
+    "id": 173,
+    "target": "你要我来接你？",
+    "pronunciation": "Nǐ yào wǒ lái jiē nǐ?"
+  },
+  {
+    "category": 3,
+    "id": 174,
+    "target": "你有足够的钱吗？",
+    "pronunciation": "Nǐ yǒu zúgòu de qián ma?"
+  },
+  {
+    "category": 3,
+    "id": 175,
+    "target": "我有一个问题我想问you./我想问你一个问题。",
+    "pronunciation": "Wǒ yǒuyīgè wèntí wǒ xiǎng wèn you./Wǒ xiǎng wèn nǐ yīgè wèntí."
+  },
+  {
+    "category": 3,
+    "id": 176,
+    "target": "这条路到纽约？",
+    "pronunciation": "Zhè tiáo lù dào niǔyuē?"
+  },
+  {
+    "category": 3,
+    "id": 177,
+    "target": "我会采取一也。",
+    "pronunciation": "Wǒ huì cǎiqǔ yī yě."
+  },
+  {
+    "category": 3,
+    "id": 178,
+    "target": "我在四天内回家。",
+    "pronunciation": "Wǒ zài sì tiānnèi huí jiā."
+  },
+  {
+    "category": 3,
+    "id": 179,
+    "target": "现在我来了。",
+    "pronunciation": "Xiànzài wǒ láile."
+  },
+  {
+    "category": 3,
+    "id": 180,
+    "target": "我想预约。",
+    "pronunciation": "Wǒ xiǎng yùyuē."
+  },
+  {
+    "category": 3,
+    "id": 181,
+    "target": "我想打个电话。",
+    "pronunciation": "Wǒ xiǎng dǎ gè diànhuà."
+  },
+  {
+    "category": 4,
+    "id": 182,
+    "target": "11美元。",
+    "pronunciation": "11 Měiyuán."
+  },
+  {
+    "category": 4,
+    "id": 183,
+    "target": "52美分。",
+    "pronunciation": "52 Měi fēn."
+  },
+  {
+    "category": 4,
+    "id": 184,
+    "target": "你们收信用卡？",
+    "pronunciation": "Nǐmen shōu xìnyòngkǎ?"
+  },
+  {
+    "category": 4,
+    "id": 185,
+    "target": "你想在哪里见面？",
+    "pronunciation": "Nǐ xiǎng zài nǎlǐ jiànmiàn?"
+  },
+  {
+    "category": 4,
+    "id": 186,
+    "target": "我在哪里可以买到票？",
+    "pronunciation": "Wǒ zài nǎlǐ kěyǐ mǎi dào piào?"
+  },
+  {
+    "category": 4,
+    "id": 187,
+    "target": "有没有我的信？",
+    "pronunciation": "Yǒu méiyǒu wǒ de xìn?"
+  },
+  {
+    "category": 4,
+    "id": 188,
+    "target": "这里有许多人。",
+    "pronunciation": "Zhè li yǒu xǔduō rén."
+  },
+  {
+    "category": 4,
+    "id": 189,
+    "target": "很抱歉，我们不接受信用卡。",
+    "pronunciation": "Hěn bàoqiàn, wǒmen bù jiēshòu xìnyòngkǎ."
+  },
+  {
+    "category": 4,
+    "id": 190,
+    "target": "很抱歉，我们只接受现金。",
+    "pronunciation": "Hěn bàoqiàn, wǒmen zhǐ jiēshòu xiànjīn."
+  },
+  {
+    "category": 4,
+    "id": 191,
+    "target": "你是如何支付？",
+    "pronunciation": "Nǐ shì rúhé zhīfù?"
+  },
+  {
+    "category": 4,
+    "id": 192,
+    "target": "什么是电话号码？",
+    "pronunciation": "Shénme shì diànhuà hàomǎ?"
+  },
+  {
+    "category": 4,
+    "id": 193,
+    "target": "什么是汇率的美元？",
+    "pronunciation": "Shénme shì huìlǜ dì měiyuán?"
+  },
+  {
+    "category": 4,
+    "id": 194,
+    "target": "哪一个更好？",
+    "pronunciation": "Nǎ yīgè gèng hǎo?"
+  },
+  {
+    "category": 4,
+    "id": 195,
+    "target": "我26岁。",
+    "pronunciation": "Wǒ 26 suì."
+  },
+  {
+    "category": 4,
+    "id": 196,
+    "target": "我需要练习英语。",
+    "pronunciation": "Wǒ xūyào liànxí yīngyǔ."
+  },
+  {
+    "category": 4,
+    "id": 197,
+    "target": "难道不是吗？",
+    "pronunciation": "Nándào bùshì ma?"
+  },
+  {
+    "category": 4,
+    "id": 198,
+    "target": "一些。",
+    "pronunciation": "Yīxiē."
+  },
+  {
+    "category": 4,
+    "id": 199,
+    "target": "他们收取每天26美元。",
+    "pronunciation": "Tāmen shōuqǔ měitiān 26 měiyuán."
+  },
+  {
+    "category": 4,
+    "id": 200,
+    "target": "请进。",
+    "pronunciation": "Qǐng jìn."
+  },
+  {
+    "category": 4,
+    "id": 201,
+    "target": "报警。",
+    "pronunciation": "Bàojǐng."
+  },
+  {
+    "category": 4,
+    "id": 202,
+    "target": "多少钱，这些耳环？",
+    "pronunciation": "Duōshǎo qián, zhèxiē ěrhuán?"
+  },
+  {
+    "category": 4,
+    "id": 203,
+    "target": "这餐厅也不贵。",
+    "pronunciation": "Zhè cāntīng yě bù guì."
+  },
+  {
+    "category": 4,
+    "id": 204,
+    "target": "这是下午11:30。",
+    "pronunciation": "Zhè shì xiàwǔ 11:30."
+  },
+  {
+    "category": 4,
+    "id": 205,
+    "target": "它是过去九年的四分之一。",
+    "pronunciation": "Tā shì guòqù jiǔ nián de sì fēn zhī yī."
+  },
+  {
+    "category": 4,
+    "id": 206,
+    "target": "多少钱，你做什么呢？",
+    "pronunciation": "Duōshǎo qián, nǐ zuò shénme ne?"
+  },
+  {
+    "category": 4,
+    "id": 207,
+    "target": "在纽约有多少人？",
+    "pronunciation": "Zài niǔyuē yǒu duōshǎo rén?"
+  },
+  {
+    "category": 4,
+    "id": 208,
+    "target": "多少钱去迈阿密？",
+    "pronunciation": "Duōshǎo qián qù mài'āmì?"
+  },
+  {
+    "category": 4,
+    "id": 209,
+    "target": "要花多少钱，每天的费用？",
+    "pronunciation": "Yào huā duōshǎo qián, měitiān de fèiyòng?"
+  },
+  {
+    "category": 4,
+    "id": 210,
+    "target": "这个多少钱？",
+    "pronunciation": "Zhège duōshǎo qián?"
+  },
+  {
+    "category": 4,
+    "id": 211,
+    "target": "我欠你多少？",
+    "pronunciation": "Wǒ qiàn nǐ duōshǎo?"
+  },
+  {
+    "category": 4,
+    "id": 212,
+    "target": "难道你妻子喜欢加州？",
+    "pronunciation": "Nándào nǐ qīzi xǐhuān jiāzhōu?"
+  },
+  {
+    "category": 4,
+    "id": 213,
+    "target": "你有更便宜的东西吗？",
+    "pronunciation": "Nǐ yǒu gèng piányí de dōngxī ma?"
+  },
+  {
+    "category": 4,
+    "id": 214,
+    "target": "我要点同样的菜。",
+    "pronunciation": "Wǒ yàodiǎn tóngyàng de cài."
+  },
+  {
+    "category": 4,
+    "id": 215,
+    "target": "我预订了座位。",
+    "pronunciation": "Wǒ yùdìngle zuòwèi."
+  },
+  {
+    "category": 4,
+    "id": 216,
+    "target": "我没有女朋友。",
+    "pronunciation": "Wǒ méiyǒu nǚ péngyǒu."
+  },
+  {
+    "category": 4,
+    "id": 217,
+    "target": "我没有什么钱。",
+    "pronunciation": "Wǒ méiyǒu shé me qián."
+  },
+  {
+    "category": 4,
+    "id": 218,
+    "target": "你有咖啡吗？",
+    "pronunciation": "Nǐ yǒu kāfēi ma?"
+  },
+  {
+    "category": 4,
+    "id": 219,
+    "target": "一点。",
+    "pronunciation": "Yīdiǎn."
+  },
+  {
+    "category": 4,
+    "id": 220,
+    "target": "这可以吗？",
+    "pronunciation": "Zhè kěyǐ ma?"
+  },
+  {
+    "category": 4,
+    "id": 221,
+    "target": "那太贵了。",
+    "pronunciation": "Nà tài guìle."
+  },
+  {
+    "category": 4,
+    "id": 222,
+    "target": "我会付钱取票。",
+    "pronunciation": "Wǒ huì fù qián qǔ piào."
+  },
+  {
+    "category": 4,
+    "id": 223,
+    "target": "我会付钱吃饭。",
+    "pronunciation": "Wǒ huì fù qián chīfàn."
+  },
+  {
+    "category": 4,
+    "id": 224,
+    "target": "我想在第五街的餐厅吃。",
+    "pronunciation": "Wǒ xiǎng zài dì wǔ jiē de cāntīng chī."
+  },
+  {
+    "category": 5,
+    "id": 225,
+    "target": "超过200英里。",
+    "pronunciation": "Chāoguò 200 yīnglǐ."
+  },
+  {
+    "category": 5,
+    "id": 226,
+    "target": "安静。",
+    "pronunciation": "Ānjìng."
+  },
+  {
+    "category": 5,
+    "id": 227,
+    "target": "在3点钟。",
+    "pronunciation": "Zài 3 diǎn zhōng."
+  },
+  {
+    "category": 5,
+    "id": 228,
+    "target": "在这里。",
+    "pronunciation": "Zài zhèlǐ."
+  },
+  {
+    "category": 5,
+    "id": 229,
+    "target": "在那边。",
+    "pronunciation": "Zài nà biān."
+  },
+  {
+    "category": 5,
+    "id": 230,
+    "target": "这个给你。",
+    "pronunciation": "Zhège gěi nǐ."
+  },
+  {
+    "category": 5,
+    "id": 231,
+    "target": "这里是。",
+    "pronunciation": "Zhèlǐ shì."
+  },
+  {
+    "category": 5,
+    "id": 232,
+    "target": "没关系。",
+    "pronunciation": "Méiguānxì."
+  },
+  {
+    "category": 5,
+    "id": 233,
+    "target": "它在哪里？",
+    "pronunciation": "Tā zài nǎlǐ?"
+  },
+  {
+    "category": 5,
+    "id": 234,
+    "target": "有多远芝加哥？",
+    "pronunciation": "Yǒu duō yuǎn zhījiāgē?"
+  },
+  {
+    "category": 5,
+    "id": 235,
+    "target": "这有多远啊？",
+    "pronunciation": "Zhè yǒu duō yuǎn a?"
+  },
+  {
+    "category": 5,
+    "id": 236,
+    "target": "地址是什么？",
+    "pronunciation": "Dìzhǐ shì shénme?"
+  },
+  {
+    "category": 5,
+    "id": 237,
+    "target": "有一本书在桌子底下。",
+    "pronunciation": "Yǒu yī běn shū zài zhuōzi dǐxia."
+  },
+  {
+    "category": 5,
+    "id": 238,
+    "target": "这本书在桌子上。",
+    "pronunciation": "Zhè běn shū zài zhuōzi shàng."
+  },
+  {
+    "category": 5,
+    "id": 239,
+    "target": "这本书是靠近桌子。",
+    "pronunciation": "Zhè běn shū shì kàojìn zhuōzi."
+  },
+  {
+    "category": 5,
+    "id": 240,
+    "target": "这本书的桌子旁。",
+    "pronunciation": "Zhè běn shū de zhuōzi páng."
+  },
+  {
+    "category": 5,
+    "id": 241,
+    "target": "这本书在桌子后面。",
+    "pronunciation": "Zhè běn shū zài zhuōzi hòumiàn."
+  },
+  {
+    "category": 5,
+    "id": 242,
+    "target": "这本书在桌子前。",
+    "pronunciation": "Zhè běn shū zài zhuōzi qián."
+  },
+  {
+    "category": 5,
+    "id": 243,
+    "target": "谁赢了？",
+    "pronunciation": "Shéi yíngle?"
+  },
+  {
+    "category": 5,
+    "id": 244,
+    "target": "你想去哪里？",
+    "pronunciation": "Nǐ xiǎng qù nǎlǐ?"
+  },
+  {
+    "category": 5,
+    "id": 245,
+    "target": "你要去哪里？",
+    "pronunciation": "Nǐ yào qù nǎlǐ?"
+  },
+  {
+    "category": 5,
+    "id": 246,
+    "target": "我想要一间单人房。",
+    "pronunciation": "Wǒ xiǎng yào yī jiàn dān rén fáng."
+  },
+  {
+    "category": 5,
+    "id": 247,
+    "target": "也许。",
+    "pronunciation": "Yěxǔ."
+  },
+  {
+    "category": 5,
+    "id": 248,
+    "target": "我的房子是靠近岸边的。",
+    "pronunciation": "Wǒ de fángzi shì kàojìn àn biān de."
+  },
+  {
+    "category": 5,
+    "id": 249,
+    "target": "我们是来自加利福尼亚州。",
+    "pronunciation": "Wǒmen shì láizì jiālìfúníyǎ zhōu."
+  },
+  {
+    "category": 5,
+    "id": 250,
+    "target": "在二楼。",
+    "pronunciation": "Zài èr lóu."
+  },
+  {
+    "category": 5,
+    "id": 251,
+    "target": "它假设明天下雨。",
+    "pronunciation": "Tā jiǎshè míngtiān xià yǔ."
+  },
+  {
+    "category": 5,
+    "id": 252,
+    "target": "在左边。",
+    "pronunciation": "Zài zuǒbiān."
+  },
+  {
+    "category": 5,
+    "id": 253,
+    "target": "在右边。",
+    "pronunciation": "Zài yòubiān."
+  },
+  {
+    "category": 5,
+    "id": 254,
+    "target": "对面的邮局。",
+    "pronunciation": "Duìmiàn de yóujú."
+  },
+  {
+    "category": 5,
+    "id": 255,
+    "target": "有在桌子上一些书。",
+    "pronunciation": "Yǒu zài zhuōzi shàng yīxiē shū."
+  },
+  {
+    "category": 5,
+    "id": 256,
+    "target": "附近的银行。",
+    "pronunciation": "Fùjìn de yínháng."
+  },
+  {
+    "category": 5,
+    "id": 257,
+    "target": "他在厨房里。",
+    "pronunciation": "Tā zài chúfáng lǐ."
+  },
+  {
+    "category": 5,
+    "id": 258,
+    "target": "他研究的波士顿大学。",
+    "pronunciation": "Tā yánjiū de bōshìdùn dàxué."
+  },
+  {
+    "category": 5,
+    "id": 259,
+    "target": "我们走吧。",
+    "pronunciation": "Wǒmen zǒu ba."
+  },
+  {
+    "category": 5,
+    "id": 260,
+    "target": "它不是想今天会下雨。",
+    "pronunciation": "Tā bùshì xiǎng jīntiān huì xià yǔ."
+  },
+  {
+    "category": 5,
+    "id": 261,
+    "target": "真热。",
+    "pronunciation": "Zhēn rè."
+  },
+  {
+    "category": 5,
+    "id": 262,
+    "target": "这是过去的一半11。",
+    "pronunciation": "Zhè shì guòqù de yībàn 11."
+  },
+  {
+    "category": 5,
+    "id": 263,
+    "target": "多少英里是宾夕法尼亚州？",
+    "pronunciation": "Duōshǎo yīnglǐ shì bīnxīfǎníyǎ zhōu?"
+  },
+  {
+    "category": 5,
+    "id": 264,
+    "target": "酒店外面。",
+    "pronunciation": "Jiǔdiàn wàimiàn."
+  },
+  {
+    "category": 5,
+    "id": 265,
+    "target": "你能推荐一家好餐馆？",
+    "pronunciation": "Nǐ néng tuījiàn yījiā hǎo cānguǎn?"
+  },
+  {
+    "category": 5,
+    "id": 266,
+    "target": "这是超过5美元。",
+    "pronunciation": "Zhè shì chāoguò 5 měiyuán."
+  },
+  {
+    "category": 5,
+    "id": 267,
+    "target": "这很美味！",
+    "pronunciation": "Zhè hěn měiwèi!"
+  },
+  {
+    "category": 5,
+    "id": 268,
+    "target": "这是不到5美元。",
+    "pronunciation": "Zhè shì bù dào 5 měiyuán."
+  },
+  {
+    "category": 5,
+    "id": 269,
+    "target": "它是在第七大街。",
+    "pronunciation": "Tā shì zài dì qī dàjiē."
+  },
+  {
+    "category": 5,
+    "id": 270,
+    "target": "这是附近的超市。",
+    "pronunciation": "Zhè shì fùjìn de chāoshì."
+  },
+  {
+    "category": 5,
+    "id": 271,
+    "target": "我是在图书馆。",
+    "pronunciation": "Wǒ shì zài túshū guǎn."
+  },
+  {
+    "category": 5,
+    "id": 272,
+    "target": "我喜欢看电视。",
+    "pronunciation": "Wǒ xǐhuān kàn diànshì."
+  },
+  {
+    "category": 5,
+    "id": 273,
+    "target": "我去图书馆。",
+    "pronunciation": "Wǒ qù túshū guǎn."
+  },
+  {
+    "category": 6,
+    "id": 274,
+    "target": "这里是我的电话号码。",
+    "pronunciation": "Zhèlǐ shì wǒ de diànhuà hàomǎ."
+  },
+  {
+    "category": 6,
+    "id": 275,
+    "target": "哪里的药房？",
+    "pronunciation": "Nǎlǐ di yàofáng?"
+  },
+  {
+    "category": 6,
+    "id": 276,
+    "target": "哪里是最近的餐厅？",
+    "pronunciation": "Nǎlǐ shì zuìjìn de cāntīng?"
+  },
+  {
+    "category": 6,
+    "id": 277,
+    "target": "我在哪里可以找到一个医院？",
+    "pronunciation": "Wǒ zài nǎlǐ kěyǐ zhǎodào yīgè yīyuàn?"
+  },
+  {
+    "category": 6,
+    "id": 278,
+    "target": "是否有一个英语导游？",
+    "pronunciation": "Shìfǒu yǒu yīgè yīngyǔ dǎoyóu?"
+  },
+  {
+    "category": 6,
+    "id": 279,
+    "target": "喜的是史密斯夫人在吗？",
+    "pronunciation": "Xǐ de shì shǐmìsī fūrén zài ma?"
+  },
+  {
+    "category": 6,
+    "id": 280,
+    "target": "对不起，我想我打错电话了。",
+    "pronunciation": "Duìbùqǐ, wǒ xiǎng wǒ dǎ cuò diànhuàle."
+  },
+  {
+    "category": 6,
+    "id": 281,
+    "target": "什么是你工作的公司的名称？",
+    "pronunciation": "Shénme shì nǐ gōngzuò de gōngsī de míngchēng?"
+  },
+  {
+    "category": 6,
+    "id": 282,
+    "target": "什么是区号？",
+    "pronunciation": "Shénme shì qūhào?"
+  },
+  {
+    "category": 6,
+    "id": 283,
+    "target": "你的地址是什么？",
+    "pronunciation": "Nǐ dì dìzhǐ shì shénme?"
+  },
+  {
+    "category": 6,
+    "id": 284,
+    "target": "你是谁？",
+    "pronunciation": "Nǐ shì shéi?"
+  },
+  {
+    "category": 6,
+    "id": 285,
+    "target": "那是谁？",
+    "pronunciation": "Nà shì shéi?"
+  },
+  {
+    "category": 6,
+    "id": 286,
+    "target": "我需要一些组织。",
+    "pronunciation": "Wǒ xūyào yīxiē zǔzhī."
+  },
+  {
+    "category": 6,
+    "id": 287,
+    "target": "我想一些水也请。",
+    "pronunciation": "Wǒ xiǎng yīxiē shuǐ yě qǐng."
+  },
+  {
+    "category": 6,
+    "id": 288,
+    "target": "我可以帮你传话？",
+    "pronunciation": "Wǒ kěyǐ bāng nǐ chuánhuà?"
+  },
+  {
+    "category": 6,
+    "id": 289,
+    "target": "我可以试穿吗？",
+    "pronunciation": "Wǒ kěyǐ shì chuān ma?"
+  },
+  {
+    "category": 6,
+    "id": 290,
+    "target": "我们能坐在那边？",
+    "pronunciation": "Wǒmen néng zuò zài nà biān?"
+  },
+  {
+    "category": 6,
+    "id": 291,
+    "target": "我可以看看你的护照吗？",
+    "pronunciation": "Wǒ kěyǐ kàn kàn nǐ de hùzhào ma?"
+  },
+  {
+    "category": 6,
+    "id": 292,
+    "target": "我的手机不能正常工作。",
+    "pronunciation": "Wǒ de shǒujī bùnéng zhèngcháng gōngzuò."
+  },
+  {
+    "category": 6,
+    "id": 293,
+    "target": "男女不限？",
+    "pronunciation": "Nánnǚ bù xiàn?"
+  },
+  {
+    "category": 6,
+    "id": 294,
+    "target": "他现在不在。",
+    "pronunciation": "Tā xiànzài bùzài."
+  },
+  {
+    "category": 6,
+    "id": 295,
+    "target": "请脱鞋。",
+    "pronunciation": "Qǐng tuō xié."
+  },
+  {
+    "category": 6,
+    "id": 296,
+    "target": "你要和谁讲话？",
+    "pronunciation": "Nǐ yào hé shéi jiǎnghuà?"
+  },
+  {
+    "category": 6,
+    "id": 297,
+    "target": "我可以。",
+    "pronunciation": "Wǒ kěyǐ."
+  },
+  {
+    "category": 6,
+    "id": 298,
+    "target": "你是否认为这是可能的吗？",
+    "pronunciation": "Nǐ shìfǒu rènwéi zhè shì kěnéng de ma?"
+  },
+  {
+    "category": 6,
+    "id": 299,
+    "target": "你会带我回家吗？",
+    "pronunciation": "Nǐ huì dài wǒ huí jiā ma?"
+  },
+  {
+    "category": 6,
+    "id": 300,
+    "target": "你跟你的家人？",
+    "pronunciation": "Nǐ gēn nǐ de jiārén?"
+  },
+  {
+    "category": 6,
+    "id": 301,
+    "target": "我有三个孩子，两个女孩和一个男孩。",
+    "pronunciation": "Wǒ yǒusān gè háizi, liǎng gè nǚhái hé yīgè nánhái."
+  },
+  {
+    "category": 6,
+    "id": 302,
+    "target": "我的手机不具备良好的接待。",
+    "pronunciation": "Wǒ de shǒujī bù jùbèi liánghǎo de jiēdài."
+  },
+  {
+    "category": 6,
+    "id": 303,
+    "target": "你想水或牛奶？",
+    "pronunciation": "Nǐ xiǎng shuǐ huò niúnǎi?"
+  },
+  {
+    "category": 6,
+    "id": 304,
+    "target": "怎么了？",
+    "pronunciation": "Zěnmeliǎo?"
+  },
+  {
+    "category": 6,
+    "id": 305,
+    "target": "我想买一瓶水，请。",
+    "pronunciation": "Wǒ xiǎng mǎi yī píng shuǐ, qǐng."
+  },
+  {
+    "category": 6,
+    "id": 306,
+    "target": "我想找史密斯先生请。",
+    "pronunciation": "Wǒ xiǎng zhǎo shǐmìsī xiānshēng qǐng."
+  },
+  {
+    "category": 6,
+    "id": 307,
+    "target": "我想购买的东西。",
+    "pronunciation": "Wǒ xiǎng gòumǎi de dōngxī."
+  },
+  {
+    "category": 6,
+    "id": 308,
+    "target": "我来教你。",
+    "pronunciation": "Wǒ lái jiào nǐ."
+  },
+  {
+    "category": 6,
+    "id": 309,
+    "target": "以后我会再打过来。",
+    "pronunciation": "Yǐhòu wǒ huì zài dǎ guòlái."
+  },
+  {
+    "category": 6,
+    "id": 310,
+    "target": "我会打电话给你上周五。",
+    "pronunciation": "Wǒ huì dǎ diànhuà gěi nǐ shàng zhōu wǔ."
+  },
+  {
+    "category": 6,
+    "id": 311,
+    "target": "我马上就回来。",
+    "pronunciation": "Wǒ mǎshàng jiù huílái."
+  },
+  {
+    "category": 6,
+    "id": 312,
+    "target": "我想租一辆车。",
+    "pronunciation": "Wǒ xiǎng zū yī liàng chē."
+  },
+  {
+    "category": 6,
+    "id": 313,
+    "target": "我想发送传真。",
+    "pronunciation": "Wǒ xiǎng fāsòng chuánzhēn."
+  },
+  {
+    "category": 6,
+    "id": 314,
+    "target": "我想寄这封信给美国。",
+    "pronunciation": "Wǒ xiǎng jì zhè fēng xìn gěi měiguó."
+  },
+  {
+    "category": 6,
+    "id": 315,
+    "target": "我想去商店。",
+    "pronunciation": "Wǒ xiǎng qù shāngdiàn."
+  },
+  {
+    "category": 6,
+    "id": 316,
+    "target": "我想给你的礼物。",
+    "pronunciation": "Wǒ xiǎng gěi nǐ de lǐwù."
+  },
+  {
+    "category": 7,
+    "id": 317,
+    "target": "14天以前。",
+    "pronunciation": "14 Tiān yǐqián."
+  },
+  {
+    "category": 7,
+    "id": 318,
+    "target": "2小时。",
+    "pronunciation": "2 Xiǎoshí."
+  },
+  {
+    "category": 7,
+    "id": 319,
+    "target": "10月22日。",
+    "pronunciation": "10 Yuè 22 rì."
+  },
+  {
+    "category": 7,
+    "id": 320,
+    "target": "在下午3点。",
+    "pronunciation": "Zài xiàwǔ 3 diǎn."
+  },
+  {
+    "category": 7,
+    "id": 321,
+    "target": "在晚上7点。 （晚间）？",
+    "pronunciation": "Zài wǎnshàng 7 diǎn. (Wǎnjiān)?"
+  },
+  {
+    "category": 7,
+    "id": 322,
+    "target": "在上午7点。",
+    "pronunciation": "Zài shàngwǔ 7 diǎn."
+  },
+  {
+    "category": 7,
+    "id": 323,
+    "target": "什么时间到达他们？",
+    "pronunciation": "Shénme shíjiān dàodá tāmen?"
+  },
+  {
+    "category": 7,
+    "id": 324,
+    "target": "你几点起床？",
+    "pronunciation": "Nǐ jǐ diǎn qǐchuáng?"
+  },
+  {
+    "category": 7,
+    "id": 325,
+    "target": "你认为什么时候你会到达？",
+    "pronunciation": "Nǐ rènwéi shénme shíhòu nǐ huì dàodá?"
+  },
+  {
+    "category": 7,
+    "id": 326,
+    "target": "你去什么时间睡觉？",
+    "pronunciation": "Nǐ qù shénme shíjiān shuìjiào?"
+  },
+  {
+    "category": 7,
+    "id": 327,
+    "target": "你几点起床？",
+    "pronunciation": "Nǐ jǐ diǎn qǐchuáng?"
+  },
+  {
+    "category": 7,
+    "id": 328,
+    "target": "它什么时候开始的？",
+    "pronunciation": "Tā shénme shíhòu kāishǐ de?"
+  },
+  {
+    "category": 7,
+    "id": 329,
+    "target": "今天星期几？",
+    "pronunciation": "Jīntiān xīngqí jǐ?"
+  },
+  {
+    "category": 7,
+    "id": 330,
+    "target": "他们在未来的什么日子了吗？",
+    "pronunciation": "Tāmen zài wèilái de shénme rìzile ma?"
+  },
+  {
+    "category": 7,
+    "id": 331,
+    "target": "一整天。",
+    "pronunciation": "Yī zhěng tiān."
+  },
+  {
+    "category": 7,
+    "id": 332,
+    "target": "整整一天。",
+    "pronunciation": "Zhěngzhěng yītiān."
+  },
+  {
+    "category": 7,
+    "id": 333,
+    "target": "在什么时候发生？",
+    "pronunciation": "Zài shénme shíhòu fāshēng?"
+  },
+  {
+    "category": 7,
+    "id": 334,
+    "target": "很久以前。",
+    "pronunciation": "Hěnjiǔ yǐqián."
+  },
+  {
+    "category": 7,
+    "id": 335,
+    "target": "约翰度假明天去。",
+    "pronunciation": "Yuēhàn dùjià míngtiān qù."
+  },
+  {
+    "category": 7,
+    "id": 336,
+    "target": "他的家人来了明天。",
+    "pronunciation": "Tā de jiārén láile míngtiān."
+  },
+  {
+    "category": 7,
+    "id": 337,
+    "target": "有时候，我走在晚上11点睡觉，有时晚上11:30。",
+    "pronunciation": "Yǒushíhòu, wǒ zǒu zài wǎnshàng 11 diǎn shuìjiào, yǒu shí wǎnshàng 11:30."
+  },
+  {
+    "category": 7,
+    "id": 338,
+    "target": "每周。",
+    "pronunciation": "Měi zhōu."
+  },
+  {
+    "category": 7,
+    "id": 339,
+    "target": "我每天起床的早晨6点。",
+    "pronunciation": "Wǒ měitiān qǐchuáng de zǎochén 6 diǎn."
+  },
+  {
+    "category": 7,
+    "id": 340,
+    "target": "多久你打算留在加州？",
+    "pronunciation": "Duōjiǔ nǐ dǎsuàn liú zài jiāzhōu?"
+  },
+  {
+    "category": 7,
+    "id": 341,
+    "target": "你打算待多久？",
+    "pronunciation": "Nǐ dǎsuàn dài duōjiǔ?"
+  },
+  {
+    "category": 7,
+    "id": 342,
+    "target": "尽快地。",
+    "pronunciation": "Jǐnkuài dì."
+  },
+  {
+    "category": 7,
+    "id": 343,
+    "target": "星期六怎么样？",
+    "pronunciation": "Xīngqíliù zěnme yàng?"
+  },
+  {
+    "category": 7,
+    "id": 344,
+    "target": "今天几号？",
+    "pronunciation": "Jīntiān jǐ hào?"
+  },
+  {
+    "category": 7,
+    "id": 345,
+    "target": "你的宗教信仰是什么？",
+    "pronunciation": "Nǐ de zōngjiào xìnyǎng shì shénme?"
+  },
+  {
+    "category": 7,
+    "id": 346,
+    "target": "当你感动？",
+    "pronunciation": "Dāng nǐ gǎndòng?"
+  },
+  {
+    "category": 7,
+    "id": 347,
+    "target": "他什么时候会回来？",
+    "pronunciation": "Tā shénme shíhòu huì huílái?"
+  },
+  {
+    "category": 7,
+    "id": 348,
+    "target": "他们什么时候来？",
+    "pronunciation": "Tāmen shénme shíhòu lái?"
+  },
+  {
+    "category": 7,
+    "id": 349,
+    "target": "当是下一个总线Philidalphia？",
+    "pronunciation": "Dāng shì xià yīgè zǒngxiàn Philidalphia?"
+  },
+  {
+    "category": 7,
+    "id": 350,
+    "target": "你的生日是什么时候？",
+    "pronunciation": "Nǐ de shēngrì shì shénme shíhòu?"
+  },
+  {
+    "category": 7,
+    "id": 351,
+    "target": "你什么时候回来？",
+    "pronunciation": "Nǐ shénme shíhòu huílái?"
+  },
+  {
+    "category": 7,
+    "id": 352,
+    "target": "当是你跟你母亲是什么时候？",
+    "pronunciation": "Dāng shì nǐ gēn nǐ mǔqīn shì shénme shíhòu?"
+  },
+  {
+    "category": 7,
+    "id": 353,
+    "target": "你什么时候拿起你的朋友？",
+    "pronunciation": "Nǐ shénme shíhòu ná qǐ nǐ de péngyǒu?"
+  },
+  {
+    "category": 7,
+    "id": 354,
+    "target": "你什么时候走？",
+    "pronunciation": "Nǐ shénme shíhòu zǒu?"
+  },
+  {
+    "category": 7,
+    "id": 355,
+    "target": "什么时候能准备好？",
+    "pronunciation": "Shénme shíhòu néng zhǔnbèi hǎo?"
+  },
+  {
+    "category": 7,
+    "id": 356,
+    "target": "当我去商店，他们没有任何的苹果。",
+    "pronunciation": "Dāng wǒ qù shāngdiàn, tāmen méiyǒu rènhé de píngguǒ."
+  },
+  {
+    "category": 7,
+    "id": 357,
+    "target": "你要去哪里？",
+    "pronunciation": "Nǐ yào qù nǎlǐ?"
+  },
+  {
+    "category": 7,
+    "id": 358,
+    "target": "有足够的时间。",
+    "pronunciation": "Yǒu zúgòu de shíjiān."
+  },
+  {
+    "category": 7,
+    "id": 359,
+    "target": "我可以帮你吗？",
+    "pronunciation": "Wǒ kěyǐ bāng nǐ ma?"
+  },
+  {
+    "category": 7,
+    "id": 360,
+    "target": "我的生日是8月27日。",
+    "pronunciation": "Wǒ de shēngrì shì 8 yuè 27 rì."
+  },
+  {
+    "category": 7,
+    "id": 361,
+    "target": "我们迟到了。",
+    "pronunciation": "Wǒmen chídàole."
+  },
+  {
+    "category": 7,
+    "id": 362,
+    "target": "在第5街。",
+    "pronunciation": "Zài dì 5 jiē."
+  },
+  {
+    "category": 7,
+    "id": 363,
+    "target": "他会回来的20分钟。",
+    "pronunciation": "Tā huì huílái de 20 fēnzhōng."
+  },
+  {
+    "category": 7,
+    "id": 364,
+    "target": "她希望当你来就知道了。",
+    "pronunciation": "Tā xīwàng dāng nǐ lái jiù zhīdàole."
+  },
+  {
+    "category": 7,
+    "id": 365,
+    "target": "难道他们今晚会来吗？",
+    "pronunciation": "Nándào tāmen jīn wǎn huì lái ma?"
+  },
+  {
+    "category": 7,
+    "id": 366,
+    "target": "今天要下雪。",
+    "pronunciation": "Jīntiān yào xià xuě."
+  },
+  {
+    "category": 7,
+    "id": 367,
+    "target": "这将是寒冷的傍晚。",
+    "pronunciation": "Zhè jiāng shì hánlěng de bàngwǎn."
+  },
+  {
+    "category": 7,
+    "id": 368,
+    "target": "今天下雨很辛苦。",
+    "pronunciation": "Jīntiān xià yǔ hěn xīnkǔ."
+  },
+  {
+    "category": 7,
+    "id": 369,
+    "target": "这是上午6时。",
+    "pronunciation": "Zhè shì shàngwǔ 6 shí."
+  },
+  {
+    "category": 7,
+    "id": 370,
+    "target": "这是8:45。",
+    "pronunciation": "Zhè shì 8:45."
+  },
+  {
+    "category": 7,
+    "id": 371,
+    "target": "这是一个季度的7。",
+    "pronunciation": "Zhè shì yīgè jìdù de 7."
+  },
+  {
+    "category": 7,
+    "id": 372,
+    "target": "现在或再晚一点？",
+    "pronunciation": "Xiànzài huò zài wǎn yīdiǎn?"
+  },
+  {
+    "category": 7,
+    "id": 373,
+    "target": "现在是几奌？",
+    "pronunciation": "Xiànzài shì jǐ diǎn?"
+  },
+  {
+    "category": 7,
+    "id": 374,
+    "target": "一共多少钱？",
+    "pronunciation": "Yīgòng duōshǎo qián?"
+  },
+  {
+    "category": 7,
+    "id": 375,
+    "target": "它要花多少钱？",
+    "pronunciation": "Tā yào huā duōshǎo qián?"
+  },
+  {
+    "category": 7,
+    "id": 376,
+    "target": "这需要多长时间？",
+    "pronunciation": "Zhè xūyào duō cháng shíjiān?"
+  },
+  {
+    "category": 7,
+    "id": 377,
+    "target": "截止日期。",
+    "pronunciation": "Jiézhǐ rìqí."
+  },
+  {
+    "category": 7,
+    "id": 378,
+    "target": "是你的孩子吗？",
+    "pronunciation": "Shì nǐ de háizi ma?"
+  },
+  {
+    "category": 7,
+    "id": 379,
+    "target": "你舒服吗？",
+    "pronunciation": "Nǐ shūfú ma?"
+  },
+  {
+    "category": 7,
+    "id": 380,
+    "target": "你是不是等了很久？",
+    "pronunciation": "Nǐ shì bùshì děngle hěnjiǔ?"
+  },
+  {
+    "category": 7,
+    "id": 381,
+    "target": "你认为你会11:30回来吗？",
+    "pronunciation": "Nǐ rènwéi nǐ huì 11:30 Huílái ma?"
+  },
+  {
+    "category": 7,
+    "id": 382,
+    "target": "你在11号有这样的？",
+    "pronunciation": "Nǐ zài 11 hào yǒu zhèyàng de?"
+  },
+  {
+    "category": 7,
+    "id": 383,
+    "target": "我没有足够的钱。",
+    "pronunciation": "Wǒ méiyǒu zúgòu de qián."
+  },
+  {
+    "category": 7,
+    "id": 384,
+    "target": "你有一个游泳池？",
+    "pronunciation": "Nǐ yǒu yīgè yóuyǒngchí?"
+  },
+  {
+    "category": 7,
+    "id": 385,
+    "target": "它在这里。",
+    "pronunciation": "Tā zài zhèlǐ."
+  },
+  {
+    "category": 7,
+    "id": 386,
+    "target": "这是17美元。",
+    "pronunciation": "Zhè shì 17 měiyuán."
+  },
+  {
+    "category": 7,
+    "id": 387,
+    "target": "在那。",
+    "pronunciation": "Zài nà."
+  },
+  {
+    "category": 7,
+    "id": 388,
+    "target": "我正准备出门。",
+    "pronunciation": "Wǒ zhèng zhǔnbèi chūmén."
+  },
+  {
+    "category": 7,
+    "id": 389,
+    "target": "我只是随便看看。 （购物）",
+    "pronunciation": "Wǒ zhǐshì suíbiàn kàn kàn. (Gòuwù)"
+  },
+  {
+    "category": 7,
+    "id": 390,
+    "target": "我很担心了。",
+    "pronunciation": "wǒ hěn dānxīnle."
+  },
+  {
+    "category": 7,
+    "id": 391,
+    "target": "我已经看过了。",
+    "pronunciation": "Wǒ yǐjīng kànguòle."
+  },
+  {
+    "category": 8,
+    "id": 392,
+    "target": "什么时候退房？",
+    "pronunciation": "Shénme shíhòu tuì fáng?"
+  },
+  {
+    "category": 8,
+    "id": 393,
+    "target": "机场在哪里？",
+    "pronunciation": "Jīchǎng zài nǎlǐ?"
+  },
+  {
+    "category": 8,
+    "id": 394,
+    "target": "在哪里邮箱？",
+    "pronunciation": "Zài nǎlǐ yóuxiāng?"
+  },
+  {
+    "category": 8,
+    "id": 395,
+    "target": "这附近有一家商店？",
+    "pronunciation": "Zhè fùjìn yǒu yījiā shāngdiàn?"
+  },
+  {
+    "category": 8,
+    "id": 396,
+    "target": "有没有在城里一家夜总会？",
+    "pronunciation": "Yǒu méiyǒu zài chéng lǐ yījiā yèzǒnghuì?"
+  },
+  {
+    "category": 8,
+    "id": 397,
+    "target": "有没有在酒店的餐厅？",
+    "pronunciation": "Yǒu méiyǒu zài jiǔdiàn de cāntīng?"
+  },
+  {
+    "category": 8,
+    "id": 398,
+    "target": "对不起，我们没有任何空缺。",
+    "pronunciation": "Duìbùqǐ, wǒmen méiyǒu rènhé kòngquē."
+  },
+  {
+    "category": 8,
+    "id": 399,
+    "target": "你会待多久？",
+    "pronunciation": "Nǐ huì dài duōjiǔ?"
+  },
+  {
+    "category": 8,
+    "id": 400,
+    "target": "什么是每晚收费？ （酒店）",
+    "pronunciation": "Shénme shì měi wǎn shōufèi? (Jiǔdiàn)"
+  },
+  {
+    "category": 8,
+    "id": 401,
+    "target": "我需要一个医生。",
+    "pronunciation": "wǒ xūyào yīgè yīshēng."
+  },
+  {
+    "category": 8,
+    "id": 402,
+    "target": "我想城市地图的。",
+    "pronunciation": "Wǒ xiǎng chéngshì dìtú de."
+  },
+  {
+    "category": 8,
+    "id": 403,
+    "target": "我想要一间有两张床吧。",
+    "pronunciation": "Wǒ xiǎng yào yī jiàn yǒu liǎng zhāng chuáng ba."
+  },
+  {
+    "category": 8,
+    "id": 404,
+    "target": "我想要一间房。",
+    "pronunciation": "Wǒ xiǎng yào yī jiàn fáng."
+  },
+  {
+    "category": 8,
+    "id": 405,
+    "target": "我们可以有一些面包吗？",
+    "pronunciation": "Wǒmen kěyǐ yǒu yīxiē miànbāo ma?"
+  },
+  {
+    "category": 8,
+    "id": 406,
+    "target": "多少个晚上？",
+    "pronunciation": "Duōshǎo gè wǎnshàng?"
+  },
+  {
+    "category": 8,
+    "id": 407,
+    "target": "带我去了万豪酒店。",
+    "pronunciation": "Dài wǒ qùle wànháo jiǔdiàn."
+  },
+  {
+    "category": 8,
+    "id": 408,
+    "target": "你忙吗？",
+    "pronunciation": "Nǐ máng ma?"
+  },
+  {
+    "category": 8,
+    "id": 409,
+    "target": "你有没有钱？",
+    "pronunciation": "Nǐ yǒu méiyǒu qián?"
+  },
+  {
+    "category": 8,
+    "id": 410,
+    "target": "我想要一个非吸烟房间。",
+    "pronunciation": "Wǒ xiǎng yào yīgè fēi xīyān fángjiān."
+  },
+  {
+    "category": 9,
+    "id": 411,
+    "target": "6月3日。",
+    "pronunciation": "6 Yuè 3 rì."
+  },
+  {
+    "category": 9,
+    "id": 412,
+    "target": "有一个餐厅在那里，但我不认为这是非常好的。",
+    "pronunciation": "Yǒu yīgè cāntīng zài nàlǐ, dàn wǒ bù rènwéi zhè shì fēicháng hǎo de."
+  },
+  {
+    "category": 9,
+    "id": 413,
+    "target": "这里是您的订单。",
+    "pronunciation": "Zhèlǐ shì nín de dìngdān."
+  },
+  {
+    "category": 9,
+    "id": 414,
+    "target": "这是你的沙拉。",
+    "pronunciation": "Zhè shì nǐ de shālā."
+  },
+  {
+    "category": 9,
+    "id": 415,
+    "target": "其中是ATM？",
+    "pronunciation": "Qízhōng shì ATM?"
+  },
+  {
+    "category": 9,
+    "id": 416,
+    "target": "哪里有医生谁讲英语吗？",
+    "pronunciation": "Nǎ li yǒu yīshēng shéi jiǎng yīngyǔ ma?"
+  },
+  {
+    "category": 9,
+    "id": 417,
+    "target": "食物很好吃。",
+    "pronunciation": "Shíwù hěn hào chī."
+  },
+  {
+    "category": 9,
+    "id": 418,
+    "target": "它什么味？",
+    "pronunciation": "Tā shénme wèi?"
+  },
+  {
+    "category": 9,
+    "id": 419,
+    "target": "你的电子邮件地址是什么？",
+    "pronunciation": "Nǐ de diànzǐ yóujiàn dìzhǐ shì shénme?"
+  },
+  {
+    "category": 9,
+    "id": 420,
+    "target": "哪一个？",
+    "pronunciation": "Nǎ yīgè?"
+  },
+  {
+    "category": 9,
+    "id": 421,
+    "target": "我想我需要看医生。",
+    "pronunciation": "Wǒ xiǎng wǒ xūyào kàn yīshēng."
+  },
+  {
+    "category": 9,
+    "id": 422,
+    "target": "我喜欢。",
+    "pronunciation": "Wǒ xǐhuān."
+  },
+  {
+    "category": 9,
+    "id": 423,
+    "target": "能便宜一点？",
+    "pronunciation": "Néng piányí yīdiǎn?"
+  },
+  {
+    "category": 9,
+    "id": 424,
+    "target": "我能带我的朋友？",
+    "pronunciation": "Wǒ néng dài wǒ de péngyǒu?"
+  },
+  {
+    "category": 9,
+    "id": 425,
+    "target": "我们可以有一个菜单，请。",
+    "pronunciation": "Wǒmen kěyǐ yǒu yīgè càidān, qǐng."
+  },
+  {
+    "category": 9,
+    "id": 426,
+    "target": "我能要一张收据吗？",
+    "pronunciation": "Wǒ néng yào yī zhāng shōujù ma?"
+  },
+  {
+    "category": 9,
+    "id": 427,
+    "target": "我们可以吃意大利或中国菜。",
+    "pronunciation": "Wǒmen kěyǐ chī yìdàlì huò zhōngguó cài."
+  },
+  {
+    "category": 9,
+    "id": 428,
+    "target": "我们将有两杯水吧。",
+    "pronunciation": "Wǒmen jiāng yǒu liǎng bēi shuǐ ba."
+  },
+  {
+    "category": 9,
+    "id": 429,
+    "target": "你想来点儿水吗？",
+    "pronunciation": "Nǐ xiǎnglái diǎn er shuǐ ma?"
+  },
+  {
+    "category": 9,
+    "id": 430,
+    "target": "你要咖啡还是茶？",
+    "pronunciation": "Nǐ yào kāfēi háishì chá?"
+  },
+  {
+    "category": 9,
+    "id": 431,
+    "target": "你想一杯水？",
+    "pronunciation": "Nǐ xiǎng yībēi shuǐ?"
+  },
+  {
+    "category": 9,
+    "id": 432,
+    "target": "你想喝点酒吗？",
+    "pronunciation": "Nǐ xiǎng hē diǎn jiǔ ma?"
+  },
+  {
+    "category": 9,
+    "id": 433,
+    "target": "你喜欢看电视吗？",
+    "pronunciation": "Nǐ xǐhuān kàn diànshì ma?"
+  },
+  {
+    "category": 9,
+    "id": 434,
+    "target": "你想出去散散步吗？",
+    "pronunciation": "Nǐ xiǎng chūqù sàn sànbù ma?"
+  },
+  {
+    "category": 9,
+    "id": 435,
+    "target": "你想喝点什么吗？",
+    "pronunciation": "Nǐ xiǎng hē diǎn shénme ma?"
+  },
+  {
+    "category": 9,
+    "id": 436,
+    "target": "还有在冰箱里的一些苹果。",
+    "pronunciation": "Hái yǒu zài bīngxiāng lǐ de yīxiē píngguǒ."
+  },
+  {
+    "category": 9,
+    "id": 437,
+    "target": "他喜欢的果汁，但他不喜欢牛奶",
+    "pronunciation": "Tā xǐhuān de guǒzhī, dàn tā bù xǐhuān niúnǎi"
+  },
+  {
+    "category": 9,
+    "id": 438,
+    "target": "服务员！",
+    "pronunciation": "fúwùyuán!"
+  },
+  {
+    "category": 9,
+    "id": 439,
+    "target": "服务员！",
+    "pronunciation": "Fúwùyuán!"
+  },
+  {
+    "category": 9,
+    "id": 440,
+    "target": "有附近有餐厅。",
+    "pronunciation": "Yǒu fùjìn yǒu cāntīng."
+  },
+  {
+    "category": 9,
+    "id": 441,
+    "target": "这是8月25日。",
+    "pronunciation": "Zhè shì 8 yuè 25 rì."
+  },
+  {
+    "category": 9,
+    "id": 442,
+    "target": "多少人？ （餐厅）",
+    "pronunciation": "Duōshǎo rén? (Cāntīng)"
+  },
+  {
+    "category": 9,
+    "id": 443,
+    "target": "我有水，请一杯。",
+    "pronunciation": "wǒ yǒu shuǐ, qǐng yībēi."
+  },
+  {
+    "category": 9,
+    "id": 444,
+    "target": "你一个人在这儿？",
+    "pronunciation": "Nǐ yīgè rén zài zhè'er?"
+  },
+  {
+    "category": 9,
+    "id": 445,
+    "target": "你知道要花多少钱？",
+    "pronunciation": "Nǐ zhīdào yào huā duōshǎo qián?"
+  },
+  {
+    "category": 9,
+    "id": 446,
+    "target": "你有过土豆汤？",
+    "pronunciation": "Nǐ yǒuguò tǔdòu tāng?"
+  },
+  {
+    "category": 9,
+    "id": 447,
+    "target": "你在那家餐厅吃了吗？",
+    "pronunciation": "Nǐ zài nà jiā cāntīng chīle ma?"
+  },
+  {
+    "category": 9,
+    "id": 448,
+    "target": "你可以拿着我吗？",
+    "pronunciation": "Nǐ kěyǐ názhe wǒ ma?"
+  },
+  {
+    "category": 9,
+    "id": 449,
+    "target": "你会问他到这里来？",
+    "pronunciation": "Nǐ huì wèn tā dào zhèlǐ lái?"
+  },
+  {
+    "category": 9,
+    "id": 450,
+    "target": "你吃了吗？",
+    "pronunciation": "Nǐ chīle ma?"
+  },
+  {
+    "category": 9,
+    "id": 451,
+    "target": "我只有5块钱。",
+    "pronunciation": "Wǒ zhǐyǒu 5 kuài qián."
+  },
+  {
+    "category": 9,
+    "id": 452,
+    "target": "你有孩子吗？",
+    "pronunciation": "Nǐ yǒu háizi ma?"
+  },
+  {
+    "category": 9,
+    "id": 453,
+    "target": "我要请喝茶的杯子。",
+    "pronunciation": "Wǒ yào qǐng hē chá de bēizi."
+  },
+  {
+    "category": 9,
+    "id": 454,
+    "target": "你想喝点什么？",
+    "pronunciation": "Nǐ xiǎng hē diǎn shénme?"
+  },
+  {
+    "category": 9,
+    "id": 455,
+    "target": "你想吃什么？",
+    "pronunciation": "Nǐ xiǎng chī shénme?"
+  },
+  {
+    "category": 9,
+    "id": 456,
+    "target": "您有什么推荐的吗？",
+    "pronunciation": "Nín yǒu shé me tuījiàn de ma?"
+  },
+  {
+    "category": 9,
+    "id": 457,
+    "target": "什么是你要吃什么？",
+    "pronunciation": "Shénme shì nǐ yào chī shénme?"
+  },
+  {
+    "category": 9,
+    "id": 458,
+    "target": "我想要靠窗的桌子。",
+    "pronunciation": "Wǒ xiǎng yào kào chuāng de zhuōzi."
+  },
+  {
+    "category": 9,
+    "id": 459,
+    "target": "我来这里出差。",
+    "pronunciation": "Wǒ lái zhèlǐ chūchāi."
+  },
+  {
+    "category": 9,
+    "id": 460,
+    "target": "我要去睡觉了。",
+    "pronunciation": "Wǒ yào qù shuìjiàole."
+  },
+  {
+    "category": 9,
+    "id": 461,
+    "target": "我来自美国。",
+    "pronunciation": "Wǒ láizì měiguó."
+  },
+  {
+    "category": 9,
+    "id": 462,
+    "target": "对不起。",
+    "pronunciation": "Duìbùqǐ."
+  },
+  {
+    "category": 9,
+    "id": 463,
+    "target": "我还没有吃完。",
+    "pronunciation": "Wǒ hái méiyǒu chī wán."
+  },
+  {
+    "category": 9,
+    "id": 464,
+    "target": "我给你打电话。",
+    "pronunciation": "Wǒ gěi nǐ dǎ diànhuà."
+  },
+  {
+    "category": 9,
+    "id": 465,
+    "target": "我明白。",
+    "pronunciation": "Wǒ míngbái."
+  },
+  {
+    "category": 9,
+    "id": 466,
+    "target": "我同意。",
+    "pronunciation": "Wǒ tóngyì."
+  },
+  {
+    "category": 9,
+    "id": 467,
+    "target": "我还没有去过那里。",
+    "pronunciation": "Wǒ hái méiyǒu qùguò nàlǐ."
+  },
+  {
+    "category": 9,
+    "id": 468,
+    "target": "我想打电话给美国。",
+    "pronunciation": "Wǒ xiǎng dǎ diànhuà gěi měiguó."
+  },
+  {
+    "category": 10,
+    "id": 469,
+    "target": "生意好。",
+    "pronunciation": "Shēngyì hǎo."
+  },
+  {
+    "category": 10,
+    "id": 470,
+    "target": "你去什么学校？",
+    "pronunciation": "Nǐ qù shénme xuéxiào?"
+  },
+  {
+    "category": 10,
+    "id": 471,
+    "target": "你的女儿。",
+    "pronunciation": "Nǐ de nǚ'ér."
+  },
+  {
+    "category": 10,
+    "id": 472,
+    "target": "你的孩子很乖。",
+    "pronunciation": "Nǐ de háizi hěn guāi."
+  },
+  {
+    "category": 10,
+    "id": 473,
+    "target": "昨天你那里下雪？",
+    "pronunciation": "Zuótiān nǐ nàlǐ xià xuě?"
+  },
+  {
+    "category": 10,
+    "id": 474,
+    "target": "你学习英语吗？",
+    "pronunciation": "Nǐ xuéxí yīngyǔ ma?"
+  },
+  {
+    "category": 10,
+    "id": 475,
+    "target": "你卖的药吗？ （商店）",
+    "pronunciation": "Nǐ mài di yào ma? (Shāngdiàn)"
+  },
+  {
+    "category": 10,
+    "id": 476,
+    "target": "当时你在哪里？",
+    "pronunciation": "dāngshí nǐ zài nǎlǐ?"
+  },
+  {
+    "category": 10,
+    "id": 477,
+    "target": "你在哪里学英语？",
+    "pronunciation": "Nǐ zài nǎlǐ xué yīngyǔ?"
+  },
+  {
+    "category": 10,
+    "id": 478,
+    "target": "你住在哪里？",
+    "pronunciation": "Nǐ zhù zài nǎlǐ?"
+  },
+  {
+    "category": 10,
+    "id": 479,
+    "target": "你在哪里工作，你在这里工作过吗？",
+    "pronunciation": "Nǐ zài nǎlǐ gōngzuò, nǐ zài zhèlǐ gōngzuòguò ma?"
+  },
+  {
+    "category": 10,
+    "id": 480,
+    "target": "哪里有T恤？",
+    "pronunciation": "Nǎ li yǒu T xù?"
+  },
+  {
+    "category": 10,
+    "id": 481,
+    "target": "让我们分享。",
+    "pronunciation": "Ràng wǒmen fēnxiǎng."
+  },
+  {
+    "category": 10,
+    "id": 482,
+    "target": "对不起。",
+    "pronunciation": "Duìbùqǐ."
+  },
+  {
+    "category": 10,
+    "id": 483,
+    "target": "有多久你在美国了？",
+    "pronunciation": "Yǒu duōjiǔ nǐ zài měiguóle?"
+  },
+  {
+    "category": 10,
+    "id": 484,
+    "target": "你在这里多久了？",
+    "pronunciation": "Nǐ zài zhèlǐ duōjiǔle?"
+  },
+  {
+    "category": 10,
+    "id": 485,
+    "target": "您在这里住了多久了？",
+    "pronunciation": "Nín zài zhèlǐ zhùle duōjiǔle?"
+  },
+  {
+    "category": 10,
+    "id": 486,
+    "target": "你叫什么名字？",
+    "pronunciation": "Nǐ jiào shénme míngzì?"
+  },
+  {
+    "category": 10,
+    "id": 487,
+    "target": "什么是你的姓？",
+    "pronunciation": "Shénme shì nǐ de xìng?"
+  },
+  {
+    "category": 10,
+    "id": 488,
+    "target": "你的爱好是什么？",
+    "pronunciation": "Nǐ de àihào shì shénme?"
+  },
+  {
+    "category": 10,
+    "id": 489,
+    "target": "你最喜欢的电影是什么？",
+    "pronunciation": "Nǐ zuì xǐhuān de diànyǐng shì shénme?"
+  },
+  {
+    "category": 10,
+    "id": 490,
+    "target": "谁送这封信？",
+    "pronunciation": "Shéi sòng zhè fēng xìn?"
+  },
+  {
+    "category": 10,
+    "id": 491,
+    "target": "你去哪儿？",
+    "pronunciation": "Nǐ qù nǎ'er?"
+  },
+  {
+    "category": 10,
+    "id": 492,
+    "target": "这车是类似我的车。",
+    "pronunciation": "Zhè chē shì lèisì wǒ de chē."
+  },
+  {
+    "category": 10,
+    "id": 493,
+    "target": "我的名字是约翰·史密斯。",
+    "pronunciation": "Wǒ de míngzì shì yuēhàn·shǐmìsī."
+  },
+  {
+    "category": 10,
+    "id": 494,
+    "target": "我是32。",
+    "pronunciation": "Wǒ shì 32."
+  },
+  {
+    "category": 10,
+    "id": 495,
+    "target": "我要洗我的衣服。",
+    "pronunciation": "Wǒ yào xǐ wǒ de yīfú."
+  },
+  {
+    "category": 10,
+    "id": 496,
+    "target": "我奶奶去年去世。",
+    "pronunciation": "Wǒ nǎinai qùnián qùshì."
+  },
+  {
+    "category": 10,
+    "id": 497,
+    "target": "我的父亲是一名律师。",
+    "pronunciation": "Wǒ de fùqīn shì yī míng lǜshī."
+  },
+  {
+    "category": 10,
+    "id": 498,
+    "target": "我的父亲一直在那里。",
+    "pronunciation": "Wǒ de fùqīn yīzhí zài nàlǐ."
+  },
+  {
+    "category": 10,
+    "id": 499,
+    "target": "我是一个大小为8。",
+    "pronunciation": "Wǒ shì yīgè dàxiǎo wèi 8."
+  },
+  {
+    "category": 10,
+    "id": 500,
+    "target": "我的儿子学习电脑。",
+    "pronunciation": "Wǒ de ér zǐ xuéxí diànnǎo."
+  },
+  {
+    "category": 10,
+    "id": 501,
+    "target": "我的儿子。",
+    "pronunciation": "Wǒ de érzi."
+  },
+  {
+    "category": 10,
+    "id": 502,
+    "target": "我的女儿是在这里。",
+    "pronunciation": "Wǒ de nǚ'ér shì zài zhèlǐ."
+  },
+  {
+    "category": 10,
+    "id": 503,
+    "target": "你会讲多少种语言？",
+    "pronunciation": "Nǐ huì jiǎng duōshǎo zhǒng yǔyán?"
+  },
+  {
+    "category": 10,
+    "id": 504,
+    "target": "我们的孩子都在美国。",
+    "pronunciation": "Wǒmen de háizi dōu zài měiguó."
+  },
+  {
+    "category": 10,
+    "id": 505,
+    "target": "你愿意买吗？",
+    "pronunciation": "Nǐ yuànyì mǎi ma?"
+  },
+  {
+    "category": 10,
+    "id": 506,
+    "target": "不，这是第一次。",
+    "pronunciation": "Bù, zhè shì dì yī cì."
+  },
+  {
+    "category": 10,
+    "id": 507,
+    "target": "不，我是美国人。",
+    "pronunciation": "Bù, wǒ shì měiguó rén."
+  },
+  {
+    "category": 10,
+    "id": 508,
+    "target": "她比我大。",
+    "pronunciation": "Tā bǐ wǒ dà."
+  },
+  {
+    "category": 10,
+    "id": 509,
+    "target": "她是个专家。",
+    "pronunciation": "Tā shìgè zhuānjiā."
+  },
+  {
+    "category": 10,
+    "id": 510,
+    "target": "他们有没有见过她了吗？",
+    "pronunciation": "Tāmen yǒu méiyǒu jiànguò tāle ma?"
+  },
+  {
+    "category": 10,
+    "id": 511,
+    "target": "给我打个电话。",
+    "pronunciation": "Gěi wǒ dǎ gè diànhuà."
+  },
+  {
+    "category": 10,
+    "id": 512,
+    "target": "干杯!",
+    "pronunciation": "Gānbēi!"
+  },
+  {
+    "category": 10,
+    "id": 513,
+    "target": "你几岁？",
+    "pronunciation": "Nǐ jǐ suì?"
+  },
+  {
+    "category": 10,
+    "id": 514,
+    "target": "多少钱你喜欢的？",
+    "pronunciation": "Duōshǎo qián nǐ xǐhuān de?"
+  },
+  {
+    "category": 10,
+    "id": 515,
+    "target": "你有多少孩子？",
+    "pronunciation": "Nǐ yǒu duōshǎo háizi?"
+  },
+  {
+    "category": 10,
+    "id": 516,
+    "target": "多少人你是家里有吗？",
+    "pronunciation": "Duōshǎo rén nǐ shì jiā li yǒu ma?"
+  },
+  {
+    "category": 10,
+    "id": 517,
+    "target": "一直到加州你哥哥？",
+    "pronunciation": "Yīzhí dào jiāzhōu nǐ gēgē?"
+  },
+  {
+    "category": 10,
+    "id": 518,
+    "target": "是您的家像这样的？",
+    "pronunciation": "Shì nín de jiā xiàng zhèyàng de?"
+  },
+  {
+    "category": 10,
+    "id": 519,
+    "target": "你的丈夫也从波士顿？",
+    "pronunciation": "Nǐ de zhàngfū yě cóng bōshìdùn?"
+  },
+  {
+    "category": 10,
+    "id": 520,
+    "target": "你喜欢这里吗？",
+    "pronunciation": "Nǐ xǐhuān zhèlǐ ma?"
+  },
+  {
+    "category": 10,
+    "id": 521,
+    "target": "你喜欢这本书吗？",
+    "pronunciation": "Nǐ xǐhuān zhè běn shū ma?"
+  },
+  {
+    "category": 10,
+    "id": 522,
+    "target": "您需要什么吗？",
+    "pronunciation": "Nín xūyào shénme ma?"
+  },
+  {
+    "category": 10,
+    "id": 523,
+    "target": "你是美国人吗？",
+    "pronunciation": "Nǐ shì měiguó rén ma?"
+  },
+  {
+    "category": 10,
+    "id": 524,
+    "target": "你饿了吗？",
+    "pronunciation": "Nǐ èle ma?"
+  },
+  {
+    "category": 10,
+    "id": 525,
+    "target": "你以前做过吗？",
+    "pronunciation": "Nǐ yǐqián zuòguò ma?"
+  },
+  {
+    "category": 10,
+    "id": 526,
+    "target": "你知道哪里有卖的毛巾店？",
+    "pronunciation": "Nǐ zhīdào nǎ li yǒu mài de máojīn diàn?"
+  },
+  {
+    "category": 10,
+    "id": 527,
+    "target": "你玩什么运动？",
+    "pronunciation": "Nǐ wán shénme yùndòng?"
+  },
+  {
+    "category": 10,
+    "id": 528,
+    "target": "你的英语说到很好。",
+    "pronunciation": "Nǐ de yīngyǔ shuō dào hěn hǎo."
+  },
+  {
+    "category": 10,
+    "id": 529,
+    "target": "你收到我的邮件了吗？",
+    "pronunciation": "Nǐ shōu dào wǒ de yóujiànle ma?"
+  },
+  {
+    "category": 10,
+    "id": 530,
+    "target": "你把你的药？",
+    "pronunciation": "Nǐ bǎ nǐ di yào?"
+  },
+  {
+    "category": 10,
+    "id": 531,
+    "target": "你今晚会来吗？",
+    "pronunciation": "Nǐ jīn wǎn huì lái ma?"
+  },
+  {
+    "category": 10,
+    "id": 532,
+    "target": "你明天工作？",
+    "pronunciation": "Nǐ míngtiān gōngzuò?"
+  },
+  {
+    "category": 10,
+    "id": 533,
+    "target": "你今晚有空吗？",
+    "pronunciation": "Nǐ jīn wǎn yǒu kòng ma?"
+  },
+  {
+    "category": 10,
+    "id": 534,
+    "target": "你要乘坐飞机或火车？",
+    "pronunciation": "Nǐ yào chéngzuò fēijī huò huǒchē?"
+  },
+  {
+    "category": 10,
+    "id": 535,
+    "target": "你确定吗？",
+    "pronunciation": "Nǐ quèdìng ma?"
+  },
+  {
+    "category": 10,
+    "id": 536,
+    "target": "你比他聪明。",
+    "pronunciation": "Nǐ bǐ tā cōngmíng."
+  },
+  {
+    "category": 10,
+    "id": 537,
+    "target": "你想和我一起去吗？",
+    "pronunciation": "Nǐ xiǎng hé wǒ yīqǐ qù ma?"
+  },
+  {
+    "category": 10,
+    "id": 538,
+    "target": "你要不要跟我去？",
+    "pronunciation": "Nǐ yào bùyào gēn wǒ qù?"
+  },
+  {
+    "category": 10,
+    "id": 539,
+    "target": "你去佛罗里达频繁？",
+    "pronunciation": "Nǐ qù fóluólǐdá pínfán?"
+  },
+  {
+    "category": 10,
+    "id": 540,
+    "target": "你好点了吗？",
+    "pronunciation": "Nǐ hǎo diǎnle ma?"
+  },
+  {
+    "category": 10,
+    "id": 541,
+    "target": "我对海鲜过敏。",
+    "pronunciation": "Wǒ duì hǎixiān guòmǐn."
+  },
+  {
+    "category": 10,
+    "id": 542,
+    "target": "我痛在我的胳膊。",
+    "pronunciation": "Wǒ tòng zài wǒ de gēbó."
+  },
+  {
+    "category": 10,
+    "id": 543,
+    "target": "我有两个姐妹。",
+    "pronunciation": "Wǒ yǒu liǎng gè jiěmèi."
+  },
+  {
+    "category": 10,
+    "id": 544,
+    "target": "我们有两个男孩和一个女孩。",
+    "pronunciation": "Wǒmen yǒu liǎng gè nánhái hé yīgè nǚhái."
+  },
+  {
+    "category": 10,
+    "id": 545,
+    "target": "你有另外一个？",
+    "pronunciation": "Nǐ yǒu lìngwài yīgè?"
+  },
+  {
+    "category": 10,
+    "id": 546,
+    "target": "你想让我做什么？",
+    "pronunciation": "Nǐ xiǎng ràng wǒ zuò shénme?"
+  },
+  {
+    "category": 10,
+    "id": 547,
+    "target": "你学什么？",
+    "pronunciation": "Nǐ xué shénme?"
+  },
+  {
+    "category": 10,
+    "id": 548,
+    "target": "你打算怎么办今晚？",
+    "pronunciation": "Nǐ dǎsuàn zěnme bàn jīn wǎn?"
+  },
+  {
+    "category": 10,
+    "id": 549,
+    "target": "这是史密斯夫人。",
+    "pronunciation": "Zhè shì shǐmìsī fūrén."
+  },
+  {
+    "category": 10,
+    "id": 550,
+    "target": "这是我的母亲。",
+    "pronunciation": "Zhè shì wǒ de mǔqīn."
+  },
+  {
+    "category": 10,
+    "id": 551,
+    "target": "这不是很昂贵。",
+    "pronunciation": "Zhè bùshì hěn ángguì."
+  },
+  {
+    "category": 10,
+    "id": 552,
+    "target": "我是6'2\" 。",
+    "pronunciation": "Wǒ shì 6'2\" ."
+  },
+  {
+    "category": 10,
+    "id": 553,
+    "target": "我是美国人。",
+    "pronunciation": "Wǒ shì měiguó rén."
+  },
+  {
+    "category": 10,
+    "id": 554,
+    "target": "我病了。",
+    "pronunciation": "Wǒ bìngle."
+  },
+  {
+    "category": 10,
+    "id": 555,
+    "target": "我去过那儿。",
+    "pronunciation": "Wǒ qùguò nà'er."
+  },
+  {
+    "category": 10,
+    "id": 556,
+    "target": "我会说一点点英语。",
+    "pronunciation": "Wǒ huì shuō yī diǎndiǎn yīngyǔ."
+  },
+  {
+    "category": 10,
+    "id": 557,
+    "target": "这是第一次我以前来过这里。",
+    "pronunciation": "Zhè shì dì yī cì wǒ yǐqián láiguò zhèlǐ."
+  },
+  {
+    "category": 10,
+    "id": 558,
+    "target": "昨天我买了一件衬衫。",
+    "pronunciation": "Zuótiān wǒ mǎile yī jiàn chènshān."
+  },
+  {
+    "category": 10,
+    "id": 559,
+    "target": "我不怕。",
+    "pronunciation": "Wǒ bùpà."
+  },
+  {
+    "category": 10,
+    "id": 560,
+    "target": "我不舒服。",
+    "pronunciation": "Wǒ bú shūfú."
+  },
+  {
+    "category": 10,
+    "id": 561,
+    "target": "我记得。",
+    "pronunciation": "Wǒ jìdé."
+  },
+  {
+    "category": 10,
+    "id": 562,
+    "target": "我会告诉他，你叫。",
+    "pronunciation": "Wǒ huì gàosù tā, nǐ jiào."
+  },
+  {
+    "category": 10,
+    "id": 563,
+    "target": "我很好，你呢？",
+    "pronunciation": "Wǒ hěn hǎo, nǐ ne?"
+  },
+  {
+    "category": 11,
+    "id": 564,
+    "target": "请问电影什么时候开始？",
+    "pronunciation": "Qǐngwèn diànyǐng shénme shíhòu kāishǐ?"
+  },
+  {
+    "category": 11,
+    "id": 565,
+    "target": "是银行多远？",
+    "pronunciation": "Shì yínháng duō yuǎn?"
+  },
+  {
+    "category": 11,
+    "id": 566,
+    "target": "附近有没有电影院？",
+    "pronunciation": "Fùjìn yǒu méiyǒu diànyǐngyuàn?"
+  },
+  {
+    "category": 11,
+    "id": 567,
+    "target": "是否有任何演唱会？",
+    "pronunciation": "Shìfǒu yǒu rènhé yǎnchàng huì?"
+  },
+  {
+    "category": 11,
+    "id": 568,
+    "target": "你喜欢哪种音乐？",
+    "pronunciation": "Nǐ xǐhuān nǎ zhǒng yīnyuè?"
+  },
+  {
+    "category": 11,
+    "id": 569,
+    "target": "你最爱吃什么？",
+    "pronunciation": "Nǐ zuì ài chī shénme?"
+  },
+  {
+    "category": 11,
+    "id": 570,
+    "target": "你有多高？",
+    "pronunciation": "Nǐ yǒu duō gāo?"
+  },
+  {
+    "category": 11,
+    "id": 571,
+    "target": "谁是你的老师？",
+    "pronunciation": "Shéi shì nǐ de lǎoshī?"
+  },
+  {
+    "category": 11,
+    "id": 572,
+    "target": "你想租一部电影？",
+    "pronunciation": "Nǐ xiǎng zū yī bù diànyǐng?"
+  },
+  {
+    "category": 11,
+    "id": 573,
+    "target": "你愿意和我一起吃饭？",
+    "pronunciation": "Nǐ yuànyì hé wǒ yīqǐ chīfàn?"
+  },
+  {
+    "category": 11,
+    "id": 574,
+    "target": "他说你喜欢看电影。",
+    "pronunciation": "Tā shuō nǐ xǐhuān kàn diànyǐng."
+  },
+  {
+    "category": 11,
+    "id": 575,
+    "target": "你看过这部电影吗？",
+    "pronunciation": "Nǐ kànguò zhè bù diànyǐng ma?"
+  },
+  {
+    "category": 11,
+    "id": 576,
+    "target": "你想去看电影？",
+    "pronunciation": "Nǐ xiǎng qù kàn diànyǐng?"
+  },
+  {
+    "category": 11,
+    "id": 577,
+    "target": "什么人通常在洛杉矶夏季呢？",
+    "pronunciation": "Shénme rén tōngcháng zài luòshānjī xiàjì ne?"
+  },
+  {
+    "category": 12,
+    "id": 578,
+    "target": "商店几点开门什么时候？",
+    "pronunciation": "Shāngdiàn jǐ diǎn kāimén shénme shíhòu?"
+  },
+  {
+    "category": 12,
+    "id": 579,
+    "target": "你在哪？",
+    "pronunciation": "Nǐ zài nǎ?"
+  },
+  {
+    "category": 12,
+    "id": 580,
+    "target": "他需要一些新衣服。",
+    "pronunciation": "Tā xūyào yīxiē xīn yīfú."
+  },
+  {
+    "category": 12,
+    "id": 581,
+    "target": "如果你喜欢它，我可以买更多。",
+    "pronunciation": "Rúguǒ nǐ xǐhuān tā, wǒ kěyǐ mǎi gèng duō."
+  },
+  {
+    "category": 12,
+    "id": 582,
+    "target": "对不起，我们没有任何。",
+    "pronunciation": "Duìbùqǐ, wǒmen méiyǒu rènhé."
+  },
+  {
+    "category": 12,
+    "id": 583,
+    "target": "什么尺寸？",
+    "pronunciation": "Shénme chǐcùn?"
+  },
+  {
+    "category": 12,
+    "id": 584,
+    "target": "这些书是昂贵的。",
+    "pronunciation": "Zhèxiē shū shì ángguì de."
+  },
+  {
+    "category": 12,
+    "id": 585,
+    "target": "飞机何时到达？",
+    "pronunciation": "Fēijī hé shí dàodá?"
+  },
+  {
+    "category": 12,
+    "id": 586,
+    "target": "我可以使用你的手机吗？",
+    "pronunciation": "Wǒ kěyǐ shǐyòng nǐ de shǒujī ma?"
+  },
+  {
+    "category": 12,
+    "id": 587,
+    "target": "能给我一杯水吗？",
+    "pronunciation": "Néng gěi wǒ yībēi shuǐ ma?"
+  },
+  {
+    "category": 12,
+    "id": 588,
+    "target": "请给我加满汽油。 （加油站）",
+    "pronunciation": "Qǐng gěi wǒ jiā mǎn qìyóu. (Jiāyóu zhàn)"
+  },
+  {
+    "category": 12,
+    "id": 589,
+    "target": "你想吃点什么吗？",
+    "pronunciation": "nǐ xiǎng chī diǎn shénme ma?"
+  },
+  {
+    "category": 12,
+    "id": 590,
+    "target": "我想在希尔顿酒店为请的数量。",
+    "pronunciation": "Wǒ xiǎng zài xī'ěrdùn jiǔdiàn wèi qǐng de shùliàng."
+  },
+  {
+    "category": 12,
+    "id": 591,
+    "target": "试试。",
+    "pronunciation": "Shì shì."
+  },
+  {
+    "category": 12,
+    "id": 592,
+    "target": "那个多少钱？",
+    "pronunciation": "Nàgè duōshǎo qián?"
+  },
+  {
+    "category": 12,
+    "id": 593,
+    "target": "这个多少钱？",
+    "pronunciation": "Zhège duōshǎo qián?"
+  },
+  {
+    "category": 12,
+    "id": 594,
+    "target": "你认识她吗？",
+    "pronunciation": "Nǐ rènshì tā ma?"
+  },
+  {
+    "category": 12,
+    "id": 595,
+    "target": "你知道她在哪里？",
+    "pronunciation": "Nǐ zhīdào tā zài nǎlǐ?"
+  },
+  {
+    "category": 12,
+    "id": 596,
+    "target": "你打篮球吗？",
+    "pronunciation": "Nǐ dǎ lánqiú ma?"
+  },
+  {
+    "category": 12,
+    "id": 597,
+    "target": "有职位空缺么？",
+    "pronunciation": "Yǒu zhíwèi kòngquē me?"
+  },
+  {
+    "category": 12,
+    "id": 598,
+    "target": "你有一辆出租车数量？",
+    "pronunciation": "Nǐ yǒuyī liàng chūzūchē shùliàng?"
+  },
+  {
+    "category": 12,
+    "id": 599,
+    "target": "你想买什么？",
+    "pronunciation": "Nǐ xiǎng mǎi shénme?"
+  },
+  {
+    "category": 12,
+    "id": 600,
+    "target": "那儿不太远。",
+    "pronunciation": "Nà'er bù tài yuǎn."
+  },
+  {
+    "category": 12,
+    "id": 601,
+    "target": "我想买一张手机卡，请。",
+    "pronunciation": "Wǒ xiǎng mǎi yī zhāng shǒujī kǎ, qǐng."
+  },
+  {
+    "category": 12,
+    "id": 602,
+    "target": "我相信你。",
+    "pronunciation": "Wǒ xiāngxìn nǐ."
+  },
+  {
+    "category": 12,
+    "id": 603,
+    "target": "我说两种语言。",
+    "pronunciation": "Wǒ shuō liǎng zhǒng yǔyán."
+  },
+  {
+    "category": 12,
+    "id": 604,
+    "target": "我以为他说的话。",
+    "pronunciation": "Wǒ yǐwéi tā shuō dehuà."
+  },
+  {
+    "category": 12,
+    "id": 605,
+    "target": "我是一个初学者。",
+    "pronunciation": "Wǒ shì yīgè chū xuézhě."
+  },
+  {
+    "category": 12,
+    "id": 606,
+    "target": "我通常在早餐喝咖啡。",
+    "pronunciation": "Wǒ tōngcháng zài zǎocān hē kāfēi."
+  },
+  {
+    "category": 12,
+    "id": 607,
+    "target": "我饱了。",
+    "pronunciation": "Wǒ bǎole."
+  },
+  {
+    "category": 12,
+    "id": 608,
+    "target": "我单身。",
+    "pronunciation": "Wǒ dānshēn."
+  },
+  {
+    "category": 12,
+    "id": 609,
+    "target": "我想回家。",
+    "pronunciation": "Wǒ xiǎng huí jiā."
+  },
+  {
+    "category": 12,
+    "id": 610,
+    "target": "我想去购物。",
+    "pronunciation": "Wǒ xiǎng qù gòuwù."
+  },
+  {
+    "category": 12,
+    "id": 611,
+    "target": "我只是在开玩笑。",
+    "pronunciation": "Wǒ zhǐshì zài kāiwánxiào."
+  },
+  {
+    "category": 13,
+    "id": 612,
+    "target": "我是不是正确发音呢？",
+    "pronunciation": "Wǒ shì bùshì zhèngquè fāyīn ne?"
+  },
+  {
+    "category": 13,
+    "id": 613,
+    "target": "你可以帮我个忙吗？",
+    "pronunciation": "Nǐ kěyǐ bāng wǒ gè máng ma?"
+  },
+  {
+    "category": 13,
+    "id": 614,
+    "target": "你能帮助我吗？",
+    "pronunciation": "Nǐ néng bāngzhù wǒ ma?"
+  },
+  {
+    "category": 13,
+    "id": 615,
+    "target": "能否请你再说一遍？",
+    "pronunciation": "Néng fǒu qǐng nǐ zàishuō yībiàn?"
+  },
+  {
+    "category": 13,
+    "id": 616,
+    "target": "能给我看看么？",
+    "pronunciation": "Néng gěi wǒ kàn kàn me?"
+  },
+  {
+    "category": 13,
+    "id": 617,
+    "target": "你可以把那个离开我吗？",
+    "pronunciation": "Nǐ kěyǐ bǎ nàgè líkāi wǒ ma?"
+  },
+  {
+    "category": 13,
+    "id": 618,
+    "target": "你相信吗？",
+    "pronunciation": "Nǐ xiāngxìn ma?"
+  },
+  {
+    "category": 13,
+    "id": 619,
+    "target": "你有铅笔吗？",
+    "pronunciation": "Nǐ yǒu qiānbǐ ma?"
+  },
+  {
+    "category": 13,
+    "id": 620,
+    "target": "你抽烟吗？",
+    "pronunciation": "Nǐ chōuyān ma?"
+  },
+  {
+    "category": 13,
+    "id": 621,
+    "target": "你会说英语吗？",
+    "pronunciation": "Nǐ huì shuō yīngyǔ ma?"
+  },
+  {
+    "category": 13,
+    "id": 622,
+    "target": "没有人在这里说英语吗？",
+    "pronunciation": "Méiyǒu rén zài zhèlǐ shuō yīngyǔ ma?"
+  },
+  {
+    "category": 13,
+    "id": 623,
+    "target": "不要那样做。",
+    "pronunciation": "Bùyào nàyàng zuò."
+  },
+  {
+    "category": 13,
+    "id": 624,
+    "target": "对不起，你说什么？",
+    "pronunciation": "Duìbùqǐ, nǐ shuō shénme?"
+  },
+  {
+    "category": 13,
+    "id": 625,
+    "target": "算了吧。",
+    "pronunciation": "Suànle ba."
+  },
+  {
+    "category": 13,
+    "id": 626,
+    "target": "你怎样读它？",
+    "pronunciation": "Nǐ zěnyàng dú tā?"
+  },
+  {
+    "category": 13,
+    "id": 627,
+    "target": "你怎么用英语说？",
+    "pronunciation": "Nǐ zěnme yòng yīngyǔ shuō?"
+  },
+  {
+    "category": 13,
+    "id": 628,
+    "target": "你怎么拼？",
+    "pronunciation": "Nǐ zěnme pīn?"
+  },
+  {
+    "category": 13,
+    "id": 629,
+    "target": "你怎么拼写单词“西雅图？”",
+    "pronunciation": "Nǐ zěnme pīnxiě dāncí “xīyǎtú?”"
+  },
+  {
+    "category": 13,
+    "id": 630,
+    "target": "我会游泳。",
+    "pronunciation": "Wǒ huì yóuyǒng."
+  },
+  {
+    "category": 13,
+    "id": 631,
+    "target": "我听不清楚。",
+    "pronunciation": "Wǒ tīng bù qīngchǔ."
+  },
+  {
+    "category": 13,
+    "id": 632,
+    "target": "我不介意。",
+    "pronunciation": "Wǒ bù jièyì."
+  },
+  {
+    "category": 13,
+    "id": 633,
+    "target": "我自己也不十分清楚讲英语。",
+    "pronunciation": "Wǒ zìjǐ yě bù shífēn qīngchǔ jiǎng yīngyǔ."
+  },
+  {
+    "category": 13,
+    "id": 634,
+    "target": "我不认为如此。",
+    "pronunciation": "Wǒ bù rènwéi rúcǐ."
+  },
+  {
+    "category": 13,
+    "id": 635,
+    "target": "我不明白你在说什么。",
+    "pronunciation": "Wǒ bù míngbái nǐ zàishuō shénme."
+  },
+  {
+    "category": 13,
+    "id": 636,
+    "target": "我认为你有太多衣服。",
+    "pronunciation": "Wǒ rènwéi nǐ yǒu tài duō yīfú."
+  },
+  {
+    "category": 13,
+    "id": 637,
+    "target": "我信任你。",
+    "pronunciation": "Wǒ xìnrèn nǐ."
+  },
+  {
+    "category": 13,
+    "id": 638,
+    "target": "我现在知道了。",
+    "pronunciation": "Wǒ xiànzài zhīdàole."
+  },
+  {
+    "category": 13,
+    "id": 639,
+    "target": "有没有在房间里的空调？",
+    "pronunciation": "Yǒu méiyǒu zài fángjiān lǐ de kòngtiáo?"
+  },
+  {
+    "category": 13,
+    "id": 640,
+    "target": "让我们在酒店门前见面。",
+    "pronunciation": "Ràng wǒmen zài jiǔdiàn mén qián jiànmiàn."
+  },
+  {
+    "category": 13,
+    "id": 641,
+    "target": "请坐下。",
+    "pronunciation": "Qǐng zuò xià."
+  },
+  {
+    "category": 13,
+    "id": 642,
+    "target": "请说英语。",
+    "pronunciation": "Qǐng shuō yīngyǔ."
+  },
+  {
+    "category": 13,
+    "id": 643,
+    "target": "请说慢一点。",
+    "pronunciation": "Qǐng shuō màn yīdiǎn."
+  },
+  {
+    "category": 13,
+    "id": 644,
+    "target": "对不起，我没有听清楚。",
+    "pronunciation": "Duìbùqǐ, wǒ méiyǒu tīng qīngchǔ."
+  },
+  {
+    "category": 13,
+    "id": 645,
+    "target": "这意味着朋友。",
+    "pronunciation": "Zhè yìwèizhe péngyǒu."
+  },
+  {
+    "category": 13,
+    "id": 646,
+    "target": "这是错误的。",
+    "pronunciation": "Zhè shì cuòwù de."
+  },
+  {
+    "category": 13,
+    "id": 647,
+    "target": "试试再说吧。",
+    "pronunciation": "Shì shì zài shuō ba."
+  },
+  {
+    "category": 13,
+    "id": 648,
+    "target": "这是什么意思？",
+    "pronunciation": "Zhè shì shénme yìsi?"
+  },
+  {
+    "category": 13,
+    "id": 649,
+    "target": "这说明了什么？",
+    "pronunciation": "Zhè shuōmíngliǎo shénme?"
+  },
+  {
+    "category": 13,
+    "id": 650,
+    "target": "这个单词什么意思？",
+    "pronunciation": "Zhège dāncí shénme yìsi?"
+  },
+  {
+    "category": 13,
+    "id": 651,
+    "target": "什么是汇率？",
+    "pronunciation": "Shénme shì huìlǜ?"
+  },
+  {
+    "category": 13,
+    "id": 652,
+    "target": "是谁的书？",
+    "pronunciation": "Shì shéi de shū?"
+  },
+  {
+    "category": 13,
+    "id": 653,
+    "target": "你笑什么？",
+    "pronunciation": "Nǐ xiào shénme?"
+  },
+  {
+    "category": 13,
+    "id": 654,
+    "target": "为什么你不去？",
+    "pronunciation": "Wèishéme nǐ bù qù?"
+  },
+  {
+    "category": 13,
+    "id": 655,
+    "target": "你为什么这么做？",
+    "pronunciation": "Nǐ wèishéme zhème zuò?"
+  },
+  {
+    "category": 14,
+    "id": 656,
+    "target": "事故发生在十字路口。",
+    "pronunciation": "Shìgù fāshēng zài shízìlù kǒu."
+  },
+  {
+    "category": 14,
+    "id": 657,
+    "target": "你卖的电池？",
+    "pronunciation": "Nǐ mài de diànchí?"
+  },
+  {
+    "category": 14,
+    "id": 658,
+    "target": "离这里最近的医院？",
+    "pronunciation": "Lí zhèlǐ zuìjìn de yīyuàn?"
+  },
+  {
+    "category": 14,
+    "id": 659,
+    "target": "哪来的邮局？",
+    "pronunciation": "Nǎ lái de yóujú?"
+  },
+  {
+    "category": 14,
+    "id": 660,
+    "target": "你在哪里工作？",
+    "pronunciation": "Nǐ zài nǎlǐ gōngzuò?"
+  },
+  {
+    "category": 14,
+    "id": 661,
+    "target": "哪里可以兑换美元？",
+    "pronunciation": "Nǎlǐ kěyǐ duìhuàn měiyuán?"
+  },
+  {
+    "category": 14,
+    "id": 662,
+    "target": "我不在乎。",
+    "pronunciation": "Wǒ bùzàihū."
+  },
+  {
+    "category": 14,
+    "id": 663,
+    "target": "我还有很多事情要做。",
+    "pronunciation": "Wǒ hái yǒu hěnduō shìqíng yào zuò."
+  },
+  {
+    "category": 14,
+    "id": 664,
+    "target": "我嗓子疼。",
+    "pronunciation": "Wǒ sǎngzi téng."
+  },
+  {
+    "category": 14,
+    "id": 665,
+    "target": "我的行李不见了。",
+    "pronunciation": "Wǒ de xínglǐ bùjiànle."
+  },
+  {
+    "category": 14,
+    "id": 666,
+    "target": "我的肚子疼。",
+    "pronunciation": "Wǒ de dùzi téng."
+  },
+  {
+    "category": 14,
+    "id": 667,
+    "target": "我的手表被偷了。",
+    "pronunciation": "Wǒ de shǒubiǎo bèi tōule."
+  },
+  {
+    "category": 14,
+    "id": 668,
+    "target": "打给我。",
+    "pronunciation": "Dǎ gěi wǒ."
+  },
+  {
+    "category": 14,
+    "id": 669,
+    "target": "服用此药。",
+    "pronunciation": "Fúyòng cǐ yào."
+  },
+  {
+    "category": 14,
+    "id": 670,
+    "target": "一直有车祸。",
+    "pronunciation": "Yīzhí yǒu chēhuò."
+  },
+  {
+    "category": 14,
+    "id": 671,
+    "target": "今天天很冷。",
+    "pronunciation": "Jīntiān tiān hěn lěng."
+  },
+  {
+    "category": 14,
+    "id": 672,
+    "target": "你准备好了吗？",
+    "pronunciation": "Nǐ zhǔnbèi hǎole ma?"
+  },
+  {
+    "category": 14,
+    "id": 673,
+    "target": "你送我花？",
+    "pronunciation": "Nǐ sòng wǒ huā?"
+  },
+  {
+    "category": 14,
+    "id": 674,
+    "target": "我有一个在我的车。",
+    "pronunciation": "Wǒ yǒu yīgè zài wǒ de chē."
+  },
+  {
+    "category": 14,
+    "id": 675,
+    "target": "我感冒了。",
+    "pronunciation": "Wǒ gǎnmàole."
+  },
+  {
+    "category": 14,
+    "id": 676,
+    "target": "你对什么过敏吗？",
+    "pronunciation": "Nǐ duì shénme guòmǐn ma?"
+  },
+  {
+    "category": 14,
+    "id": 677,
+    "target": "依天气而定。",
+    "pronunciation": "Yī tiānqì ér dìng."
+  },
+  {
+    "category": 14,
+    "id": 678,
+    "target": "我还没有决定。",
+    "pronunciation": "Wǒ hái méiyǒu juédìng."
+  },
+  {
+    "category": 14,
+    "id": 679,
+    "target": "我在一次事故中得到。",
+    "pronunciation": "Wǒ zài yīcì shìgù zhōng dédào."
+  },
+  {
+    "category": 14,
+    "id": 680,
+    "target": "我做了这个蛋糕。",
+    "pronunciation": "Wǒ zuòle zhège dàngāo."
+  },
+  {
+    "category": 14,
+    "id": 681,
+    "target": "我是自雇人士。",
+    "pronunciation": "Wǒ shì zì gù rénshì."
+  },
+  {
+    "category": 14,
+    "id": 682,
+    "target": "我放弃。",
+    "pronunciation": "Wǒ fàngqì."
+  },
+  {
+    "category": 14,
+    "id": 683,
+    "target": "我是一名教师。",
+    "pronunciation": "Wǒ shì yī míng jiàoshī."
+  },
+  {
+    "category": 16,
+    "id": 684,
+    "target": "你呢？",
+    "pronunciation": "Nǐ ne?"
+  },
+  {
+    "category": 16,
+    "id": 685,
+    "target": "难道他去哪个学校？",
+    "pronunciation": "Nándào tā qù nǎge xuéxiào?"
+  },
+  {
+    "category": 16,
+    "id": 686,
+    "target": "这是怎么回事？",
+    "pronunciation": "Zhè shì zěnme huí shì?"
+  },
+  {
+    "category": 16,
+    "id": 687,
+    "target": "一切都顺利吗？",
+    "pronunciation": "Yīqiè dōu shùnlì ma?"
+  },
+  {
+    "category": 16,
+    "id": 688,
+    "target": "你接受美元？",
+    "pronunciation": "Nǐ jiēshòu měiyuán?"
+  },
+  {
+    "category": 16,
+    "id": 689,
+    "target": "他在哪里？",
+    "pronunciation": "Tā zài nǎlǐ?"
+  },
+  {
+    "category": 16,
+    "id": 690,
+    "target": "你在哪里学的？",
+    "pronunciation": "Nǐ zài nǎlǐ xué de?"
+  },
+  {
+    "category": 16,
+    "id": 691,
+    "target": "在哪发生的？",
+    "pronunciation": "Zài nǎ fāshēng de?"
+  },
+  {
+    "category": 16,
+    "id": 692,
+    "target": "我可以在哪里租车？",
+    "pronunciation": "Wǒ kěyǐ zài nǎlǐ zū chē?"
+  },
+  {
+    "category": 16,
+    "id": 693,
+    "target": "是。",
+    "pronunciation": "Shì."
+  },
+  {
+    "category": 16,
+    "id": 694,
+    "target": "给我的笔。",
+    "pronunciation": "Gěi wǒ de bǐ."
+  },
+  {
+    "category": 16,
+    "id": 695,
+    "target": "他喜欢学校？",
+    "pronunciation": "Tā xǐhuān xuéxiào?"
+  },
+  {
+    "category": 16,
+    "id": 696,
+    "target": "有什么便宜一点的吗？",
+    "pronunciation": "Yǒu shé me piányí yīdiǎn de ma?"
+  },
+  {
+    "category": 16,
+    "id": 697,
+    "target": "在下雨吗？",
+    "pronunciation": "Zàixià yǔ ma?"
+  },
+  {
+    "category": 16,
+    "id": 698,
+    "target": "多久了？",
+    "pronunciation": "Duōjiǔle?"
+  },
+  {
+    "category": 16,
+    "id": 699,
+    "target": "她怎么样？",
+    "pronunciation": "Tā zěnme yàng?"
+  },
+  {
+    "category": 16,
+    "id": 700,
+    "target": "什么是温度？",
+    "pronunciation": "Shénme shì wēndù?"
+  },
+  {
+    "category": 16,
+    "id": 701,
+    "target": "你在找谁？",
+    "pronunciation": "Nǐ zài zhǎo shéi?"
+  },
+  {
+    "category": 16,
+    "id": 702,
+    "target": "哪一个更便宜？",
+    "pronunciation": "Nǎ yīgè gèng piányí?"
+  },
+  {
+    "category": 16,
+    "id": 703,
+    "target": "哪一个是最好的？",
+    "pronunciation": "Nǎ yīgè shì zuì hǎo de?"
+  },
+  {
+    "category": 16,
+    "id": 704,
+    "target": "你想要哪一个？",
+    "pronunciation": "Nǐ xiǎng yào nǎ yīgè?"
+  },
+  {
+    "category": 16,
+    "id": 705,
+    "target": "谁打电话？",
+    "pronunciation": "Shéi dǎ diànhuà?"
+  },
+  {
+    "category": 16,
+    "id": 706,
+    "target": "他们是谁？",
+    "pronunciation": "Tāmen shì shéi?"
+  },
+  {
+    "category": 16,
+    "id": 707,
+    "target": "谁教你的？",
+    "pronunciation": "Shéi jiào nǐ de?"
+  },
+  {
+    "category": 16,
+    "id": 708,
+    "target": "那是谁的人在那里？",
+    "pronunciation": "Nà shì shéi de rén zài nàlǐ?"
+  },
+  {
+    "category": 16,
+    "id": 709,
+    "target": "是谁呀？ （。询问是谁在手机上）",
+    "pronunciation": "Shì shéi ya? (. Xúnwèn shì shéi zài shǒujī shàng)"
+  },
+  {
+    "category": 16,
+    "id": 710,
+    "target": "是任何人都来了吗？",
+    "pronunciation": "shì rènhé rén dōu láile ma?"
+  },
+  {
+    "category": 16,
+    "id": 711,
+    "target": "大的还是小的？",
+    "pronunciation": "Dà de háishì xiǎo de?"
+  },
+  {
+    "category": 16,
+    "id": 712,
+    "target": "这些汽车是美国。",
+    "pronunciation": "Zhèxiē qìchē shì měiguó."
+  },
+  {
+    "category": 16,
+    "id": 713,
+    "target": "我应该等待？",
+    "pronunciation": "Wǒ yīnggāi děngdài?"
+  },
+  {
+    "category": 16,
+    "id": 714,
+    "target": "我有很多事情要做。",
+    "pronunciation": "Wǒ yǒu hěnduō shìqíng yào zuò."
+  },
+  {
+    "category": 16,
+    "id": 715,
+    "target": "我可以借一些钱吗？",
+    "pronunciation": "Wǒ kěyǐ jiè yīxiē qián ma?"
+  },
+  {
+    "category": 16,
+    "id": 716,
+    "target": "我能看看帐单吗？",
+    "pronunciation": "Wǒ néng kàn kàn zhàng dān ma?"
+  },
+  {
+    "category": 16,
+    "id": 717,
+    "target": "热吗？",
+    "pronunciation": "Rè ma?"
+  },
+  {
+    "category": 16,
+    "id": 718,
+    "target": "外面很冷？",
+    "pronunciation": "Wàimiàn hěn lěng?"
+  },
+  {
+    "category": 16,
+    "id": 719,
+    "target": "你可以大声说话吗？",
+    "pronunciation": "Nǐ kěyǐ dàshēng shuōhuà ma?"
+  },
+  {
+    "category": 16,
+    "id": 720,
+    "target": "你们两个在说什么？",
+    "pronunciation": "Nǐmen liǎng gè zài shuō shénme?"
+  },
+  {
+    "category": 16,
+    "id": 721,
+    "target": "你在想什么？",
+    "pronunciation": "Nǐ zài xiǎng shénme?"
+  },
+  {
+    "category": 16,
+    "id": 722,
+    "target": "他们是一样的吗？",
+    "pronunciation": "Tāmen shì yīyàng de ma?"
+  },
+  {
+    "category": 16,
+    "id": 723,
+    "target": "他从哪里来？",
+    "pronunciation": "Tā cóng nǎlǐ lái?"
+  },
+  {
+    "category": 16,
+    "id": 724,
+    "target": "你怎么知道的？",
+    "pronunciation": "Nǐ zěnme zhīdào de?"
+  },
+  {
+    "category": 16,
+    "id": 725,
+    "target": "你为什么这样说？",
+    "pronunciation": "Nǐ wèishéme zhèyàng shuō?"
+  },
+  {
+    "category": 16,
+    "id": 726,
+    "target": "银行后面。",
+    "pronunciation": "Yínháng hòumiàn."
+  },
+  {
+    "category": 16,
+    "id": 727,
+    "target": "多少钱？",
+    "pronunciation": "Duōshǎo qián?"
+  },
+  {
+    "category": 16,
+    "id": 728,
+    "target": "多少？",
+    "pronunciation": "Duōshǎo?"
+  },
+  {
+    "category": 16,
+    "id": 729,
+    "target": "有没有什么问题？",
+    "pronunciation": "Yǒu méiyǒu shé me wèntí?"
+  },
+  {
+    "category": 16,
+    "id": 730,
+    "target": "你儿子在这儿？",
+    "pronunciation": "Nǐ érzi zài zhè'er?"
+  },
+  {
+    "category": 16,
+    "id": 731,
+    "target": "你喜欢你的同事？",
+    "pronunciation": "Nǐ xǐhuān nǐ de tóngshì?"
+  },
+  {
+    "category": 16,
+    "id": 732,
+    "target": "你还需要什么别的吗？",
+    "pronunciation": "Nǐ hái xūyào shénme bié de ma?"
+  },
+  {
+    "category": 16,
+    "id": 733,
+    "target": "你害怕吗？",
+    "pronunciation": "Nǐ hàipà ma?"
+  },
+  {
+    "category": 16,
+    "id": 734,
+    "target": "你生病了吗？",
+    "pronunciation": "Nǐ shēngbìngle ma?"
+  },
+  {
+    "category": 16,
+    "id": 735,
+    "target": "昨晚你是不是在图书馆？",
+    "pronunciation": "Zuó wǎn nǐ shì bùshì zài túshū guǎn?"
+  },
+  {
+    "category": 16,
+    "id": 736,
+    "target": "你还好吗？",
+    "pronunciation": "Nǐ hái hǎo ma?"
+  },
+  {
+    "category": 16,
+    "id": 737,
+    "target": "你看起来就像我的妹妹。",
+    "pronunciation": "Nǐ kàn qǐlái jiù xiàng wǒ de mèimei."
+  },
+  {
+    "category": 16,
+    "id": 738,
+    "target": "你结婚了吗？",
+    "pronunciation": "Nǐ jiéhūnle ma?"
+  },
+  {
+    "category": 16,
+    "id": 739,
+    "target": "你知道我的眼镜？",
+    "pronunciation": "Nǐ zhīdào wǒ de yǎnjìng?"
+  },
+  {
+    "category": 16,
+    "id": 740,
+    "target": "你知道我在哪里可以打到出租车？",
+    "pronunciation": "Nǐ zhīdào wǒ zài nǎlǐ kěyǐ dǎ dào chūzū chē?"
+  },
+  {
+    "category": 16,
+    "id": 741,
+    "target": "你知道怎么去万豪酒店？",
+    "pronunciation": "Nǐ zhīdào zěnme qù wànháo jiǔdiàn?"
+  },
+  {
+    "category": 16,
+    "id": 742,
+    "target": "你知道这是什么意思？",
+    "pronunciation": "Nǐ zhīdào zhè shì shénme yìsi?"
+  },
+  {
+    "category": 16,
+    "id": 743,
+    "target": "你可以叫我回来？",
+    "pronunciation": "Nǐ kěyǐ jiào wǒ huílái?"
+  },
+  {
+    "category": 16,
+    "id": 744,
+    "target": "您可以稍后再打来吗？",
+    "pronunciation": "Nín kěyǐ shāo hòu zài dǎ lái ma?"
+  },
+  {
+    "category": 16,
+    "id": 745,
+    "target": "你可以随身携带这个给我吗？",
+    "pronunciation": "Nǐ kěyǐ suíshēn xiédài zhège gěi wǒ ma?"
+  },
+  {
+    "category": 16,
+    "id": 746,
+    "target": "能给我举个例子？",
+    "pronunciation": "Néng gěi wǒ jǔ gè lìzi?"
+  },
+  {
+    "category": 16,
+    "id": 747,
+    "target": "你能解决这个问题吗？",
+    "pronunciation": "Nǐ néng jiějué zhège wèntí ma?"
+  },
+  {
+    "category": 16,
+    "id": 748,
+    "target": "你会问他给我回电话好吗？",
+    "pronunciation": "Nǐ huì wèn tā gěi wǒ huí diànhuà hǎo ma?"
+  },
+  {
+    "category": 16,
+    "id": 749,
+    "target": "你从哪里来？",
+    "pronunciation": "Nǐ cóng nǎlǐ lái?"
+  },
+  {
+    "category": 16,
+    "id": 750,
+    "target": "你愿意把盐递给我好吗？",
+    "pronunciation": "Nǐ yuànyì bǎ yán dì gěi wǒ hǎo ma?"
+  },
+  {
+    "category": 16,
+    "id": 751,
+    "target": "你会把这个在车上给我吗？",
+    "pronunciation": "Nǐ huì bǎ zhège zài chē shàng gěi wǒ ma?"
+  },
+  {
+    "category": 16,
+    "id": 752,
+    "target": "你明白吗？",
+    "pronunciation": "Nǐ míngbái ma?"
+  },
+  {
+    "category": 16,
+    "id": 753,
+    "target": "你会参加他们的婚礼？",
+    "pronunciation": "Nǐ huì cānjiā tāmen de hūnlǐ?"
+  },
+  {
+    "category": 16,
+    "id": 754,
+    "target": "你会游泳吗？",
+    "pronunciation": "Nǐ huì yóuyǒng ma?"
+  },
+  {
+    "category": 16,
+    "id": 755,
+    "target": "你听到了吗？",
+    "pronunciation": "Nǐ tīng dàole ma?"
+  },
+  {
+    "category": 16,
+    "id": 756,
+    "target": "你有女朋友吗？",
+    "pronunciation": "Nǐ yǒu nǚ péngyǒu ma?"
+  },
+  {
+    "category": 16,
+    "id": 757,
+    "target": "你有预约吗？",
+    "pronunciation": "Nǐ yǒu yùyuē ma?"
+  },
+  {
+    "category": 16,
+    "id": 758,
+    "target": "你有一个非常漂亮的车。",
+    "pronunciation": "Nǐ yǒu yīgè fēicháng piàoliang de chē."
+  },
+  {
+    "category": 16,
+    "id": 759,
+    "target": "你有问题吗？",
+    "pronunciation": "Nǐ yǒu wèntí ma?"
+  },
+  {
+    "category": 16,
+    "id": 760,
+    "target": "在30分钟。",
+    "pronunciation": "Zài 30 fēnzhōng."
+  },
+  {
+    "category": 16,
+    "id": 761,
+    "target": "你怎么看？",
+    "pronunciation": "Nǐ zěnme kàn?"
+  },
+  {
+    "category": 16,
+    "id": 762,
+    "target": "哪一个更好，意大利面条或鸡肉沙拉？",
+    "pronunciation": "Nǎ yīgè gèng hǎo, yìdàlì miàntiáo huò jīròu shālā?"
+  },
+  {
+    "category": 16,
+    "id": 763,
+    "target": "我应该穿什么？",
+    "pronunciation": "Wǒ yīnggāi chuān shénme?"
+  },
+  {
+    "category": 16,
+    "id": 764,
+    "target": "他们是怎么学习？",
+    "pronunciation": "Tāmen shì zěnme xuéxí?"
+  },
+  {
+    "category": 16,
+    "id": 765,
+    "target": "发生了什么？",
+    "pronunciation": "Fāshēngle shénme?"
+  },
+  {
+    "category": 16,
+    "id": 766,
+    "target": "里面是什么？",
+    "pronunciation": "Lǐmiàn shì shénme?"
+  },
+  {
+    "category": 16,
+    "id": 767,
+    "target": "那是什么？",
+    "pronunciation": "Nà shì shénme?"
+  },
+  {
+    "category": 16,
+    "id": 768,
+    "target": "你在做什么？",
+    "pronunciation": "Nǐ zài zuò shénme?"
+  },
+  {
+    "category": 16,
+    "id": 769,
+    "target": "你昨天做了什么？",
+    "pronunciation": "Nǐ zuótiān zuòle shénme?"
+  },
+  {
+    "category": 16,
+    "id": 770,
+    "target": "你昨天晚上做了什么？",
+    "pronunciation": "Nǐ zuótiān wǎnshàng zuòle shénme?"
+  },
+  {
+    "category": 16,
+    "id": 771,
+    "target": "你觉得呢？",
+    "pronunciation": "Nǐ juédé ne?"
+  },
+  {
+    "category": 16,
+    "id": 772,
+    "target": "你有什么？",
+    "pronunciation": "Nǐ yǒu shé me?"
+  },
+  {
+    "category": 16,
+    "id": 773,
+    "target": "它是什么？",
+    "pronunciation": "Tā shì shénme?"
+  },
+  {
+    "category": 16,
+    "id": 774,
+    "target": "这是什么？",
+    "pronunciation": "Zhè shì shénme?"
+  },
+  {
+    "category": 16,
+    "id": 775,
+    "target": "还要别的吗？",
+    "pronunciation": "Hái yào bié de ma?"
+  },
+  {
+    "category": 16,
+    "id": 776,
+    "target": "它离这儿远吗？",
+    "pronunciation": "Tā lí zhè'er yuǎn ma?"
+  },
+  {
+    "category": 17,
+    "id": 777,
+    "target": "每小时6美元。",
+    "pronunciation": "Měi xiǎoshí 6 měiyuán."
+  },
+  {
+    "category": 17,
+    "id": 778,
+    "target": "你去什么时间每天上班？",
+    "pronunciation": "Nǐ qù shénme shíjiān měitiān shàngbān?"
+  },
+  {
+    "category": 17,
+    "id": 779,
+    "target": "怎么了？",
+    "pronunciation": "Zěnmeliǎo?"
+  },
+  {
+    "category": 17,
+    "id": 780,
+    "target": "哪里受伤了？",
+    "pronunciation": "Nǎlǐ shòushāngle?"
+  },
+  {
+    "category": 17,
+    "id": 781,
+    "target": "怎么行？",
+    "pronunciation": "Zěnme xíng?"
+  },
+  {
+    "category": 17,
+    "id": 782,
+    "target": "多久你在这里工作？",
+    "pronunciation": "Duōjiǔ nǐ zài zhèlǐ gōngzuò?"
+  },
+  {
+    "category": 17,
+    "id": 783,
+    "target": "天气怎么样？",
+    "pronunciation": "Tiānqì zěnme yàng?"
+  },
+  {
+    "category": 17,
+    "id": 784,
+    "target": "你什么时候下班？",
+    "pronunciation": "Nǐ shénme shíhòu xiàbān?"
+  },
+  {
+    "category": 17,
+    "id": 785,
+    "target": "当你在美国到达呢？",
+    "pronunciation": "Dāng nǐ zài měiguó dàodá ní?"
+  },
+  {
+    "category": 17,
+    "id": 786,
+    "target": "你想去哪里去了？",
+    "pronunciation": "Nǐ xiǎng qù nǎlǐ qùle?"
+  },
+  {
+    "category": 17,
+    "id": 787,
+    "target": "你放到哪儿了呢？",
+    "pronunciation": "Nǐ fàng dào nǎ'erle ne?"
+  },
+  {
+    "category": 17,
+    "id": 788,
+    "target": "我仍然有很多东西买。",
+    "pronunciation": "Wǒ réngrán yǒu hěnduō dōngxī mǎi."
+  },
+  {
+    "category": 17,
+    "id": 789,
+    "target": "他是一个工程师。",
+    "pronunciation": "Tā shì yīgè gōngchéngshī."
+  },
+  {
+    "category": 17,
+    "id": 790,
+    "target": "他很努力。",
+    "pronunciation": "Tā hěn nǔlì."
+  },
+  {
+    "category": 17,
+    "id": 791,
+    "target": "他在一家电脑公司在纽约。",
+    "pronunciation": "Tā zài yījiā diànnǎo gōngsī zài niǔyuē."
+  },
+  {
+    "category": 17,
+    "id": 792,
+    "target": "把我的衬衫吧。",
+    "pronunciation": "Bǎ wǒ de chènshān ba."
+  },
+  {
+    "category": 17,
+    "id": 793,
+    "target": "多少钱，你呢？",
+    "pronunciation": "Duōshǎo qián, nǐ ne?"
+  },
+  {
+    "category": 17,
+    "id": 794,
+    "target": "多少个小时，每周你工作？",
+    "pronunciation": "Duōshǎo gè xiǎoshí, měi zhōu nǐ gōngzuò?"
+  },
+  {
+    "category": 17,
+    "id": 795,
+    "target": "你喜欢你的老板？",
+    "pronunciation": "Nǐ xǐhuān nǐ de lǎobǎn?"
+  },
+  {
+    "category": 17,
+    "id": 796,
+    "target": "你在等人吗？",
+    "pronunciation": "Nǐ zài děng rén ma?"
+  },
+  {
+    "category": 17,
+    "id": 797,
+    "target": "你做完了学习？",
+    "pronunciation": "Nǐ zuò wánliǎo xuéxí?"
+  },
+  {
+    "category": 17,
+    "id": 798,
+    "target": "你喜欢看电视吗？",
+    "pronunciation": "Nǐ xǐhuān kàn diànshì ma?"
+  },
+  {
+    "category": 17,
+    "id": 799,
+    "target": "你今天工作吗？",
+    "pronunciation": "Nǐ jīntiān gōngzuò ma?"
+  },
+  {
+    "category": 17,
+    "id": 800,
+    "target": "你做什么工作？",
+    "pronunciation": "Nǐ zuò shénme gōngzuò?"
+  },
+  {
+    "category": 17,
+    "id": 801,
+    "target": "你爸爸的工作呢？",
+    "pronunciation": "Nǐ bàba de gōngzuò ne?"
+  },
+  {
+    "category": 17,
+    "id": 802,
+    "target": "你父母的工作吗？",
+    "pronunciation": "Nǐ fùmǔ de gōngzuò ma?"
+  },
+  {
+    "category": 17,
+    "id": 803,
+    "target": "他是什么工作呢？",
+    "pronunciation": "Tā shì shénme gōngzuò ne?"
+  },
+  {
+    "category": 17,
+    "id": 804,
+    "target": "我准备好了。",
+    "pronunciation": "Wǒ zhǔnbèi hǎole."
+  },
+  {
+    "category": 17,
+    "id": 805,
+    "target": "我忘了。",
+    "pronunciation": "Wǒ wàngle."
+  },
+  {
+    "category": 17,
+    "id": 806,
+    "target": "我很好。",
+    "pronunciation": "Wǒ hěn hǎo."
+  },
+  {
+    "category": 17,
+    "id": 807,
+    "target": "我已经看到了它。",
+    "pronunciation": "Wǒ yǐjīng kàn dàole tā."
+  },
+  {
+    "category": 18,
+    "id": 808,
+    "target": "道路很滑。",
+    "pronunciation": "Dàolù hěn huá."
+  },
+  {
+    "category": 18,
+    "id": 809,
+    "target": "这里疼。",
+    "pronunciation": "Zhèlǐ téng."
+  },
+  {
+    "category": 18,
+    "id": 810,
+    "target": "下雨了。",
+    "pronunciation": "Xià yǔle."
+  },
+  {
+    "category": 18,
+    "id": 811,
+    "target": "生意怎么样？",
+    "pronunciation": "Shēngyì zěnme yàng?"
+  },
+  {
+    "category": 18,
+    "id": 812,
+    "target": "天气将会是怎样的明天？",
+    "pronunciation": "Tiānqì jiāng huì shì zěnyàng de míngtiān?"
+  },
+  {
+    "category": 18,
+    "id": 813,
+    "target": "什么是房价？",
+    "pronunciation": "Shénme shì fángjià?"
+  },
+  {
+    "category": 18,
+    "id": 814,
+    "target": "过来。",
+    "pronunciation": "Guòlái."
+  },
+  {
+    "category": 18,
+    "id": 815,
+    "target": "它今天会很热。",
+    "pronunciation": "Tā jīntiān huì hěn rè."
+  },
+  {
+    "category": 18,
+    "id": 816,
+    "target": "太晚了。",
+    "pronunciation": "Tài wǎnle."
+  },
+  {
+    "category": 18,
+    "id": 817,
+    "target": "你觉得它的明天会下雨吗？",
+    "pronunciation": "Nǐ juédé tā de míngtiān huì xià yǔ ma?"
+  },
+  {
+    "category": 18,
+    "id": 818,
+    "target": "你认为今天会下雨吗？",
+    "pronunciation": "Nǐ rènwéi jīntiān huì xià yǔ ma?"
+  },
+  {
+    "category": 18,
+    "id": 819,
+    "target": "它经常下雪在马萨诸塞州的冬天？",
+    "pronunciation": "Tā jīngcháng xià xuě zài mǎsàzhūsāi zhōu de dōngtiān?"
+  },
+  {
+    "category": 18,
+    "id": 820,
+    "target": "是否结束？",
+    "pronunciation": "Shìfǒu jiéshù?"
+  },
+  {
+    "category": 18,
+    "id": 821,
+    "target": "可能吗？",
+    "pronunciation": "Kěnéng ma?"
+  },
+  {
+    "category": 18,
+    "id": 822,
+    "target": "就在那里。",
+    "pronunciation": "Jiù zài nàlǐ."
+  },
+  {
+    "category": 18,
+    "id": 823,
+    "target": "好了吗？",
+    "pronunciation": "Hǎole ma?"
+  },
+  {
+    "category": 18,
+    "id": 824,
+    "target": "这是离这里不远。",
+    "pronunciation": "Zhè shì lí zhèlǐ bù yuǎn."
+  },
+  {
+    "category": 18,
+    "id": 825,
+    "target": "这是在这儿的北面。",
+    "pronunciation": "Zhè shì zài zhè'er de běimiàn."
+  },
+  {
+    "category": 18,
+    "id": 826,
+    "target": "这很重要。",
+    "pronunciation": "Zhè hěn zhòngyào."
+  },
+  {
+    "category": 18,
+    "id": 827,
+    "target": "它马上就到。",
+    "pronunciation": "Tā mǎshàng jiù dào."
+  },
+  {
+    "category": 18,
+    "id": 828,
+    "target": "它的费用20美元每小时。",
+    "pronunciation": "Tā de fèiyòng 20 měiyuán měi xiǎoshí."
+  }
+],
+  "categories":[
+      {
+        "id": 1,
+        "translatedName": "常用表达式"
+      },
+      {
+        "id": 2,
+        "translatedName": "问候"
+      },
+      {
+        "id": 3,
+        "translatedName": "旅行，方向"
+      },
+      {
+        "id": 4,
+        "translatedName": "数字和金钱"
+      },
+      {
+        "id": 5,
+        "translatedName": "地点"
+      },
+      {
+        "id": 6,
+        "translatedName": "电话/网络/邮件"
+      },
+      {
+        "id": 7,
+        "translatedName": "时间和日期"
+      },
+      {
+        "id": 8,
+        "translatedName": "宿舍"
+      },
+      {
+        "id": 9,
+        "translatedName": "餐饮"
+      },
+      {
+        "id": 10,
+        "translatedName": "交朋友"
+      },
+      {
+        "id": 11,
+        "translatedName": "娱乐"
+      },
+      {
+        "id": 12,
+        "translatedName": "购物"
+      },
+      {
+        "id": 13,
+        "translatedName": "沟通困难"
+      },
+      {
+        "id": 14,
+        "translatedName": "紧急和健康"
+      },
+      {
+        "id": 16,
+        "translatedName": "一般的问题"
+      },
+      {
+        "id": 17,
+        "translatedName": "工作"
+      },
+    {
+      "id": 18,
+      "translatedName": "天气"
+    }
+  ]
+}

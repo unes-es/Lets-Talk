@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "671997465803",
+    "firebase_url": "https://let-s-talk-3a67f.firebaseio.com",
+    "project_id": "let-s-talk-3a67f",
+    "storage_bucket": "let-s-talk-3a67f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671997465803:android:6018e758cd43d7e1",
+        "android_client_info": {
+          "package_name": "com.applications.coffee.letstalk.french"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671997465803-29vqe01dsskv4ubeurst6mgq4flsb4aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAifGrQgbxR4-noWVZIq3FkzHQW3mJcS7U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671997465803:android:6ca2b4f880fe54e6",
+        "android_client_info": {
+          "package_name": "com.applications.coffee.letstalk.spanish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671997465803-29vqe01dsskv4ubeurst6mgq4flsb4aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAifGrQgbxR4-noWVZIq3FkzHQW3mJcS7U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

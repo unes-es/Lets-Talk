@@ -1,0 +1,4215 @@
+{
+  "phrases":[
+ {
+   "category": 1,
+   "id": 1,
+   "target": "注意してください。"
+ },
+ {
+   "category": 1,
+   "id": 2,
+   "target": "運転に注意してください。"
+ },
+ {
+   "category": 1,
+   "id": 3,
+   "target": "私のためにこれを翻訳できますか？"
+ },
+ {
+   "category": 1,
+   "id": 4,
+   "target": "シカゴはボストンとは非常に異なっています。"
+ },
+ {
+   "category": 1,
+   "id": 5,
+   "target": "心配しないでください。"
+ },
+ {
+   "category": 1,
+   "id": 6,
+   "target": "誰もがそれを知っている。"
+ },
+ {
+   "category": 1,
+   "id": 7,
+   "target": "すべてが準備ができています。"
+ },
+ {
+   "category": 1,
+   "id": 8,
+   "target": "優れた。"
+ },
+ {
+   "category": 1,
+   "id": 9,
+   "target": "時々。"
+ },
+ {
+   "category": 1,
+   "id": 10,
+   "target": "良いアイデア。"
+ },
+ {
+   "category": 1,
+   "id": 11,
+   "target": "彼はそれが大好きです。"
+ },
+ {
+   "category": 1,
+   "id": 12,
+   "target": "助けて！"
+ },
+ {
+   "category": 1,
+   "id": 13,
+   "target": "彼はすぐに来ている。"
+ },
+ {
+   "category": 1,
+   "id": 14,
+   "target": "彼は正しい。"
+ },
+ {
+   "category": 1,
+   "id": 15,
+   "target": "彼はとても迷惑だ。"
+ },
+ {
+   "category": 1,
+   "id": 16,
+   "target": "彼はとても有名です。"
+ },
+ {
+   "category": 1,
+   "id": 17,
+   "target": "お元気ですか？"
+ },
+ {
+   "category": 1,
+   "id": 18,
+   "target": "元気？"
+ },
+ {
+   "category": 1,
+   "id": 19,
+   "target": "急いで！"
+ },
+ {
+   "category": 1,
+   "id": 20,
+   "target": "私はすでに食べた。"
+ },
+ {
+   "category": 1,
+   "id": 21,
+   "target": "聞こえません。"
+ },
+ {
+   "category": 1,
+   "id": 22,
+   "target": "私は散歩に行きたいです。"
+ },
+ {
+   "category": 1,
+   "id": 23,
+   "target": "私はそれを使う方法を知らない。"
+ },
+ {
+   "category": 1,
+   "id": 24,
+   "target": "私は彼が気に入らない。"
+ },
+ {
+   "category": 1,
+   "id": 25,
+   "target": "私はそれが気に入りません。"
+ },
+ {
+   "category": 1,
+   "id": 26,
+   "target": "私はうまく話せません。"
+ },
+ {
+   "category": 1,
+   "id": 27,
+   "target": "わかりません。"
+ },
+ {
+   "category": 1,
+   "id": 28,
+   "target": "私はそれを望んでいない。"
+ },
+ {
+   "category": 1,
+   "id": 29,
+   "target": "私はそれを望んでいない。"
+ },
+ {
+   "category": 1,
+   "id": 30,
+   "target": "私はあなたを気にしたくありません。"
+ },
+ {
+   "category": 1,
+   "id": 31,
+   "target": "良い感じ。"
+ },
+ {
+   "category": 1,
+   "id": 32,
+   "target": "私の助けが必要なら、教えてください。"
+ },
+ {
+   "category": 1,
+   "id": 33,
+   "target": "私は6時に仕事を辞める。"
+ },
+ {
+   "category": 1,
+   "id": 34,
+   "target": "頭痛がします。"
+ },
+ {
+   "category": 1,
+   "id": 35,
+   "target": "私はあなたとあなたの妻が素敵な旅行をしたいと思う。"
+ },
+ {
+   "category": 1,
+   "id": 36,
+   "target": "知っている。"
+ },
+ {
+   "category": 1,
+   "id": 37,
+   "target": "私は彼女が好きです。"
+ },
+ {
+   "category": 1,
+   "id": 38,
+   "target": "私が出るときに私はあなたに電話します。"
+ },
+ {
+   "category": 1,
+   "id": 39,
+   "target": "また来ます。"
+ },
+ {
+   "category": 1,
+   "id": 40,
+   "target": "私が払います。"
+ },
+ {
+   "category": 1,
+   "id": 41,
+   "target": "買います。"
+ },
+ {
+   "category": 1,
+   "id": 42,
+   "target": "私はあなたをバス停に連れて行きます。"
+ },
+ {
+   "category": 1,
+   "id": 43,
+   "target": "私は時計を失った。"
+ },
+ {
+   "category": 1,
+   "id": 44,
+   "target": "わたしは、あなたを愛しています。"
+ },
+ {
+   "category": 1,
+   "id": 45,
+   "target": "私はアメリカ人です。"
+ },
+ {
+   "category": 1,
+   "id": 46,
+   "target": "私は部屋を掃除しています。"
+ },
+ {
+   "category": 1,
+   "id": 47,
+   "target": "寒いです。"
+ },
+ {
+   "category": 1,
+   "id": 48,
+   "target": "私はあなたを迎えに来ている。"
+ },
+ {
+   "category": 1,
+   "id": 49,
+   "target": "私は去るつもりです。"
+ },
+ {
+   "category": 1,
+   "id": 50,
+   "target": "私はいい感じです、あなたは？"
+ },
+ {
+   "category": 1,
+   "id": 51,
+   "target": "私は満足しています。"
+ },
+ {
+   "category": 1,
+   "id": 52,
+   "target": "お腹が空きました。"
+ },
+ {
+   "category": 1,
+   "id": 53,
+   "target": "私は結婚しています。"
+ },
+ {
+   "category": 1,
+   "id": 54,
+   "target": "忙しくない。"
+ },
+ {
+   "category": 1,
+   "id": 55,
+   "target": "私は結婚していないよ。"
+ },
+ {
+   "category": 1,
+   "id": 56,
+   "target": "まだ準備できていない。"
+ },
+ {
+   "category": 1,
+   "id": 57,
+   "target": "よく分かりません。"
+ },
+ {
+   "category": 1,
+   "id": 58,
+   "target": "すみません、売り切れです。"
+ },
+ {
+   "category": 1,
+   "id": 59,
+   "target": "喉が渇いた。"
+ },
+ {
+   "category": 1,
+   "id": 60,
+   "target": "私はとても忙しいです。私は今、時間がありません。"
+ },
+ {
+   "category": 1,
+   "id": 61,
+   "target": "私は服を交換する必要があります。"
+ },
+ {
+   "category": 1,
+   "id": 62,
+   "target": "私は家に帰る必要があります。"
+ },
+ {
+   "category": 1,
+   "id": 63,
+   "target": "私は軽食が欲しいだけです。"
+ },
+ {
+   "category": 1,
+   "id": 64,
+   "target": "スミス氏はアメリカ人ですか？"
+ },
+ {
+   "category": 1,
+   "id": 65,
+   "target": "それで十分ですか？"
+ },
+ {
+   "category": 1,
+   "id": 66,
+   "target": "私はそれがとても良いと思う。"
+ },
+ {
+   "category": 1,
+   "id": 67,
+   "target": "私はそれが良いと思う。"
+ },
+ {
+   "category": 1,
+   "id": 68,
+   "target": "私は服が安いと思った。"
+ },
+ {
+   "category": 1,
+   "id": 69,
+   "target": "2マイル以上です。"
+ },
+ {
+   "category": 1,
+   "id": 70,
+   "target": "私は2日間ここにいた。"
+ },
+ {
+   "category": 1,
+   "id": 71,
+   "target": "私はテキサスが美しい場所だと聞きました。"
+ },
+ {
+   "category": 1,
+   "id": 72,
+   "target": "私はかつてそれを見たことがない。"
+ },
+ {
+   "category": 1,
+   "id": 73,
+   "target": "私は友人が到着したときにレストランを出ようとしていました。"
+ },
+ {
+   "category": 1,
+   "id": 74,
+   "target": "ほんの少し。"
+ },
+ {
+   "category": 1,
+   "id": 75,
+   "target": "ちょっとまってください。"
+ },
+ {
+   "category": 1,
+   "id": 76,
+   "target": "私にチェックさせてください。"
+ },
+ {
+   "category": 1,
+   "id": 77,
+   "target": "私はそれについて考えてみましょう。"
+ },
+ {
+   "category": 1,
+   "id": 78,
+   "target": "見てみましょう。"
+ },
+ {
+   "category": 1,
+   "id": 79,
+   "target": "英語を練習しましょう。"
+ },
+ {
+   "category": 1,
+   "id": 80,
+   "target": "私はスミスさんに話してもいいですか？"
+ },
+ {
+   "category": 1,
+   "id": 81,
+   "target": "それ以上。"
+ },
+ {
+   "category": 1,
+   "id": 82,
+   "target": "気にしないで。"
+ },
+ {
+   "category": 1,
+   "id": 83,
+   "target": "次回。"
+ },
+ {
+   "category": 1,
+   "id": 84,
+   "target": "いいえ。"
+ },
+ {
+   "category": 1,
+   "id": 85,
+   "target": "ナンセンス。"
+ },
+ {
+   "category": 1,
+   "id": 86,
+   "target": "いいえ、結構です。"
+ },
+ {
+   "category": 1,
+   "id": 87,
+   "target": "他に何もない。"
+ },
+ {
+   "category": 1,
+   "id": 88,
+   "target": "最近ではありません。"
+ },
+ {
+   "category": 1,
+   "id": 89,
+   "target": "未だに。"
+ },
+ {
+   "category": 1,
+   "id": 90,
+   "target": "もちろん。"
+ },
+ {
+   "category": 1,
+   "id": 91,
+   "target": "はい。"
+ },
+ {
+   "category": 1,
+   "id": 92,
+   "target": "このフォームに記入してください。"
+ },
+ {
+   "category": 1,
+   "id": 93,
+   "target": "この住所に私を連れてください。"
+ },
+ {
+   "category": 1,
+   "id": 94,
+   "target": "それを書き留めてください。"
+ },
+ {
+   "category": 1,
+   "id": 95,
+   "target": "本当に？"
+ },
+ {
+   "category": 1,
+   "id": 96,
+   "target": "ここに"
+ },
+ {
+   "category": 1,
+   "id": 97,
+   "target": "すぐそこに。"
+ },
+ {
+   "category": 1,
+   "id": 98,
+   "target": "じゃあまたね。"
+ },
+ {
+   "category": 1,
+   "id": 99,
+   "target": "また明日ね。"
+ },
+ {
+   "category": 1,
+   "id": 100,
+   "target": "今夜お会いしましょう。"
+ },
+ {
+   "category": 1,
+   "id": 101,
+   "target": "彼女は可愛いです。"
+ },
+ {
+   "category": 1,
+   "id": 102,
+   "target": "お邪魔して申し訳ありません。"
+ },
+ {
+   "category": 1,
+   "id": 103,
+   "target": "やめる！"
+ },
+ {
+   "category": 1,
+   "id": 104,
+   "target": "チャンスをつかむ。"
+ },
+ {
+   "category": 1,
+   "id": 105,
+   "target": "それを外に出す。"
+ },
+ {
+   "category": 1,
+   "id": 106,
+   "target": "教えてください。"
+ },
+ {
+   "category": 1,
+   "id": 107,
+   "target": "すべてに感謝します。"
+ },
+ {
+   "category": 1,
+   "id": 108,
+   "target": "ご協力いただきありがとうございます。"
+ },
+ {
+   "category": 1,
+   "id": 109,
+   "target": "ありがとうございました。"
+ },
+ {
+   "category": 1,
+   "id": 110,
+   "target": "お見逃しなく。"
+ },
+ {
+   "category": 1,
+   "id": 111,
+   "target": "ありがとうございます。"
+ },
+ {
+   "category": 1,
+   "id": 112,
+   "target": "どうもありがとうございました。"
+ },
+ {
+   "category": 1,
+   "id": 113,
+   "target": "それは素晴らしいようです。"
+ },
+ {
+   "category": 1,
+   "id": 114,
+   "target": "それは大丈夫だ。"
+ },
+ {
+   "category": 1,
+   "id": 115,
+   "target": "それで十分です。"
+ },
+ {
+   "category": 1,
+   "id": 116,
+   "target": "それはいいです。"
+ },
+ {
+   "category": 1,
+   "id": 117,
+   "target": "それでおしまい。"
+ },
+ {
+   "category": 1,
+   "id": 118,
+   "target": "それは悪いにおいがする。"
+ },
+ {
+   "category": 1,
+   "id": 119,
+   "target": "不公平だ。"
+ },
+ {
+   "category": 1,
+   "id": 120,
+   "target": "それは正しくありません。"
+ },
+ {
+   "category": 1,
+   "id": 121,
+   "target": "そのとおり。"
+ },
+ {
+   "category": 1,
+   "id": 122,
+   "target": "それはあまりにも悪いです。"
+ },
+ {
+   "category": 1,
+   "id": 123,
+   "target": "多すぎる。"
+ },
+ {
+   "category": 1,
+   "id": 124,
+   "target": "それはあまりにも多い。"
+ },
+ {
+   "category": 1,
+   "id": 125,
+   "target": "本はテーブルの下にあります。"
+ },
+ {
+   "category": 1,
+   "id": 126,
+   "target": "彼らはすぐに戻ってきます。"
+ },
+ {
+   "category": 1,
+   "id": 127,
+   "target": "彼らは同じです。"
+ },
+ {
+   "category": 1,
+   "id": 128,
+   "target": "彼らはとても忙しいです。"
+ },
+ {
+   "category": 1,
+   "id": 129,
+   "target": "これは機能しません。"
+ },
+ {
+   "category": 1,
+   "id": 130,
+   "target": "これは非常に困難です。"
+ },
+ {
+   "category": 1,
+   "id": 131,
+   "target": "これはとても重要です。"
+ },
+ {
+   "category": 1,
+   "id": 132,
+   "target": "それを試してみてください。"
+ },
+ {
+   "category": 1,
+   "id": 133,
+   "target": "非常に良い、ありがとう。"
+ },
+ {
+   "category": 1,
+   "id": 134,
+   "target": "私たちはそれが大好きです。"
+ },
+ {
+   "category": 1,
+   "id": 135,
+   "target": "メッセージをお願いしますか？"
+ },
+ {
+   "category": 1,
+   "id": 136,
+   "target": "はい、そうです。"
+ },
+ {
+   "category": 1,
+   "id": 137,
+   "target": "あなたは美しいです。"
+ },
+ {
+   "category": 1,
+   "id": 138,
+   "target": "あなたはとても優しい。"
+ },
+ {
+   "category": 1,
+   "id": 139,
+   "target": "あなたはとてもスマートです。"
+ },
+ {
+   "category": 1,
+   "id": 140,
+   "target": "あなたのものはすべてここにあります。"
+ },
+ {
+   "category": 2,
+   "id": 141,
+   "target": "おはようございます。"
+ },
+ {
+   "category": 2,
+   "id": 142,
+   "target": "こんばんは先生。"
+ },
+ {
+   "category": 2,
+   "id": 143,
+   "target": "こんにちは。"
+ },
+ {
+   "category": 2,
+   "id": 144,
+   "target": "こんにちは。"
+ },
+ {
+   "category": 2,
+   "id": 145,
+   "target": "確かに！"
+ },
+ {
+   "category": 2,
+   "id": 146,
+   "target": "私に電話してください。"
+ },
+ {
+   "category": 2,
+   "id": 147,
+   "target": "すばらしいです。"
+ },
+ {
+   "category": 2,
+   "id": 148,
+   "target": "はじめまして"
+ },
+ {
+   "category": 2,
+   "id": 149,
+   "target": "お誕生日おめでとうございます。"
+ },
+ {
+   "category": 2,
+   "id": 150,
+   "target": "がんばろう。"
+ },
+ {
+   "category": 2,
+   "id": 151,
+   "target": "良い旅をしてください。"
+ },
+ {
+   "category": 3,
+   "id": 152,
+   "target": "往復切符。"
+ },
+ {
+   "category": 3,
+   "id": 153,
+   "target": "片道切符。"
+ },
+ {
+   "category": 3,
+   "id": 154,
+   "target": "何時に？"
+ },
+ {
+   "category": 3,
+   "id": 155,
+   "target": "まっすぐ進む。"
+ },
+ {
+   "category": 3,
+   "id": 156,
+   "target": "映画はどうでしたか？"
+ },
+ {
+   "category": 3,
+   "id": 157,
+   "target": "アメリカ大使館に行くにはどうすればいいですか？"
+ },
+ {
+   "category": 3,
+   "id": 158,
+   "target": "ダニエル・ストリートにはどうしたらいいですか？"
+ },
+ {
+   "category": 3,
+   "id": 159,
+   "target": "どうやってそこまで行くの？"
+ },
+ {
+   "category": 3,
+   "id": 160,
+   "target": "来週水曜日に予約することはできますか？"
+ },
+ {
+   "category": 3,
+   "id": 161,
+   "target": "飛行時間はどれぐらいですか？"
+ },
+ {
+   "category": 3,
+   "id": 162,
+   "target": "約300キロ。"
+ },
+ {
+   "category": 3,
+   "id": 163,
+   "target": "ここからそこへ。"
+ },
+ {
+   "category": 3,
+   "id": 164,
+   "target": "ジョージアに行くのにどれくらい時間がかかりますか？"
+ },
+ {
+   "category": 3,
+   "id": 165,
+   "target": "車でどれくらいかかりますか？"
+ },
+ {
+   "category": 3,
+   "id": 166,
+   "target": "フォローしてください。"
+ },
+ {
+   "category": 3,
+   "id": 167,
+   "target": "ボストンに行ったことがありますか？"
+ },
+ {
+   "category": 3,
+   "id": 168,
+   "target": "これが何を言っているのか知っていますか？"
+ },
+ {
+   "category": 3,
+   "id": 169,
+   "target": "あなたはそれを繰り返すことができますか？"
+ },
+ {
+   "category": 3,
+   "id": 170,
+   "target": "着きましたか？"
+ },
+ {
+   "category": 3,
+   "id": 171,
+   "target": "あなたは彼女を助けるつもりですか？"
+ },
+ {
+   "category": 3,
+   "id": 172,
+   "target": "あなたは料理の仕方を知っていますか？"
+ },
+ {
+   "category": 3,
+   "id": 173,
+   "target": "私は来て、あなたを迎えに行きたいですか？"
+ },
+ {
+   "category": 3,
+   "id": 174,
+   "target": "あなたは十分にお金を持っていますか？"
+ },
+ {
+   "category": 3,
+   "id": 175,
+   "target": "私はあなたに質問したい質問を持っています。/あなたに質問したい。"
+ },
+ {
+   "category": 3,
+   "id": 176,
+   "target": "この道はニューヨークに行くのでしょうか？"
+ },
+ {
+   "category": 3,
+   "id": 177,
+   "target": "私もそれを取るつもりです。"
+ },
+ {
+   "category": 3,
+   "id": 178,
+   "target": "私は4日間で家に帰る。"
+ },
+ {
+   "category": 3,
+   "id": 179,
+   "target": "私は今来ている。"
+ },
+ {
+   "category": 3,
+   "id": 180,
+   "target": "私は予約をしたいと思います。"
+ },
+ {
+   "category": 3,
+   "id": 181,
+   "target": "私は電話をかけたいです。"
+ },
+ {
+   "category": 4,
+   "id": 182,
+   "target": "11ドル。"
+ },
+ {
+   "category": 4,
+   "id": 183,
+   "target": "52セント。"
+ },
+ {
+   "category": 4,
+   "id": 184,
+   "target": "クレジットカードは使えますか？"
+ },
+ {
+   "category": 4,
+   "id": 185,
+   "target": "どこで会いたいですか？"
+ },
+ {
+   "category": 4,
+   "id": 186,
+   "target": "チケットはどこで買えますか？"
+ },
+ {
+   "category": 4,
+   "id": 187,
+   "target": "私宛のメールはありますか？"
+ },
+ {
+   "category": 4,
+   "id": 188,
+   "target": "ここには多くの人がいます。"
+ },
+ {
+   "category": 4,
+   "id": 189,
+   "target": "申し訳ございませんが、クレジットカードはご利用頂けません。"
+ },
+ {
+   "category": 4,
+   "id": 190,
+   "target": "申し訳ございませんが、現金のみ受け取ります。"
+ },
+ {
+   "category": 4,
+   "id": 191,
+   "target": "どのようにお支払いですか？"
+ },
+ {
+   "category": 4,
+   "id": 192,
+   "target": "電話番号は何ですか？"
+ },
+ {
+   "category": 4,
+   "id": 193,
+   "target": "ドルの為替レートは何ですか？"
+ },
+ {
+   "category": 4,
+   "id": 194,
+   "target": "どちらがいいですか？"
+ },
+ {
+   "category": 4,
+   "id": 195,
+   "target": "私は26歳です。"
+ },
+ {
+   "category": 4,
+   "id": 196,
+   "target": "私は英語を練習する必要があります。"
+ },
+ {
+   "category": 4,
+   "id": 197,
+   "target": "ではない？"
+ },
+ {
+   "category": 4,
+   "id": 198,
+   "target": "いくつか。"
+ },
+ {
+   "category": 4,
+   "id": 199,
+   "target": "彼らは1日26ドルを請求する。"
+ },
+ {
+   "category": 4,
+   "id": 200,
+   "target": "どうぞ入ってください。"
+ },
+ {
+   "category": 4,
+   "id": 201,
+   "target": "警察を呼ぶ。"
+ },
+ {
+   "category": 4,
+   "id": 202,
+   "target": "これらのイヤリングはどれくらいですか？"
+ },
+ {
+   "category": 4,
+   "id": 203,
+   "target": "そのレストランは高価ではありません。"
+ },
+ {
+   "category": 4,
+   "id": 204,
+   "target": "それは午後11時半です。"
+ },
+ {
+   "category": 4,
+   "id": 205,
+   "target": "それは9時過ぎです。"
+ },
+ {
+   "category": 4,
+   "id": 206,
+   "target": "どれくらいお金を払っていますか？"
+ },
+ {
+   "category": 4,
+   "id": 207,
+   "target": "ニューヨークには何人いる？"
+ },
+ {
+   "category": 4,
+   "id": 208,
+   "target": "どのくらいマイアミに行くのですか？"
+ },
+ {
+   "category": 4,
+   "id": 209,
+   "target": "1日にどれくらいの費用がかかりますか？"
+ },
+ {
+   "category": 4,
+   "id": 210,
+   "target": "この費用はいくらですか？"
+ },
+ {
+   "category": 4,
+   "id": 211,
+   "target": "どれくらい私はあなたに借りていますか？"
+ },
+ {
+   "category": 4,
+   "id": 212,
+   "target": "あなたの妻はカリフォルニアを好きでしたか？"
+ },
+ {
+   "category": 4,
+   "id": 213,
+   "target": "もっと安いのはありますか？"
+ },
+ {
+   "category": 4,
+   "id": 214,
+   "target": "同じ物をお願いします。"
+ },
+ {
+   "category": 4,
+   "id": 215,
+   "target": "予約してあります。"
+ },
+ {
+   "category": 4,
+   "id": 216,
+   "target": "私はガールフレンドはいません。"
+ },
+ {
+   "category": 4,
+   "id": 217,
+   "target": "私にはお金はありません。"
+ },
+ {
+   "category": 4,
+   "id": 218,
+   "target": "コーヒーはありますか？"
+ },
+ {
+   "category": 4,
+   "id": 219,
+   "target": "少し。"
+ },
+ {
+   "category": 4,
+   "id": 220,
+   "target": "それは大丈夫ですか？"
+ },
+ {
+   "category": 4,
+   "id": 221,
+   "target": "あれは高すぎる。"
+ },
+ {
+   "category": 4,
+   "id": 222,
+   "target": "私は切符を支払うでしょう。"
+ },
+ {
+   "category": 4,
+   "id": 223,
+   "target": "私は夕食を食べる。"
+ },
+ {
+   "category": 4,
+   "id": 224,
+   "target": "私は5番街のレストランで食べたいです。"
+ },
+ {
+   "category": 5,
+   "id": 225,
+   "target": "200マイル以上"
+ },
+ {
+   "category": 5,
+   "id": 226,
+   "target": "静かにして。"
+ },
+ {
+   "category": 5,
+   "id": 227,
+   "target": "3時に。"
+ },
+ {
+   "category": 5,
+   "id": 228,
+   "target": "ここに。"
+ },
+ {
+   "category": 5,
+   "id": 229,
+   "target": "あそこ。"
+ },
+ {
+   "category": 5,
+   "id": 230,
+   "target": "はい、どうぞ。"
+ },
+ {
+   "category": 5,
+   "id": 231,
+   "target": "ここにあります。"
+ },
+ {
+   "category": 5,
+   "id": 232,
+   "target": "大丈夫です。"
+ },
+ {
+   "category": 5,
+   "id": 233,
+   "target": "それはどこにある？"
+ },
+ {
+   "category": 5,
+   "id": 234,
+   "target": "シカゴとの距離は？"
+ },
+ {
+   "category": 5,
+   "id": 235,
+   "target": "どのくらいですか？"
+ },
+ {
+   "category": 5,
+   "id": 236,
+   "target": "アドレスは何ですか？"
+ },
+ {
+   "category": 5,
+   "id": 237,
+   "target": "テーブルの下には本があります。"
+ },
+ {
+   "category": 5,
+   "id": 238,
+   "target": "本はテーブルの上にあります。"
+ },
+ {
+   "category": 5,
+   "id": 239,
+   "target": "この本はテーブルの近くにあります。"
+ },
+ {
+   "category": 5,
+   "id": 240,
+   "target": "本はテーブルの隣にあります。"
+ },
+ {
+   "category": 5,
+   "id": 241,
+   "target": "本はテーブルの後ろにあります。"
+ },
+ {
+   "category": 5,
+   "id": 242,
+   "target": "本はテーブルの前にあります。"
+ },
+ {
+   "category": 5,
+   "id": 243,
+   "target": "だれが勝った？"
+ },
+ {
+   "category": 5,
+   "id": 244,
+   "target": "どこに行きたい？"
+ },
+ {
+   "category": 5,
+   "id": 245,
+   "target": "どこに行くの？"
+ },
+ {
+   "category": 5,
+   "id": 246,
+   "target": "シングルルームをお願いします。"
+ },
+ {
+   "category": 5,
+   "id": 247,
+   "target": "多分。"
+ },
+ {
+   "category": 5,
+   "id": 248,
+   "target": "私の家は銀行の近くにあります。"
+ },
+ {
+   "category": 5,
+   "id": 249,
+   "target": "私たちはカリフォルニア出身です。"
+ },
+ {
+   "category": 5,
+   "id": 250,
+   "target": "二階にあります。"
+ },
+ {
+   "category": 5,
+   "id": 251,
+   "target": "明日雨が降っていると思われます。"
+ },
+ {
+   "category": 5,
+   "id": 252,
+   "target": "左に。"
+ },
+ {
+   "category": 5,
+   "id": 253,
+   "target": "右側に。"
+ },
+ {
+   "category": 5,
+   "id": 254,
+   "target": "郵便局の向こう側。"
+ },
+ {
+   "category": 5,
+   "id": 255,
+   "target": "テーブルにはいくつかの本があります。"
+ },
+ {
+   "category": 5,
+   "id": 256,
+   "target": "銀行の近く。"
+ },
+ {
+   "category": 5,
+   "id": 257,
+   "target": "彼は台所にいる。"
+ },
+ {
+   "category": 5,
+   "id": 258,
+   "target": "彼はボストン大学で学びます。"
+ },
+ {
+   "category": 5,
+   "id": 259,
+   "target": "行こう。"
+ },
+ {
+   "category": 5,
+   "id": 260,
+   "target": "今日雨が降っているとは思わない。"
+ },
+ {
+   "category": 5,
+   "id": 261,
+   "target": "それは本当に暑いです。"
+ },
+ {
+   "category": 5,
+   "id": 262,
+   "target": "11時過ぎです。"
+ },
+ {
+   "category": 5,
+   "id": 263,
+   "target": "それはペンシルバニア州と何マイル離れていますか？"
+ },
+ {
+   "category": 5,
+   "id": 264,
+   "target": "ホテルの外。"
+ },
+ {
+   "category": 5,
+   "id": 265,
+   "target": "良いレストランをお勧めして頂けますか？"
+ },
+ {
+   "category": 5,
+   "id": 266,
+   "target": "それは5ドル以上です。"
+ },
+ {
+   "category": 5,
+   "id": 267,
+   "target": "それはおいしいです！"
+ },
+ {
+   "category": 5,
+   "id": 268,
+   "target": "それは5ドル以下です。"
+ },
+ {
+   "category": 5,
+   "id": 269,
+   "target": "7番街にあります。"
+ },
+ {
+   "category": 5,
+   "id": 270,
+   "target": "それはスーパーマーケットの近くです。"
+ },
+ {
+   "category": 5,
+   "id": 271,
+   "target": "私は図書館にいた。"
+ },
+ {
+   "category": 5,
+   "id": 272,
+   "target": "私はテレビを見るのが好きです。"
+ },
+ {
+   "category": 5,
+   "id": 273,
+   "target": "私は図書館に行きました。"
+ },
+ {
+   "category": 6,
+   "id": 274,
+   "target": "ここに私の番号があります。"
+ },
+ {
+   "category": 6,
+   "id": 275,
+   "target": "薬局はどこですか？"
+ },
+ {
+   "category": 6,
+   "id": 276,
+   "target": "一番近いレストランはどこですか？"
+ },
+ {
+   "category": 6,
+   "id": 277,
+   "target": "どこで病院を見つけることができますか？"
+ },
+ {
+   "category": 6,
+   "id": 278,
+   "target": "英語を話すガイドはありますか？"
+ },
+ {
+   "category": 6,
+   "id": 279,
+   "target": "こんにちは、スミスさんはそこにいますか？"
+ },
+ {
+   "category": 6,
+   "id": 280,
+   "target": "申し訳ありませんが、私は間違った番号を持っていると思います。"
+ },
+ {
+   "category": 6,
+   "id": 281,
+   "target": "あなたが働いている会社の名前は何ですか？"
+ },
+ {
+   "category": 6,
+   "id": 282,
+   "target": "市外局番は何ですか？"
+ },
+ {
+   "category": 6,
+   "id": 283,
+   "target": "あなたの住所は何ですか？"
+ },
+ {
+   "category": 6,
+   "id": 284,
+   "target": "あなたは誰？"
+ },
+ {
+   "category": 6,
+   "id": 285,
+   "target": "あれは誰？"
+ },
+ {
+   "category": 6,
+   "id": 286,
+   "target": "私はいくつかの組織が必要です。"
+ },
+ {
+   "category": 6,
+   "id": 287,
+   "target": "私も水が欲しいです。"
+ },
+ {
+   "category": 6,
+   "id": 288,
+   "target": "私はメッセージを取ることができますか？"
+ },
+ {
+   "category": 6,
+   "id": 289,
+   "target": "私はそれを試すことができますか？"
+ },
+ {
+   "category": 6,
+   "id": 290,
+   "target": "私たちはそこに座ることができますか？"
+ },
+ {
+   "category": 6,
+   "id": 291,
+   "target": "パスポートを見せて頂けますか？"
+ },
+ {
+   "category": 6,
+   "id": 292,
+   "target": "私の携帯電話は動作しません。"
+ },
+ {
+   "category": 6,
+   "id": 293,
+   "target": "男性か女性？"
+ },
+ {
+   "category": 6,
+   "id": 294,
+   "target": "彼は今はいない。"
+ },
+ {
+   "category": 6,
+   "id": 295,
+   "target": "靴を脱いで下さい。"
+ },
+ {
+   "category": 6,
+   "id": 296,
+   "target": "誰にお繋ぎいたしましょうか？"
+ },
+ {
+   "category": 6,
+   "id": 297,
+   "target": "私は大丈夫。"
+ },
+ {
+   "category": 6,
+   "id": 298,
+   "target": "それが可能だと思いますか？"
+ },
+ {
+   "category": 6,
+   "id": 299,
+   "target": "家まで送ってよ？"
+ },
+ {
+   "category": 6,
+   "id": 300,
+   "target": "あなたは家族と一緒に来ましたか？"
+ },
+ {
+   "category": 6,
+   "id": 301,
+   "target": "私には3人の子供、2人の女の子、そして1人の少年がいる。"
+ },
+ {
+   "category": 6,
+   "id": 302,
+   "target": "私の携帯電話はうまく受信していません。"
+ },
+ {
+   "category": 6,
+   "id": 303,
+   "target": "水やミルクが好きですか？"
+ },
+ {
+   "category": 6,
+   "id": 304,
+   "target": "どうしましたか？"
+ },
+ {
+   "category": 6,
+   "id": 305,
+   "target": "私は水のボトルを購入したいと思います。"
+ },
+ {
+   "category": 6,
+   "id": 306,
+   "target": "私はスミスさんに話したいと思います。"
+ },
+ {
+   "category": 6,
+   "id": 307,
+   "target": "私は何かを買ってみたい。"
+ },
+ {
+   "category": 6,
+   "id": 308,
+   "target": "教えてあげる。"
+ },
+ {
+   "category": 6,
+   "id": 309,
+   "target": "私は後で電話します。"
+ },
+ {
+   "category": 6,
+   "id": 310,
+   "target": "金曜日にお電話します。"
+ },
+ {
+   "category": 6,
+   "id": 311,
+   "target": "すぐ戻ってくる。"
+ },
+ {
+   "category": 6,
+   "id": 312,
+   "target": "私は車を借りたいです。"
+ },
+ {
+   "category": 6,
+   "id": 313,
+   "target": "私はファックスを送っています。"
+ },
+ {
+   "category": 6,
+   "id": 314,
+   "target": "私はこれをアメリカに送りたいです。"
+ },
+ {
+   "category": 6,
+   "id": 315,
+   "target": "私は店に行きたいです。"
+ },
+ {
+   "category": 6,
+   "id": 316,
+   "target": "私はあなたに贈り物をしたい。"
+ },
+ {
+   "category": 7,
+   "id": 317,
+   "target": "11日前。"
+ },
+ {
+   "category": 7,
+   "id": 318,
+   "target": "2時間。"
+ },
+ {
+   "category": 7,
+   "id": 319,
+   "target": "10月22日。"
+ },
+ {
+   "category": 7,
+   "id": 320,
+   "target": "午後3時。"
+ },
+ {
+   "category": 7,
+   "id": 321,
+   "target": "夜7時に。 （イブニング）？"
+ },
+ {
+   "category": 7,
+   "id": 322,
+   "target": "朝7時に。"
+ },
+ {
+   "category": 7,
+   "id": 323,
+   "target": "彼らは何時に到着していますか？"
+ },
+ {
+   "category": 7,
+   "id": 324,
+   "target": "何時に起きましたか？"
+ },
+ {
+   "category": 7,
+   "id": 325,
+   "target": "何時に到着すると思いますか？"
+ },
+ {
+   "category": 7,
+   "id": 326,
+   "target": "あなたは何時に眠りにつきましたか？"
+ },
+ {
+   "category": 7,
+   "id": 327,
+   "target": "あなたは何時に起きましたか？"
+ },
+ {
+   "category": 7,
+   "id": 328,
+   "target": "何時に始まりますか？"
+ },
+ {
+   "category": 7,
+   "id": 329,
+   "target": "何曜日ですか？"
+ },
+ {
+   "category": 7,
+   "id": 330,
+   "target": "彼らは何日いるの？"
+ },
+ {
+   "category": 7,
+   "id": 331,
+   "target": "一日中。"
+ },
+ {
+   "category": 7,
+   "id": 332,
+   "target": "一日。"
+ },
+ {
+   "category": 7,
+   "id": 333,
+   "target": "それは何時に起こったのですか？"
+ },
+ {
+   "category": 7,
+   "id": 334,
+   "target": "長い間前。"
+ },
+ {
+   "category": 7,
+   "id": 335,
+   "target": "ジョンは明日休暇に行きます。"
+ },
+ {
+   "category": 7,
+   "id": 336,
+   "target": "彼の家族は明日来ている。"
+ },
+ {
+   "category": 7,
+   "id": 337,
+   "target": "時々私は午後11時には時々午後11時30分に寝ます。"
+ },
+ {
+   "category": 7,
+   "id": 338,
+   "target": "毎週。"
+ },
+ {
+   "category": 7,
+   "id": 339,
+   "target": "毎日私は午前6時に起きます。"
+ },
+ {
+   "category": 7,
+   "id": 340,
+   "target": "カリフォルニアにどれくらい滞在しますか？"
+ },
+ {
+   "category": 7,
+   "id": 341,
+   "target": "あとどのぐらいいるの？"
+ },
+ {
+   "category": 7,
+   "id": 342,
+   "target": "できるだけ速やかに。"
+ },
+ {
+   "category": 7,
+   "id": 343,
+   "target": "土曜日はいかがですか？"
+ },
+ {
+   "category": 7,
+   "id": 344,
+   "target": "今日は何日ですか？"
+ },
+ {
+   "category": 7,
+   "id": 345,
+   "target": "あなたの宗教は何ですか？"
+ },
+ {
+   "category": 7,
+   "id": 346,
+   "target": "いつ移動しますか？"
+ },
+ {
+   "category": 7,
+   "id": 347,
+   "target": "彼はいつ戻るでしょうか？"
+ },
+ {
+   "category": 7,
+   "id": 348,
+   "target": "彼らはいつ来るの？"
+ },
+ {
+   "category": 7,
+   "id": 349,
+   "target": "フィリデルフィアへの次のバスはいつですか？"
+ },
+ {
+   "category": 7,
+   "id": 350,
+   "target": "あなたの誕生日はいつですか？"
+ },
+ {
+   "category": 7,
+   "id": 351,
+   "target": "いつ帰ってくるの？"
+ },
+ {
+   "category": 7,
+   "id": 352,
+   "target": "あなたが最後に母に話したのはいつですか？"
+ },
+ {
+   "category": 7,
+   "id": 353,
+   "target": "いつあなたの友人を迎えに行くのですか？"
+ },
+ {
+   "category": 7,
+   "id": 354,
+   "target": "あなたはいつ出発しますか？"
+ },
+ {
+   "category": 7,
+   "id": 355,
+   "target": "それはいつ準備ができていますか？"
+ },
+ {
+   "category": 7,
+   "id": 356,
+   "target": "私が店に行ったとき、彼らはリンゴを持っていませんでした。"
+ },
+ {
+   "category": 7,
+   "id": 357,
+   "target": "どこに行くの？"
+ },
+ {
+   "category": 7,
+   "id": 358,
+   "target": "たくさんの時間があります。"
+ },
+ {
+   "category": 7,
+   "id": 359,
+   "target": "何かお手伝いしましょうか？"
+ },
+ {
+   "category": 7,
+   "id": 360,
+   "target": "私の誕生日は8月27日です。"
+ },
+ {
+   "category": 7,
+   "id": 361,
+   "target": "私たちは遅刻しています。"
+ },
+ {
+   "category": 7,
+   "id": 362,
+   "target": "5番街で。"
+ },
+ {
+   "category": 7,
+   "id": 363,
+   "target": "彼は20分後に戻ってきます。"
+ },
+ {
+   "category": 7,
+   "id": 364,
+   "target": "彼女はあなたがいつ来るかを知りたがっています。"
+ },
+ {
+   "category": 7,
+   "id": 365,
+   "target": "彼らは今晩に来ますか？"
+ },
+ {
+   "category": 7,
+   "id": 366,
+   "target": "今日は雪が降るだろう。"
+ },
+ {
+   "category": 7,
+   "id": 367,
+   "target": "今晩は冷たくなるでしょう。"
+ },
+ {
+   "category": 7,
+   "id": 368,
+   "target": "今日はとても激しく雨が降った。"
+ },
+ {
+   "category": 7,
+   "id": 369,
+   "target": "6AMです。"
+ },
+ {
+   "category": 7,
+   "id": 370,
+   "target": "それは8:45です。"
+ },
+ {
+   "category": 7,
+   "id": 371,
+   "target": "それは7分の1です。"
+ },
+ {
+   "category": 7,
+   "id": 372,
+   "target": "今ですか？"
+ },
+ {
+   "category": 7,
+   "id": 373,
+   "target": "今何時ですか？"
+ },
+ {
+   "category": 7,
+   "id": 374,
+   "target": "どれくらい？"
+ },
+ {
+   "category": 7,
+   "id": 375,
+   "target": "いくらかかるでしょうか？"
+ },
+ {
+   "category": 7,
+   "id": 376,
+   "target": "どのくらい時間がかかりますか？"
+ },
+ {
+   "category": 7,
+   "id": 377,
+   "target": "有効期限。"
+ },
+ {
+   "category": 7,
+   "id": 378,
+   "target": "あなたの子供はあなたと一緒ですか？"
+ },
+ {
+   "category": 7,
+   "id": 379,
+   "target": "あなたは快適ですか？"
+ },
+ {
+   "category": 7,
+   "id": 380,
+   "target": "あなたは長い間待っていますか？"
+ },
+ {
+   "category": 7,
+   "id": 381,
+   "target": "11:30までに戻ってくると思いますか？"
+ },
+ {
+   "category": 7,
+   "id": 382,
+   "target": "あなたはサイズ11でこれを持っていますか？"
+ },
+ {
+   "category": 7,
+   "id": 383,
+   "target": "私は十分なお金がありません。"
+ },
+ {
+   "category": 7,
+   "id": 384,
+   "target": "プールがありますか？"
+ },
+ {
+   "category": 7,
+   "id": 385,
+   "target": "それはここにある。"
+ },
+ {
+   "category": 7,
+   "id": 386,
+   "target": "それは17ドルです。"
+ },
+ {
+   "category": 7,
+   "id": 387,
+   "target": "それはそこにあります。"
+ },
+ {
+   "category": 7,
+   "id": 388,
+   "target": "私は外出する準備ができています。"
+ },
+ {
+   "category": 7,
+   "id": 389,
+   "target": "私はただ見ているだけです。 （ショッピング）"
+ },
+ {
+   "category": 7,
+   "id": 390,
+   "target": "私も心配です。"
+ },
+ {
+   "category": 7,
+   "id": 391,
+   "target": "私はすでにそれを見た。"
+ },
+ {
+   "category": 8,
+   "id": 392,
+   "target": "チェックアウトは何時ですか？"
+ },
+ {
+   "category": 8,
+   "id": 393,
+   "target": "空港はどこですか？"
+ },
+ {
+   "category": 8,
+   "id": 394,
+   "target": "メールボックスはどこですか？"
+ },
+ {
+   "category": 8,
+   "id": 395,
+   "target": "近くに店舗はありますか？"
+ },
+ {
+   "category": 8,
+   "id": 396,
+   "target": "街にナイトクラブはありますか？"
+ },
+ {
+   "category": 8,
+   "id": 397,
+   "target": "ホテル内にレストランはありますか？"
+ },
+ {
+   "category": 8,
+   "id": 398,
+   "target": "申し訳ありませんが、空きがありません。"
+ },
+ {
+   "category": 8,
+   "id": 399,
+   "target": "どのくらい滞在しますか？"
+ },
+ {
+   "category": 8,
+   "id": 400,
+   "target": "1泊の料金はいくらですか？ （ホテル）"
+ },
+ {
+   "category": 8,
+   "id": 401,
+   "target": "私は医者を必要とする。"
+ },
+ {
+   "category": 8,
+   "id": 402,
+   "target": "私は街の地図が好きです。"
+ },
+ {
+   "category": 8,
+   "id": 403,
+   "target": "私は2つのベッドでお部屋をご希望です。"
+ },
+ {
+   "category": 8,
+   "id": 404,
+   "target": "部屋が欲しいです。"
+ },
+ {
+   "category": 8,
+   "id": 405,
+   "target": "もう少しパンを持てますか？"
+ },
+ {
+   "category": 8,
+   "id": 406,
+   "target": "何泊ですか？"
+ },
+ {
+   "category": 8,
+   "id": 407,
+   "target": "私をマリオットホテルに連れて行こう。"
+ },
+ {
+   "category": 8,
+   "id": 408,
+   "target": "あなたは忙しいですか？"
+ },
+ {
+   "category": 8,
+   "id": 409,
+   "target": "お金はありますか？"
+ },
+ {
+   "category": 8,
+   "id": 410,
+   "target": "私は禁煙室が好きです。"
+ },
+ {
+   "category": 9,
+   "id": 411,
+   "target": "6月3日。"
+ },
+ {
+   "category": 9,
+   "id": 412,
+   "target": "そこにレストランがありますが、とても良いとは思いません。"
+ },
+ {
+   "category": 9,
+   "id": 413,
+   "target": "あなたの注文です。"
+ },
+ {
+   "category": 9,
+   "id": 414,
+   "target": "あなたのサラダはここにあります。"
+ },
+ {
+   "category": 9,
+   "id": 415,
+   "target": "ATMはどこですか？"
+ },
+ {
+   "category": 9,
+   "id": 416,
+   "target": "英語を話す医師はどこにいますか？"
+ },
+ {
+   "category": 9,
+   "id": 417,
+   "target": "食べ物はおいしかったです。"
+ },
+ {
+   "category": 9,
+   "id": 418,
+   "target": "味はいかがですか？"
+ },
+ {
+   "category": 9,
+   "id": 419,
+   "target": "あなたの電子メールアドレスを教えてください？"
+ },
+ {
+   "category": 9,
+   "id": 420,
+   "target": "どれ？"
+ },
+ {
+   "category": 9,
+   "id": 421,
+   "target": "私は医者に会う必要があると思う。"
+ },
+ {
+   "category": 9,
+   "id": 422,
+   "target": "私はそれが好きです。"
+ },
+ {
+   "category": 9,
+   "id": 423,
+   "target": "それは安くすることができますか？"
+ },
+ {
+   "category": 9,
+   "id": 424,
+   "target": "私は友達を連れてもらえますか？"
+ },
+ {
+   "category": 9,
+   "id": 425,
+   "target": "私たちはメニューをお願いできますか？"
+ },
+ {
+   "category": 9,
+   "id": 426,
+   "target": "領収書をもらえますか？"
+ },
+ {
+   "category": 9,
+   "id": 427,
+   "target": "イタリア料理や中華料理を食べることができます。"
+ },
+ {
+   "category": 9,
+   "id": 428,
+   "target": "私たちは2本の水を飲みます。"
+ },
+ {
+   "category": 9,
+   "id": 429,
+   "target": "お水を飲みますか？"
+ },
+ {
+   "category": 9,
+   "id": 430,
+   "target": "コーヒーやお茶が好きですか？"
+ },
+ {
+   "category": 9,
+   "id": 431,
+   "target": "一杯の水が好きですか？"
+ },
+ {
+   "category": 9,
+   "id": 432,
+   "target": "ワインはいかがですか？"
+ },
+ {
+   "category": 9,
+   "id": 433,
+   "target": "テレビを見たいですか？"
+ },
+ {
+   "category": 9,
+   "id": 434,
+   "target": "お散歩に行きませんか？"
+ },
+ {
+   "category": 9,
+   "id": 435,
+   "target": "何かお飲み物はいかがですか？"
+ },
+ {
+   "category": 9,
+   "id": 436,
+   "target": "冷蔵庫にはリンゴがいくつかあります。"
+ },
+ {
+   "category": 9,
+   "id": 437,
+   "target": "彼はジュースが好きだが、彼はミルクが好きではない"
+ },
+ {
+   "category": 9,
+   "id": 438,
+   "target": "ウェイター！"
+ },
+ {
+   "category": 9,
+   "id": 439,
+   "target": "ウェイトレス！"
+ },
+ {
+   "category": 9,
+   "id": 440,
+   "target": "近くにレストランがあります。"
+ },
+ {
+   "category": 9,
+   "id": 441,
+   "target": "8月25日です。"
+ },
+ {
+   "category": 9,
+   "id": 442,
+   "target": "何人ですか？ （レストラン）"
+ },
+ {
+   "category": 9,
+   "id": 443,
+   "target": "私は水のガラスを持っています。"
+ },
+ {
+   "category": 9,
+   "id": 444,
+   "target": "あなたは一人でここにいますか？"
+ },
+ {
+   "category": 9,
+   "id": 445,
+   "target": "それはどれくらいの費用がかかりますか？"
+ },
+ {
+   "category": 9,
+   "id": 446,
+   "target": "ポテトスープを食べたことはありますか？"
+ },
+ {
+   "category": 9,
+   "id": 447,
+   "target": "あなたはそのレストランで食べましたか？"
+ },
+ {
+   "category": 9,
+   "id": 448,
+   "target": "あなたは私のためにこれを保持できますか？"
+ },
+ {
+   "category": 9,
+   "id": 449,
+   "target": "彼にここに来るように頼んでくれませんか？"
+ },
+ {
+   "category": 9,
+   "id": 450,
+   "target": "食べましたか？"
+ },
+ {
+   "category": 9,
+   "id": 451,
+   "target": "私は5ドルしか持っていない。"
+ },
+ {
+   "category": 9,
+   "id": 452,
+   "target": "子供はいますか？"
+ },
+ {
+   "category": 9,
+   "id": 453,
+   "target": "私はお茶を飲みます。"
+ },
+ {
+   "category": 9,
+   "id": 454,
+   "target": "飲み物は何にしますか？"
+ },
+ {
+   "category": 9,
+   "id": 455,
+   "target": "何を食べたいですか？"
+ },
+ {
+   "category": 9,
+   "id": 456,
+   "target": "何がお勧めですか？"
+ },
+ {
+   "category": 9,
+   "id": 457,
+   "target": "何を食べますか？"
+ },
+ {
+   "category": 9,
+   "id": 458,
+   "target": "窓の近くにテーブルがありたい。"
+ },
+ {
+   "category": 9,
+   "id": 459,
+   "target": "私はここにいる。"
+ },
+ {
+   "category": 9,
+   "id": 460,
+   "target": "私はベッドに行くよ。"
+ },
+ {
+   "category": 9,
+   "id": 461,
+   "target": "私はアメリカ出身です。"
+ },
+ {
+   "category": 9,
+   "id": 462,
+   "target": "ごめんなさい。"
+ },
+ {
+   "category": 9,
+   "id": 463,
+   "target": "私は食べ終わっていない。"
+ },
+ {
+   "category": 9,
+   "id": 464,
+   "target": "私はあなたに電話をします。"
+ },
+ {
+   "category": 9,
+   "id": 465,
+   "target": "わかりました。"
+ },
+ {
+   "category": 9,
+   "id": 466,
+   "target": "同意する。"
+ },
+ {
+   "category": 9,
+   "id": 467,
+   "target": "私はそこにいませんでした。"
+ },
+ {
+   "category": 9,
+   "id": 468,
+   "target": "私は米国に電話したいと思う。"
+ },
+ {
+   "category": 10,
+   "id": 469,
+   "target": "ビジネスは良いです。"
+ },
+ {
+   "category": 10,
+   "id": 470,
+   "target": "あなたはどんな学校に行きましたか？"
+ },
+ {
+   "category": 10,
+   "id": 471,
+   "target": "あなたの娘。"
+ },
+ {
+   "category": 10,
+   "id": 472,
+   "target": "あなたの子供たちはとてもうまく行動します。"
+ },
+ {
+   "category": 10,
+   "id": 473,
+   "target": "昨日は雪でしたか？"
+ },
+ {
+   "category": 10,
+   "id": 474,
+   "target": "英語を勉強しますか？"
+ },
+ {
+   "category": 10,
+   "id": 475,
+   "target": "薬を販売していますか？ （格納）"
+ },
+ {
+   "category": 10,
+   "id": 476,
+   "target": "あなたはどこにいた？"
+ },
+ {
+   "category": 10,
+   "id": 477,
+   "target": "あなたはどこで英語を勉強しましたか？"
+ },
+ {
+   "category": 10,
+   "id": 478,
+   "target": "どこに住んでいますか？"
+ },
+ {
+   "category": 10,
+   "id": 479,
+   "target": "あなたはここで働く前にどこで働いたのですか？"
+ },
+ {
+   "category": 10,
+   "id": 480,
+   "target": "Tシャツはどこですか？"
+ },
+ {
+   "category": 10,
+   "id": 481,
+   "target": "共有してみましょう。"
+ },
+ {
+   "category": 10,
+   "id": 482,
+   "target": "すみません。"
+ },
+ {
+   "category": 10,
+   "id": 483,
+   "target": "あなたはアメリカにどれくらい滞在しましたか？"
+ },
+ {
+   "category": 10,
+   "id": 484,
+   "target": "ここには、どのくらいの期間いますか？"
+ },
+ {
+   "category": 10,
+   "id": 485,
+   "target": "ここにどれくらい住んでる？"
+ },
+ {
+   "category": 10,
+   "id": 486,
+   "target": "あなたの名前は何ですか？"
+ },
+ {
+   "category": 10,
+   "id": 487,
+   "target": "あなたの姓は何ですか？"
+ },
+ {
+   "category": 10,
+   "id": 488,
+   "target": "あなたの趣味は何ですか？"
+ },
+ {
+   "category": 10,
+   "id": 489,
+   "target": "あなたの好きな映画は何ですか？"
+ },
+ {
+   "category": 10,
+   "id": 490,
+   "target": "誰がこの手紙を送った？"
+ },
+ {
+   "category": 10,
+   "id": 491,
+   "target": "あなたは何処に行きましたか？"
+ },
+ {
+   "category": 10,
+   "id": 492,
+   "target": "その車は私の車に似ています。"
+ },
+ {
+   "category": 10,
+   "id": 493,
+   "target": "私の名前はジョン・スミスです。"
+ },
+ {
+   "category": 10,
+   "id": 494,
+   "target": "私は32歳です。"
+ },
+ {
+   "category": 10,
+   "id": 495,
+   "target": "私は服を洗う必要があります。"
+ },
+ {
+   "category": 10,
+   "id": 496,
+   "target": "私の祖母は去年亡くなった。"
+ },
+ {
+   "category": 10,
+   "id": 497,
+   "target": "私の父は弁護士です。"
+ },
+ {
+   "category": 10,
+   "id": 498,
+   "target": "私の父はそこにいました。"
+ },
+ {
+   "category": 10,
+   "id": 499,
+   "target": "私はサイズ8です。"
+ },
+ {
+   "category": 10,
+   "id": 500,
+   "target": "私の息子はコンピュータを研究する。"
+ },
+ {
+   "category": 10,
+   "id": 501,
+   "target": "私の息子。"
+ },
+ {
+   "category": 10,
+   "id": 502,
+   "target": "私の娘はここにいる。"
+ },
+ {
+   "category": 10,
+   "id": 503,
+   "target": "あなたは何カ国語を話しますか？"
+ },
+ {
+   "category": 10,
+   "id": 504,
+   "target": "私たちの子供たちはアメリカにいます。"
+ },
+ {
+   "category": 10,
+   "id": 505,
+   "target": "あなたはこれを購入しますか？"
+ },
+ {
+   "category": 10,
+   "id": 506,
+   "target": "いいえ、これが初めてです。"
+ },
+ {
+   "category": 10,
+   "id": 507,
+   "target": "いいえ、私はアメリカ人です。"
+ },
+ {
+   "category": 10,
+   "id": 508,
+   "target": "彼女は私よりも年上です。"
+ },
+ {
+   "category": 10,
+   "id": 509,
+   "target": "彼女は専門家です。"
+ },
+ {
+   "category": 10,
+   "id": 510,
+   "target": "彼らはまだ彼女に会ったことがありますか？"
+ },
+ {
+   "category": 10,
+   "id": 511,
+   "target": "電話ください。"
+ },
+ {
+   "category": 10,
+   "id": 512,
+   "target": "乾杯！"
+ },
+ {
+   "category": 10,
+   "id": 513,
+   "target": "あなたは何歳ですか？"
+ },
+ {
+   "category": 10,
+   "id": 514,
+   "target": "あなたはどれくらい好きですか？"
+ },
+ {
+   "category": 10,
+   "id": 515,
+   "target": "あなたはどのように多くの子供がありますか？"
+ },
+ {
+   "category": 10,
+   "id": 516,
+   "target": "あなたの家族には何人いるのですか？"
+ },
+ {
+   "category": 10,
+   "id": 517,
+   "target": "あなたの弟はカリフォルニアに行ったことがありますか？"
+ },
+ {
+   "category": 10,
+   "id": 518,
+   "target": "あなたの家はこのようなものですか？"
+ },
+ {
+   "category": 10,
+   "id": 519,
+   "target": "あなたの夫はボストン出身ですか？"
+ },
+ {
+   "category": 10,
+   "id": 520,
+   "target": "あなたはここは好きですか？"
+ },
+ {
+   "category": 10,
+   "id": 521,
+   "target": "あなたは本が好きですか？"
+ },
+ {
+   "category": 10,
+   "id": 522,
+   "target": "あなたは何が必要なのですか？"
+ },
+ {
+   "category": 10,
+   "id": 523,
+   "target": "あなたはアメリカ人ですか？"
+ },
+ {
+   "category": 10,
+   "id": 524,
+   "target": "あなたは空腹ですか？"
+ },
+ {
+   "category": 10,
+   "id": 525,
+   "target": "あなたはこれを前にしたことがありますか？"
+ },
+ {
+   "category": 10,
+   "id": 526,
+   "target": "タオルを販売する店がどこにあるか知っていますか？"
+ },
+ {
+   "category": 10,
+   "id": 527,
+   "target": "あなたはスポーツをしますか？"
+ },
+ {
+   "category": 10,
+   "id": 528,
+   "target": "あなたはとても上手に英語を話す。"
+ },
+ {
+   "category": 10,
+   "id": 529,
+   "target": "私のメールを受け取りましたか？"
+ },
+ {
+   "category": 10,
+   "id": 530,
+   "target": "薬を服用しましたか？"
+ },
+ {
+   "category": 10,
+   "id": 531,
+   "target": "今晩は来ますか？"
+ },
+ {
+   "category": 10,
+   "id": 532,
+   "target": "明日は働いていますか？"
+ },
+ {
+   "category": 10,
+   "id": 533,
+   "target": "あなたは今夜暇ですか？"
+ },
+ {
+   "category": 10,
+   "id": 534,
+   "target": "飛行機や電車に乗っていますか？"
+ },
+ {
+   "category": 10,
+   "id": 535,
+   "target": "本気ですか？"
+ },
+ {
+   "category": 10,
+   "id": 536,
+   "target": "あなたは彼よりもスマートです。"
+ },
+ {
+   "category": 10,
+   "id": 537,
+   "target": "私と一緒に来ますか？"
+ },
+ {
+   "category": 10,
+   "id": 538,
+   "target": "私と一緒に行きたいですか？"
+ },
+ {
+   "category": 10,
+   "id": 539,
+   "target": "フロリダに頻繁に行くのですか？"
+ },
+ {
+   "category": 10,
+   "id": 540,
+   "target": "おげんきですか？"
+ },
+ {
+   "category": 10,
+   "id": 541,
+   "target": "私はシーフードにアレルギーがある。"
+ },
+ {
+   "category": 10,
+   "id": 542,
+   "target": "私は腕に痛みがあります。"
+ },
+ {
+   "category": 10,
+   "id": 543,
+   "target": "私には姉妹が2人います。"
+ },
+ {
+   "category": 10,
+   "id": 544,
+   "target": "私たちには2人の少年と1人の少女がいます。"
+ },
+ {
+   "category": 10,
+   "id": 545,
+   "target": "別のものがありますか？"
+ },
+ {
+   "category": 10,
+   "id": 546,
+   "target": "何をしたいですか？"
+ },
+ {
+   "category": 10,
+   "id": 547,
+   "target": "あなたは何を勉強してますか？"
+ },
+ {
+   "category": 10,
+   "id": 548,
+   "target": "今夜あなたは何をするんですか？"
+ },
+ {
+   "category": 10,
+   "id": 549,
+   "target": "これはスミス女史です。"
+ },
+ {
+   "category": 10,
+   "id": 550,
+   "target": "私の母です。"
+ },
+ {
+   "category": 10,
+   "id": 551,
+   "target": "それほど高価ではありません。"
+ },
+ {
+   "category": 10,
+   "id": 552,
+   "target": "私は6'2です。"
+ },
+ {
+   "category": 10,
+   "id": 553,
+   "target": "私はアメリカ人です。"
+ },
+ {
+   "category": 10,
+   "id": 554,
+   "target": "うんざりだ。"
+ },
+ {
+   "category": 10,
+   "id": 555,
+   "target": "そこに行ったことがある。"
+ },
+ {
+   "category": 10,
+   "id": 556,
+   "target": "私は少し英語を話す。"
+ },
+ {
+   "category": 10,
+   "id": 557,
+   "target": "私がここに来て初めてです。"
+ },
+ {
+   "category": 10,
+   "id": 558,
+   "target": "私は昨日シャツを買った。"
+ },
+ {
+   "category": 10,
+   "id": 559,
+   "target": "私は恐れていません。"
+ },
+ {
+   "category": 10,
+   "id": 560,
+   "target": "具合がよくありません。"
+ },
+ {
+   "category": 10,
+   "id": 561,
+   "target": "私は覚えています。"
+ },
+ {
+   "category": 10,
+   "id": 562,
+   "target": "あなたが電話したことを彼に伝えます。"
+ },
+ {
+   "category": 10,
+   "id": 563,
+   "target": "私は元気です、あなたは？"
+ },
+ {
+   "category": 11,
+   "id": 564,
+   "target": "映画は何時に始まりますか？"
+ },
+ {
+   "category": 11,
+   "id": 565,
+   "target": "銀行は遠いですか？"
+ },
+ {
+   "category": 11,
+   "id": 566,
+   "target": "近くに映画館はありますか？"
+ },
+ {
+   "category": 11,
+   "id": 567,
+   "target": "コンサートはありますか？"
+ },
+ {
+   "category": 11,
+   "id": 568,
+   "target": "どんな音楽がお好きですか？"
+ },
+ {
+   "category": 11,
+   "id": 569,
+   "target": "あなたの好きな食べ物は何ですか？"
+ },
+ {
+   "category": 11,
+   "id": 570,
+   "target": "あなたの身長はどれくらいですか？"
+ },
+ {
+   "category": 11,
+   "id": 571,
+   "target": "あなたの先生は誰ですか？"
+ },
+ {
+   "category": 11,
+   "id": 572,
+   "target": "映画を借りたいですか？"
+ },
+ {
+   "category": 11,
+   "id": 573,
+   "target": "私と一緒に夕食を食べたいですか？"
+ },
+ {
+   "category": 11,
+   "id": 574,
+   "target": "彼は映画を見るのが好きだと言った。"
+ },
+ {
+   "category": 11,
+   "id": 575,
+   "target": "あなたはこの映画を見ましたか？"
+ },
+ {
+   "category": 11,
+   "id": 576,
+   "target": "あなたは映画に行きたいですか？"
+ },
+ {
+   "category": 11,
+   "id": 577,
+   "target": "人々は通常、ロサンゼルスで夏に何をしますか？"
+ },
+ {
+   "category": 12,
+   "id": 578,
+   "target": "店舗は何時開いていますか？"
+ },
+ {
+   "category": 12,
+   "id": 579,
+   "target": "どこにいますか？"
+ },
+ {
+   "category": 12,
+   "id": 580,
+   "target": "彼は新しい服が必要です。"
+ },
+ {
+   "category": 12,
+   "id": 581,
+   "target": "あなたがそれを好きなら、私はもっと買うことができます。"
+ },
+ {
+   "category": 12,
+   "id": 582,
+   "target": "申し訳ありませんが、私たちは何も持っていません。"
+ },
+ {
+   "category": 12,
+   "id": 583,
+   "target": "大きさは？"
+ },
+ {
+   "category": 12,
+   "id": 584,
+   "target": "本は高価です。"
+ },
+ {
+   "category": 12,
+   "id": 585,
+   "target": "飛行機はいつ到着するのですか？"
+ },
+ {
+   "category": 12,
+   "id": 586,
+   "target": "あなたの携帯電話は使えますか？"
+ },
+ {
+   "category": 12,
+   "id": 587,
+   "target": "一杯の水を飲ませてもらえますか？"
+ },
+ {
+   "category": 12,
+   "id": 588,
+   "target": "満タンにして下さい。 （ガス状態"
+ },
+ {
+   "category": 12,
+   "id": 589,
+   "target": "何かお食事をお召し上がりになりますか？"
+ },
+ {
+   "category": 12,
+   "id": 590,
+   "target": "私はヒルトンホテルの番号をお願いします。"
+ },
+ {
+   "category": 12,
+   "id": 591,
+   "target": "試着する。"
+ },
+ {
+   "category": 12,
+   "id": 592,
+   "target": "いくらですか？"
+ },
+ {
+   "category": 12,
+   "id": 593,
+   "target": "これはいくらですか？"
+ },
+ {
+   "category": 12,
+   "id": 594,
+   "target": "あなたは彼女を知っていますか？"
+ },
+ {
+   "category": 12,
+   "id": 595,
+   "target": "彼女がどこにいるか知っていますか？"
+ },
+ {
+   "category": 12,
+   "id": 596,
+   "target": "バスケットボールをしますか？"
+ },
+ {
+   "category": 12,
+   "id": 597,
+   "target": "空きはありますか？"
+ },
+ {
+   "category": 12,
+   "id": 598,
+   "target": "タクシーの番号はありますか？"
+ },
+ {
+   "category": 12,
+   "id": 599,
+   "target": "あなたは何を購入したいのですか？"
+ },
+ {
+   "category": 12,
+   "id": 600,
+   "target": "そんなに遠くはありません。"
+ },
+ {
+   "category": 12,
+   "id": 601,
+   "target": "私は電話カードを購入したいと思います。"
+ },
+ {
+   "category": 12,
+   "id": 602,
+   "target": "私はあなたを信じています。"
+ },
+ {
+   "category": 12,
+   "id": 603,
+   "target": "私は2つの言語を話す。"
+ },
+ {
+   "category": 12,
+   "id": 604,
+   "target": "彼は何か別のことを言ったと思った。"
+ },
+ {
+   "category": 12,
+   "id": 605,
+   "target": "私は初心者です。"
+ },
+ {
+   "category": 12,
+   "id": 606,
+   "target": "私は通常朝食でコーヒーを飲む。"
+ },
+ {
+   "category": 12,
+   "id": 607,
+   "target": "おなかいっぱい。"
+ },
+ {
+   "category": 12,
+   "id": 608,
+   "target": "私は独身です。"
+ },
+ {
+   "category": 12,
+   "id": 609,
+   "target": "私は家に帰りたい。"
+ },
+ {
+   "category": 12,
+   "id": 610,
+   "target": "私は買い物に行きたいです。"
+ },
+ {
+   "category": 12,
+   "id": 611,
+   "target": "ほんの冗談です。"
+ },
+ {
+   "category": 13,
+   "id": 612,
+   "target": "私はそれを正しく発音していますか？"
+ },
+ {
+   "category": 13,
+   "id": 613,
+   "target": "ちょっとお願いできますか？"
+ },
+ {
+   "category": 13,
+   "id": 614,
+   "target": "手伝って頂けますか？"
+ },
+ {
+   "category": 13,
+   "id": 615,
+   "target": "もう一度言っていただけますか？"
+ },
+ {
+   "category": 13,
+   "id": 616,
+   "target": "見せてもらえますか？"
+ },
+ {
+   "category": 13,
+   "id": 617,
+   "target": "あなたは私のためにそれを捨てることができますか？"
+ },
+ {
+   "category": 13,
+   "id": 618,
+   "target": "貴方はあれを信じますか？"
+ },
+ {
+   "category": 13,
+   "id": 619,
+   "target": "鉛筆を持っていますか？"
+ },
+ {
+   "category": 13,
+   "id": 620,
+   "target": "タバコは吸​​いますか？"
+ },
+ {
+   "category": 13,
+   "id": 621,
+   "target": "英語を話せますか？"
+ },
+ {
+   "category": 13,
+   "id": 622,
+   "target": "誰でもここで英語を話しますか？"
+ },
+ {
+   "category": 13,
+   "id": 623,
+   "target": "それをしないでください。"
+ },
+ {
+   "category": 13,
+   "id": 624,
+   "target": "すみません、あなたは何を言ったのですか？"
+ },
+ {
+   "category": 13,
+   "id": 625,
+   "target": "忘れてください。"
+ },
+ {
+   "category": 13,
+   "id": 626,
+   "target": "あなたはそれをどうやって発音しますか？"
+ },
+ {
+   "category": 13,
+   "id": 627,
+   "target": "どのように英語でそれを言うのですか？"
+ },
+ {
+   "category": 13,
+   "id": 628,
+   "target": "綴りはどうなりますか？"
+ },
+ {
+   "category": 13,
+   "id": 629,
+   "target": "あなたは「シアトル」という言葉をどのように綴っていますか？"
+ },
+ {
+   "category": 13,
+   "id": 630,
+   "target": "私は泳ぐことができます。"
+ },
+ {
+   "category": 13,
+   "id": 631,
+   "target": "私はあなたをはっきりと聞くことができません。"
+ },
+ {
+   "category": 13,
+   "id": 632,
+   "target": "私は気にしない。"
+ },
+ {
+   "category": 13,
+   "id": 633,
+   "target": "私は英語をうまく話せません。"
+ },
+ {
+   "category": 13,
+   "id": 634,
+   "target": "私はそうは思わない。"
+ },
+ {
+   "category": 13,
+   "id": 635,
+   "target": "言っていることが分かりません。"
+ },
+ {
+   "category": 13,
+   "id": 636,
+   "target": "あなたはあまりにも多くの服を持っていると思う。"
+ },
+ {
+   "category": 13,
+   "id": 637,
+   "target": "あなたを信頼する。"
+ },
+ {
+   "category": 13,
+   "id": 638,
+   "target": "今、私は分かる。"
+ },
+ {
+   "category": 13,
+   "id": 639,
+   "target": "部屋にエアコンがありますか？"
+ },
+ {
+   "category": 13,
+   "id": 640,
+   "target": "ホテルの前で会いましょう。"
+ },
+ {
+   "category": 13,
+   "id": 641,
+   "target": "座ってください。"
+ },
+ {
+   "category": 13,
+   "id": 642,
+   "target": "英語で話してください。"
+ },
+ {
+   "category": 13,
+   "id": 643,
+   "target": "もっとゆっくり話して下さい。"
+ },
+ {
+   "category": 13,
+   "id": 644,
+   "target": "申し訳ありませんが、私は明確に聞こえませんでした。"
+ },
+ {
+   "category": 13,
+   "id": 645,
+   "target": "それは友人を意味する。"
+ },
+ {
+   "category": 13,
+   "id": 646,
+   "target": "それは間違っている。"
+ },
+ {
+   "category": 13,
+   "id": 647,
+   "target": "それを言ってみてください。"
+ },
+ {
+   "category": 13,
+   "id": 648,
+   "target": "これは何を意味するのでしょうか？"
+ },
+ {
+   "category": 13,
+   "id": 649,
+   "target": "これは何て言います？"
+ },
+ {
+   "category": 13,
+   "id": 650,
+   "target": "この言葉の意味は何ですか？"
+ },
+ {
+   "category": 13,
+   "id": 651,
+   "target": "為替レートは何ですか？"
+ },
+ {
+   "category": 13,
+   "id": 652,
+   "target": "それは誰の本ですか？"
+ },
+ {
+   "category": 13,
+   "id": 653,
+   "target": "なぜ笑っている？"
+ },
+ {
+   "category": 13,
+   "id": 654,
+   "target": "なぜあなたは行っていないのですか？"
+ },
+ {
+   "category": 13,
+   "id": 655,
+   "target": "どうしてそんなことをしました？"
+ },
+ {
+   "category": 14,
+   "id": 656,
+   "target": "事故は交差点で起こった。"
+ },
+ {
+   "category": 14,
+   "id": 657,
+   "target": "あなたは電池を売っていますか？"
+ },
+ {
+   "category": 14,
+   "id": 658,
+   "target": "一番近い病院はどこですか？"
+ },
+ {
+   "category": 14,
+   "id": 659,
+   "target": "郵便局はどこですか？"
+ },
+ {
+   "category": 14,
+   "id": 660,
+   "target": "あなたはどこで働いてますか？"
+ },
+ {
+   "category": 14,
+   "id": 661,
+   "target": "どこで米ドルを交換できますか？"
+ },
+ {
+   "category": 14,
+   "id": 662,
+   "target": "私は気にしない。"
+ },
+ {
+   "category": 14,
+   "id": 663,
+   "target": "私はまだたくさん持っています。"
+ },
+ {
+   "category": 14,
+   "id": 664,
+   "target": "私の喉は痛いです。"
+ },
+ {
+   "category": 14,
+   "id": 665,
+   "target": "私の荷物はありません。"
+ },
+ {
+   "category": 14,
+   "id": 666,
+   "target": "私の胃が痛い。"
+ },
+ {
+   "category": 14,
+   "id": 667,
+   "target": "私の時計は盗まれました。"
+ },
+ {
+   "category": 14,
+   "id": 668,
+   "target": "電話してね。"
+ },
+ {
+   "category": 14,
+   "id": 669,
+   "target": "この薬を取る。"
+ },
+ {
+   "category": 14,
+   "id": 670,
+   "target": "車の事故がありました。"
+ },
+ {
+   "category": 14,
+   "id": 671,
+   "target": "今日はとても寒いです。"
+ },
+ {
+   "category": 14,
+   "id": 672,
+   "target": "準備はできたか？"
+ },
+ {
+   "category": 14,
+   "id": 673,
+   "target": "あなたは私に花を送りましたか？"
+ },
+ {
+   "category": 14,
+   "id": 674,
+   "target": "私は車に1台持っています。"
+ },
+ {
+   "category": 14,
+   "id": 675,
+   "target": "風邪をひきました。"
+ },
+ {
+   "category": 14,
+   "id": 676,
+   "target": "何かアレルギーがあるのか​​？"
+ },
+ {
+   "category": 14,
+   "id": 677,
+   "target": "それは天候に左右される。"
+ },
+ {
+   "category": 14,
+   "id": 678,
+   "target": "私はまだ決心していない。"
+ },
+ {
+   "category": 14,
+   "id": 679,
+   "target": "私は事故にあった。"
+ },
+ {
+   "category": 14,
+   "id": 680,
+   "target": "私はこのケーキを作った。"
+ },
+ {
+   "category": 14,
+   "id": 681,
+   "target": "私は自営業です。"
+ },
+ {
+   "category": 14,
+   "id": 682,
+   "target": "あきらめる。"
+ },
+ {
+   "category": 14,
+   "id": 683,
+   "target": "私は先生です。"
+ },
+ {
+   "category": 16,
+   "id": 684,
+   "target": "あなたも？"
+ },
+ {
+   "category": 16,
+   "id": 685,
+   "target": "どの学校に行くの？"
+ },
+ {
+   "category": 16,
+   "id": 686,
+   "target": "どうしたの？"
+ },
+ {
+   "category": 16,
+   "id": 687,
+   "target": "大丈夫ですか？"
+ },
+ {
+   "category": 16,
+   "id": 688,
+   "target": "あなたは米ドルを受け入れますか？"
+ },
+ {
+   "category": 16,
+   "id": 689,
+   "target": "彼はどこにいますか？"
+ },
+ {
+   "category": 16,
+   "id": 690,
+   "target": "どこでそれを学びましたか？"
+ },
+ {
+   "category": 16,
+   "id": 691,
+   "target": "それはどこで起きましたか？"
+ },
+ {
+   "category": 16,
+   "id": 692,
+   "target": "どこで車を借りることができますか？"
+ },
+ {
+   "category": 16,
+   "id": 693,
+   "target": "はい。"
+ },
+ {
+   "category": 16,
+   "id": 694,
+   "target": "私にペンをください。"
+ },
+ {
+   "category": 16,
+   "id": 695,
+   "target": "彼は学校が好きですか？"
+ },
+ {
+   "category": 16,
+   "id": 696,
+   "target": "もっと安いのはありますか？"
+ },
+ {
+   "category": 16,
+   "id": 697,
+   "target": "雨が降っていますか？"
+ },
+ {
+   "category": 16,
+   "id": 698,
+   "target": "それはどのくらい長いですか？"
+ },
+ {
+   "category": 16,
+   "id": 699,
+   "target": "彼女はどうですか？"
+ },
+ {
+   "category": 16,
+   "id": 700,
+   "target": "気温は？"
+ },
+ {
+   "category": 16,
+   "id": 701,
+   "target": "誰を探しているの？"
+ },
+ {
+   "category": 16,
+   "id": 702,
+   "target": "どちらが安いの？"
+ },
+ {
+   "category": 16,
+   "id": 703,
+   "target": "どちらが最高ですか？"
+ },
+ {
+   "category": 16,
+   "id": 704,
+   "target": "あなたはどれが欲しいですか？"
+ },
+ {
+   "category": 16,
+   "id": 705,
+   "target": "誰が呼んでいるの？"
+ },
+ {
+   "category": 16,
+   "id": 706,
+   "target": "彼らは誰なの？"
+ },
+ {
+   "category": 16,
+   "id": 707,
+   "target": "誰があなたに教えた？"
+ },
+ {
+   "category": 16,
+   "id": 708,
+   "target": "その人は誰ですか？"
+ },
+ {
+   "category": 16,
+   "id": 709,
+   "target": "どなた？ （誰が電話に出ているか問い合わせる）"
+ },
+ {
+   "category": 16,
+   "id": 710,
+   "target": "他に誰が来るの？"
+ },
+ {
+   "category": 16,
+   "id": 711,
+   "target": "大きなものか小さなものか？"
+ },
+ {
+   "category": 16,
+   "id": 712,
+   "target": "車はアメリカンです。"
+ },
+ {
+   "category": 16,
+   "id": 713,
+   "target": "私は待つべきでしょうか？"
+ },
+ {
+   "category": 16,
+   "id": 714,
+   "target": "私にはたくさんのことがあります。"
+ },
+ {
+   "category": 16,
+   "id": 715,
+   "target": "ちょっとお金借りていい？"
+ },
+ {
+   "category": 16,
+   "id": 716,
+   "target": "お勘定をお願いします？"
+ },
+ {
+   "category": 16,
+   "id": 717,
+   "target": "暑いですか？"
+ },
+ {
+   "category": 16,
+   "id": 718,
+   "target": "外は寒いですか？"
+ },
+ {
+   "category": 16,
+   "id": 719,
+   "target": "もっと大声で話せますか？"
+ },
+ {
+   "category": 16,
+   "id": 720,
+   "target": "何を話しているの？"
+ },
+ {
+   "category": 16,
+   "id": 721,
+   "target": "あなたは何を考えている？"
+ },
+ {
+   "category": 16,
+   "id": 722,
+   "target": "彼らは同じですか？"
+ },
+ {
+   "category": 16,
+   "id": 723,
+   "target": "彼はどこから来ましたか？"
+ },
+ {
+   "category": 16,
+   "id": 724,
+   "target": "どうして知っていますか？"
+ },
+ {
+   "category": 16,
+   "id": 725,
+   "target": "なんでそんな事を言ったの？"
+ },
+ {
+   "category": 16,
+   "id": 726,
+   "target": "銀行の背後にある。"
+ },
+ {
+   "category": 16,
+   "id": 727,
+   "target": "いくらですか？"
+ },
+ {
+   "category": 16,
+   "id": 728,
+   "target": "幾つ？"
+ },
+ {
+   "category": 16,
+   "id": 729,
+   "target": "何か問題はありましたか？"
+ },
+ {
+   "category": 16,
+   "id": 730,
+   "target": "あなたの息子はここにいますか？"
+ },
+ {
+   "category": 16,
+   "id": 731,
+   "target": "あなたの同僚が好きですか？"
+ },
+ {
+   "category": 16,
+   "id": 732,
+   "target": "ほかに何か要りますか？"
+ },
+ {
+   "category": 16,
+   "id": 733,
+   "target": "あなたは怖いか？"
+ },
+ {
+   "category": 16,
+   "id": 734,
+   "target": "病気ですか？"
+ },
+ {
+   "category": 16,
+   "id": 735,
+   "target": "あなたは昨晩図書館にいたのですか？"
+ },
+ {
+   "category": 16,
+   "id": 736,
+   "target": "大丈夫ですか？"
+ },
+ {
+   "category": 16,
+   "id": 737,
+   "target": "あなたは私の妹のように見えます。"
+ },
+ {
+   "category": 16,
+   "id": 738,
+   "target": "あなたは結婚していますか？"
+ },
+ {
+   "category": 16,
+   "id": 739,
+   "target": "私の眼鏡がどこにあるのか知っていますか？"
+ },
+ {
+   "category": 16,
+   "id": 740,
+   "target": "私はどこでタクシーを手に入れることができるか知っていますか？"
+ },
+ {
+   "category": 16,
+   "id": 741,
+   "target": "マリオットホテルへの行き方を知っていますか？"
+ },
+ {
+   "category": 16,
+   "id": 742,
+   "target": "これが何を意味するのか知っていますか？"
+ },
+ {
+   "category": 16,
+   "id": 743,
+   "target": "後で私に電話してもらえますか？"
+ },
+ {
+   "category": 16,
+   "id": 744,
+   "target": "後で電話してもらえますか？"
+ },
+ {
+   "category": 16,
+   "id": 745,
+   "target": "あなたは私のためにこれを運ぶことができますか？"
+ },
+ {
+   "category": 16,
+   "id": 746,
+   "target": "あなたは私に例を挙げることができますか？"
+ },
+ {
+   "category": 16,
+   "id": 747,
+   "target": "直せますか？"
+ },
+ {
+   "category": 16,
+   "id": 748,
+   "target": "彼に私に電話してもらえますか？"
+ },
+ {
+   "category": 16,
+   "id": 749,
+   "target": "出身はどちらですか？"
+ },
+ {
+   "category": 16,
+   "id": 750,
+   "target": "あなたは私に塩を渡してくれますか？"
+ },
+ {
+   "category": 16,
+   "id": 751,
+   "target": "あなたは私のためにこれを車に入れますか？"
+ },
+ {
+   "category": 16,
+   "id": 752,
+   "target": "わかりますか？"
+ },
+ {
+   "category": 16,
+   "id": 753,
+   "target": "彼らの結婚式に出席するつもりですか？"
+ },
+ {
+   "category": 16,
+   "id": 754,
+   "target": "泳げますか？"
+ },
+ {
+   "category": 16,
+   "id": 755,
+   "target": "聞こえますか？"
+ },
+ {
+   "category": 16,
+   "id": 756,
+   "target": "あなたはガールフレンドがいますか？"
+ },
+ {
+   "category": 16,
+   "id": 757,
+   "target": "お約束はございますか？"
+ },
+ {
+   "category": 16,
+   "id": 758,
+   "target": "あなたはとても素敵な車を持っています。"
+ },
+ {
+   "category": 16,
+   "id": 759,
+   "target": "なにかもんだいがありますか？"
+ },
+ {
+   "category": 16,
+   "id": 760,
+   "target": "30分で"
+ },
+ {
+   "category": 16,
+   "id": 761,
+   "target": "どう思いますか？"
+ },
+ {
+   "category": 16,
+   "id": 762,
+   "target": "スパゲッティやチキンサラダのほうがいいですか？"
+ },
+ {
+   "category": 16,
+   "id": 763,
+   "target": "何を着たらよい？"
+ },
+ {
+   "category": 16,
+   "id": 764,
+   "target": "彼らは何を研究していますか？"
+ },
+ {
+   "category": 16,
+   "id": 765,
+   "target": "何が起こった？"
+ },
+ {
+   "category": 16,
+   "id": 766,
+   "target": "何が入ってるの？"
+ },
+ {
+   "category": 16,
+   "id": 767,
+   "target": "それは何ですか？"
+ },
+ {
+   "category": 16,
+   "id": 768,
+   "target": "何してるの？"
+ },
+ {
+   "category": 16,
+   "id": 769,
+   "target": "あなたは昨日何をしましたか？"
+ },
+ {
+   "category": 16,
+   "id": 770,
+   "target": "昨夜あなたは何をしたか？"
+ },
+ {
+   "category": 16,
+   "id": 771,
+   "target": "どう思いました？"
+ },
+ {
+   "category": 16,
+   "id": 772,
+   "target": "あなたは何を持っていますか？"
+ },
+ {
+   "category": 16,
+   "id": 773,
+   "target": "それは何ですか？"
+ },
+ {
+   "category": 16,
+   "id": 774,
+   "target": "これは何ですか？"
+ },
+ {
+   "category": 16,
+   "id": 775,
+   "target": "他に何か？"
+ },
+ {
+   "category": 16,
+   "id": 776,
+   "target": "それはここから遠いですか？"
+ },
+ {
+   "category": 17,
+   "id": 777,
+   "target": "時間当たり6ドル。"
+ },
+ {
+   "category": 17,
+   "id": 778,
+   "target": "毎日何時に仕事に行くのですか？"
+ },
+ {
+   "category": 17,
+   "id": 779,
+   "target": "どうしたの？"
+ },
+ {
+   "category": 17,
+   "id": 780,
+   "target": "どこが痛みますか？"
+ },
+ {
+   "category": 17,
+   "id": 781,
+   "target": "旅行どうだった？"
+ },
+ {
+   "category": 17,
+   "id": 782,
+   "target": "どれぐらいここで働いていますか？"
+ },
+ {
+   "category": 17,
+   "id": 783,
+   "target": "どんな天気ですか？"
+ },
+ {
+   "category": 17,
+   "id": 784,
+   "target": "あなたはいつ仕事から降りますか？"
+ },
+ {
+   "category": 17,
+   "id": 785,
+   "target": "あなたはいつアメリカに到着しますか？"
+ },
+ {
+   "category": 17,
+   "id": 786,
+   "target": "どこへ行きたい？"
+ },
+ {
+   "category": 17,
+   "id": 787,
+   "target": "どこに入れましたか？"
+ },
+ {
+   "category": 17,
+   "id": 788,
+   "target": "私はまだ購入することがたくさんある。"
+ },
+ {
+   "category": 17,
+   "id": 789,
+   "target": "彼はエンジニアです。"
+ },
+ {
+   "category": 17,
+   "id": 790,
+   "target": "彼はとても勤勉です。"
+ },
+ {
+   "category": 17,
+   "id": 791,
+   "target": "彼はニューヨークのコンピューター会社で働いています。"
+ },
+ {
+   "category": 17,
+   "id": 792,
+   "target": "私のシャツを持って来てください。"
+ },
+ {
+   "category": 17,
+   "id": 793,
+   "target": "お金はいくらぐらい持っていますか？"
+ },
+ {
+   "category": 17,
+   "id": 794,
+   "target": "あなたは週に何時間働いていますか？"
+ },
+ {
+   "category": 17,
+   "id": 795,
+   "target": "あなたの上司が好きですか？"
+ },
+ {
+   "category": 17,
+   "id": 796,
+   "target": "あなたは誰かを待っていますか？"
+ },
+ {
+   "category": 17,
+   "id": 797,
+   "target": "あなたは勉強を終えましたか？"
+ },
+ {
+   "category": 17,
+   "id": 798,
+   "target": "あなたはテレビを見たいですか？"
+ },
+ {
+   "category": 17,
+   "id": 799,
+   "target": "今日、働いていますか？"
+ },
+ {
+   "category": 17,
+   "id": 800,
+   "target": "あなたの仕事は何ですか？"
+ },
+ {
+   "category": 17,
+   "id": 801,
+   "target": "あなたの父は仕事のために何をしていますか？"
+ },
+ {
+   "category": 17,
+   "id": 802,
+   "target": "あなたの両親は仕事のために何をしていますか？"
+ },
+ {
+   "category": 17,
+   "id": 803,
+   "target": "彼は仕事のために何をしていますか？"
+ },
+ {
+   "category": 17,
+   "id": 804,
+   "target": "準備できました。"
+ },
+ {
+   "category": 17,
+   "id": 805,
+   "target": "私は忘れる。"
+ },
+ {
+   "category": 17,
+   "id": 806,
+   "target": "私は大丈夫です。"
+ },
+ {
+   "category": 17,
+   "id": 807,
+   "target": "見たことある。"
+ },
+ {
+   "category": 18,
+   "id": 808,
+   "target": "道路は滑りやすい。"
+ },
+ {
+   "category": 18,
+   "id": 809,
+   "target": "ここが痛い。"
+ },
+ {
+   "category": 18,
+   "id": 810,
+   "target": "雨が降っている。"
+ },
+ {
+   "category": 18,
+   "id": 811,
+   "target": "景気いいですか？"
+ },
+ {
+   "category": 18,
+   "id": 812,
+   "target": "明日の天気はどうですか？"
+ },
+ {
+   "category": 18,
+   "id": 813,
+   "target": "料金はいくらですか？"
+ },
+ {
+   "category": 18,
+   "id": 814,
+   "target": "ここに来て。"
+ },
+ {
+   "category": 18,
+   "id": 815,
+   "target": "今日は暑いですね。"
+ },
+ {
+   "category": 18,
+   "id": 816,
+   "target": "遅すぎる。"
+ },
+ {
+   "category": 18,
+   "id": 817,
+   "target": "明日は雨が降ると思いますか？"
+ },
+ {
+   "category": 18,
+   "id": 818,
+   "target": "今日は雨が降ると思いますか？"
+ },
+ {
+   "category": 18,
+   "id": 819,
+   "target": "マサチューセッツ州の冬にはしばしば雪が降るでしょうか？"
+ },
+ {
+   "category": 18,
+   "id": 820,
+   "target": "それは近いですか？"
+ },
+ {
+   "category": 18,
+   "id": 821,
+   "target": "出来ますか？"
+ },
+ {
+   "category": 18,
+   "id": 822,
+   "target": "あちらにあります。"
+ },
+ {
+   "category": 18,
+   "id": 823,
+   "target": "準備はいい？"
+ },
+ {
+   "category": 18,
+   "id": 824,
+   "target": "それはここから遠いです。"
+ },
+ {
+   "category": 18,
+   "id": 825,
+   "target": "ここは北です。"
+ },
+ {
+   "category": 18,
+   "id": 826,
+   "target": "それは非常に重要です。"
+ },
+ {
+   "category": 18,
+   "id": 827,
+   "target": "まもなく到着する予定です。"
+ },
+ {
+   "category": 18,
+   "id": 828,
+   "target": "1時間に20ドルかかる。"
+ }
+],
+
+  "categories":[
+ {
+   "id": 1,
+   "translatedName": "共通の表現"
+ },
+ {
+   "id": 2,
+   "translatedName": "ご挨拶"
+ },
+ {
+   "id": 3,
+   "translatedName": "旅行、道順"
+ },
+ {
+   "id": 4,
+   "translatedName": "数字とお金"
+ },
+ {
+   "id": 5,
+   "translatedName": "ロケーション"
+ },
+ {
+   "id": 6,
+   "translatedName": "電話/インターネット/メール"
+ },
+ {
+   "id": 7,
+   "translatedName": "時間と日付"
+ },
+ {
+   "id": 8,
+   "translatedName": "宿泊施設"
+ },
+ {
+   "id": 9,
+   "translatedName": "ダイニング"
+ },
+ {
+   "id": 10,
+   "translatedName": "友達を作ること"
+ },
+ {
+   "id": 11,
+   "translatedName": "エンターテインメント"
+ },
+ {
+   "id": 12,
+   "translatedName": "ショッピング"
+ },
+ {
+   "id": 13,
+   "translatedName": "コミュニケーションの困難"
+ },
+ {
+   "id": 14,
+   "translatedName": "緊急と健康"
+ },
+ {
+   "id": 16,
+   "translatedName": "一般的な質問"
+ },
+ {
+   "id": 17,
+   "translatedName": "作業"
+ },
+ {
+   "id": 18,
+   "translatedName": "天気"
+ }
+]
+}

@@ -1,0 +1,4214 @@
+{
+  "phrases":[
+    {
+      "target": "Ten cuidado.",
+      "category": 1,
+      "id": 1
+    },
+    {
+      "target": "Sea cuidadoso al manejar.",
+      "category": 1,
+      "id": 2
+    },
+    {
+      "target": "¿Puedes traducir esto por mi?",
+      "category": 1,
+      "id": 3
+    },
+    {
+      "target": "Chicago es muy diferente de Boston.",
+      "category": 1,
+      "id": 4
+    },
+    {
+      "target": "No te preocupes",
+      "category": 1,
+      "id": 5
+    },
+    {
+      "target": "Todos lo saben.",
+      "category": 1,
+      "id": 6
+    },
+    {
+      "target": "Todo está listo.",
+      "category": 1,
+      "id": 7
+    },
+    {
+      "target": "Excelente.",
+      "category": 1,
+      "id": 8
+    },
+    {
+      "target": "De vez en cuando.",
+      "category": 1,
+      "id": 9
+    },
+    {
+      "target": "Buena idea.",
+      "category": 1,
+      "id": 10
+    },
+    {
+      "target": "A él le gusta mucho.",
+      "category": 1,
+      "id": 11
+    },
+    {
+      "target": "¡Ayuda!",
+      "category": 1,
+      "id": 12
+    },
+    {
+      "target": "Él vendrá pronto.",
+      "category": 1,
+      "id": 13
+    },
+    {
+      "target": "El tiene razón.",
+      "category": 1,
+      "id": 14
+    },
+    {
+      "target": "Él es muy molesto.",
+      "category": 1,
+      "id": 15
+    },
+    {
+      "target": "Él es muy famoso.",
+      "category": 1,
+      "id": 16
+    },
+    {
+      "target": "¿Cómo estás?",
+      "category": 1,
+      "id": 17
+    },
+    {
+      "target": "¿Cómo va el trabajo?",
+      "category": 1,
+      "id": 18
+    },
+    {
+      "target": "¡Prisa!",
+      "category": 1,
+      "id": 19
+    },
+    {
+      "target": "Ya comí.",
+      "category": 1,
+      "id": 20
+    },
+    {
+      "target": "No puedo oírte",
+      "category": 1,
+      "id": 21
+    },
+    {
+      "target": "Me gustaría ir a caminar.",
+      "category": 1,
+      "id": 22
+    },
+    {
+      "target": "No sé cómo usarlo.",
+      "category": 1,
+      "id": 23
+    },
+    {
+      "target": "No me gusta.",
+      "category": 1,
+      "id": 24
+    },
+    {
+      "target": "No me gusta",
+      "category": 1,
+      "id": 25
+    },
+    {
+      "target": "No hablo muy bien.",
+      "category": 1,
+      "id": 26
+    },
+    {
+      "target": "No entiendo",
+      "category": 1,
+      "id": 27
+    },
+    {
+      "target": "No lo quiero",
+      "category": 1,
+      "id": 28
+    },
+    {
+      "target": "No quiero eso.",
+      "category": 1,
+      "id": 29
+    },
+    {
+      "target": "No quiero molestarte.",
+      "category": 1,
+      "id": 30
+    },
+    {
+      "target": "Me siento bien.",
+      "category": 1,
+      "id": 31
+    },
+    {
+      "target": "Si necesita mi ayuda, hágamelo saber.",
+      "category": 1,
+      "id": 32
+    },
+    {
+      "target": "Salgo del trabajo a las 6.",
+      "category": 1,
+      "id": 33
+    },
+    {
+      "target": "Me duele la cabeza.",
+      "category": 1,
+      "id": 34
+    },
+    {
+      "target": "Espero que tú y tu esposa tengan un buen viaje.",
+      "category": 1,
+      "id": 35
+    },
+    {
+      "target": "Lo sé.",
+      "category": 1,
+      "id": 36
+    },
+    {
+      "target": "Ella me gusta.",
+      "category": 1,
+      "id": 37
+    },
+    {
+      "target": "Te llamaré cuando me vaya.",
+      "category": 1,
+      "id": 38
+    },
+    {
+      "target": "Volveré más tarde.",
+      "category": 1,
+      "id": 39
+    },
+    {
+      "target": "Pagaré.",
+      "category": 1,
+      "id": 40
+    },
+    {
+      "target": "Me lo llevo.",
+      "category": 1,
+      "id": 41
+    },
+    {
+      "target": "Te llevaré a la parada de autobús.",
+      "category": 1,
+      "id": 42
+    },
+    {
+      "target": "Perdí mi reloj.",
+      "category": 1,
+      "id": 43
+    },
+    {
+      "target": "Te quiero.",
+      "category": 1,
+      "id": 44
+    },
+    {
+      "target": "Soy americano.",
+      "category": 1,
+      "id": 45
+    },
+    {
+      "target": "Estoy limpiando mi habitación.",
+      "category": 1,
+      "id": 46
+    },
+    {
+      "target": "Tengo frio.",
+      "category": 1,
+      "id": 47
+    },
+    {
+      "target": "Voy a recogerte.",
+      "category": 1,
+      "id": 48
+    },
+    {
+      "target": "Me voy a ir.",
+      "category": 1,
+      "id": 49
+    },
+    {
+      "target": "¿Estoy bien y tu?",
+      "category": 1,
+      "id": 50
+    },
+    {
+      "target": "Estoy feliz.",
+      "category": 1,
+      "id": 51
+    },
+    {
+      "target": "Tengo hambre.",
+      "category": 1,
+      "id": 52
+    },
+    {
+      "target": "Estoy casado.",
+      "category": 1,
+      "id": 53
+    },
+    {
+      "target": "No estoy ocupado.",
+      "category": 1,
+      "id": 54
+    },
+    {
+      "target": "No estoy casado.",
+      "category": 1,
+      "id": 55
+    },
+    {
+      "target": "No estoy listo todavía.",
+      "category": 1,
+      "id": 56
+    },
+    {
+      "target": "No estoy seguro.",
+      "category": 1,
+      "id": 57
+    },
+    {
+      "target": "Lo siento, estamos agotados.",
+      "category": 1,
+      "id": 58
+    },
+    {
+      "target": "Estoy sediento.",
+      "category": 1,
+      "id": 59
+    },
+    {
+      "target": "Estoy muy ocupado. No tengo tiempo ahora.",
+      "category": 1,
+      "id": 60
+    },
+    {
+      "target": "Necesito cambiarme de ropa",
+      "category": 1,
+      "id": 61
+    },
+    {
+      "target": "Necesito ir a casa.",
+      "category": 1,
+      "id": 62
+    },
+    {
+      "target": "Solo quiero un bocadillo.",
+      "category": 1,
+      "id": 63
+    },
+    {
+      "target": "¿El Sr. Smith es estadounidense?",
+      "category": 1,
+      "id": 64
+    },
+    {
+      "target": "¿Es suficiente?",
+      "category": 1,
+      "id": 65
+    },
+    {
+      "target": "Creo que es muy bueno",
+      "category": 1,
+      "id": 66
+    },
+    {
+      "target": "Creo que sabe bien.",
+      "category": 1,
+      "id": 67
+    },
+    {
+      "target": "Pensé que la ropa era más barata.",
+      "category": 1,
+      "id": 68
+    },
+    {
+      "target": "Es más de 2 millas.",
+      "category": 1,
+      "id": 69
+    },
+    {
+      "target": "He estado aquí por dos días.",
+      "category": 1,
+      "id": 70
+    },
+    {
+      "target": "He oído que Texas es un lugar hermoso.",
+      "category": 1,
+      "id": 71
+    },
+    {
+      "target": "Nunca había visto eso antes.",
+      "category": 1,
+      "id": 72
+    },
+    {
+      "target": "Estaba a punto de irme del restaurante cuando llegaron mis amigos.",
+      "category": 1,
+      "id": 73
+    },
+    {
+      "target": "Solo un poco.",
+      "category": 1,
+      "id": 74
+    },
+    {
+      "target": "Sólo un momento.",
+      "category": 1,
+      "id": 75
+    },
+    {
+      "target": "Dejame revisar.",
+      "category": 1,
+      "id": 76
+    },
+    {
+      "target": "Déjame pensar en ello.",
+      "category": 1,
+      "id": 77
+    },
+    {
+      "target": "Echemos un vistazo.",
+      "category": 1,
+      "id": 78
+    },
+    {
+      "target": "Practiquemos inglés",
+      "category": 1,
+      "id": 79
+    },
+    {
+      "target": "¿Puedo hablar con la Sra. Smith por favor?",
+      "category": 1,
+      "id": 80
+    },
+    {
+      "target": "Más que eso.",
+      "category": 1,
+      "id": 81
+    },
+    {
+      "target": "No importa.",
+      "category": 1,
+      "id": 82
+    },
+    {
+      "target": "La próxima vez.",
+      "category": 1,
+      "id": 83
+    },
+    {
+      "target": "No.",
+      "category": 1,
+      "id": 84
+    },
+    {
+      "target": "Disparates.",
+      "category": 1,
+      "id": 85
+    },
+    {
+      "target": "No gracias.",
+      "category": 1,
+      "id": 86
+    },
+    {
+      "target": "Nada más.",
+      "category": 1,
+      "id": 87
+    },
+    {
+      "target": "No recientemente.",
+      "category": 1,
+      "id": 88
+    },
+    {
+      "target": "Aún no.",
+      "category": 1,
+      "id": 89
+    },
+    {
+      "target": "Por supuesto.",
+      "category": 1,
+      "id": 90
+    },
+    {
+      "target": "Bueno.",
+      "category": 1,
+      "id": 91
+    },
+    {
+      "target": "Por favor, llene esta forma.",
+      "category": 1,
+      "id": 92
+    },
+    {
+      "target": "Por favor llévame a esta dirección.",
+      "category": 1,
+      "id": 93
+    },
+    {
+      "target": "Por favor escribelo.",
+      "category": 1,
+      "id": 94
+    },
+    {
+      "target": "De Verdad?",
+      "category": 1,
+      "id": 95
+    },
+    {
+      "target": "Aquí.",
+      "category": 1,
+      "id": 96
+    },
+    {
+      "target": "Justo ahí.",
+      "category": 1,
+      "id": 97
+    },
+    {
+      "target": "Nos vemos más tarde.",
+      "category": 1,
+      "id": 98
+    },
+    {
+      "target": "Te veo mañana.",
+      "category": 1,
+      "id": 99
+    },
+    {
+      "target": "Te veo esta noche.",
+      "category": 1,
+      "id": 100
+    },
+    {
+      "target": "Ella es bonita.",
+      "category": 1,
+      "id": 101
+    },
+    {
+      "target": "Perdón por molestarte.",
+      "category": 1,
+      "id": 102
+    },
+    {
+      "target": "¡Detener!",
+      "category": 1,
+      "id": 103
+    },
+    {
+      "target": "Arriesgarse",
+      "category": 1,
+      "id": 104
+    },
+    {
+      "target": "Llévalo afuera.",
+      "category": 1,
+      "id": 105
+    },
+    {
+      "target": "Dime.",
+      "category": 1,
+      "id": 106
+    },
+    {
+      "target": "Gracias por todo.",
+      "category": 1,
+      "id": 107
+    },
+    {
+      "target": "Gracias por tu ayuda.",
+      "category": 1,
+      "id": 108
+    },
+    {
+      "target": "Gracias.",
+      "category": 1,
+      "id": 109
+    },
+    {
+      "target": "Gracias señorita.",
+      "category": 1,
+      "id": 110
+    },
+    {
+      "target": "Gracias Señor.",
+      "category": 1,
+      "id": 111
+    },
+    {
+      "target": "Muchas gracias.",
+      "category": 1,
+      "id": 112
+    },
+    {
+      "target": "Eso se ve genial.",
+      "category": 1,
+      "id": 113
+    },
+    {
+      "target": "Eso está bien.",
+      "category": 1,
+      "id": 114
+    },
+    {
+      "target": "Eso es suficiente.",
+      "category": 1,
+      "id": 115
+    },
+    {
+      "target": "Esta bien.",
+      "category": 1,
+      "id": 116
+    },
+    {
+      "target": "Eso es.",
+      "category": 1,
+      "id": 117
+    },
+    {
+      "target": "Eso huele mal.",
+      "category": 1,
+      "id": 118
+    },
+    {
+      "target": "No es justo.",
+      "category": 1,
+      "id": 119
+    },
+    {
+      "target": "Eso no está bien.",
+      "category": 1,
+      "id": 120
+    },
+    {
+      "target": "Está bien.",
+      "category": 1,
+      "id": 121
+    },
+    {
+      "target": "Eso es muy malo.",
+      "category": 1,
+      "id": 122
+    },
+    {
+      "target": "Eso es mucho.",
+      "category": 1,
+      "id": 123
+    },
+    {
+      "target": "Eso es demasiado.",
+      "category": 1,
+      "id": 124
+    },
+    {
+      "target": "El libro está debajo de la mesa.",
+      "category": 1,
+      "id": 125
+    },
+    {
+      "target": "Ellos estarán de vuelta.",
+      "category": 1,
+      "id": 126
+    },
+    {
+      "target": "Ellos son lo mismo.",
+      "category": 1,
+      "id": 127
+    },
+    {
+      "target": "Están muy ocupados.",
+      "category": 1,
+      "id": 128
+    },
+    {
+      "target": "Esto no funciona",
+      "category": 1,
+      "id": 129
+    },
+    {
+      "target": "Esto es muy difícil.",
+      "category": 1,
+      "id": 130
+    },
+    {
+      "target": "Esto es muy importante.",
+      "category": 1,
+      "id": 131
+    },
+    {
+      "target": "Intentalo.",
+      "category": 1,
+      "id": 132
+    },
+    {
+      "target": "Muy bueno gracias.",
+      "category": 1,
+      "id": 133
+    },
+    {
+      "target": "Nos gusta mucho.",
+      "category": 1,
+      "id": 134
+    },
+    {
+      "target": "¿Llevaría un mensaje, por favor?",
+      "category": 1,
+      "id": 135
+    },
+    {
+      "target": "Sí, en serio.",
+      "category": 1,
+      "id": 136
+    },
+    {
+      "target": "Eres hermosa.",
+      "category": 1,
+      "id": 137
+    },
+    {
+      "target": "Es usted muy agradable.",
+      "category": 1,
+      "id": 138
+    },
+    {
+      "target": "Eres muy inteligente.",
+      "category": 1,
+      "id": 139
+    },
+    {
+      "target": "Tus cosas están todas aquí.",
+      "category": 1,
+      "id": 140
+    },
+    {
+      "target": "Buenos días.",
+      "category": 2,
+      "id": 141
+    },
+    {
+      "target": "Buenas noches señor.",
+      "category": 2,
+      "id": 142
+    },
+    {
+      "target": "Buenas tardes.",
+      "category": 2,
+      "id": 143
+    },
+    {
+      "target": "Hola.",
+      "category": 2,
+      "id": 144
+    },
+    {
+      "target": "¡Ciertamente!",
+      "category": 2,
+      "id": 145
+    },
+    {
+      "target": "Por favor, llámame.",
+      "category": 2,
+      "id": 146
+    },
+    {
+      "target": "Estupendo.",
+      "category": 2,
+      "id": 147
+    },
+    {
+      "target": "Encantada de conocerte",
+      "category": 2,
+      "id": 148
+    },
+    {
+      "target": "Feliz cumpleaños.",
+      "category": 2,
+      "id": 149
+    },
+    {
+      "target": "Buena suerte.",
+      "category": 2,
+      "id": 150
+    },
+    {
+      "target": "Ten un buen viaje.",
+      "category": 2,
+      "id": 151
+    },
+    {
+      "target": "Un boleto de ida y vuelta.",
+      "category": 3,
+      "id": 152
+    },
+    {
+      "target": "Un billete de ida.",
+      "category": 3,
+      "id": 153
+    },
+    {
+      "target": "¿A qué hora?",
+      "category": 3,
+      "id": 154
+    },
+    {
+      "target": "Siga recto.",
+      "category": 3,
+      "id": 155
+    },
+    {
+      "target": "¿Como estuvo la pelicula?",
+      "category": 3,
+      "id": 156
+    },
+    {
+      "target": "¿Cómo puedo llegar a la Embajada de los Estados Unidos?",
+      "category": 3,
+      "id": 157
+    },
+    {
+      "target": "¿Cómo llego a Daniel Street?",
+      "category": 3,
+      "id": 158
+    },
+    {
+      "target": "¿Como llego hasta ahí?",
+      "category": 3,
+      "id": 159
+    },
+    {
+      "target": "¿Puedo hacer una cita para el próximo miércoles?",
+      "category": 3,
+      "id": 160
+    },
+    {
+      "target": "¿Cuánto dura el vuelo?",
+      "category": 3,
+      "id": 161
+    },
+    {
+      "target": "Cerca de 300 kilómetros.",
+      "category": 3,
+      "id": 162
+    },
+    {
+      "target": "De aquí para allá.",
+      "category": 3,
+      "id": 163
+    },
+    {
+      "target": "¿Cuánto tiempo lleva llegar a Georgia?",
+      "category": 3,
+      "id": 164
+    },
+    {
+      "target": "¿Cuánto tiempo toma en coche?",
+      "category": 3,
+      "id": 165
+    },
+    {
+      "target": "Sígueme.",
+      "category": 3,
+      "id": 166
+    },
+    {
+      "target": "¿Has estado en Boston?",
+      "category": 3,
+      "id": 167
+    },
+    {
+      "target": "¿Sabes lo que dice esto?",
+      "category": 3,
+      "id": 168
+    },
+    {
+      "target": "¿Puede repetir eso por favor?",
+      "category": 3,
+      "id": 169
+    },
+    {
+      "target": "¿Ya llegaste?",
+      "category": 3,
+      "id": 170
+    },
+    {
+      "target": "¿Vas a ayudarla?",
+      "category": 3,
+      "id": 171
+    },
+    {
+      "target": "¿Sabes cómo cocinar?",
+      "category": 3,
+      "id": 172
+    },
+    {
+      "target": "¿Quieres que vaya y te recoja?",
+      "category": 3,
+      "id": 173
+    },
+    {
+      "target": "¿Tienes suficiente dinero?",
+      "category": 3,
+      "id": 174
+    },
+    {
+      "target": "Tengo una pregunta que quiero hacerte. Quiero hacerte una pregunta.",
+      "category": 3,
+      "id": 175
+    },
+    {
+      "target": "¿Este camino va a Nueva York?",
+      "category": 3,
+      "id": 176
+    },
+    {
+      "target": "Tomaré ese también.",
+      "category": 3,
+      "id": 177
+    },
+    {
+      "target": "Me voy a casa en cuatro días.",
+      "category": 3,
+      "id": 178
+    },
+    {
+      "target": "Vengo ahora.",
+      "category": 3,
+      "id": 179
+    },
+    {
+      "target": "Me gustaría hacer una reservación.",
+      "category": 3,
+      "id": 180
+    },
+    {
+      "target": "Me gustaría hacer una llamada telefónica.",
+      "category": 3,
+      "id": 181
+    },
+    {
+      "target": "11 dólares.",
+      "category": 4,
+      "id": 182
+    },
+    {
+      "target": "52 centavos.",
+      "category": 4,
+      "id": 183
+    },
+    {
+      "target": "¿Aceptan tarjetas de crédito?",
+      "category": 4,
+      "id": 184
+    },
+    {
+      "target": "¿Dónde quieres quedar?",
+      "category": 4,
+      "id": 185
+    },
+    {
+      "target": "¿Dónde puedo comprar las entradas?",
+      "category": 4,
+      "id": 186
+    },
+    {
+      "target": "¿Hay algún correo para mi?",
+      "category": 4,
+      "id": 187
+    },
+    {
+      "target": "Hay mucha gente aquí.",
+      "category": 4,
+      "id": 188
+    },
+    {
+      "target": "Lo sentimos, no aceptamos tarjetas de crédito.",
+      "category": 4,
+      "id": 189
+    },
+    {
+      "target": "Lo sentimos, solo aceptamos efectivo.",
+      "category": 4,
+      "id": 190
+    },
+    {
+      "target": "¿Cómo estás pagando?",
+      "category": 4,
+      "id": 191
+    },
+    {
+      "target": "¿Cuál es el número de teléfono?",
+      "category": 4,
+      "id": 192
+    },
+    {
+      "target": "¿Cuál es la tasa de cambio de dólares?",
+      "category": 4,
+      "id": 193
+    },
+    {
+      "target": "¿Cuál es mejor?",
+      "category": 4,
+      "id": 194
+    },
+    {
+      "target": "Tengo 26 años.",
+      "category": 4,
+      "id": 195
+    },
+    {
+      "target": "Tengo que practicar mi Inglés.",
+      "category": 4,
+      "id": 196
+    },
+    {
+      "target": "¿No es así?",
+      "category": 4,
+      "id": 197
+    },
+    {
+      "target": "Unos pocos.",
+      "category": 4,
+      "id": 198
+    },
+    {
+      "target": "Cobran 26 dólares por día.",
+      "category": 4,
+      "id": 199
+    },
+    {
+      "target": "Por favor entra.",
+      "category": 4,
+      "id": 200
+    },
+    {
+      "target": "Llama a la policía.",
+      "category": 4,
+      "id": 201
+    },
+    {
+      "target": "¿Cuánto cuestan estos pendientes?",
+      "category": 4,
+      "id": 202
+    },
+    {
+      "target": "Ese restaurante no es caro.",
+      "category": 4,
+      "id": 203
+    },
+    {
+      "target": "Son las 11:30 p.m.",
+      "category": 4,
+      "id": 204
+    },
+    {
+      "target": "Son las nueve y cuarto.",
+      "category": 4,
+      "id": 205
+    },
+    {
+      "target": "¿Cuanto dinero ganas?",
+      "category": 4,
+      "id": 206
+    },
+    {
+      "target": "¿Cuántas personas hay en Nueva York?",
+      "category": 4,
+      "id": 207
+    },
+    {
+      "target": "¿Cuánto cuesta ir a Miami?",
+      "category": 4,
+      "id": 208
+    },
+    {
+      "target": "¿Cuánto cuesta por día?",
+      "category": 4,
+      "id": 209
+    },
+    {
+      "target": "¿Cuánto cuesta este?",
+      "category": 4,
+      "id": 210
+    },
+    {
+      "target": "¿Cuánto te debo?",
+      "category": 4,
+      "id": 211
+    },
+    {
+      "target": "¿Tu mujer como California?",
+      "category": 4,
+      "id": 212
+    },
+    {
+      "target": "¿Tienes algo más barato?",
+      "category": 4,
+      "id": 213
+    },
+    {
+      "target": "Quiero lo mismo.",
+      "category": 4,
+      "id": 214
+    },
+    {
+      "target": "Tengo una reservación.",
+      "category": 4,
+      "id": 215
+    },
+    {
+      "target": "No tengo novia",
+      "category": 4,
+      "id": 216
+    },
+    {
+      "target": "No tengo dinero",
+      "category": 4,
+      "id": 217
+    },
+    {
+      "target": "¿Tienes café?",
+      "category": 4,
+      "id": 218
+    },
+    {
+      "target": "Un poco.",
+      "category": 4,
+      "id": 219
+    },
+    {
+      "target": "¿Eso esta bien?",
+      "category": 4,
+      "id": 220
+    },
+    {
+      "target": "Eso es demasiado caro.",
+      "category": 4,
+      "id": 221
+    },
+    {
+      "target": "Pagaré las entradas.",
+      "category": 4,
+      "id": 222
+    },
+    {
+      "target": "Pagaré por la cena.",
+      "category": 4,
+      "id": 223
+    },
+    {
+      "target": "Me gustaría comer en el restaurante 5th Street.",
+      "category": 4,
+      "id": 224
+    },
+    {
+      "target": "Más de 200 millas.",
+      "category": 5,
+      "id": 225
+    },
+    {
+      "target": "Silencio.",
+      "category": 5,
+      "id": 226
+    },
+    {
+      "target": "A las 3 en punto.",
+      "category": 5,
+      "id": 227
+    },
+    {
+      "target": "Aqui.",
+      "category": 5,
+      "id": 228
+    },
+    {
+      "target": "Por ahí.",
+      "category": 5,
+      "id": 229
+    },
+    {
+      "target": "Aquí estás.",
+      "category": 5,
+      "id": 230
+    },
+    {
+      "target": "Aquí está.",
+      "category": 5,
+      "id": 231
+    },
+    {
+      "target": "Está bien.",
+      "category": 5,
+      "id": 232
+    },
+    {
+      "target": "¿Dónde está?",
+      "category": 5,
+      "id": 233
+    },
+    {
+      "target": "¿Qué tan lejos está de Chicago?",
+      "category": 5,
+      "id": 234
+    },
+    {
+      "target": "¿Que tan lejos está?",
+      "category": 5,
+      "id": 235
+    },
+    {
+      "target": "¿Cual es la dirección?",
+      "category": 5,
+      "id": 236
+    },
+    {
+      "target": "Hay un libro debajo de la mesa.",
+      "category": 5,
+      "id": 237
+    },
+    {
+      "target": "El libro está encima de la mesa.",
+      "category": 5,
+      "id": 238
+    },
+    {
+      "target": "El libro está cerca de la mesa.",
+      "category": 5,
+      "id": 239
+    },
+    {
+      "target": "El libro está al lado de la mesa.",
+      "category": 5,
+      "id": 240
+    },
+    {
+      "target": "El libro está detrás de la mesa.",
+      "category": 5,
+      "id": 241
+    },
+    {
+      "target": "El libro está en frente de la mesa.",
+      "category": 5,
+      "id": 242
+    },
+    {
+      "target": "¿Quien ganó?",
+      "category": 5,
+      "id": 243
+    },
+    {
+      "target": "¿Dónde te gustaría ir?",
+      "category": 5,
+      "id": 244
+    },
+    {
+      "target": "¿A dónde vas?",
+      "category": 5,
+      "id": 245
+    },
+    {
+      "target": "Quisiera una habitación individual.",
+      "category": 5,
+      "id": 246
+    },
+    {
+      "target": "Tal vez.",
+      "category": 5,
+      "id": 247
+    },
+    {
+      "target": "Mi casa está cerca del banco.",
+      "category": 5,
+      "id": 248
+    },
+    {
+      "target": "Somos de California.",
+      "category": 5,
+      "id": 249
+    },
+    {
+      "target": "En el segundo piso.",
+      "category": 5,
+      "id": 250
+    },
+    {
+      "target": "Se supone que lloverá mañana.",
+      "category": 5,
+      "id": 251
+    },
+    {
+      "target": "A la izquierda.",
+      "category": 5,
+      "id": 252
+    },
+    {
+      "target": "A la derecha.",
+      "category": 5,
+      "id": 253
+    },
+    {
+      "target": "Enfrente de la oficina de correos.",
+      "category": 5,
+      "id": 254
+    },
+    {
+      "target": "Hay algunos libros sobre la mesa.",
+      "category": 5,
+      "id": 255
+    },
+    {
+      "target": "Cerca del banco.",
+      "category": 5,
+      "id": 256
+    },
+    {
+      "target": "El esta en la cocina.",
+      "category": 5,
+      "id": 257
+    },
+    {
+      "target": "Él estudia en la Universidad de Boston.",
+      "category": 5,
+      "id": 258
+    },
+    {
+      "target": "Vamonos.",
+      "category": 5,
+      "id": 259
+    },
+    {
+      "target": "no se supone que llueva hoy.",
+      "category": 5,
+      "id": 260
+    },
+    {
+      "target": "Hace mucho calor.",
+      "category": 5,
+      "id": 261
+    },
+    {
+      "target": "Son las once y media.",
+      "category": 5,
+      "id": 262
+    },
+    {
+      "target": "¿Cuántas millas es a Pensilvania?",
+      "category": 5,
+      "id": 263
+    },
+    {
+      "target": "Afuera del hotel.",
+      "category": 5,
+      "id": 264
+    },
+    {
+      "target": "¿Podría recomendarme un buen restaurante?",
+      "category": 5,
+      "id": 265
+    },
+    {
+      "target": "Son más de 5 dólares.",
+      "category": 5,
+      "id": 266
+    },
+    {
+      "target": "¡Es delicioso!",
+      "category": 5,
+      "id": 267
+    },
+    {
+      "target": "Es menos de 5 dólares.",
+      "category": 5,
+      "id": 268
+    },
+    {
+      "target": "Está en la 7ma calle.",
+      "category": 5,
+      "id": 269
+    },
+    {
+      "target": "Está cerca del supermercado.",
+      "category": 5,
+      "id": 270
+    },
+    {
+      "target": "Estaba en la biblioteca.",
+      "category": 5,
+      "id": 271
+    },
+    {
+      "target": "Me gusta ver Televisión.",
+      "category": 5,
+      "id": 272
+    },
+    {
+      "target": "Iba a la biblioteca.",
+      "category": 5,
+      "id": 273
+    },
+    {
+      "target": "Aquí está mi número.",
+      "category": 6,
+      "id": 274
+    },
+    {
+      "target": "¿Dónde está la farmacia?",
+      "category": 6,
+      "id": 275
+    },
+    {
+      "target": "¿Dónde está el restaurante más cercano?",
+      "category": 6,
+      "id": 276
+    },
+    {
+      "target": "¿Dónde puedo encontrar un hospital?",
+      "category": 6,
+      "id": 277
+    },
+    {
+      "target": "¿Hay una guía de habla inglesa?",
+      "category": 6,
+      "id": 278
+    },
+    {
+      "target": "Hola, ¿está la Sra. Smith allí, por favor?",
+      "category": 6,
+      "id": 279
+    },
+    {
+      "target": "Lo siento, creo que tengo el número equivocado.",
+      "category": 6,
+      "id": 280
+    },
+    {
+      "target": "¿Cuál es el nombre de la empresa para la que trabajas?",
+      "category": 6,
+      "id": 281
+    },
+    {
+      "target": "¿Cuál es el código de área?",
+      "category": 6,
+      "id": 282
+    },
+    {
+      "target": "¿Cual es tu direccion?",
+      "category": 6,
+      "id": 283
+    },
+    {
+      "target": "¿Quién eres tú?",
+      "category": 6,
+      "id": 284
+    },
+    {
+      "target": "¿Quién es ese?",
+      "category": 6,
+      "id": 285
+    },
+    {
+      "target": "Necesito algunos pañuelos.",
+      "category": 6,
+      "id": 286
+    },
+    {
+      "target": "También me gustaría un poco de agua, por favor.",
+      "category": 6,
+      "id": 287
+    },
+    {
+      "target": "¿Puedo recibir un mensaje?",
+      "category": 6,
+      "id": 288
+    },
+    {
+      "target": "¿Puedo probármelo?",
+      "category": 6,
+      "id": 289
+    },
+    {
+      "target": "¿Podemos sentarnos allí?",
+      "category": 6,
+      "id": 290
+    },
+    {
+      "target": "¿Puedo ver su pasaporte, por favor?",
+      "category": 6,
+      "id": 291
+    },
+    {
+      "target": "Mi teléfono celular no funciona.",
+      "category": 6,
+      "id": 292
+    },
+    {
+      "target": "¿Masculino o femenino?",
+      "category": 6,
+      "id": 293
+    },
+    {
+      "target": "Él no está en este momento.",
+      "category": 6,
+      "id": 294
+    },
+    {
+      "target": "Por favor quítese los zapatos.",
+      "category": 6,
+      "id": 295
+    },
+    {
+      "target": "¿Con quién te gustaría hablar?",
+      "category": 6,
+      "id": 296
+    },
+    {
+      "target": "Estoy bien.",
+      "category": 6,
+      "id": 297
+    },
+    {
+      "target": "¿Crees que es posible?",
+      "category": 6,
+      "id": 298
+    },
+    {
+      "target": "¿Me llevarás a casa?",
+      "category": 6,
+      "id": 299
+    },
+    {
+      "target": "¿Viniste con tu familia?",
+      "category": 6,
+      "id": 300
+    },
+    {
+      "target": "Tengo tres hijos, dos niñas y un niño.",
+      "category": 6,
+      "id": 301
+    },
+    {
+      "target": "Mi teléfono celular no tiene buena recepción.",
+      "category": 6,
+      "id": 302
+    },
+    {
+      "target": "¿Te gustaría agua o leche?",
+      "category": 6,
+      "id": 303
+    },
+    {
+      "target": "¿Qué pasa?",
+      "category": 6,
+      "id": 304
+    },
+    {
+      "target": "Me gustaría comprar una botella de agua, por favor.",
+      "category": 6,
+      "id": 305
+    },
+    {
+      "target": "Me gustaría hablar con el Sr. Smith por favor.",
+      "category": 6,
+      "id": 306
+    },
+    {
+      "target": "Me gustaría comprar algo",
+      "category": 6,
+      "id": 307
+    },
+    {
+      "target": "Te enseñaré.",
+      "category": 6,
+      "id": 308
+    },
+    {
+      "target": "Volveré a llamar más tarde.",
+      "category": 6,
+      "id": 309
+    },
+    {
+      "target": "Te llamaré el viernes.",
+      "category": 6,
+      "id": 310
+    },
+    {
+      "target": "Vuelvo enseguida.",
+      "category": 6,
+      "id": 311
+    },
+    {
+      "target": "Me gustaría alquilar un auto",
+      "category": 6,
+      "id": 312
+    },
+    {
+      "target": "Me gustaría enviar un fax.",
+      "category": 6,
+      "id": 313
+    },
+    {
+      "target": "Me gustaría enviar esto a América.",
+      "category": 6,
+      "id": 314
+    },
+    {
+      "target": "Me gustaría ir a la tienda.",
+      "category": 6,
+      "id": 315
+    },
+    {
+      "target": "Quiero darte un regalo.",
+      "category": 6,
+      "id": 316
+    },
+    {
+      "target": "Hace 11 días.",
+      "category": 7,
+      "id": 317
+    },
+    {
+      "target": "2 horas.",
+      "category": 7,
+      "id": 318
+    },
+    {
+      "target": "22 de octubre.",
+      "category": 7,
+      "id": 319
+    },
+    {
+      "target": "A las 3 de la tarde.",
+      "category": 7,
+      "id": 320
+    },
+    {
+      "target": "A las 7 en punto de la noche. (noche)?",
+      "category": 7,
+      "id": 321
+    },
+    {
+      "target": "A las 7 en punto de la mañana.",
+      "category": 7,
+      "id": 322
+    },
+    {
+      "target": "¿A qué hora llegan?",
+      "category": 7,
+      "id": 323
+    },
+    {
+      "target": "¿A qué hora te levantaste?",
+      "category": 7,
+      "id": 324
+    },
+    {
+      "target": "¿A qué hora crees que llegarás?",
+      "category": 7,
+      "id": 325
+    },
+    {
+      "target": "¿A qué hora te dormiste?",
+      "category": 7,
+      "id": 326
+    },
+    {
+      "target": "¿A qué hora te levantaste?",
+      "category": 7,
+      "id": 327
+    },
+    {
+      "target": "¿A qué hora empieza eso?",
+      "category": 7,
+      "id": 328
+    },
+    {
+      "target": "¿Que dia de la semana es?",
+      "category": 7,
+      "id": 329
+    },
+    {
+      "target": "¿Qué día vendrán?",
+      "category": 7,
+      "id": 330
+    },
+    {
+      "target": "Todo el dia.",
+      "category": 7,
+      "id": 331
+    },
+    {
+      "target": "Todo el día.",
+      "category": 7,
+      "id": 332
+    },
+    {
+      "target": "¿A qué hora sucedió?",
+      "category": 7,
+      "id": 333
+    },
+    {
+      "target": "Hace mucho tiempo.",
+      "category": 7,
+      "id": 334
+    },
+    {
+      "target": "John se va de vacaciones mañana.",
+      "category": 7,
+      "id": 335
+    },
+    {
+      "target": "Su familia vendrá mañana.",
+      "category": 7,
+      "id": 336
+    },
+    {
+      "target": "A veces me voy a dormir a las 11 p.m., a veces a las 11:30 p.m.",
+      "category": 7,
+      "id": 337
+    },
+    {
+      "target": "Cada semana.",
+      "category": 7,
+      "id": 338
+    },
+    {
+      "target": "Todos los días me levanto a las 6 AM.",
+      "category": 7,
+      "id": 339
+    },
+    {
+      "target": "¿Cuánto tiempo te vas a quedar en California?",
+      "category": 7,
+      "id": 340
+    },
+    {
+      "target": "¿Cuánto tiempo vas a permanecer?",
+      "category": 7,
+      "id": 341
+    },
+    {
+      "target": "Tan pronto como sea posible.",
+      "category": 7,
+      "id": 342
+    },
+    {
+      "target": "¿Que tal el sábado?",
+      "category": 7,
+      "id": 343
+    },
+    {
+      "target": "¿Cuál es la fecha de hoy?",
+      "category": 7,
+      "id": 344
+    },
+    {
+      "target": "¿Cual es tu religion?",
+      "category": 7,
+      "id": 345
+    },
+    {
+      "target": "¿Cuándo te mudas?",
+      "category": 7,
+      "id": 346
+    },
+    {
+      "target": "¿Cuándo va a estar de regreso?",
+      "category": 7,
+      "id": 347
+    },
+    {
+      "target": "¿Cuándo vienen?",
+      "category": 7,
+      "id": 348
+    },
+    {
+      "target": "¿Cuándo es el próximo autobús a Philidalphia?",
+      "category": 7,
+      "id": 349
+    },
+    {
+      "target": "¿Cuando es tu cumpleaños?",
+      "category": 7,
+      "id": 350
+    },
+    {
+      "target": "¿Cuando vas a volver?",
+      "category": 7,
+      "id": 351
+    },
+    {
+      "target": "¿Cuándo fue la última vez que hablaste con tu madre?",
+      "category": 7,
+      "id": 352
+    },
+    {
+      "target": "¿Cuándo vas a recoger a tu amigo?",
+      "category": 7,
+      "id": 353
+    },
+    {
+      "target": "¿Cuando te vas?",
+      "category": 7,
+      "id": 354
+    },
+    {
+      "target": "¿Cuándo estará listo?",
+      "category": 7,
+      "id": 355
+    },
+    {
+      "target": "Cuando fui a la tienda, no tenían manzanas.",
+      "category": 7,
+      "id": 356
+    },
+    {
+      "target": "¿A dónde vas?",
+      "category": 7,
+      "id": 357
+    },
+    {
+      "target": "Hay un montón de tiempo.",
+      "category": 7,
+      "id": 358
+    },
+    {
+      "target": "¿Puedo ayudarte?",
+      "category": 7,
+      "id": 359
+    },
+    {
+      "target": "Mi cumpleaños es el 27 de agosto.",
+      "category": 7,
+      "id": 360
+    },
+    {
+      "target": "Llegamos tarde.",
+      "category": 7,
+      "id": 361
+    },
+    {
+      "target": "En la calle 5ta.",
+      "category": 7,
+      "id": 362
+    },
+    {
+      "target": "Regresará en 20 minutos.",
+      "category": 7,
+      "id": 363
+    },
+    {
+      "target": "Ella quiere saber cuándo vendrás.",
+      "category": 7,
+      "id": 364
+    },
+    {
+      "target": "¿Vienen esta noche?",
+      "category": 7,
+      "id": 365
+    },
+    {
+      "target": "Va a nevar hoy.",
+      "category": 7,
+      "id": 366
+    },
+    {
+      "target": "Estará frío esta tarde.",
+      "category": 7,
+      "id": 367
+    },
+    {
+      "target": "Llovió muy duro hoy.",
+      "category": 7,
+      "id": 368
+    },
+    {
+      "target": "Son las 6 AM.",
+      "category": 7,
+      "id": 369
+    },
+    {
+      "target": "Son las 8:45.",
+      "category": 7,
+      "id": 370
+    },
+    {
+      "target": "Son las siete menos cuarto.",
+      "category": 7,
+      "id": 371
+    },
+    {
+      "target": "¿Ahora o más adelante?",
+      "category": 7,
+      "id": 372
+    },
+    {
+      "target": "¿Que hora es?",
+      "category": 7,
+      "id": 373
+    },
+    {
+      "target": "¿Cuánto en total?",
+      "category": 7,
+      "id": 374
+    },
+    {
+      "target": "¿Cuanto costara?",
+      "category": 7,
+      "id": 375
+    },
+    {
+      "target": "¿Cuánto tiempo tardará?",
+      "category": 7,
+      "id": 376
+    },
+    {
+      "target": "Fecha de caducidad.",
+      "category": 7,
+      "id": 377
+    },
+    {
+      "target": "¿Están tus hijos contigo?",
+      "category": 7,
+      "id": 378
+    },
+    {
+      "target": "¿Estás cómodo?",
+      "category": 7,
+      "id": 379
+    },
+    {
+      "target": "¿Has estado esperando mucho?",
+      "category": 7,
+      "id": 380
+    },
+    {
+      "target": "¿Crees que volverás a las 11:30?",
+      "category": 7,
+      "id": 381
+    },
+    {
+      "target": "¿Tienes esto en tamaño 11?",
+      "category": 7,
+      "id": 382
+    },
+    {
+      "target": "No tengo suficiente dinero",
+      "category": 7,
+      "id": 383
+    },
+    {
+      "target": "¿Tiene usted una piscina?",
+      "category": 7,
+      "id": 384
+    },
+    {
+      "target": "Esta aquí.",
+      "category": 7,
+      "id": 385
+    },
+    {
+      "target": "Son 17 dólares.",
+      "category": 7,
+      "id": 386
+    },
+    {
+      "target": "Está allá.",
+      "category": 7,
+      "id": 387
+    },
+    {
+      "target": "Me estoy preparando para salir.",
+      "category": 7,
+      "id": 388
+    },
+    {
+      "target": "Solo estoy mirando. (Compras)",
+      "category": 7,
+      "id": 389
+    },
+    {
+      "target": "Estoy preocupado también",
+      "category": 7,
+      "id": 390
+    },
+    {
+      "target": "Ya lo he visto.",
+      "category": 7,
+      "id": 391
+    },
+    {
+      "target": "¿A que hora es la salida?",
+      "category": 8,
+      "id": 392
+    },
+    {
+      "target": "¿Donde esta el aeropuerto?",
+      "category": 8,
+      "id": 393
+    },
+    {
+      "target": "¿Dónde está el buzón?",
+      "category": 8,
+      "id": 394
+    },
+    {
+      "target": "¿Hay una tienda cerca de aquí?",
+      "category": 8,
+      "id": 395
+    },
+    {
+      "target": "¿Hay un club nocturno en la ciudad?",
+      "category": 8,
+      "id": 396
+    },
+    {
+      "target": "Hay un restaurante en el hotel?",
+      "category": 8,
+      "id": 397
+    },
+    {
+      "target": "Lo sentimos, no tenemos ninguna vacante.",
+      "category": 8,
+      "id": 398
+    },
+    {
+      "target": "¿Cuánto tiempo te quedarás?",
+      "category": 8,
+      "id": 399
+    },
+    {
+      "target": "¿Cuál es el cargo por noche? (Hotel)",
+      "category": 8,
+      "id": 400
+    },
+    {
+      "target": "Necesito un médico.",
+      "category": 8,
+      "id": 401
+    },
+    {
+      "target": "Me gustaría un mapa de la ciudad.",
+      "category": 8,
+      "id": 402
+    },
+    {
+      "target": "Me gustaría una habitación con dos camas, por favor.",
+      "category": 8,
+      "id": 403
+    },
+    {
+      "target": "Quisiera una habitación.",
+      "category": 8,
+      "id": 404
+    },
+    {
+      "target": "¿Podemos tener un poco más de pan, por favor?",
+      "category": 8,
+      "id": 405
+    },
+    {
+      "target": "¿Por cuántas noches?",
+      "category": 8,
+      "id": 406
+    },
+    {
+      "target": "Llévame al Hotel Marriott.",
+      "category": 8,
+      "id": 407
+    },
+    {
+      "target": "¿Estás ocupado?",
+      "category": 8,
+      "id": 408
+    },
+    {
+      "target": "¿Tienes algo de dinero?",
+      "category": 8,
+      "id": 409
+    },
+    {
+      "target": "Me gustaría una habitación para no fumadores.",
+      "category": 8,
+      "id": 410
+    },
+    {
+      "target": "3 de junio.",
+      "category": 9,
+      "id": 411
+    },
+    {
+      "target": "Hay un restaurante allí, pero no creo que sea muy bueno.",
+      "category": 9,
+      "id": 412
+    },
+    {
+      "target": "Aquí está tu orden.",
+      "category": 9,
+      "id": 413
+    },
+    {
+      "target": "Aquí está tu ensalada.",
+      "category": 9,
+      "id": 414
+    },
+    {
+      "target": "¿Dónde está un cajero automático?",
+      "category": 9,
+      "id": 415
+    },
+    {
+      "target": "¿Dónde hay un doctor que habla inglés?",
+      "category": 9,
+      "id": 416
+    },
+    {
+      "target": "La comida era deliciosa.",
+      "category": 9,
+      "id": 417
+    },
+    {
+      "target": "¿A qué sabe?",
+      "category": 9,
+      "id": 418
+    },
+    {
+      "target": "¿Cuál es tu dirección de correo electrónico?",
+      "category": 9,
+      "id": 419
+    },
+    {
+      "target": "¿Cúal?",
+      "category": 9,
+      "id": 420
+    },
+    {
+      "target": "Creo que necesito ver un doctor",
+      "category": 9,
+      "id": 421
+    },
+    {
+      "target": "Me gusta.",
+      "category": 9,
+      "id": 422
+    },
+    {
+      "target": "¿Puede ser más barato?",
+      "category": 9,
+      "id": 423
+    },
+    {
+      "target": "¿Puedo traer a mi amigo?",
+      "category": 9,
+      "id": 424
+    },
+    {
+      "target": "¿Podemos tener un menú por favor?",
+      "category": 9,
+      "id": 425
+    },
+    {
+      "target": "¿Puedo tener un recibo por favor?",
+      "category": 9,
+      "id": 426
+    },
+    {
+      "target": "Podemos comer comida italiana o china.",
+      "category": 9,
+      "id": 427
+    },
+    {
+      "target": "Tendremos dos vasos de agua por favor.",
+      "category": 9,
+      "id": 428
+    },
+    {
+      "target": "¿Quieres agua?",
+      "category": 9,
+      "id": 429
+    },
+    {
+      "target": "¿Te gustaría té ó café?",
+      "category": 9,
+      "id": 430
+    },
+    {
+      "target": "¿Quieres un vaso de agua?",
+      "category": 9,
+      "id": 431
+    },
+    {
+      "target": "¿Te gustaría algo de vino?",
+      "category": 9,
+      "id": 432
+    },
+    {
+      "target": "¿Te gustaría ver la televisión?",
+      "category": 9,
+      "id": 433
+    },
+    {
+      "target": "¿Quieres ir a dar un paseo?",
+      "category": 9,
+      "id": 434
+    },
+    {
+      "target": "¿Le gustaría algo de beber?",
+      "category": 9,
+      "id": 435
+    },
+    {
+      "target": "Hay algunas manzanas en el refrigerador.",
+      "category": 9,
+      "id": 436
+    },
+    {
+      "target": "Le gusta el jugo pero no le gusta la leche",
+      "category": 9,
+      "id": 437
+    },
+    {
+      "target": "¡Camarero!",
+      "category": 9,
+      "id": 438
+    },
+    {
+      "target": "¡Camarera!",
+      "category": 9,
+      "id": 439
+    },
+    {
+      "target": "Hay un restaurante cerca de aquí.",
+      "category": 9,
+      "id": 440
+    },
+    {
+      "target": "Es el 25 de agosto.",
+      "category": 9,
+      "id": 441
+    },
+    {
+      "target": "¿Cuanta gente? (restaurante)",
+      "category": 9,
+      "id": 442
+    },
+    {
+      "target": "Tomaré un vaso de agua por favor.",
+      "category": 9,
+      "id": 443
+    },
+    {
+      "target": "¿Estas aquí solo?",
+      "category": 9,
+      "id": 444
+    },
+    {
+      "target": "¿Sabes cuánto cuesta?",
+      "category": 9,
+      "id": 445
+    },
+    {
+      "target": "¿Alguna vez has probado la sopa de papa?",
+      "category": 9,
+      "id": 446
+    },
+    {
+      "target": "¿Has comido en ese restaurante?",
+      "category": 9,
+      "id": 447
+    },
+    {
+      "target": "¿Puedes sostener esto para mí?",
+      "category": 9,
+      "id": 448
+    },
+    {
+      "target": "¿Le pedirías que venga aquí?",
+      "category": 9,
+      "id": 449
+    },
+    {
+      "target": "¿No has comido todavía?",
+      "category": 9,
+      "id": 450
+    },
+    {
+      "target": "Solo tengo 5 dólares.",
+      "category": 9,
+      "id": 451
+    },
+    {
+      "target": "¿Tienes hijos?",
+      "category": 9,
+      "id": 452
+    },
+    {
+      "target": "Tomaré una taza de té por favor.",
+      "category": 9,
+      "id": 453
+    },
+    {
+      "target": "¿Qué le gustaría beber?",
+      "category": 9,
+      "id": 454
+    },
+    {
+      "target": "¿Qué te gustaría comer?",
+      "category": 9,
+      "id": 455
+    },
+    {
+      "target": "¿Que recomiendas?",
+      "category": 9,
+      "id": 456
+    },
+    {
+      "target": "¿Que vas a tener?",
+      "category": 9,
+      "id": 457
+    },
+    {
+      "target": "Me gustaría una mesa cerca de la ventana.",
+      "category": 9,
+      "id": 458
+    },
+    {
+      "target": "Estoy aquí por negocios.",
+      "category": 9,
+      "id": 459
+    },
+    {
+      "target": "Me voy a la cama.",
+      "category": 9,
+      "id": 460
+    },
+    {
+      "target": "Soy de América.",
+      "category": 9,
+      "id": 461
+    },
+    {
+      "target": "Lo siento.",
+      "category": 9,
+      "id": 462
+    },
+    {
+      "target": "No he terminado de comer.",
+      "category": 9,
+      "id": 463
+    },
+    {
+      "target": "Te llamaré",
+      "category": 9,
+      "id": 464
+    },
+    {
+      "target": "Entiendo.",
+      "category": 9,
+      "id": 465
+    },
+    {
+      "target": "Estoy de acuerdo.",
+      "category": 9,
+      "id": 466
+    },
+    {
+      "target": "No he estado allí.",
+      "category": 9,
+      "id": 467
+    },
+    {
+      "target": "Me gustaría llamar a los Estados Unidos.",
+      "category": 9,
+      "id": 468
+    },
+    {
+      "target": "Los negocios son buenos.",
+      "category": 10,
+      "id": 469
+    },
+    {
+      "target": "¿A que escuela fuiste?",
+      "category": 10,
+      "id": 470
+    },
+    {
+      "target": "Su hija.",
+      "category": 10,
+      "id": 471
+    },
+    {
+      "target": "Sus hijos se comportan muy bien.",
+      "category": 10,
+      "id": 472
+    },
+    {
+      "target": "Nevó ayer?",
+      "category": 10,
+      "id": 473
+    },
+    {
+      "target": "¿Estudias inglés?",
+      "category": 10,
+      "id": 474
+    },
+    {
+      "target": "¿Vendes medicinas? (almacenar)",
+      "category": 10,
+      "id": 475
+    },
+    {
+      "target": "¿Dónde estabas?",
+      "category": 10,
+      "id": 476
+    },
+    {
+      "target": "¿Donde aprendiste ingles?",
+      "category": 10,
+      "id": 477
+    },
+    {
+      "target": "¿Dónde vives?",
+      "category": 10,
+      "id": 478
+    },
+    {
+      "target": "¿Dónde trabajabas antes de trabajar aquí?",
+      "category": 10,
+      "id": 479
+    },
+    {
+      "target": "¿Dónde están las camisetas?",
+      "category": 10,
+      "id": 480
+    },
+    {
+      "target": "Compartamos.",
+      "category": 10,
+      "id": 481
+    },
+    {
+      "target": "Disculpe.",
+      "category": 10,
+      "id": 482
+    },
+    {
+      "target": "¿Cuanto tiempo has estado en America?",
+      "category": 10,
+      "id": 483
+    },
+    {
+      "target": "¿Cuanto tiempo llevas aqui?",
+      "category": 10,
+      "id": 484
+    },
+    {
+      "target": "¿Cuanto tiempo has vivido aqui?",
+      "category": 10,
+      "id": 485
+    },
+    {
+      "target": "¿Cuál es tu nombre?",
+      "category": 10,
+      "id": 486
+    },
+    {
+      "target": "¿Cual es tu apellido?",
+      "category": 10,
+      "id": 487
+    },
+    {
+      "target": "¿Cuáles son tus aficiones?",
+      "category": 10,
+      "id": 488
+    },
+    {
+      "target": "¿Cuál es tu película favorita?",
+      "category": 10,
+      "id": 489
+    },
+    {
+      "target": "¿Quién envió esta carta?",
+      "category": 10,
+      "id": 490
+    },
+    {
+      "target": "¿Dónde fuiste?",
+      "category": 10,
+      "id": 491
+    },
+    {
+      "target": "Ese auto es similar a mi auto.",
+      "category": 10,
+      "id": 492
+    },
+    {
+      "target": "Mi nombre es John Smith.",
+      "category": 10,
+      "id": 493
+    },
+    {
+      "target": "Tengo 32 años.",
+      "category": 10,
+      "id": 494
+    },
+    {
+      "target": "Tengo que lavarme la ropa",
+      "category": 10,
+      "id": 495
+    },
+    {
+      "target": "Mi abuela falleció el año pasado.",
+      "category": 10,
+      "id": 496
+    },
+    {
+      "target": "Mi padre es abogado",
+      "category": 10,
+      "id": 497
+    },
+    {
+      "target": "Mi padre ha estado allí.",
+      "category": 10,
+      "id": 498
+    },
+    {
+      "target": "Soy un tamaño 8.",
+      "category": 10,
+      "id": 499
+    },
+    {
+      "target": "Mi hijo estudia computadoras.",
+      "category": 10,
+      "id": 500
+    },
+    {
+      "target": "Mi hijo.",
+      "category": 10,
+      "id": 501
+    },
+    {
+      "target": "Mi hija está aquí.",
+      "category": 10,
+      "id": 502
+    },
+    {
+      "target": "¿Cuántos idiomas hablas?",
+      "category": 10,
+      "id": 503
+    },
+    {
+      "target": "Nuestros hijos están en América.",
+      "category": 10,
+      "id": 504
+    },
+    {
+      "target": "¿Te gustaría comprar esto?",
+      "category": 10,
+      "id": 505
+    },
+    {
+      "target": "No, esta es la primera vez.",
+      "category": 10,
+      "id": 506
+    },
+    {
+      "target": "No, soy americano.",
+      "category": 10,
+      "id": 507
+    },
+    {
+      "target": "Ella es mayor que yo.",
+      "category": 10,
+      "id": 508
+    },
+    {
+      "target": "Ella es una experta",
+      "category": 10,
+      "id": 509
+    },
+    {
+      "target": "¿Ya la conocieron?",
+      "category": 10,
+      "id": 510
+    },
+    {
+      "target": "Llámame.",
+      "category": 10,
+      "id": 511
+    },
+    {
+      "target": "¡Aclamaciones!",
+      "category": 10,
+      "id": 512
+    },
+    {
+      "target": "¿Cuantos años tienes?",
+      "category": 10,
+      "id": 513
+    },
+    {
+      "target": "¿Cuanto te gustaría?",
+      "category": 10,
+      "id": 514
+    },
+    {
+      "target": "¿Cuántos hijos tiene?",
+      "category": 10,
+      "id": 515
+    },
+    {
+      "target": "¿Cuántas personas tienes en tu familia?",
+      "category": 10,
+      "id": 516
+    },
+    {
+      "target": "¿Tu hermano ha estado en California?",
+      "category": 10,
+      "id": 517
+    },
+    {
+      "target": "¿Tu casa es como esta?",
+      "category": 10,
+      "id": 518
+    },
+    {
+      "target": "¿Tu esposo también es de Boston?",
+      "category": 10,
+      "id": 519
+    },
+    {
+      "target": "¿Te gusta aquí?",
+      "category": 10,
+      "id": 520
+    },
+    {
+      "target": "¿Te gusta el libro?",
+      "category": 10,
+      "id": 521
+    },
+    {
+      "target": "¿Necesitas algo?",
+      "category": 10,
+      "id": 522
+    },
+    {
+      "target": "¿Eres americano?",
+      "category": 10,
+      "id": 523
+    },
+    {
+      "target": "¿Tienes hambre?",
+      "category": 10,
+      "id": 524
+    },
+    {
+      "target": "¿Has hecho esto antes?",
+      "category": 10,
+      "id": 525
+    },
+    {
+      "target": "¿Sabes dónde hay una tienda que vende toallas?",
+      "category": 10,
+      "id": 526
+    },
+    {
+      "target": "¿Practicas algún deporte?",
+      "category": 10,
+      "id": 527
+    },
+    {
+      "target": "Hablas inglés muy bien.",
+      "category": 10,
+      "id": 528
+    },
+    {
+      "target": "¿Recibiste mi correo electrónico?",
+      "category": 10,
+      "id": 529
+    },
+    {
+      "target": "¿Tomaste tu medicina?",
+      "category": 10,
+      "id": 530
+    },
+    {
+      "target": "¿Vienes esta noche?",
+      "category": 10,
+      "id": 531
+    },
+    {
+      "target": "¿Trabajas mañana?",
+      "category": 10,
+      "id": 532
+    },
+    {
+      "target": "¿Estas libre esta noche?",
+      "category": 10,
+      "id": 533
+    },
+    {
+      "target": "¿Vas a tomar un avión o un tren?",
+      "category": 10,
+      "id": 534
+    },
+    {
+      "target": "¿Estás seguro?",
+      "category": 10,
+      "id": 535
+    },
+    {
+      "target": "Eres más inteligente que él.",
+      "category": 10,
+      "id": 536
+    },
+    {
+      "target": "¿Quieres venir conmigo?",
+      "category": 10,
+      "id": 537
+    },
+    {
+      "target": "¿Quieres ir conmigo?",
+      "category": 10,
+      "id": 538
+    },
+    {
+      "target": "¿Vas a la Florida a menudo?",
+      "category": 10,
+      "id": 539
+    },
+    {
+      "target": "¿Te sientes mejor?",
+      "category": 10,
+      "id": 540
+    },
+    {
+      "target": "Soy alérgico a los mariscos.",
+      "category": 10,
+      "id": 541
+    },
+    {
+      "target": "Tengo dolor en mi brazo.",
+      "category": 10,
+      "id": 542
+    },
+    {
+      "target": "Tengo dos hermanas.",
+      "category": 10,
+      "id": 543
+    },
+    {
+      "target": "Tenemos dos niños y una niña.",
+      "category": 10,
+      "id": 544
+    },
+    {
+      "target": "¿Tienes otro?",
+      "category": 10,
+      "id": 545
+    },
+    {
+      "target": "¿Qué quieres hacer?",
+      "category": 10,
+      "id": 546
+    },
+    {
+      "target": "¿Que estudias?",
+      "category": 10,
+      "id": 547
+    },
+    {
+      "target": "¿Qué vas a hacer esta noche?",
+      "category": 10,
+      "id": 548
+    },
+    {
+      "target": "Esta es la Sra. Smith.",
+      "category": 10,
+      "id": 549
+    },
+    {
+      "target": "Esta es mi madre.",
+      "category": 10,
+      "id": 550
+    },
+    {
+      "target": "No es muy caro",
+      "category": 10,
+      "id": 551
+    },
+    {
+      "target": "Tengo 6\\'2 \".",
+      "category": 10,
+      "id": 552
+    },
+    {
+      "target": "Soy americana.",
+      "category": 10,
+      "id": 553
+    },
+    {
+      "target": "Estoy enfermado.",
+      "category": 10,
+      "id": 554
+    },
+    {
+      "target": "He estado allí.",
+      "category": 10,
+      "id": 555
+    },
+    {
+      "target": "Hablo un poco de Inglés.",
+      "category": 10,
+      "id": 556
+    },
+    {
+      "target": "Esta es la primera vez que he estado aquí.",
+      "category": 10,
+      "id": 557
+    },
+    {
+      "target": "Compré una camisa ayer.",
+      "category": 10,
+      "id": 558
+    },
+    {
+      "target": "No estoy asustado.",
+      "category": 10,
+      "id": 559
+    },
+    {
+      "target": "No me siento bien",
+      "category": 10,
+      "id": 560
+    },
+    {
+      "target": "Recuerdo.",
+      "category": 10,
+      "id": 561
+    },
+    {
+      "target": "Le diré que llamaste.",
+      "category": 10,
+      "id": 562
+    },
+    {
+      "target": "¿Estoy bien y tú?",
+      "category": 10,
+      "id": 563
+    },
+    {
+      "target": "¿A qué hora empieza la película?",
+      "category": 11,
+      "id": 564
+    },
+    {
+      "target": "Está el banco lejos?",
+      "category": 11,
+      "id": 565
+    },
+    {
+      "target": "¿Hay un cine cerca?",
+      "category": 11,
+      "id": 566
+    },
+    {
+      "target": "¿Hay algún concierto?",
+      "category": 11,
+      "id": 567
+    },
+    {
+      "target": "¿Qué tipo de música te gusta?",
+      "category": 11,
+      "id": 568
+    },
+    {
+      "target": "¿Cuál es tu comida favorita?",
+      "category": 11,
+      "id": 569
+    },
+    {
+      "target": "¿Cuánto mides?",
+      "category": 11,
+      "id": 570
+    },
+    {
+      "target": "¿Quién fue tu maestro?",
+      "category": 11,
+      "id": 571
+    },
+    {
+      "target": "¿Te gustaría alquilar una película?",
+      "category": 11,
+      "id": 572
+    },
+    {
+      "target": "¿Te gustaría cenar conmigo?",
+      "category": 11,
+      "id": 573
+    },
+    {
+      "target": "Dijo que te gusta ver películas.",
+      "category": 11,
+      "id": 574
+    },
+    {
+      "target": "¿Has visto esta película?",
+      "category": 11,
+      "id": 575
+    },
+    {
+      "target": "¿Quieres ir al cine?",
+      "category": 11,
+      "id": 576
+    },
+    {
+      "target": "¿Qué suele hacer la gente en verano en Los Ángeles?",
+      "category": 11,
+      "id": 577
+    },
+    {
+      "target": "¿A qué hora abre la tienda?",
+      "category": 12,
+      "id": 578
+    },
+    {
+      "target": "¿Dónde estás?",
+      "category": 12,
+      "id": 579
+    },
+    {
+      "target": "Él necesita ropa nueva.",
+      "category": 12,
+      "id": 580
+    },
+    {
+      "target": "Si te gusta, puedo comprar más.",
+      "category": 12,
+      "id": 581
+    },
+    {
+      "target": "Lo sentimos, no tenemos ninguno.",
+      "category": 12,
+      "id": 582
+    },
+    {
+      "target": "¿Qué tamaño?",
+      "category": 12,
+      "id": 583
+    },
+    {
+      "target": "Los libros son caros.",
+      "category": 12,
+      "id": 584
+    },
+    {
+      "target": "¿Cuándo llega el avión?",
+      "category": 12,
+      "id": 585
+    },
+    {
+      "target": "¿Puedo usar tu teléfono?",
+      "category": 12,
+      "id": 586
+    },
+    {
+      "target": "¿Puedo tomar un vaso de agua por favor?",
+      "category": 12,
+      "id": 587
+    },
+    {
+      "target": "Llénelo, por favor. (gasolinera)",
+      "category": 12,
+      "id": 588
+    },
+    {
+      "target": "¿Te gustaría algo de comer?",
+      "category": 12,
+      "id": 589
+    },
+    {
+      "target": "Me gustaría el número del Hotel Hilton, por favor.",
+      "category": 12,
+      "id": 590
+    },
+    {
+      "target": "Intentalo.",
+      "category": 12,
+      "id": 591
+    },
+    {
+      "target": "¿Cuanto es eso?",
+      "category": 12,
+      "id": 592
+    },
+    {
+      "target": "¿Cuánto cuesta este?",
+      "category": 12,
+      "id": 593
+    },
+    {
+      "target": "¿La conoces?",
+      "category": 12,
+      "id": 594
+    },
+    {
+      "target": "¿Sabes donde esta ella?",
+      "category": 12,
+      "id": 595
+    },
+    {
+      "target": "¿Juegas al baloncesto?",
+      "category": 12,
+      "id": 596
+    },
+    {
+      "target": "¿Tiene usted algunas vacantes?",
+      "category": 12,
+      "id": 597
+    },
+    {
+      "target": "¿Tienes el número para un taxi?",
+      "category": 12,
+      "id": 598
+    },
+    {
+      "target": "¿Qué quieres comprar?",
+      "category": 12,
+      "id": 599
+    },
+    {
+      "target": "No está muy lejos.",
+      "category": 12,
+      "id": 600
+    },
+    {
+      "target": "Me gustaría comprar una tarjeta telefónica, por favor.",
+      "category": 12,
+      "id": 601
+    },
+    {
+      "target": "Te creo.",
+      "category": 12,
+      "id": 602
+    },
+    {
+      "target": "Yo hablo dos lenguajes.",
+      "category": 12,
+      "id": 603
+    },
+    {
+      "target": "Pensé que había dicho algo más.",
+      "category": 12,
+      "id": 604
+    },
+    {
+      "target": "Soy un principiante.",
+      "category": 12,
+      "id": 605
+    },
+    {
+      "target": "Por lo general tomo café en el desayuno.",
+      "category": 12,
+      "id": 606
+    },
+    {
+      "target": "Estoy lleno.",
+      "category": 12,
+      "id": 607
+    },
+    {
+      "target": "Estoy soltero",
+      "category": 12,
+      "id": 608
+    },
+    {
+      "target": "Me gustaría ir a casa",
+      "category": 12,
+      "id": 609
+    },
+    {
+      "target": "Me gustaría ir de compras",
+      "category": 12,
+      "id": 610
+    },
+    {
+      "target": "Sólo bromeo.",
+      "category": 12,
+      "id": 611
+    },
+    {
+      "target": "¿Estoy pronunciandolo correctamente?",
+      "category": 13,
+      "id": 612
+    },
+    {
+      "target": "¿Me puedes hacer un favor?",
+      "category": 13,
+      "id": 613
+    },
+    {
+      "target": "¿Me puedes ayudar?",
+      "category": 13,
+      "id": 614
+    },
+    {
+      "target": "¿Puedes decir eso otra vez?",
+      "category": 13,
+      "id": 615
+    },
+    {
+      "target": "¿Usted me puede mostrar?",
+      "category": 13,
+      "id": 616
+    },
+    {
+      "target": "¿Puedes tirar eso para mí?",
+      "category": 13,
+      "id": 617
+    },
+    {
+      "target": "¿Crees eso?",
+      "category": 13,
+      "id": 618
+    },
+    {
+      "target": "¿Tienes un lapiz?",
+      "category": 13,
+      "id": 619
+    },
+    {
+      "target": "¿Fumas?",
+      "category": 13,
+      "id": 620
+    },
+    {
+      "target": "¿Habla usted Inglés?",
+      "category": 13,
+      "id": 621
+    },
+    {
+      "target": "¿Alguien de aquí habla inglés?",
+      "category": 13,
+      "id": 622
+    },
+    {
+      "target": "No hagas eso.",
+      "category": 13,
+      "id": 623
+    },
+    {
+      "target": "Disculpe, ¿qué dijiste?",
+      "category": 13,
+      "id": 624
+    },
+    {
+      "target": "Olvídalo.",
+      "category": 13,
+      "id": 625
+    },
+    {
+      "target": "¿Como pronuncias eso?",
+      "category": 13,
+      "id": 626
+    },
+    {
+      "target": "¿Cómo se dice en inglés?",
+      "category": 13,
+      "id": 627
+    },
+    {
+      "target": "¿Cómo se deletrea?",
+      "category": 13,
+      "id": 628
+    },
+    {
+      "target": "¿Cómo deletreas la palabra \"Seattle\"?",
+      "category": 13,
+      "id": 629
+    },
+    {
+      "target": "Puedo nadar.",
+      "category": 13,
+      "id": 630
+    },
+    {
+      "target": "No puedo oírte claramente.",
+      "category": 13,
+      "id": 631
+    },
+    {
+      "target": "No me importa",
+      "category": 13,
+      "id": 632
+    },
+    {
+      "target": "No hablo inglés muy bien.",
+      "category": 13,
+      "id": 633
+    },
+    {
+      "target": "Yo no lo creo",
+      "category": 13,
+      "id": 634
+    },
+    {
+      "target": "No entiendo lo que dices.",
+      "category": 13,
+      "id": 635
+    },
+    {
+      "target": "Creo que tienes demasiada ropa.",
+      "category": 13,
+      "id": 636
+    },
+    {
+      "target": "Confío en ti.",
+      "category": 13,
+      "id": 637
+    },
+    {
+      "target": "Entiendo ahora.",
+      "category": 13,
+      "id": 638
+    },
+    {
+      "target": "¿Hay aire acondicionado en la habitación?",
+      "category": 13,
+      "id": 639
+    },
+    {
+      "target": "Encontrémonos frente al hotel.",
+      "category": 13,
+      "id": 640
+    },
+    {
+      "target": "Por favor siéntate.",
+      "category": 13,
+      "id": 641
+    },
+    {
+      "target": "Por favor habla en ingles.",
+      "category": 13,
+      "id": 642
+    },
+    {
+      "target": "Por favor habla más despacio.",
+      "category": 13,
+      "id": 643
+    },
+    {
+      "target": "Lo siento, no escuché con claridad.",
+      "category": 13,
+      "id": 644
+    },
+    {
+      "target": "Eso significa amigo",
+      "category": 13,
+      "id": 645
+    },
+    {
+      "target": "Eso está mal.",
+      "category": 13,
+      "id": 646
+    },
+    {
+      "target": "Intenta decirlo",
+      "category": 13,
+      "id": 647
+    },
+    {
+      "target": "¿Qué significa esto?",
+      "category": 13,
+      "id": 648
+    },
+    {
+      "target": "¿Qué dice esto?",
+      "category": 13,
+      "id": 649
+    },
+    {
+      "target": "¿Qué significa esta palabra?",
+      "category": 13,
+      "id": 650
+    },
+    {
+      "target": "¿Cuál es la tasa de cambio?",
+      "category": 13,
+      "id": 651
+    },
+    {
+      "target": "¿De quien es ese libro?",
+      "category": 13,
+      "id": 652
+    },
+    {
+      "target": "¿Por qué te ríes?",
+      "category": 13,
+      "id": 653
+    },
+    {
+      "target": "¿Por qué no vas?",
+      "category": 13,
+      "id": 654
+    },
+    {
+      "target": "¿Por qué hiciste eso?",
+      "category": 13,
+      "id": 655
+    },
+    {
+      "target": "El accidente ocurrió en la intersección.",
+      "category": 14,
+      "id": 656
+    },
+    {
+      "target": "Vendes pilas?",
+      "category": 14,
+      "id": 657
+    },
+    {
+      "target": "¿Dónde está el hospital más cercano?",
+      "category": 14,
+      "id": 658
+    },
+    {
+      "target": "¿Dónde está la oficina postal?",
+      "category": 14,
+      "id": 659
+    },
+    {
+      "target": "¿Donde trabajas?",
+      "category": 14,
+      "id": 660
+    },
+    {
+      "target": "¿Dónde puedo cambiar dólares de los Estados Unidos?",
+      "category": 14,
+      "id": 661
+    },
+    {
+      "target": "No me importa",
+      "category": 14,
+      "id": 662
+    },
+    {
+      "target": "Todavía tengo mucho que hacer.",
+      "category": 14,
+      "id": 663
+    },
+    {
+      "target": "Me duele la garganta.",
+      "category": 14,
+      "id": 664
+    },
+    {
+      "target": "Mi equipaje falta",
+      "category": 14,
+      "id": 665
+    },
+    {
+      "target": "Me duele el estómago.",
+      "category": 14,
+      "id": 666
+    },
+    {
+      "target": "Mi reloj ha sido robado.",
+      "category": 14,
+      "id": 667
+    },
+    {
+      "target": "Llámame.",
+      "category": 14,
+      "id": 668
+    },
+    {
+      "target": "Tome esta medicina.",
+      "category": 14,
+      "id": 669
+    },
+    {
+      "target": "Ha habido un accidente automovilístico.",
+      "category": 14,
+      "id": 670
+    },
+    {
+      "target": "Hoy está haciendo mucho frio.",
+      "category": 14,
+      "id": 671
+    },
+    {
+      "target": "¿Estás listo?",
+      "category": 14,
+      "id": 672
+    },
+    {
+      "target": "¿Me enviaste flores?",
+      "category": 14,
+      "id": 673
+    },
+    {
+      "target": "Tengo uno en mi auto.",
+      "category": 14,
+      "id": 674
+    },
+    {
+      "target": "Tengo un resfrío.",
+      "category": 14,
+      "id": 675
+    },
+    {
+      "target": "¿Eres alérgico a algo?",
+      "category": 14,
+      "id": 676
+    },
+    {
+      "target": "Depende del clima.",
+      "category": 14,
+      "id": 677
+    },
+    {
+      "target": "Todavía no lo he decidido.",
+      "category": 14,
+      "id": 678
+    },
+    {
+      "target": "Tuve un accidente.",
+      "category": 14,
+      "id": 679
+    },
+    {
+      "target": "Hice esta torta.",
+      "category": 14,
+      "id": 680
+    },
+    {
+      "target": "Soy trabajador autonomo.",
+      "category": 14,
+      "id": 681
+    },
+    {
+      "target": "Me doy por vencido.",
+      "category": 14,
+      "id": 682
+    },
+    {
+      "target": "Soy un profesor.",
+      "category": 14,
+      "id": 683
+    },
+    {
+      "target": "¿Y usted?",
+      "category": 16,
+      "id": 684
+    },
+    {
+      "target": "¿A qué escuela va él?",
+      "category": 16,
+      "id": 685
+    },
+    {
+      "target": "¿Que pasa?",
+      "category": 16,
+      "id": 686
+    },
+    {
+      "target": "¿Esta todo bien?",
+      "category": 16,
+      "id": 687
+    },
+    {
+      "target": "¿Aceptas U.S. Dollars?",
+      "category": 16,
+      "id": 688
+    },
+    {
+      "target": "¿Donde esta el?",
+      "category": 16,
+      "id": 689
+    },
+    {
+      "target": "¿Donde lo aprendiste?",
+      "category": 16,
+      "id": 690
+    },
+    {
+      "target": "¿Dónde ocurrió?",
+      "category": 16,
+      "id": 691
+    },
+    {
+      "target": "¿Dónde puedo alquilar un coche?",
+      "category": 16,
+      "id": 692
+    },
+    {
+      "target": "Sí.",
+      "category": 16,
+      "id": 693
+    },
+    {
+      "target": "Dame el bolígrafo.",
+      "category": 16,
+      "id": 694
+    },
+    {
+      "target": "¿Le gusta la escuela?",
+      "category": 16,
+      "id": 695
+    },
+    {
+      "target": "¿Hay algo más barato?",
+      "category": 16,
+      "id": 696
+    },
+    {
+      "target": "¿Esta lloviendo?",
+      "category": 16,
+      "id": 697
+    },
+    {
+      "target": "¿Cuánto tiempo es?",
+      "category": 16,
+      "id": 698
+    },
+    {
+      "target": "¿Como es ella?",
+      "category": 16,
+      "id": 699
+    },
+    {
+      "target": "¿Cuál es la temperatura?",
+      "category": 16,
+      "id": 700
+    },
+    {
+      "target": "¿A quién estás buscando?",
+      "category": 16,
+      "id": 701
+    },
+    {
+      "target": "¿Cuál es más barato?",
+      "category": 16,
+      "id": 702
+    },
+    {
+      "target": "¿Cuál es el mejor?",
+      "category": 16,
+      "id": 703
+    },
+    {
+      "target": "¿Cuál quieres?",
+      "category": 16,
+      "id": 704
+    },
+    {
+      "target": "¿Quien llama?",
+      "category": 16,
+      "id": 705
+    },
+    {
+      "target": "¿Quienes son?",
+      "category": 16,
+      "id": 706
+    },
+    {
+      "target": "¿Quien te enseño eso?",
+      "category": 16,
+      "id": 707
+    },
+    {
+      "target": "¿Quién es ese hombre de ahí?",
+      "category": 16,
+      "id": 708
+    },
+    {
+      "target": "¿Quién es? (Preguntando quién está hablando por teléfono)",
+      "category": 16,
+      "id": 709
+    },
+    {
+      "target": "¿Alguien más viene?",
+      "category": 16,
+      "id": 710
+    },
+    {
+      "target": "¿El grande o el pequeño?",
+      "category": 16,
+      "id": 711
+    },
+    {
+      "target": "Los autos son americanos.",
+      "category": 16,
+      "id": 712
+    },
+    {
+      "target": "¿Debería esperar?",
+      "category": 16,
+      "id": 713
+    },
+    {
+      "target": "Tengo muchas cosas que hacer.",
+      "category": 16,
+      "id": 714
+    },
+    {
+      "target": "¿Me prestas algo de dinero?",
+      "category": 16,
+      "id": 715
+    },
+    {
+      "target": "¿Me puede dar la cuenta por favor?",
+      "category": 16,
+      "id": 716
+    },
+    {
+      "target": "¿Hace calor?",
+      "category": 16,
+      "id": 717
+    },
+    {
+      "target": "¿Hace frío afuera?",
+      "category": 16,
+      "id": 718
+    },
+    {
+      "target": "¿Puedes hablar mas alto por favor?",
+      "category": 16,
+      "id": 719
+    },
+    {
+      "target": "¿De qué están hablando ustedes dos?",
+      "category": 16,
+      "id": 720
+    },
+    {
+      "target": "¿Qué estás pensando?",
+      "category": 16,
+      "id": 721
+    },
+    {
+      "target": "¿Son lo mismo?",
+      "category": 16,
+      "id": 722
+    },
+    {
+      "target": "¿De dónde es él?",
+      "category": 16,
+      "id": 723
+    },
+    {
+      "target": "¿Cómo lo sabes?",
+      "category": 16,
+      "id": 724
+    },
+    {
+      "target": "¿Por qué dijiste eso?",
+      "category": 16,
+      "id": 725
+    },
+    {
+      "target": "Detrás del banco.",
+      "category": 16,
+      "id": 726
+    },
+    {
+      "target": "¿Cuánto cuesta?",
+      "category": 16,
+      "id": 727
+    },
+    {
+      "target": "¿Cuántos?",
+      "category": 16,
+      "id": 728
+    },
+    {
+      "target": "¿Hubo algún problema?",
+      "category": 16,
+      "id": 729
+    },
+    {
+      "target": "¿Tu hijo está aquí?",
+      "category": 16,
+      "id": 730
+    },
+    {
+      "target": "¿Te gustan tus compañeros de trabajo?",
+      "category": 16,
+      "id": 731
+    },
+    {
+      "target": "¿Necesitas algo más?",
+      "category": 16,
+      "id": 732
+    },
+    {
+      "target": "¿Tienes miedo?",
+      "category": 16,
+      "id": 733
+    },
+    {
+      "target": "¿Estás enfermo?",
+      "category": 16,
+      "id": 734
+    },
+    {
+      "target": "¿Estuviste en la biblioteca anoche?",
+      "category": 16,
+      "id": 735
+    },
+    {
+      "target": "¿Estás bien?",
+      "category": 16,
+      "id": 736
+    },
+    {
+      "target": "Te pareces a mi hermana.",
+      "category": 16,
+      "id": 737
+    },
+    {
+      "target": "¿Estás casada?",
+      "category": 16,
+      "id": 738
+    },
+    {
+      "target": "¿Sabes dónde están mis gafas?",
+      "category": 16,
+      "id": 739
+    },
+    {
+      "target": "¿Sabes dónde puedo conseguir un taxi?",
+      "category": 16,
+      "id": 740
+    },
+    {
+      "target": "¿Sabes cómo llegar al Hotel Marriott?",
+      "category": 16,
+      "id": 741
+    },
+    {
+      "target": "¿Sabes qué significa esto?",
+      "category": 16,
+      "id": 742
+    },
+    {
+      "target": "¿Puedes llamarme más tarde?",
+      "category": 16,
+      "id": 743
+    },
+    {
+      "target": "¿Puedes llamar más tarde?",
+      "category": 16,
+      "id": 744
+    },
+    {
+      "target": "¿Puedes llevar esto por mí?",
+      "category": 16,
+      "id": 745
+    },
+    {
+      "target": "¿Puedes darme un ejemplo?",
+      "category": 16,
+      "id": 746
+    },
+    {
+      "target": "¿Puedes arreglar esto?",
+      "category": 16,
+      "id": 747
+    },
+    {
+      "target": "¿Le pedirías que me llamara por favor?",
+      "category": 16,
+      "id": 748
+    },
+    {
+      "target": "¿De donde eres?",
+      "category": 16,
+      "id": 749
+    },
+    {
+      "target": "¿Me pasarás la sal por favor?",
+      "category": 16,
+      "id": 750
+    },
+    {
+      "target": "¿Me pondrías esto en el auto?",
+      "category": 16,
+      "id": 751
+    },
+    {
+      "target": "¿Lo entiendes?",
+      "category": 16,
+      "id": 752
+    },
+    {
+      "target": "¿Vas a asistir a su boda?",
+      "category": 16,
+      "id": 753
+    },
+    {
+      "target": "¿Sabes nadar?",
+      "category": 16,
+      "id": 754
+    },
+    {
+      "target": "¿Escuchas eso?",
+      "category": 16,
+      "id": 755
+    },
+    {
+      "target": "¿Tienes novia?",
+      "category": 16,
+      "id": 756
+    },
+    {
+      "target": "¿Tienes una cita?",
+      "category": 16,
+      "id": 757
+    },
+    {
+      "target": "Tienes un auto muy lindo.",
+      "category": 16,
+      "id": 758
+    },
+    {
+      "target": "¿Tiene usted un problema?",
+      "category": 16,
+      "id": 759
+    },
+    {
+      "target": "En 30 minutos.",
+      "category": 16,
+      "id": 760
+    },
+    {
+      "target": "¿Qué piensas?",
+      "category": 16,
+      "id": 761
+    },
+    {
+      "target": "¿Qué es mejor, la ensalada de espagueti o pollo?",
+      "category": 16,
+      "id": 762
+    },
+    {
+      "target": "¿Que deberia vestir?",
+      "category": 16,
+      "id": 763
+    },
+    {
+      "target": "¿Qué estudian?",
+      "category": 16,
+      "id": 764
+    },
+    {
+      "target": "¿Que pasó?",
+      "category": 16,
+      "id": 765
+    },
+    {
+      "target": "¿Qué hay ahí dentro?",
+      "category": 16,
+      "id": 766
+    },
+    {
+      "target": "¿Que es eso?",
+      "category": 16,
+      "id": 767
+    },
+    {
+      "target": "¿Qué estás haciendo?",
+      "category": 16,
+      "id": 768
+    },
+    {
+      "target": "¿Qué hiciste ayer?",
+      "category": 16,
+      "id": 769
+    },
+    {
+      "target": "¿Qué hiciste ayer por la noche?",
+      "category": 16,
+      "id": 770
+    },
+    {
+      "target": "¿Qué pensaste?",
+      "category": 16,
+      "id": 771
+    },
+    {
+      "target": "¿Qué tienes?",
+      "category": 16,
+      "id": 772
+    },
+    {
+      "target": "¿Qué es?",
+      "category": 16,
+      "id": 773
+    },
+    {
+      "target": "¿Qué es esto?",
+      "category": 16,
+      "id": 774
+    },
+    {
+      "target": "¿Algo más?",
+      "category": 16,
+      "id": 775
+    },
+    {
+      "target": "¿Está lejos de aquí?",
+      "category": 16,
+      "id": 776
+    },
+    {
+      "target": "6 dólares por hora.",
+      "category": 17,
+      "id": 777
+    },
+    {
+      "target": "¿A qué hora vas a trabajar todos los días?",
+      "category": 17,
+      "id": 778
+    },
+    {
+      "target": "¿Qué pasa?",
+      "category": 17,
+      "id": 779
+    },
+    {
+      "target": "¿Donde duele?",
+      "category": 17,
+      "id": 780
+    },
+    {
+      "target": "¿Como estuvo el viaje?",
+      "category": 17,
+      "id": 781
+    },
+    {
+      "target": "¿Cuanto tiempo has trabajado aquí?",
+      "category": 17,
+      "id": 782
+    },
+    {
+      "target": "¿Cómo está el clima?",
+      "category": 17,
+      "id": 783
+    },
+    {
+      "target": "¿Cuándo sales del trabajo?",
+      "category": 17,
+      "id": 784
+    },
+    {
+      "target": "¿Cuándo llegas a los Estados Unidos?",
+      "category": 17,
+      "id": 785
+    },
+    {
+      "target": "¿A donde quieres ir?",
+      "category": 17,
+      "id": 786
+    },
+    {
+      "target": "¿Donde lo pusiste?",
+      "category": 17,
+      "id": 787
+    },
+    {
+      "target": "Todavía tengo muchas cosas para comprar.",
+      "category": 17,
+      "id": 788
+    },
+    {
+      "target": "Él es un ingeniero.",
+      "category": 17,
+      "id": 789
+    },
+    {
+      "target": "Él es muy trabajador.",
+      "category": 17,
+      "id": 790
+    },
+    {
+      "target": "Él trabaja en una empresa de informática en Nueva York.",
+      "category": 17,
+      "id": 791
+    },
+    {
+      "target": "Tráeme mi camisa por favor.",
+      "category": 17,
+      "id": 792
+    },
+    {
+      "target": "¿Cuánto dinero tiene usted?",
+      "category": 17,
+      "id": 793
+    },
+    {
+      "target": "¿Cuántas horas a la semana trabaja usted?",
+      "category": 17,
+      "id": 794
+    },
+    {
+      "target": "¿Te gusta tu jefe?",
+      "category": 17,
+      "id": 795
+    },
+    {
+      "target": "¿Estas esperando a alguien?",
+      "category": 17,
+      "id": 796
+    },
+    {
+      "target": "¿Has terminado de estudiar?",
+      "category": 17,
+      "id": 797
+    },
+    {
+      "target": "¿Te gusta ver TV?",
+      "category": 17,
+      "id": 798
+    },
+    {
+      "target": "¿Vas a trabajar hoy?",
+      "category": 17,
+      "id": 799
+    },
+    {
+      "target": "¿En qué trabajas?",
+      "category": 17,
+      "id": 800
+    },
+    {
+      "target": "¿Qué hace tu padre por el trabajo?",
+      "category": 17,
+      "id": 801
+    },
+    {
+      "target": "¿Qué hacen tus padres por el trabajo?",
+      "category": 17,
+      "id": 802
+    },
+    {
+      "target": "¿Qué hace él por el trabajo?",
+      "category": 17,
+      "id": 803
+    },
+    {
+      "target": "Estoy listo.",
+      "category": 17,
+      "id": 804
+    },
+    {
+      "target": "Yo olvido.",
+      "category": 17,
+      "id": 805
+    },
+    {
+      "target": "Estoy bien.",
+      "category": 17,
+      "id": 806
+    },
+    {
+      "target": "Lo he visto.",
+      "category": 17,
+      "id": 807
+    },
+    {
+      "target": "Las carreteras son resbaladizas.",
+      "category": 18,
+      "id": 808
+    },
+    {
+      "target": "Me duele aquí.",
+      "category": 18,
+      "id": 809
+    },
+    {
+      "target": "Está lloviendo.",
+      "category": 18,
+      "id": 810
+    },
+    {
+      "target": "¿Cómo va el negocio?",
+      "category": 18,
+      "id": 811
+    },
+    {
+      "target": "¿Cómo será el clima mañana?",
+      "category": 18,
+      "id": 812
+    },
+    {
+      "target": "¿Cuál es el precio de la habitación?",
+      "category": 18,
+      "id": 813
+    },
+    {
+      "target": "Ven aca.",
+      "category": 18,
+      "id": 814
+    },
+    {
+      "target": "Va a estar caliente hoy.",
+      "category": 18,
+      "id": 815
+    },
+    {
+      "target": "Es demasiado tarde.",
+      "category": 18,
+      "id": 816
+    },
+    {
+      "target": "¿Crees que va a llover mañana?",
+      "category": 18,
+      "id": 817
+    },
+    {
+      "target": "¿Crees que va a llover hoy?",
+      "category": 18,
+      "id": 818
+    },
+    {
+      "target": "¿Nieva a menudo en el invierno en Massachusetts?",
+      "category": 18,
+      "id": 819
+    },
+    {
+      "target": "¿Está cerrado?",
+      "category": 18,
+      "id": 820
+    },
+    {
+      "target": "¿Es posible?",
+      "category": 18,
+      "id": 821
+    },
+    {
+      "target": "Es por allá.",
+      "category": 18,
+      "id": 822
+    },
+    {
+      "target": "¿Está listo?",
+      "category": 18,
+      "id": 823
+    },
+    {
+      "target": "Está lejos de aquí.",
+      "category": 18,
+      "id": 824
+    },
+    {
+      "target": "Está al norte de aquí.",
+      "category": 18,
+      "id": 825
+    },
+    {
+      "target": "Es muy importante.",
+      "category": 18,
+      "id": 826
+    },
+    {
+      "target": "Llegará en breve.",
+      "category": 18,
+      "id": 827
+    },
+    {
+      "target": "Cuesta 20 dólares por hora.",
+      "category": 18,
+      "id": 828
+    }
+  ],
+  "categories":[
+    {
+      "id": 1,
+      "translatedName": "Expresiones comunes"
+    },
+    {
+      "id": 2,
+      "translatedName": "Saludos"
+    },
+    {
+      "id": 3,
+      "translatedName": "Viajes, direcciones"
+    },
+    {
+      "id": 4,
+      "translatedName": "Numeros y dinero"
+    },
+    {
+      "id": 5,
+      "translatedName": "Ubicación"
+    },
+    {
+      "id": 6,
+      "translatedName": "Teléfono / Internet / Correo"
+    },
+    {
+      "id": 7,
+      "translatedName": "Hora y fechas"
+    },
+    {
+      "id": 8,
+      "translatedName": "Alojamiento"
+    },
+    {
+      "id": 9,
+      "translatedName": "Comida"
+    },
+    {
+      "id": 10,
+      "translatedName": "Haciendo amigos"
+    },
+    {
+      "id": 11,
+      "translatedName": "Entretenimiento"
+    },
+    {
+      "id": 12,
+      "translatedName": "Compras"
+    },
+    {
+      "id": 13,
+      "translatedName": "Dificultades de comunicación"
+    },
+    {
+      "id": 14,
+      "translatedName": "Emergencia y salud"
+    },
+    {
+      "id": 16,
+      "translatedName": "Preguntas generales"
+    },
+    {
+      "id": 17,
+      "translatedName": "Trabajo"
+    },
+    {
+      "id": 18,
+      "translatedName": "Clima"
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "project_info": {
+    "project_number": "671997465803",
+    "firebase_url": "https://let-s-talk-3a67f.firebaseio.com",
+    "project_id": "let-s-talk-3a67f",
+    "storage_bucket": "let-s-talk-3a67f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671997465803:android:45eac9491721b578",
+        "android_client_info": {
+          "package_name": "com.applications.coffee.letstalk.arabic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671997465803-29vqe01dsskv4ubeurst6mgq4flsb4aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAifGrQgbxR4-noWVZIq3FkzHQW3mJcS7U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-9134221301797717~8460843178"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671997465803:android:49ecd873318b77e8",
+        "android_client_info": {
+          "package_name": "com.applications.coffee.letstalk.chinese"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671997465803-29vqe01dsskv4ubeurst6mgq4flsb4aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAifGrQgbxR4-noWVZIq3FkzHQW3mJcS7U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-9134221301797717~3815855307"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671997465803:android:6018e758cd43d7e1",
+        "android_client_info": {
+          "package_name": "com.applications.coffee.letstalk.french"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671997465803-29vqe01dsskv4ubeurst6mgq4flsb4aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAifGrQgbxR4-noWVZIq3FkzHQW3mJcS7U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-9134221301797717~5458503834"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671997465803:android:17ddc9e601106358",
+        "android_client_info": {
+          "package_name": "com.applications.coffee.letstalk.german"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671997465803-29vqe01dsskv4ubeurst6mgq4flsb4aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAifGrQgbxR4-noWVZIq3FkzHQW3mJcS7U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-9134221301797717~4545239771"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671997465803:android:97c55096cd0d6326",
+        "android_client_info": {
+          "package_name": "com.applications.coffee.letstalk.italian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671997465803-29vqe01dsskv4ubeurst6mgq4flsb4aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAifGrQgbxR4-noWVZIq3FkzHQW3mJcS7U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-9134221301797717~4804846801"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671997465803:android:f8c1e4f30018ca06",
+        "android_client_info": {
+          "package_name": "com.applications.coffee.letstalk.japanese"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671997465803-29vqe01dsskv4ubeurst6mgq4flsb4aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAifGrQgbxR4-noWVZIq3FkzHQW3mJcS7U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-9134221301797717~8767308390"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671997465803:android:9c577c8426866712",
+        "android_client_info": {
+          "package_name": "com.applications.coffee.letstalk.korean"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671997465803-29vqe01dsskv4ubeurst6mgq4flsb4aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAifGrQgbxR4-noWVZIq3FkzHQW3mJcS7U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-9134221301797717~6692890962"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671997465803:android:f15be72a0a23cd88",
+        "android_client_info": {
+          "package_name": "com.applications.coffee.letstalk.portuguese"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671997465803-29vqe01dsskv4ubeurst6mgq4flsb4aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAifGrQgbxR4-noWVZIq3FkzHQW3mJcS7U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-9134221301797717~9258510408"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671997465803:android:c2875e597515296f",
+        "android_client_info": {
+          "package_name": "com.applications.coffee.letstalk.russian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671997465803-29vqe01dsskv4ubeurst6mgq4flsb4aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAifGrQgbxR4-noWVZIq3FkzHQW3mJcS7U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-9134221301797717~3289241698"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671997465803:android:6ca2b4f880fe54e6",
+        "android_client_info": {
+          "package_name": "com.applications.coffee.letstalk.spanish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671997465803-29vqe01dsskv4ubeurst6mgq4flsb4aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAifGrQgbxR4-noWVZIq3FkzHQW3mJcS7U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-9134221301797717~4688462586"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671997465803:android:35486f2388efc5e6",
+        "android_client_info": {
+          "package_name": "com.applications.coffee.letstalk.turkish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671997465803-29vqe01dsskv4ubeurst6mgq4flsb4aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAifGrQgbxR4-noWVZIq3FkzHQW3mJcS7U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-9134221301797717~2462001914"
+    }
+  ],
+  "configuration_version": "1"
+}

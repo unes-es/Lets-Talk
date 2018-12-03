@@ -13,7 +13,7 @@ android {
     }
     buildTypes {
         release {
-            minifyEnabled false
+            minifyEnabled true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
@@ -24,73 +24,133 @@ android {
             dimension "language"
             applicationId "com.applications.coffee.letstalk.french"
             resValue "string", "override_name", "Let\\'s Talk French"
-            resConfigs "ja","ar","de","es","tr","zh","ru"
-            resValue "string","tts_local","fr"
+            resConfigs "ja", "ar", "de", "es", "tr", "zh", "ru"
+            resValue "string", "tts_local", "fr"
             versionCode 1
             versionName "1.0"
+            resValue "string", "appID", "ca-app-pub-9134221301797717~5458503834"
+            resValue "string", "categoriesAdUnit", "ca-app-pub-9134221301797717/1587665292"
+            resValue "string", "phrasesAdUnit", "ca-app-pub-9134221301797717/7586123083"
         }
         german {
             dimension "language"
             applicationId "com.applications.coffee.letstalk.german"
             resValue "string", "override_name", "Let\\'s Talk German"
-            resConfigs "ja","ar","es","tr","zh","fr","ru"
-            resValue "string","tts_local","de"
+            resConfigs "ja", "ar", "es", "tr", "zh", "fr", "ru"
+            resValue "string", "tts_local", "de"
             versionCode 1
             versionName "1.0"
+            resValue "string", "appID", "ca-app-pub-9134221301797717~4545239771"
+            resValue "string", "categoriesAdUnit", "ca-app-pub-9134221301797717/2657443039"
+            resValue "string", "phrasesAdUnit", "ca-app-pub-9134221301797717/4801633912"
         }
         japanese {
             dimension "language"
             applicationId "com.applications.coffee.letstalk.japanese"
             resValue "string", "override_name", "Let\\'s Talk Japanese"
-            resConfigs "de","ar","es","tr","zh","fr","ru"
-            resValue "string","tts_local","ja"
+            resConfigs "de", "ar", "es", "tr", "zh", "fr", "ru"
+            resValue "string", "tts_local", "ja"
             versionCode 1
             versionName "1.0"
+            resValue "string", "appID", "ca-app-pub-9134221301797717~8767308390"
+            resValue "string", "categoriesAdUnit", "ca-app-pub-9134221301797717/5013386906"
+            resValue "string", "phrasesAdUnit", "ca-app-pub-9134221301797717/7335054645"
         }
-        arabic{
+        arabic {
             dimension "language"
             applicationId "com.applications.coffee.letstalk.arabic"
             resValue "string", "override_name", "Let\\'s Talk Arabic"
-            resConfigs "de","ja","es","tr","zh","fr","ru"
-            resValue "string","tts_local","ar"
+            resConfigs "de", "ja", "es", "tr", "zh", "fr", "ru"
+            resValue "string", "tts_local", "ar"
             versionCode 1
             versionName "1.0"
+            resValue "string", "appID", "ca-app-pub-9134221301797717~8460843178"
+            resValue "string", "categoriesAdUnit", "ca-app-pub-9134221301797717/8224382915"
+            resValue "string", "phrasesAdUnit", "ca-app-pub-9134221301797717/5479047491"
         }
-        turkish{
+        turkish {
             dimension "language"
             applicationId "com.applications.coffee.letstalk.turkish"
             resValue "string", "override_name", "Let\\'s Talk Turkish"
-            resConfigs "de","ja","es","ar","zh","fr","ru"
-            resValue "string","tts_local","tr"
+            resConfigs "de", "ja", "es", "ar", "zh", "fr", "ru"
+            resValue "string", "tts_local", "tr"
             versionCode 1
             versionName "1.0"
+            resValue "string", "appID", "ca-app-pub-9134221301797717~2462001914"
+            resValue "string", "categoriesAdUnit", "ca-app-pub-9134221301797717/2301972397"
+            resValue "string", "phrasesAdUnit", "ca-app-pub-9134221301797717/9250524127"
         }
-        chinese{
+        chinese {
             dimension "language"
             applicationId "com.applications.coffee.letstalk.chinese"
             resValue "string", "override_name", "Let\\'s Talk Chinese"
-            resConfigs "de","ja","es","tr","ar","fr","ru"
-            resValue "string","tts_local","zh"
+            resConfigs "de", "ja", "es", "tr", "ar", "fr", "ru"
+            resValue "string", "tts_local", "zh"
             versionCode 1
             versionName "1.0"
+            resValue "string", "appID", "ca-app-pub-9134221301797717~3815855307"
+            resValue "string", "categoriesAdUnit", "ca-app-pub-9134221301797717/3407170505"
+            resValue "string", "phrasesAdUnit", "ca-app-pub-9134221301797717/9423405205"
         }
-        spanish{
+        spanish {
             dimension "language"
             applicationId "com.applications.coffee.letstalk.spanish"
             resValue "string", "override_name", "Let\\'s Talk Spanish"
-            resConfigs "de","ja","ar","tr","zh","fr","ru"
-            resValue "string","tts_local","es"
+            resConfigs "de", "ja", "ar", "tr", "zh", "fr", "ru"
+            resValue "string", "tts_local", "es"
             versionCode 1
             versionName "1.0"
+            resValue "string", "appID", "ca-app-pub-9134221301797717~4688462586"
+            resValue "string", "categoriesAdUnit", "ca-app-pub-9134221301797717/8564375830"
+            resValue "string", "phrasesAdUnit", "ca-app-pub-9134221301797717/5207337330"
         }
-        russian{
+        russian {
             dimension "language"
             applicationId "com.applications.coffee.letstalk.russian"
             resValue "string", "override_name", "Let\\'s Talk Russian"
-            resConfigs "de","ja","ar","tr","zh","fr","es"
-            resValue "string","tts_local","ru"
+            resConfigs "de", "ja", "ar", "tr", "zh", "fr", "es"
+            resValue "string", "tts_local", "ru"
             versionCode 1
             versionName "1.0"
+            resValue "string", "appID", "ca-app-pub-9134221301797717~3289241698"
+            resValue "string", "categoriesAdUnit", "ca-app-pub-9134221301797717/6185624500"
+            resValue "string", "phrasesAdUnit", "ca-app-pub-9134221301797717/4876821386"
+        }
+        italian{
+            dimension "language"
+            applicationId "com.applications.coffee.letstalk.italian"
+            resValue "string", "override_name", "Let\\'s Talk Italian"
+            resConfigs "de", "ja", "ar", "tr", "zh", "fr", "es"
+            resValue "string", "tts_local", "it"
+            versionCode 1
+            versionName "1.0"
+            resValue "string", "appID", "ca-app-pub-9134221301797717~4804846801"
+            resValue "string", "categoriesAdUnit", "ca-app-pub-9134221301797717/4234248584"
+            resValue "string", "phrasesAdUnit", "ca-app-pub-9134221301797717/4721086328"
+        }
+        portuguese{
+            dimension "language"
+            applicationId "com.applications.coffee.letstalk.portuguese"
+            resValue "string", "override_name", "Let\\'s Talk Portuguese"
+            resConfigs "de", "ja", "ar", "tr", "zh", "fr", "es"
+            resValue "string", "tts_local", "pt"
+            versionCode 1
+            versionName "1.0"
+            resValue "string", "appID", "ca-app-pub-9134221301797717~9258510408"
+            resValue "string", "categoriesAdUnit", "ca-app-pub-9134221301797717/8576570859"
+            resValue "string", "phrasesAdUnit", "ca-app-pub-9134221301797717/8959714239"
+        }
+        korean{
+            dimension "language"
+            applicationId "com.applications.coffee.letstalk.korean"
+            resValue "string", "override_name", "Let\\'s Talk Korean"
+            resConfigs "de", "ja", "ar", "tr", "zh", "fr", "es"
+            resValue "string", "tts_local", "ko"
+            versionCode 1
+            versionName "1.0"
+            resValue "string", "appID", "ca-app-pub-9134221301797717~6692890962"
+            resValue "string", "categoriesAdUnit", "ca-app-pub-9134221301797717/1987359190"
+            resValue "string", "phrasesAdUnit", "ca-app-pub-9134221301797717/5188237601"
         }
         //TODO:you know what to do
         /*
@@ -110,8 +170,8 @@ dependencies {
     implementation 'com.android.support:design:28.0.0'
     implementation 'com.android.support:support-v4:28.0.0'
     implementation 'com.google.firebase:firebase-core:16.0.5'
-    implementation 'com.google.android.gms:play-services-ads:17.1.0'
-    implementation 'com.google.firebase:firebase-ads:17.1.0'
+    implementation 'com.google.android.gms:play-services-ads:17.1.1'
+    implementation 'com.google.firebase:firebase-ads:17.1.1'
     //testImplementation 'junit:junit:4.12'
     //androidTestImplementation 'com.android.support.test:runner:1.0.2'
     //androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'

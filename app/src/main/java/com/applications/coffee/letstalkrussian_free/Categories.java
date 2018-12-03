@@ -36,7 +36,7 @@ public class Categories extends AppCompatActivity {
         setSupportActionBar(toolbar);
 
 
-        MobileAds.initialize(this,"ca-app-pub-9134221301797717~4517805068");
+        MobileAds.initialize(this,Util.getStringFromResourcesByName("appID",this));
 
        /* mInterstitialAd = new InterstitialAd(this);
         mInterstitialAd.setAdUnitId("ca-app-pub-3940256099942544/1033173712");

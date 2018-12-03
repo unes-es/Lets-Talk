@@ -1,0 +1,5042 @@
+{
+  "phrases":[
+  {
+    "category": 1,
+    "id": 1,
+    "target": "كن حذرا.",
+    "pronunciation": "kun hadhara."
+  },
+  {
+    "category": 1,
+    "id": 2,
+    "target": "كن حذر وقت القيادة.",
+    "pronunciation": "kun hadhar waqt alqiadat."
+  },
+  {
+    "category": 1,
+    "id": 3,
+    "target": "يمكنك ترجمة هذا بالنسبة لي؟",
+    "pronunciation": "yumkinuk tarjamat hdha balnsbt ly?"
+  },
+  {
+    "category": 1,
+    "id": 4,
+    "target": "شيكاغو هي مختلفة جدا من بوسطن.",
+    "pronunciation": "shikaghu hi mukhtalifat jiddaan min buustin."
+  },
+  {
+    "category": 1,
+    "id": 5,
+    "target": "لا تقلق.",
+    "pronunciation": "la tuqaliq."
+  },
+  {
+    "category": 1,
+    "id": 6,
+    "target": "الجميع يعرف ذلك.",
+    "pronunciation": "aljamie yaerif dhalik."
+  },
+  {
+    "category": 1,
+    "id": 7,
+    "target": "كل شيء جاهز.",
+    "pronunciation": "kl shay' jahizun."
+  },
+  {
+    "category": 1,
+    "id": 8,
+    "target": "ممتاز.",
+    "pronunciation": "mumtaz."
+  },
+  {
+    "category": 1,
+    "id": 9,
+    "target": "من وقت لآخر.",
+    "pronunciation": "min waqt liakhir."
+  },
+  {
+    "category": 1,
+    "id": 10,
+    "target": "فكره جيده.",
+    "pronunciation": "fakarh jaydh."
+  },
+  {
+    "category": 1,
+    "id": 11,
+    "target": "إنه يحب ذلك كثيرا.",
+    "pronunciation": "'iinah yuhibu dhlk kathirana."
+  },
+  {
+    "category": 1,
+    "id": 12,
+    "target": "مساعدة!",
+    "pronunciation": "musaeadat!"
+  },
+  {
+    "category": 1,
+    "id": 13,
+    "target": "انه قادم قريبا.",
+    "pronunciation": "'iinah qadim qaribanaan."
+  },
+  {
+    "category": 1,
+    "id": 14,
+    "target": "كان على حق.",
+    "pronunciation": "kan ealaa haq."
+  },
+  {
+    "category": 1,
+    "id": 15,
+    "target": "انه أمر مزعج جدا.",
+    "pronunciation": "'iinah 'amr muzeaj jidanaan."
+  },
+  {
+    "category": 1,
+    "id": 16,
+    "target": "انه مشهور جدا.",
+    "pronunciation": "'iinah mashhur jidanaan."
+  },
+  {
+    "category": 1,
+    "id": 17,
+    "target": "كيف حالكم؟",
+    "pronunciation": "kayf halikm?"
+  },
+  {
+    "category": 1,
+    "id": 18,
+    "target": "كيف يجري العمل؟",
+    "pronunciation": "kayf yajri aleml?"
+  },
+  {
+    "category": 1,
+    "id": 19,
+    "target": "عجل!",
+    "pronunciation": "eijl!"
+  },
+  {
+    "category": 1,
+    "id": 20,
+    "target": "أكلت بالفعل.",
+    "pronunciation": "'akalat bialfiel."
+  },
+  {
+    "category": 1,
+    "id": 21,
+    "target": "لا أستطيع أن أسمعك.",
+    "pronunciation": "la 'astatie 'an 'asmaeik."
+  },
+  {
+    "category": 1,
+    "id": 22,
+    "target": "أود أن تذهب في نزهة على الأقدام.",
+    "pronunciation": "'awad 'an tadhhab fi nuzhat ealaa al'aqdam."
+  },
+  {
+    "category": 1,
+    "id": 23,
+    "target": "أنا لا أعرف كيفية استخدامها.",
+    "pronunciation": "'ana la 'aerif kayfiat astikhdamiha."
+  },
+  {
+    "category": 1,
+    "id": 24,
+    "target": "أنا لا أحبه.",
+    "pronunciation": "'ana la 'ahabih."
+  },
+  {
+    "category": 1,
+    "id": 25,
+    "target": "أنا لا أحب ذلك.",
+    "pronunciation": "'ana la 'uhibu dhalik."
+  },
+  {
+    "category": 1,
+    "id": 26,
+    "target": "أنا لا أتكلم بشكل جيد للغاية.",
+    "pronunciation": "'ana la 'atakalam bishakl jayid lilghayati."
+  },
+  {
+    "category": 1,
+    "id": 27,
+    "target": "أنا لا أفهم.",
+    "pronunciation": "'ana la 'afahim."
+  },
+  {
+    "category": 1,
+    "id": 28,
+    "target": "أنا لا أريد ذلك.",
+    "pronunciation": "'ana la 'urid dhalik."
+  },
+  {
+    "category": 1,
+    "id": 29,
+    "target": "أنا لا أريد ذلك.",
+    "pronunciation": "'ana la 'urid dhalik."
+  },
+  {
+    "category": 1,
+    "id": 30,
+    "target": "أنا لا أريد أن أزعجك.",
+    "pronunciation": "'ana la 'urid 'an 'uzeijik."
+  },
+  {
+    "category": 1,
+    "id": 31,
+    "target": "انا بخير.",
+    "pronunciation": "'iinaa bikhayrin."
+  },
+  {
+    "category": 1,
+    "id": 32,
+    "target": "إذا كنت بحاجة إلى مساعدة بلدي، واسمحوا لي أن أعرف.",
+    "pronunciation": "'iidha kunt bihajat 'iilaa musaeadat baladi, wa'iismahuu li 'an 'aerif."
+  },
+  {
+    "category": 1,
+    "id": 33,
+    "target": "أحصل على الخروج من العمل في 6.",
+    "pronunciation": "'ahsil ealaa alkhuruj min aleamal fi 6."
+  },
+  {
+    "category": 1,
+    "id": 34,
+    "target": "عندي صداع.",
+    "pronunciation": "eindi sadae."
+  },
+  {
+    "category": 1,
+    "id": 35,
+    "target": "أتمنى لك ولزوجتك لديها رحلة لطيفة.",
+    "pronunciation": "'atamanaa lak walizujatik ladayha rihlat latayfatan."
+  },
+  {
+    "category": 1,
+    "id": 36,
+    "target": "أنا أعلم.",
+    "pronunciation": "'ana 'aelam."
+  },
+  {
+    "category": 1,
+    "id": 37,
+    "target": "انا معجب بها.",
+    "pronunciation": "'iinaa maejab biha."
+  },
+  {
+    "category": 1,
+    "id": 38,
+    "target": "سأتصل بك عندما أغادر.",
+    "pronunciation": "sa'atsil bik eindama 'aghadir."
+  },
+  {
+    "category": 1,
+    "id": 39,
+    "target": "انا سوف اعود لاحقا.",
+    "pronunciation": "'iinaa sawf 'aeud lahiqa."
+  },
+  {
+    "category": 1,
+    "id": 40,
+    "target": "سأدفع.",
+    "pronunciation": "sa'adfae."
+  },
+  {
+    "category": 1,
+    "id": 41,
+    "target": "أنا أعتبر.",
+    "pronunciation": "'ana 'aetabr."
+  },
+  {
+    "category": 1,
+    "id": 42,
+    "target": "سوف يأخذك إلى محطة للحافلات.",
+    "pronunciation": "sawf yakhudhuk 'iilaa mahatat lilhafilat."
+  },
+  {
+    "category": 1,
+    "id": 43,
+    "target": "لقد فقدت ساعتي.",
+    "pronunciation": "laqad faqadt saeati."
+  },
+  {
+    "category": 1,
+    "id": 44,
+    "target": "أحبك.",
+    "pronunciation": "'ahabik."
+  },
+  {
+    "category": 1,
+    "id": 45,
+    "target": "انا امريكي.",
+    "pronunciation": "'iinaa amriki."
+  },
+  {
+    "category": 1,
+    "id": 46,
+    "target": "انا انظف غرفتي.",
+    "pronunciation": "'iinaa ainzaf gharfati."
+  },
+  {
+    "category": 1,
+    "id": 47,
+    "target": "أنا بردان.",
+    "pronunciation": "'ana buradan."
+  },
+  {
+    "category": 1,
+    "id": 48,
+    "target": "أنا قادم لاصطحابك.",
+    "pronunciation": "'ana qadim liastuhabik."
+  },
+  {
+    "category": 1,
+    "id": 49,
+    "target": "انا ذاهب الى مغادرة البلاد.",
+    "pronunciation": "'iinaa dhahib 'iilaa mughadarat albilad."
+  },
+  {
+    "category": 1,
+    "id": 50,
+    "target": "انا بخير وأنت؟",
+    "pronunciation": "'iinaa bikhayr wa'anat?"
+  },
+  {
+    "category": 1,
+    "id": 51,
+    "target": "أنا سعيد.",
+    "pronunciation": "'ana saeidun."
+  },
+  {
+    "category": 1,
+    "id": 52,
+    "target": "إنني جائع أنا جوعان.",
+    "pronunciation": "'iinani jayie 'ana jueanin."
+  },
+  {
+    "category": 1,
+    "id": 53,
+    "target": "انا متزوج.",
+    "pronunciation": "'iinaa mutazawj."
+  },
+  {
+    "category": 1,
+    "id": 54,
+    "target": "انا لست مشغول.",
+    "pronunciation": "'iinaa last mashghul."
+  },
+  {
+    "category": 1,
+    "id": 55,
+    "target": "لست متزوجا.",
+    "pronunciation": "last mutazawijana."
+  },
+  {
+    "category": 1,
+    "id": 56,
+    "target": "أنا لست مستعدة بعد.",
+    "pronunciation": "'ana last mustaeidat baed."
+  },
+  {
+    "category": 1,
+    "id": 57,
+    "target": "لست متأكدا.",
+    "pronunciation": "last muta'akidana."
+  },
+  {
+    "category": 1,
+    "id": 58,
+    "target": "أنا آسف، نحن بيعت.",
+    "pronunciation": "'ana asaf, nahn bayet."
+  },
+  {
+    "category": 1,
+    "id": 59,
+    "target": "عطشان.",
+    "pronunciation": "eatshan."
+  },
+  {
+    "category": 1,
+    "id": 60,
+    "target": "أنا مشغول جدا. ليس لدي وقت الآن.",
+    "pronunciation": "'ana mashghul jadana. lays laday waqt alan."
+  },
+  {
+    "category": 1,
+    "id": 61,
+    "target": "ولست بحاجة لتغيير الملابس.",
+    "pronunciation": "walast bihajat litaghyir almalabis."
+  },
+  {
+    "category": 1,
+    "id": 62,
+    "target": "أنا أحتاج أن أذهب للمنزل.",
+    "pronunciation": "'ana 'ahtaj 'an 'adhhab lilmunzil."
+  },
+  {
+    "category": 1,
+    "id": 63,
+    "target": "أريد فقط تناول وجبة خفيفة.",
+    "pronunciation": "'urid faqat tanawul wajabat khafifatin."
+  },
+  {
+    "category": 1,
+    "id": 64,
+    "target": "هو السيد سميث أمريكي؟",
+    "pronunciation": "hu alsyd samith 'amriki?"
+  },
+  {
+    "category": 1,
+    "id": 65,
+    "target": "هل هذا كاف؟",
+    "pronunciation": "hal hdha kaf?"
+  },
+  {
+    "category": 1,
+    "id": 66,
+    "target": "اعتقد انها جيدة جدا.",
+    "pronunciation": "'aetaqid 'anaha jayidat jiddaan."
+  },
+  {
+    "category": 1,
+    "id": 67,
+    "target": "أعتقد أنه الأذواق جيدة.",
+    "pronunciation": "'aetaqid 'anah al'adhwaq jayidat."
+  },
+  {
+    "category": 1,
+    "id": 68,
+    "target": "اعتقدت الملابس أرخص.",
+    "pronunciation": "aietaqadat almalabis 'arkhs."
+  },
+  {
+    "category": 1,
+    "id": 69,
+    "target": "إنها أطول من 2 ميل.",
+    "pronunciation": "'iinaha 'atwal min 2 mil."
+  },
+  {
+    "category": 1,
+    "id": 70,
+    "target": "لقد كنت هنا لمدة يومين.",
+    "pronunciation": "laqad kunt huna limudat yawmayn."
+  },
+  {
+    "category": 1,
+    "id": 71,
+    "target": "لقد سمعت ولاية تكساس هو مكان جميل.",
+    "pronunciation": "laqad samiet wilayat taksas hu makan jamilun."
+  },
+  {
+    "category": 1,
+    "id": 72,
+    "target": "أنا لم أر قط من قبل.",
+    "pronunciation": "'ana lm 'ar qat min qabla."
+  },
+  {
+    "category": 1,
+    "id": 73,
+    "target": "كنت على وشك مغادرة المطعم عندما وصل أصدقائي.",
+    "pronunciation": "kunt ealaa washk mughadarat almuteam eindama wasal 'asdiqayiy."
+  },
+  {
+    "category": 1,
+    "id": 74,
+    "target": "قليلا فقط.",
+    "pronunciation": "qalilana faqt."
+  },
+  {
+    "category": 1,
+    "id": 75,
+    "target": "لحظة واحدة.",
+    "pronunciation": "lahzat wahdat."
+  },
+  {
+    "category": 1,
+    "id": 76,
+    "target": "دعني أتحقق.",
+    "pronunciation": "daeni 'atahaqaq."
+  },
+  {
+    "category": 1,
+    "id": 77,
+    "target": "دعني افكر به.",
+    "pronunciation": "daeni afkur bih."
+  },
+  {
+    "category": 1,
+    "id": 78,
+    "target": "دعنا نذهب لإلقاء نظرة.",
+    "pronunciation": "daena nadhhab li'iilqa' nazratin."
+  },
+  {
+    "category": 1,
+    "id": 79,
+    "target": "دعونا ممارسة اللغة الإنجليزية.",
+    "pronunciation": "daeuna mumarasat allughat al'iinjaliziat."
+  },
+  {
+    "category": 1,
+    "id": 80,
+    "target": "هل لي أن أتحدث إلى السيدة سميث من فضلك؟",
+    "pronunciation": "hal li 'an 'atahadath 'iilaa alsayidat samith min fadlk?"
+  },
+  {
+    "category": 1,
+    "id": 81,
+    "target": "أكثر من ذلك.",
+    "pronunciation": "'akthar min dhalik."
+  },
+  {
+    "category": 1,
+    "id": 82,
+    "target": "لا يهم.",
+    "pronunciation": "la yahim."
+  },
+  {
+    "category": 1,
+    "id": 83,
+    "target": "في المرة القادمة.",
+    "pronunciation": "fi almarat alqadimat."
+  },
+  {
+    "category": 1,
+    "id": 84,
+    "target": "لا.",
+    "pronunciation": "la."
+  },
+  {
+    "category": 1,
+    "id": 85,
+    "target": "كلام فارغ.",
+    "pronunciation": "kalam farghin."
+  },
+  {
+    "category": 1,
+    "id": 86,
+    "target": "لا، شكرا.",
+    "pronunciation": "la, shukra."
+  },
+  {
+    "category": 1,
+    "id": 87,
+    "target": "لا شيء آخر.",
+    "pronunciation": "la shay' akhar."
+  },
+  {
+    "category": 1,
+    "id": 88,
+    "target": "ليس مؤخرا.",
+    "pronunciation": "lays muakharana."
+  },
+  {
+    "category": 1,
+    "id": 89,
+    "target": "ليس بعد.",
+    "pronunciation": "lays baed."
+  },
+  {
+    "category": 1,
+    "id": 90,
+    "target": "بالطبع بكل تأكيد.",
+    "pronunciation": "bialtabe bikuli takidin."
+  },
+  {
+    "category": 1,
+    "id": 91,
+    "target": "حسنا.",
+    "pronunciation": "hasna."
+  },
+  {
+    "category": 1,
+    "id": 92,
+    "target": "يرجى ملء هذا النموذج.",
+    "pronunciation": "yrja mil' hdha alnamudhj."
+  },
+  {
+    "category": 1,
+    "id": 93,
+    "target": "يرجى يأخذني إلى هذا العنوان.",
+    "pronunciation": "yrja yakhudhuni 'iilaa hdha aleunwan."
+  },
+  {
+    "category": 1,
+    "id": 94,
+    "target": "يرجى الكتابة إلى أسفل.",
+    "pronunciation": "yrja alkitabat 'iilaa 'asfal."
+  },
+  {
+    "category": 1,
+    "id": 95,
+    "target": "هل حقا؟",
+    "pronunciation": "hal hqa?"
+  },
+  {
+    "category": 1,
+    "id": 96,
+    "target": "هنا.",
+    "pronunciation": "huna."
+  },
+  {
+    "category": 1,
+    "id": 97,
+    "target": "هناك مباشرة.",
+    "pronunciation": "hnak mubashiratun."
+  },
+  {
+    "category": 1,
+    "id": 98,
+    "target": "أراك لاحقا.",
+    "pronunciation": "'arak lahiqana."
+  },
+  {
+    "category": 1,
+    "id": 99,
+    "target": "أراك غدا.",
+    "pronunciation": "'arak ghadaan."
+  },
+  {
+    "category": 1,
+    "id": 100,
+    "target": "اراك الليلة.",
+    "pronunciation": "'arak allaylata."
+  },
+  {
+    "category": 1,
+    "id": 101,
+    "target": "انها جميلة.",
+    "pronunciation": "'iinaha jamilatun."
+  },
+  {
+    "category": 1,
+    "id": 102,
+    "target": "آسف لإزعاجك.",
+    "pronunciation": "asif li'iizeajik."
+  },
+  {
+    "category": 1,
+    "id": 103,
+    "target": "توقف!",
+    "pronunciation": "tawqaf!"
+  },
+  {
+    "category": 1,
+    "id": 104,
+    "target": "خذ فرصة.",
+    "pronunciation": "khudh fursat."
+  },
+  {
+    "category": 1,
+    "id": 105,
+    "target": "خذه إلى الخارج.",
+    "pronunciation": "khadhih 'iilaa alkharij."
+  },
+  {
+    "category": 1,
+    "id": 106,
+    "target": "أخبرنى.",
+    "pronunciation": "'akhbarnaa."
+  },
+  {
+    "category": 1,
+    "id": 107,
+    "target": "شكرا على كل شيء.",
+    "pronunciation": "shukraan ealaa kli shay'in."
+  },
+  {
+    "category": 1,
+    "id": 108,
+    "target": "شكرا لمساعدتك.",
+    "pronunciation": "shukraan limusaeidatik."
+  },
+  {
+    "category": 1,
+    "id": 109,
+    "target": "شكرا جزيلا.",
+    "pronunciation": "shukraan jazilana."
+  },
+  {
+    "category": 1,
+    "id": 110,
+    "target": "شكرا انسة.",
+    "pronunciation": "shukraan ansat."
+  },
+  {
+    "category": 1,
+    "id": 111,
+    "target": "شكرا لك سيدي.",
+    "pronunciation": "shukraan lak saydi."
+  },
+  {
+    "category": 1,
+    "id": 112,
+    "target": "شكرا جزيلا.",
+    "pronunciation": "shukraan jazilana."
+  },
+  {
+    "category": 1,
+    "id": 113,
+    "target": "هذا يبدو عظيما.",
+    "pronunciation": "hadha ybdw eazimana."
+  },
+  {
+    "category": 1,
+    "id": 114,
+    "target": "لا بأس.",
+    "pronunciation": "la bas."
+  },
+  {
+    "category": 1,
+    "id": 115,
+    "target": "هذا يكفي.",
+    "pronunciation": "hadha yukfi."
+  },
+  {
+    "category": 1,
+    "id": 116,
+    "target": "هذا جيد.",
+    "pronunciation": "hadha jayid."
+  },
+  {
+    "category": 1,
+    "id": 117,
+    "target": "هذا هو.",
+    "pronunciation": "hadha hu."
+  },
+  {
+    "category": 1,
+    "id": 118,
+    "target": "أن رائحة سيئة.",
+    "pronunciation": "'ana rayihat sayiatin."
+  },
+  {
+    "category": 1,
+    "id": 119,
+    "target": "هذا ليس عدلا.",
+    "pronunciation": "hadha lays eudlana."
+  },
+  {
+    "category": 1,
+    "id": 120,
+    "target": "هذا غير صحيح.",
+    "pronunciation": "hadha ghyr sahihin."
+  },
+  {
+    "category": 1,
+    "id": 121,
+    "target": "هذا صحيح.",
+    "pronunciation": "hadha sahihun."
+  },
+  {
+    "category": 1,
+    "id": 122,
+    "target": "وهذا أمر سيئ للغاية.",
+    "pronunciation": "wahadha 'amr sayiy lilghayat."
+  },
+  {
+    "category": 1,
+    "id": 123,
+    "target": "هذا كثير جدا.",
+    "pronunciation": "hadha kthyr jidana."
+  },
+  {
+    "category": 1,
+    "id": 124,
+    "target": "هذا كثير جدا.",
+    "pronunciation": "hadha kthyr jidana."
+  },
+  {
+    "category": 1,
+    "id": 125,
+    "target": "هذا الكتاب هو تحت الطاولة.",
+    "pronunciation": "hadha alkitab hu taht altaawilat."
+  },
+  {
+    "category": 1,
+    "id": 126,
+    "target": "أنها سوف تكون حق العودة.",
+    "pronunciation": "'anaha sawf takun haqu aleawdati."
+  },
+  {
+    "category": 1,
+    "id": 127,
+    "target": "انهم نفس الشيء.",
+    "pronunciation": "'iinahum nfs alshay'."
+  },
+  {
+    "category": 1,
+    "id": 128,
+    "target": "أنهم مشغولون جدا.",
+    "pronunciation": "'anahum mashghulun jidana."
+  },
+  {
+    "category": 1,
+    "id": 129,
+    "target": "هذا لا يعمل.",
+    "pronunciation": "hadha la yaemal."
+  },
+  {
+    "category": 1,
+    "id": 130,
+    "target": "هذا أمر صعب جدا.",
+    "pronunciation": "hadha 'amr saeb jidana."
+  },
+  {
+    "category": 1,
+    "id": 131,
+    "target": "هذا مهم جدا.",
+    "pronunciation": "hadha muhim jidana."
+  },
+  {
+    "category": 1,
+    "id": 132,
+    "target": "جربها.",
+    "pronunciation": "jarabaha."
+  },
+  {
+    "category": 1,
+    "id": 133,
+    "target": "جيد جدا، شكرا.",
+    "pronunciation": "jayid jadana, shukrana."
+  },
+  {
+    "category": 1,
+    "id": 134,
+    "target": "نحن أحب ذلك كثيرا جدا.",
+    "pronunciation": "nahn 'uhibu dhlk kathiraan jidana."
+  },
+  {
+    "category": 1,
+    "id": 135,
+    "target": "هل تأخذ رسالة من فضلك؟",
+    "pronunciation": "hal takhudh risalat min fadlik?"
+  },
+  {
+    "category": 1,
+    "id": 136,
+    "target": "نعم حقا.",
+    "pronunciation": "nem haqaaan."
+  },
+  {
+    "category": 1,
+    "id": 137,
+    "target": "أنت جميلة.",
+    "pronunciation": "'ant jamilat."
+  },
+  {
+    "category": 1,
+    "id": 138,
+    "target": "أنت لطيف جدا.",
+    "pronunciation": "'ant latif jidana."
+  },
+  {
+    "category": 1,
+    "id": 139,
+    "target": "انت ذكي جدا.",
+    "pronunciation": "'ant dhaki jidanaan."
+  },
+  {
+    "category": 1,
+    "id": 140,
+    "target": "الأشياء الخاصة بك كلها هنا.",
+    "pronunciation": "al'ashya' alkhasat bik klha huna."
+  },
+  {
+    "category": 2,
+    "id": 141,
+    "target": "صباح الخير.",
+    "pronunciation": "sabah alkhayr."
+  },
+  {
+    "category": 2,
+    "id": 142,
+    "target": "مساء الخير سيدي.",
+    "pronunciation": "masa' alkhayr sayidi."
+  },
+  {
+    "category": 2,
+    "id": 143,
+    "target": "مساء الخير.",
+    "pronunciation": "masa' alkhayr."
+  },
+  {
+    "category": 2,
+    "id": 144,
+    "target": "مرحبا.",
+    "pronunciation": "marhaba."
+  },
+  {
+    "category": 2,
+    "id": 145,
+    "target": "من المؤكد!",
+    "pronunciation": "min almukd!"
+  },
+  {
+    "category": 2,
+    "id": 146,
+    "target": "اتصل بي من فضلك.",
+    "pronunciation": "'atasil bi min fudlik."
+  },
+  {
+    "category": 2,
+    "id": 147,
+    "target": "عظيم.",
+    "pronunciation": "eazim."
+  },
+  {
+    "category": 2,
+    "id": 148,
+    "target": "تشرفت بمقابلتك",
+    "pronunciation": "tasharafat bimuqabalatik"
+  },
+  {
+    "category": 2,
+    "id": 149,
+    "target": "عيد مولد سعيد.",
+    "pronunciation": "eyd mawlid saeid."
+  },
+  {
+    "category": 2,
+    "id": 150,
+    "target": "حظا سعيدا.",
+    "pronunciation": "hza saeidana."
+  },
+  {
+    "category": 2,
+    "id": 151,
+    "target": "احظى برحلة جيدة.",
+    "pronunciation": "ahzaa birihlat jayidatin."
+  },
+  {
+    "category": 3,
+    "id": 152,
+    "target": "تذكرة ذهاب وإياب.",
+    "pronunciation": "tadhkirat dhahab wa'iiabun."
+  },
+  {
+    "category": 3,
+    "id": 153,
+    "target": "تذكرة ذهاب.",
+    "pronunciation": "tadhkirat dhahab."
+  },
+  {
+    "category": 3,
+    "id": 154,
+    "target": "في أي وقت؟",
+    "pronunciation": "fi 'ayi waqat?"
+  },
+  {
+    "category": 3,
+    "id": 155,
+    "target": "اتجه للأمام مباشرة.",
+    "pronunciation": "aitajih lil'amam mubasharat."
+  },
+  {
+    "category": 3,
+    "id": 156,
+    "target": "كيف كان الفيلم؟",
+    "pronunciation": "kayf kan alfaylam?"
+  },
+  {
+    "category": 3,
+    "id": 157,
+    "target": "كيف أحصل على السفارة الأمريكية؟",
+    "pronunciation": "kayf 'ahsal ealaa alsifarat al'amrikia?"
+  },
+  {
+    "category": 3,
+    "id": 158,
+    "target": "كيف أحصل على شارع دانيال؟",
+    "pronunciation": "kayf 'ahsil ealaa sharie danyal?"
+  },
+  {
+    "category": 3,
+    "id": 159,
+    "target": "كيف أصل إلى هناك؟",
+    "pronunciation": "kayf 'asl 'iilaa hunak?"
+  },
+  {
+    "category": 3,
+    "id": 160,
+    "target": "يمكنني تحديد موعد ليوم الاربعاء القادم؟",
+    "pronunciation": "ymknny tahdid maweid liawm al'arbiea' alqadm?"
+  },
+  {
+    "category": 3,
+    "id": 161,
+    "target": "كم تستغرق رحلة الطيران؟",
+    "pronunciation": "kam tastaghriq rihlat altayran?"
+  },
+  {
+    "category": 3,
+    "id": 162,
+    "target": "حوالي 300 كيلومترا.",
+    "pronunciation": "hwaly 300 kilumitrana."
+  },
+  {
+    "category": 3,
+    "id": 163,
+    "target": "من هنا إلى هناك.",
+    "pronunciation": "min huna 'iilaa hunak."
+  },
+  {
+    "category": 3,
+    "id": 164,
+    "target": "كم من الوقت يستغرق للوصول الى جورجيا؟",
+    "pronunciation": "kam min alwaqt yastaghriq lilwusul 'iilaa jwrjya?"
+  },
+  {
+    "category": 3,
+    "id": 165,
+    "target": "كم من الوقت يستغرق بالسيارة؟",
+    "pronunciation": "kam min alwaqt yastaghriq bialsiyar?"
+  },
+  {
+    "category": 3,
+    "id": 166,
+    "target": "اتبعني.",
+    "pronunciation": "aitbieani."
+  },
+  {
+    "category": 3,
+    "id": 167,
+    "target": "هل زرت بوسطن؟",
+    "pronunciation": "hal zurt biwstan?"
+  },
+  {
+    "category": 3,
+    "id": 168,
+    "target": "هل تعلمون ماذا يقول هذا؟",
+    "pronunciation": "hal taelamun madha yaqul hdha?"
+  },
+  {
+    "category": 3,
+    "id": 169,
+    "target": "أعد ذلك من فضلك؟",
+    "pronunciation": "'aeada dhlk min fadlk?"
+  },
+  {
+    "category": 3,
+    "id": 170,
+    "target": "هل وصلت؟",
+    "pronunciation": "hal wasalat?"
+  },
+  {
+    "category": 3,
+    "id": 171,
+    "target": "أنت ذاهب لمساعدتها؟",
+    "pronunciation": "'ant dhahib limusaeadatiha?"
+  },
+  {
+    "category": 3,
+    "id": 172,
+    "target": "هل تعلم كيف تطبخ؟",
+    "pronunciation": "hal taelam kayf tatbkh?"
+  },
+  {
+    "category": 3,
+    "id": 173,
+    "target": "هل تريد مني أن يأتي ويقلك؟",
+    "pronunciation": "hal turid miniy 'an yati wayuqluk?"
+  },
+  {
+    "category": 3,
+    "id": 174,
+    "target": "هل لديك مال كفاية؟",
+    "pronunciation": "hal ladayk mal kafayatan?"
+  },
+  {
+    "category": 3,
+    "id": 175,
+    "target": "لدي سؤال أريد أن أسأل you./ أريد أن أسألك سؤالا.",
+    "pronunciation": "laday sual 'urid 'an 'as'al you./ 'urid 'an 'as'alak suaala."
+  },
+  {
+    "category": 3,
+    "id": 176,
+    "target": "هل يذهب هذا الطريق الى نيويورك؟",
+    "pronunciation": "hal yadhhab hdha altariq 'iilaa niuyurk?"
+  },
+  {
+    "category": 3,
+    "id": 177,
+    "target": "سآخذ أن واحدا أيضا.",
+    "pronunciation": "sakhadh 'an wahidaan 'aydana."
+  },
+  {
+    "category": 3,
+    "id": 178,
+    "target": "أنا ذاهب إلى الوطن في أربعة أيام.",
+    "pronunciation": "'ana dhahib 'iilaa alwatan fi arbet 'ayam."
+  },
+  {
+    "category": 3,
+    "id": 179,
+    "target": "أنا قادم الآن.",
+    "pronunciation": "'ana qadim alan."
+  },
+  {
+    "category": 3,
+    "id": 180,
+    "target": "اود ان احجز.",
+    "pronunciation": "'awadu 'an ahjiz."
+  },
+  {
+    "category": 3,
+    "id": 181,
+    "target": "أود أن إجراء مكالمة هاتفية.",
+    "pronunciation": "'awad 'ana 'iijra' mukalamat hatifiatin."
+  },
+  {
+    "category": 4,
+    "id": 182,
+    "target": "11 دولارا.",
+    "pronunciation": "11 dularana."
+  },
+  {
+    "category": 4,
+    "id": 183,
+    "target": "52 سنتا.",
+    "pronunciation": "52 sunata."
+  },
+  {
+    "category": 4,
+    "id": 184,
+    "target": "هل تأخذ بطاقات الائتمان؟",
+    "pronunciation": "hal takhudh bitaqat alaytiman?"
+  },
+  {
+    "category": 4,
+    "id": 185,
+    "target": "أين تحبذ أن نلتقي؟",
+    "pronunciation": "'ayn tahbadh 'an naltaqi?"
+  },
+  {
+    "category": 4,
+    "id": 186,
+    "target": "أين يمكنني شراء التذاكر؟",
+    "pronunciation": "'ayn yumkinuni shira' altadhakur?"
+  },
+  {
+    "category": 4,
+    "id": 187,
+    "target": "هل هناك أي بريد باسمى؟",
+    "pronunciation": "hal hnak 'ayu barid basmaa؟"
+  },
+  {
+    "category": 4,
+    "id": 188,
+    "target": "هناك الكثير من الناس هنا.",
+    "pronunciation": "hnak alkthyr min alnnas huna."
+  },
+  {
+    "category": 4,
+    "id": 189,
+    "target": "معذرة، نحن لا نقبل بطاقات الائتمان.",
+    "pronunciation": "maedharat, nahn la naqbal bitaqat alaitiman."
+  },
+  {
+    "category": 4,
+    "id": 190,
+    "target": "آسف، ونحن نقبل فقط النقدية.",
+    "pronunciation": "asafa, wanahn naqbal faqat alnaqdiat."
+  },
+  {
+    "category": 4,
+    "id": 191,
+    "target": "كيف حالك دفع؟",
+    "pronunciation": "kayf halik dafae?"
+  },
+  {
+    "category": 4,
+    "id": 192,
+    "target": "ما هو رقم هاتفك؟",
+    "pronunciation": "ma hu raqm hatifuk?"
+  },
+  {
+    "category": 4,
+    "id": 193,
+    "target": "ما هو سعر الصرف للدولار؟",
+    "pronunciation": "ma hu sier alsarf lilduwlar?"
+  },
+  {
+    "category": 4,
+    "id": 194,
+    "target": "أيهما أفضل؟",
+    "pronunciation": "'ayhuma 'afdal?"
+  },
+  {
+    "category": 4,
+    "id": 195,
+    "target": "انا عمري 26 سنة.",
+    "pronunciation": "'iinaa eumri 26 sanat."
+  },
+  {
+    "category": 4,
+    "id": 196,
+    "target": "ولست بحاجة لممارسة لغتي الإنجليزية.",
+    "pronunciation": "walast bihajat lamumarasat laghati al'iinjaliziat."
+  },
+  {
+    "category": 4,
+    "id": 197,
+    "target": "أليس كذلك؟",
+    "pronunciation": "'alays kadhalk?"
+  },
+  {
+    "category": 4,
+    "id": 198,
+    "target": "قليلة.",
+    "pronunciation": "qalilatan."
+  },
+  {
+    "category": 4,
+    "id": 199,
+    "target": "وهم يتقاضون 26 دولارا في اليوم الواحد.",
+    "pronunciation": "wahum yataqadawn 26 dularaan fi alyawm alwahidi."
+  },
+  {
+    "category": 4,
+    "id": 200,
+    "target": "تفضل بالدخول.",
+    "pronunciation": "tafadal bialdukhul."
+  },
+  {
+    "category": 4,
+    "id": 201,
+    "target": "اتصل بالشرطة.",
+    "pronunciation": "'atasil bialshurtat."
+  },
+  {
+    "category": 4,
+    "id": 202,
+    "target": "كم هي هذه الأقراط؟",
+    "pronunciation": "kam hi hadhih al'aqrata?"
+  },
+  {
+    "category": 4,
+    "id": 203,
+    "target": "هذا المطعم ليست باهظة الثمن.",
+    "pronunciation": "hadha almutaeim laysat bahizat althamn."
+  },
+  {
+    "category": 4,
+    "id": 204,
+    "target": "انها 23:30.",
+    "pronunciation": "'iinaha 23:30."
+  },
+  {
+    "category": 4,
+    "id": 205,
+    "target": "انها هي 09:15.",
+    "pronunciation": "'anaha hi 09:15."
+  },
+  {
+    "category": 4,
+    "id": 206,
+    "target": "كم من المال لجعل لكم؟",
+    "pronunciation": "kam min almal lajaeal lakum?"
+  },
+  {
+    "category": 4,
+    "id": 207,
+    "target": "كم من الناس هناك في نيويورك؟",
+    "pronunciation": "kam min alnaas hunak fi niuyurk?"
+  },
+  {
+    "category": 4,
+    "id": 208,
+    "target": "كم هو الذهاب الى ميامي؟",
+    "pronunciation": "kam hu aldhahab 'iilaa miamy?"
+  },
+  {
+    "category": 4,
+    "id": 209,
+    "target": "كم تكلف في اليوم الواحد؟",
+    "pronunciation": "kam tukalaf fi alyawm alwahid?"
+  },
+  {
+    "category": 4,
+    "id": 210,
+    "target": "كم يكلف هذا؟",
+    "pronunciation": "kam yukalif hdha?"
+  },
+  {
+    "category": 4,
+    "id": 211,
+    "target": "بكم أنا مدين لك؟",
+    "pronunciation": "bikum 'ana madyan lak?"
+  },
+  {
+    "category": 4,
+    "id": 212,
+    "target": "هل زوجتك مثل ولاية كاليفورنيا؟",
+    "pronunciation": "hal zawjatuk mithl wilayat kalyafurunia?"
+  },
+  {
+    "category": 4,
+    "id": 213,
+    "target": "هل لديك أي شيء أرخص؟",
+    "pronunciation": "hal ladayk 'ayu shay' arkhs?"
+  },
+  {
+    "category": 4,
+    "id": 214,
+    "target": "سآخذ نفس الشيء.",
+    "pronunciation": "sakhadh nfs alshay'."
+  },
+  {
+    "category": 4,
+    "id": 215,
+    "target": "لدي حجز.",
+    "pronunciation": "laday hujz."
+  },
+  {
+    "category": 4,
+    "id": 216,
+    "target": "ليس لدي صديقة.",
+    "pronunciation": "lays laday sadiqatun."
+  },
+  {
+    "category": 4,
+    "id": 217,
+    "target": "ليس لدي أي أموال.",
+    "pronunciation": "lays laday 'ayu 'amwalin."
+  },
+  {
+    "category": 4,
+    "id": 218,
+    "target": "هل لديك أي قهوة؟",
+    "pronunciation": "hal ladayk 'ayu qahuatan?"
+  },
+  {
+    "category": 4,
+    "id": 219,
+    "target": "القليل.",
+    "pronunciation": "alqalil."
+  },
+  {
+    "category": 4,
+    "id": 220,
+    "target": "هل هذا جيد؟",
+    "pronunciation": "hal hdha jyd?"
+  },
+  {
+    "category": 4,
+    "id": 221,
+    "target": "هذا غال جدا.",
+    "pronunciation": "hadha ghal jidana."
+  },
+  {
+    "category": 4,
+    "id": 222,
+    "target": "سوف أدفع ثمن التذاكر.",
+    "pronunciation": "sawf 'adfae thaman altadhakur."
+  },
+  {
+    "category": 4,
+    "id": 223,
+    "target": "سأدفع لتناول العشاء.",
+    "pronunciation": "sa'adfae litanawul aleasha'."
+  },
+  {
+    "category": 4,
+    "id": 224,
+    "target": "أود أن تناول الطعام في مطعم الشارع 5TH.",
+    "pronunciation": "'awad 'an tanawul altaeam fi mateam alshsharie 5TH."
+  },
+  {
+    "category": 5,
+    "id": 225,
+    "target": "أكثر من 200 ميل.",
+    "pronunciation": "'akthar min 200 mil."
+  },
+  {
+    "category": 5,
+    "id": 226,
+    "target": "كن هادئا.",
+    "pronunciation": "kun hadyana."
+  },
+  {
+    "category": 5,
+    "id": 227,
+    "target": "في 03:00.",
+    "pronunciation": "fi 03:00."
+  },
+  {
+    "category": 5,
+    "id": 228,
+    "target": "هنا.",
+    "pronunciation": "huna."
+  },
+  {
+    "category": 5,
+    "id": 229,
+    "target": "هناك.",
+    "pronunciation": "hunak."
+  },
+  {
+    "category": 5,
+    "id": 230,
+    "target": "ها انت.",
+    "pronunciation": "ha ant."
+  },
+  {
+    "category": 5,
+    "id": 231,
+    "target": "ها هو.",
+    "pronunciation": "ha hu."
+  },
+  {
+    "category": 5,
+    "id": 232,
+    "target": "موافق.",
+    "pronunciation": "mawafiq."
+  },
+  {
+    "category": 5,
+    "id": 233,
+    "target": "أين هي؟",
+    "pronunciation": "'ayn hy?"
+  },
+  {
+    "category": 5,
+    "id": 234,
+    "target": "إلى أي مدى هو عليه الى شيكاغو؟",
+    "pronunciation": "'iilaa 'ayi madaa hu ealayh 'iilaa shikaghu?"
+  },
+  {
+    "category": 5,
+    "id": 235,
+    "target": "كم يبعد؟",
+    "pronunciation": "kam yabaeda?"
+  },
+  {
+    "category": 5,
+    "id": 236,
+    "target": "ما هو العنوان؟",
+    "pronunciation": "ma hu aleanwan?"
+  },
+  {
+    "category": 5,
+    "id": 237,
+    "target": "هناك كتاب تحت الطاولة.",
+    "pronunciation": "hnak kitab taht altaawilat."
+  },
+  {
+    "category": 5,
+    "id": 238,
+    "target": "الكتاب هو على رأس الطاولة.",
+    "pronunciation": "alkitab hu ealaa ras altaawilat."
+  },
+  {
+    "category": 5,
+    "id": 239,
+    "target": "هذا الكتاب هو بالقرب من الجدول.",
+    "pronunciation": "hadha alkitab hu bialqurb min aljadul."
+  },
+  {
+    "category": 5,
+    "id": 240,
+    "target": "هذا الكتاب هو القادم الى طاولة المفاوضات.",
+    "pronunciation": "hadha alkitab hu alqadim 'iilaa tawilat almufawadat."
+  },
+  {
+    "category": 5,
+    "id": 241,
+    "target": "هذا الكتاب هو وراء طاولة المفاوضات.",
+    "pronunciation": "hadha alkitab hu wara' tawilat almufawadat."
+  },
+  {
+    "category": 5,
+    "id": 242,
+    "target": "يقع الكتاب في مقدمة الجدول.",
+    "pronunciation": "yaqae alkitab fi muqadimat aljadul."
+  },
+  {
+    "category": 5,
+    "id": 243,
+    "target": "الذي فاز؟",
+    "pronunciation": "aladhi faz?"
+  },
+  {
+    "category": 5,
+    "id": 244,
+    "target": "أين تريد أن تذهب؟",
+    "pronunciation": "'ayn turid 'an tadhahab?"
+  },
+  {
+    "category": 5,
+    "id": 245,
+    "target": "إلى أين تذهب؟",
+    "pronunciation": "'iilaa 'ayn tadhahab?"
+  },
+  {
+    "category": 5,
+    "id": 246,
+    "target": "أريد غرفة لشخص واحد.",
+    "pronunciation": "'urid ghurfat lishakhs wahid."
+  },
+  {
+    "category": 5,
+    "id": 247,
+    "target": "يمكن.",
+    "pronunciation": "yumkin."
+  },
+  {
+    "category": 5,
+    "id": 248,
+    "target": "بيتي قريب من البنك.",
+    "pronunciation": "bayti qarib min albank."
+  },
+  {
+    "category": 5,
+    "id": 249,
+    "target": "نحن من ولاية كاليفورنيا.",
+    "pronunciation": "nahn min wilayat kalyfurnia."
+  },
+  {
+    "category": 5,
+    "id": 250,
+    "target": "في الطابق الثاني.",
+    "pronunciation": "fi alttabiq althaani."
+  },
+  {
+    "category": 5,
+    "id": 251,
+    "target": "نفترض أن المطر غدا.",
+    "pronunciation": "naftarid 'ana almatar ghadaan."
+  },
+  {
+    "category": 5,
+    "id": 252,
+    "target": "على اليسار.",
+    "pronunciation": "ealaa alyasar."
+  },
+  {
+    "category": 5,
+    "id": 253,
+    "target": "على اليمين.",
+    "pronunciation": "ealaa alyamin."
+  },
+  {
+    "category": 5,
+    "id": 254,
+    "target": "على الجانب الآخر من مكتب البريد.",
+    "pronunciation": "ealaa aljanib alakhar min maktab albarid."
+  },
+  {
+    "category": 5,
+    "id": 255,
+    "target": "هناك بعض الكتب على الطاولة.",
+    "pronunciation": "hnak bed alkutub ealaa altaawilat."
+  },
+  {
+    "category": 5,
+    "id": 256,
+    "target": "بالقرب من البنك.",
+    "pronunciation": "bialqurb min albanik."
+  },
+  {
+    "category": 5,
+    "id": 257,
+    "target": "انه في المطبخ.",
+    "pronunciation": "'iinah fi almutabakh."
+  },
+  {
+    "category": 5,
+    "id": 258,
+    "target": "يدرس في جامعة بوسطن.",
+    "pronunciation": "yadrus fi jamieat buasatn."
+  },
+  {
+    "category": 5,
+    "id": 259,
+    "target": "لنذهب.",
+    "pronunciation": "linadhhab."
+  },
+  {
+    "category": 5,
+    "id": 260,
+    "target": "انها ليست من المفترض أن المطر اليوم.",
+    "pronunciation": "'anaha laysat min almftrd 'ana almatar alyawma."
+  },
+  {
+    "category": 5,
+    "id": 261,
+    "target": "انها حقا الساخنة.",
+    "pronunciation": "'iinaha haqana alsaakhinat."
+  },
+  {
+    "category": 5,
+    "id": 262,
+    "target": "انها نصف الماضي 11.",
+    "pronunciation": "'iinaha nsf almadi 11."
+  },
+  {
+    "category": 5,
+    "id": 263,
+    "target": "كم ميلا هل إلى ولاية بنسلفانيا؟",
+    "pronunciation": "kam milaan hal 'iilaa wilayat bnslfanya?"
+  },
+  {
+    "category": 5,
+    "id": 264,
+    "target": "خارج الفندق.",
+    "pronunciation": "kharij alfunudq."
+  },
+  {
+    "category": 5,
+    "id": 265,
+    "target": "هل تستطيع أن تقترح اسم مطعم جيد؟",
+    "pronunciation": "hal tastatie 'an taqtarih aism mateam jyd?"
+  },
+  {
+    "category": 5,
+    "id": 266,
+    "target": "إنها أكثر من 5 دولارات.",
+    "pronunciation": "'iinaha 'akthar min 5 dularatin."
+  },
+  {
+    "category": 5,
+    "id": 267,
+    "target": "أنها لذيذة!",
+    "pronunciation": "'anaha ladhidha!"
+  },
+  {
+    "category": 5,
+    "id": 268,
+    "target": "كان أقل من 5 دولارات.",
+    "pronunciation": "kan 'aqal min 5 dularatin."
+  },
+  {
+    "category": 5,
+    "id": 269,
+    "target": "كان على 7th الشارع.",
+    "pronunciation": "kan ealaa 7th alshaarie."
+  },
+  {
+    "category": 5,
+    "id": 270,
+    "target": "انها بالقرب من سوبر ماركت.",
+    "pronunciation": "'iinaha bialqurb min subar maarikat."
+  },
+  {
+    "category": 5,
+    "id": 271,
+    "target": "كنت في المكتبة.",
+    "pronunciation": "kunt fi almaktabat."
+  },
+  {
+    "category": 5,
+    "id": 272,
+    "target": "احب مشاهدة التلفاز.",
+    "pronunciation": "'uhibu mushahadat altalafaaz."
+  },
+  {
+    "category": 5,
+    "id": 273,
+    "target": "كنت ذاهبا إلى المكتبة.",
+    "pronunciation": "kunt dhahiba 'iilaa almaktabat."
+  },
+  {
+    "category": 6,
+    "id": 274,
+    "target": "هذا رقمي.",
+    "pronunciation": "hadha raqmi."
+  },
+  {
+    "category": 6,
+    "id": 275,
+    "target": "أين الصيدلية؟",
+    "pronunciation": "'ayn alsaydaliat?"
+  },
+  {
+    "category": 6,
+    "id": 276,
+    "target": "أين أقرب مطعم؟",
+    "pronunciation": "'ayn 'aqrab matem?"
+  },
+  {
+    "category": 6,
+    "id": 277,
+    "target": "أين يمكنني العثور على المستشفى؟",
+    "pronunciation": "'ayn yumkinuni aleuthur ealaa almustashfaa؟"
+  },
+  {
+    "category": 6,
+    "id": 278,
+    "target": "هل هناك دليل على التحدث باللغة الإنجليزية؟",
+    "pronunciation": "hal hnak dalil ealaa altahaduth biallughat al'iinjalizia?"
+  },
+  {
+    "category": 6,
+    "id": 279,
+    "target": "مرحبا، والسيدة سميث هناك، من فضلك؟",
+    "pronunciation": "marhabana, walsayidat samith hunaka, min fadalk?"
+  },
+  {
+    "category": 6,
+    "id": 280,
+    "target": "عذرا، أعتقد أن لدينا عددا خاطئا.",
+    "pronunciation": "eudhraan, 'aetaqid 'an ladayna eadadaan khatiana."
+  },
+  {
+    "category": 6,
+    "id": 281,
+    "target": "ما هو اسم الشركة التي تعمل ل؟",
+    "pronunciation": "ma hu aism alsharikat alty taemal l?"
+  },
+  {
+    "category": 6,
+    "id": 282,
+    "target": "ما هو رمز المنطقة؟",
+    "pronunciation": "ma hu ramz almntq?"
+  },
+  {
+    "category": 6,
+    "id": 283,
+    "target": "ماهو عنوانك؟",
+    "pronunciation": "mahw eanwank?"
+  },
+  {
+    "category": 6,
+    "id": 284,
+    "target": "من أنت؟",
+    "pronunciation": "min 'anat?"
+  },
+  {
+    "category": 6,
+    "id": 285,
+    "target": "من ذاك؟",
+    "pronunciation": "min dhak?"
+  },
+  {
+    "category": 6,
+    "id": 286,
+    "target": "انا بحاجة الى بعض الأنسجة.",
+    "pronunciation": "'iinaa bihajat 'iilaa bed al'ansijat."
+  },
+  {
+    "category": 6,
+    "id": 287,
+    "target": "أريد بعض الماء أيضا، من فضلك.",
+    "pronunciation": "'urid bed alma' 'aydana, min fadlik."
+  },
+  {
+    "category": 6,
+    "id": 288,
+    "target": "هل يمكنني اخذ رسالة؟",
+    "pronunciation": "hal yumkinuni 'akhadh risalata?"
+  },
+  {
+    "category": 6,
+    "id": 289,
+    "target": "هل يمكنني تجربتها؟",
+    "pronunciation": "hal yumkinuni tajribatuha?"
+  },
+  {
+    "category": 6,
+    "id": 290,
+    "target": "يمكن أن نجلس هناك؟",
+    "pronunciation": "ymkn 'an nujlis hunak?"
+  },
+  {
+    "category": 6,
+    "id": 291,
+    "target": "يمكنني رؤية جواز سفرك من فضلك؟",
+    "pronunciation": "ymknny ruyat jawaz sufarak min fadlik?"
+  },
+  {
+    "category": 6,
+    "id": 292,
+    "target": "لا يعمل هاتفي الخلوي.",
+    "pronunciation": "la yaemal hatifi alkhilwi."
+  },
+  {
+    "category": 6,
+    "id": 293,
+    "target": "ذكر أم أنثى؟",
+    "pronunciation": "dhakar 'am 'unthaa؟"
+  },
+  {
+    "category": 6,
+    "id": 294,
+    "target": "انه ليس في الوقت الحالي.",
+    "pronunciation": "'iinah lays fi alwaqt alhali."
+  },
+  {
+    "category": 6,
+    "id": 295,
+    "target": "من فضلك اخلع حذاءك.",
+    "pronunciation": "min fadlik akhlae hadha'ak."
+  },
+  {
+    "category": 6,
+    "id": 296,
+    "target": "من الذي تود أن تتحدث إليه؟",
+    "pronunciation": "min aldhy tuda 'an tatahadath 'iilyh?"
+  },
+  {
+    "category": 6,
+    "id": 297,
+    "target": "أنا بخير.",
+    "pronunciation": "'ana bikhayrin."
+  },
+  {
+    "category": 6,
+    "id": 298,
+    "target": "هل تعتقد أنه من الممكن؟",
+    "pronunciation": "hal taetaqid 'anah min almamkin?"
+  },
+  {
+    "category": 6,
+    "id": 299,
+    "target": "سوف يأخذني المنزل؟",
+    "pronunciation": "sawf yakhudhuni almanzula?"
+  },
+  {
+    "category": 6,
+    "id": 300,
+    "target": "أتيت مع عائلتك؟",
+    "pronunciation": "'atayt mae eayilatik?"
+  },
+  {
+    "category": 6,
+    "id": 301,
+    "target": "لدي ثلاثة أطفال، بنتين وولد واحد.",
+    "pronunciation": "laday thlatht 'atfal, banatin wawulid wahidun."
+  },
+  {
+    "category": 6,
+    "id": 302,
+    "target": "لم يقم هاتفي الخلوي حسن الاستقبال.",
+    "pronunciation": "lm yaqum hatifiin alkhulwi hasan alaistiqbal."
+  },
+  {
+    "category": 6,
+    "id": 303,
+    "target": "هل ترغب الماء أو الحليب؟",
+    "pronunciation": "hal targhab alma' 'aw alhaliyb?"
+  },
+  {
+    "category": 6,
+    "id": 304,
+    "target": "ماذا دهاك؟",
+    "pronunciation": "madha dahak?"
+  },
+  {
+    "category": 6,
+    "id": 305,
+    "target": "أود أن شراء زجاجة من الماء، من فضلك.",
+    "pronunciation": "'awadu 'an shira' zujajatan min alma'i, min fadlik."
+  },
+  {
+    "category": 6,
+    "id": 306,
+    "target": "أود التحدث إلى السيد سميث من فضلك.",
+    "pronunciation": "'awadu altahaduth 'iilaa alsyd samith min fidlik."
+  },
+  {
+    "category": 6,
+    "id": 307,
+    "target": "أود أن شراء شيء ما.",
+    "pronunciation": "'awadu 'ana shira' shay' maa."
+  },
+  {
+    "category": 6,
+    "id": 308,
+    "target": "سوف اعلمك.",
+    "pronunciation": "sawf aelamuk."
+  },
+  {
+    "category": 6,
+    "id": 309,
+    "target": "سوف أعاود الاتصال بك لاحقا.",
+    "pronunciation": "sawf 'aeawad alaitisal bik lahqa."
+  },
+  {
+    "category": 6,
+    "id": 310,
+    "target": "سأتصل بك غدا الجمعة.",
+    "pronunciation": "sa'atsil bik ghadaan aljumeata."
+  },
+  {
+    "category": 6,
+    "id": 311,
+    "target": "سأعود حالا.",
+    "pronunciation": "sa'aeud hala."
+  },
+  {
+    "category": 6,
+    "id": 312,
+    "target": "كنت ترغب في استئجار سيارة.",
+    "pronunciation": "kunt targhab fi aistijar sayaratin."
+  },
+  {
+    "category": 6,
+    "id": 313,
+    "target": "كنت ترغب في إرسال الفاكس.",
+    "pronunciation": "kunt targhab fi 'iirsal alfakis."
+  },
+  {
+    "category": 6,
+    "id": 314,
+    "target": "كنت ترغب في إرسال هذا إلى أمريكا.",
+    "pronunciation": "kunt targhab fi 'iirsal hdha 'iilaa 'amrika."
+  },
+  {
+    "category": 6,
+    "id": 315,
+    "target": "أود أن تذهب إلى المتجر.",
+    "pronunciation": "'awad 'an tadhhab 'iilaa almutajarr."
+  },
+  {
+    "category": 6,
+    "id": 316,
+    "target": "انا اريد ان اعطيك هدية.",
+    "pronunciation": "'ana 'urid 'an 'uetik hadiat."
+  },
+  {
+    "category": 7,
+    "id": 317,
+    "target": "قبل 11 يوما.",
+    "pronunciation": "qabl 11 yawmana."
+  },
+  {
+    "category": 7,
+    "id": 318,
+    "target": "ساعاتين.",
+    "pronunciation": "saeatin."
+  },
+  {
+    "category": 7,
+    "id": 319,
+    "target": "22 أكتوبر.",
+    "pronunciation": "22 'uktubar."
+  },
+  {
+    "category": 7,
+    "id": 320,
+    "target": "في 3:00 بعد الظهر.",
+    "pronunciation": "fi 3:00 baed alzuhr."
+  },
+  {
+    "category": 7,
+    "id": 321,
+    "target": "في 07:00 ليلا. (مساء)؟",
+    "pronunciation": "fi 07:00 layla. (msa')?"
+  },
+  {
+    "category": 7,
+    "id": 322,
+    "target": "في 7:00 في الصباح.",
+    "pronunciation": "fi 7:00 fi alsabah."
+  },
+  {
+    "category": 7,
+    "id": 323,
+    "target": "وقت ما هم يصلون؟",
+    "pronunciation": "waqt maa hum yasluna?"
+  },
+  {
+    "category": 7,
+    "id": 324,
+    "target": "في أي وقت استيقظت؟",
+    "pronunciation": "fi 'ayi waqt astayqazat?"
+  },
+  {
+    "category": 7,
+    "id": 325,
+    "target": "ما الوقت هل تعتقد انك سوف تصل؟",
+    "pronunciation": "ma alwaqt hal taetaqid 'iinak sawf tsl?"
+  },
+  {
+    "category": 7,
+    "id": 326,
+    "target": "وقت ما لم تذهب إلى النوم؟",
+    "pronunciation": "waqt ma lam tadhhab 'iilaa alnuwm?"
+  },
+  {
+    "category": 7,
+    "id": 327,
+    "target": "فى اى وقت استيقظت؟",
+    "pronunciation": "fa aa waqt aistayqazat?"
+  },
+  {
+    "category": 7,
+    "id": 328,
+    "target": "ما الوقت الذي تبدأ فيه؟",
+    "pronunciation": "ma alwaqt aldhy tabda fih?"
+  },
+  {
+    "category": 7,
+    "id": 329,
+    "target": "أي يوم في الإسبوع هذا؟",
+    "pronunciation": "'aya yawm fi al'iisbue hdha?"
+  },
+  {
+    "category": 7,
+    "id": 330,
+    "target": "يوم ما يأتون من جديد؟",
+    "pronunciation": "yawm ma yatun min jadiydan?"
+  },
+  {
+    "category": 7,
+    "id": 331,
+    "target": "طوال اليوم.",
+    "pronunciation": "tawal alyawm."
+  },
+  {
+    "category": 7,
+    "id": 332,
+    "target": "اليوم بأكمله.",
+    "pronunciation": "alyawm bi'ukmalah."
+  },
+  {
+    "category": 7,
+    "id": 333,
+    "target": "في وقت ما أنه لم يحدث؟",
+    "pronunciation": "fi waqt ma 'anah lm yahdth?"
+  },
+  {
+    "category": 7,
+    "id": 334,
+    "target": "منذ وقت طويل.",
+    "pronunciation": "mundh waqt tawil."
+  },
+  {
+    "category": 7,
+    "id": 335,
+    "target": "جون هو ذاهب لقضاء اجازة غدا.",
+    "pronunciation": "jun hu dhahib liqada' 'iijazat ghadaan."
+  },
+  {
+    "category": 7,
+    "id": 336,
+    "target": "عائلته قادم غدا.",
+    "pronunciation": "eayilatuh qadim ghadaan."
+  },
+  {
+    "category": 7,
+    "id": 337,
+    "target": "أحيانا أذهب إلى النوم في 11:00، وأحيانا الساعة 11:30 AM.",
+    "pronunciation": "'ahyanaan 'adhhab 'iilaa alnuwm fi 11:00, wa'ahyana alssaeat 11:30 AM."
+  },
+  {
+    "category": 7,
+    "id": 338,
+    "target": "كل اسبوع.",
+    "pronunciation": "kl asbue."
+  },
+  {
+    "category": 7,
+    "id": 339,
+    "target": "كل يوم أستيقظ في 06:00.",
+    "pronunciation": "kul yawm 'astiqiz fi 06:00."
+  },
+  {
+    "category": 7,
+    "id": 340,
+    "target": "متى انت ذاهب الى البقاء في ولاية كاليفورنيا؟",
+    "pronunciation": "mataa 'ant dhahib 'iilaa albaqa' fi wilayat kalyafurunia?"
+  },
+  {
+    "category": 7,
+    "id": 341,
+    "target": "كم المدة التي تنوي بقاءها؟",
+    "pronunciation": "kam almudat alty tanwi biqa'ha?"
+  },
+  {
+    "category": 7,
+    "id": 342,
+    "target": "في أقرب وقت ممكن.",
+    "pronunciation": "fi 'aqrab waqt mumkinin."
+  },
+  {
+    "category": 7,
+    "id": 343,
+    "target": "ماذا عن يوم السبت؟",
+    "pronunciation": "madha ean yawm alsabit?"
+  },
+  {
+    "category": 7,
+    "id": 344,
+    "target": "ماهو تاريخ اليوم؟",
+    "pronunciation": "mahw tarikh alyawm?"
+  },
+  {
+    "category": 7,
+    "id": 345,
+    "target": "ما دينك؟",
+    "pronunciation": "ma dinak?"
+  },
+  {
+    "category": 7,
+    "id": 346,
+    "target": "عندما أنت تتحرك؟",
+    "pronunciation": "eindama 'ant tatahrk?"
+  },
+  {
+    "category": 7,
+    "id": 347,
+    "target": "متى هو سوف يرجع؟",
+    "pronunciation": "mataa hu sawf yarjae?"
+  },
+  {
+    "category": 7,
+    "id": 348,
+    "target": "متى سيأتون؟",
+    "pronunciation": "mataa sayatun?"
+  },
+  {
+    "category": 7,
+    "id": 349,
+    "target": "عندما يكون الحافلة القادمة إلى Philidalphia؟",
+    "pronunciation": "eindama yakun alhafilat alqadimat 'iilaa Philidalphia؟"
+  },
+  {
+    "category": 7,
+    "id": 350,
+    "target": "متى يحين عيد ميلادك؟",
+    "pronunciation": "mataa yahin eyd miladk?"
+  },
+  {
+    "category": 7,
+    "id": 351,
+    "target": "متى ستعود؟",
+    "pronunciation": "mataa sataeud?"
+  },
+  {
+    "category": 7,
+    "id": 352,
+    "target": "متى كانت آخر مرة كنت تحدثت مع والدتك؟",
+    "pronunciation": "mataa kanat akhir maratan kunt tahadatht mae walidatk?"
+  },
+  {
+    "category": 7,
+    "id": 353,
+    "target": "عندما أنت ذاهب لالتقاط صديقك؟",
+    "pronunciation": "eindama 'ant dhahib liailtiqat sadiquk?"
+  },
+  {
+    "category": 7,
+    "id": 354,
+    "target": "متى ستغادر؟",
+    "pronunciation": "mataa stghadr?"
+  },
+  {
+    "category": 7,
+    "id": 355,
+    "target": "متى سيكون جاهز؟",
+    "pronunciation": "mataa sayakun jahz?"
+  },
+  {
+    "category": 7,
+    "id": 356,
+    "target": "عندما ذهبت الى المتجر، لم يكن لديهم أي التفاح.",
+    "pronunciation": "eindama dhahabt 'iilaa almutajiru, lm yakun ladayhim 'ayu altafah."
+  },
+  {
+    "category": 7,
+    "id": 357,
+    "target": "الى أين ستذهب؟",
+    "pronunciation": "'iilaa 'ayn satadhahab?"
+  },
+  {
+    "category": 7,
+    "id": 358,
+    "target": "هناك متسع من الوقت.",
+    "pronunciation": "hnak matasae min alwaqt."
+  },
+  {
+    "category": 7,
+    "id": 359,
+    "target": "أيمكنني مساعدتك؟",
+    "pronunciation": "'ayumkinuni musaeadatuk?"
+  },
+  {
+    "category": 7,
+    "id": 360,
+    "target": "عيد ميلادي هو 27 أغسطس.",
+    "pronunciation": "eyd miladi hu 27 'aghstus."
+  },
+  {
+    "category": 7,
+    "id": 361,
+    "target": "نحن متاخرون.",
+    "pronunciation": "nahn mutakhiruna."
+  },
+  {
+    "category": 7,
+    "id": 362,
+    "target": "في الشارع 5TH.",
+    "pronunciation": "fi alshsharie 5TH."
+  },
+  {
+    "category": 7,
+    "id": 363,
+    "target": "وسوف تكون العودة في 20 دقيقة.",
+    "pronunciation": "wasawf takun aleawdat fi 20 daqiqatun."
+  },
+  {
+    "category": 7,
+    "id": 364,
+    "target": "إنها تريد أن تعرف متى كنت المقبلة.",
+    "pronunciation": "'iinaha turid 'an tuearif mataa kunt almuqbilat."
+  },
+  {
+    "category": 7,
+    "id": 365,
+    "target": "يأتون هذا المساء؟",
+    "pronunciation": "yatun hdha almasa'a?"
+  },
+  {
+    "category": 7,
+    "id": 366,
+    "target": "انها سوف الثلوج اليوم.",
+    "pronunciation": "'iinaha sawf althuluj alyawm."
+  },
+  {
+    "category": 7,
+    "id": 367,
+    "target": "انها سوف تكون باردة هذا المساء.",
+    "pronunciation": "'iinaha sawf takun baridat hdha almasa'."
+  },
+  {
+    "category": 7,
+    "id": 368,
+    "target": "هطلت الأمطار من الصعب جدا اليوم.",
+    "pronunciation": "hatalat al'amtar min alsaeb jiddaan alyawm."
+  },
+  {
+    "category": 7,
+    "id": 369,
+    "target": "انها 6:00.",
+    "pronunciation": "'iinaha 6:00."
+  },
+  {
+    "category": 7,
+    "id": 370,
+    "target": "انها 8:45.",
+    "pronunciation": "'iinaha 8:45."
+  },
+  {
+    "category": 7,
+    "id": 371,
+    "target": "انها ربع إلى 7.",
+    "pronunciation": "'iinaha rubue 'iilaa 7."
+  },
+  {
+    "category": 7,
+    "id": 372,
+    "target": "الآن أو في وقت لاحق؟",
+    "pronunciation": "alan 'aw fi waqt lahq?"
+  },
+  {
+    "category": 7,
+    "id": 373,
+    "target": "أي ساعة؟",
+    "pronunciation": "'ay saeat?"
+  },
+  {
+    "category": 7,
+    "id": 374,
+    "target": "كم تماما؟",
+    "pronunciation": "kam tamamana?"
+  },
+  {
+    "category": 7,
+    "id": 375,
+    "target": "كم ستكون التكلفة؟",
+    "pronunciation": "kam satakun altkalfa?"
+  },
+  {
+    "category": 7,
+    "id": 376,
+    "target": "كم من الوقت سوف يستغرق؟",
+    "pronunciation": "kam min alwaqt sawf yastaghruq?"
+  },
+  {
+    "category": 7,
+    "id": 377,
+    "target": "تاريخ إنتهاء الصلاحية.",
+    "pronunciation": "tarikh 'iintiha' alsalahiat."
+  },
+  {
+    "category": 7,
+    "id": 378,
+    "target": "هل أطفالك معك؟",
+    "pronunciation": "hal 'atfalak maeak?"
+  },
+  {
+    "category": 7,
+    "id": 379,
+    "target": "هل أنت مرتاح؟",
+    "pronunciation": "hal 'ant maratah?"
+  },
+  {
+    "category": 7,
+    "id": 380,
+    "target": "هل تم الانتظار لفترة طويلة؟",
+    "pronunciation": "hal tama alaintizar lifatrat tawila?"
+  },
+  {
+    "category": 7,
+    "id": 381,
+    "target": "هل تعتقد أن عليك أن تكون العودة قبل 11:30؟",
+    "pronunciation": "hal taetaqid 'an ealayk 'an takun aleawdat qabl 11:30?"
+  },
+  {
+    "category": 7,
+    "id": 382,
+    "target": "هل لديك هذا في حجم 11؟",
+    "pronunciation": "hal ladayk hdha fi hajm 11?"
+  },
+  {
+    "category": 7,
+    "id": 383,
+    "target": "ليس لدي ما يكفي من المال.",
+    "pronunciation": "lays ladaya ma yakfi min almal."
+  },
+  {
+    "category": 7,
+    "id": 384,
+    "target": "هل لديك حمام السباحة؟",
+    "pronunciation": "hal ladayk hamam alsabaha?"
+  },
+  {
+    "category": 7,
+    "id": 385,
+    "target": "إنه هنا.",
+    "pronunciation": "'iinah huna."
+  },
+  {
+    "category": 7,
+    "id": 386,
+    "target": "انها 17 دولارا.",
+    "pronunciation": "'iinaha 17 dularana."
+  },
+  {
+    "category": 7,
+    "id": 387,
+    "target": "إنه هناك.",
+    "pronunciation": "'iinah hunak."
+  },
+  {
+    "category": 7,
+    "id": 388,
+    "target": "اريد ان اكون مستعدا للخروج.",
+    "pronunciation": "'urid 'an 'akun mustaeiddaan lilkhuruj."
+  },
+  {
+    "category": 7,
+    "id": 389,
+    "target": "أنا فقط أبحث. (التسوق)",
+    "pronunciation": "'ana faqat 'abhathu. (altsawq)"
+  },
+  {
+    "category": 7,
+    "id": 390,
+    "target": "أنا قلق جدا.",
+    "pronunciation": "'ana qalaq jidana."
+  },
+  {
+    "category": 7,
+    "id": 391,
+    "target": "رأيت بالفعل.",
+    "pronunciation": "ra'ayt bialfuel."
+  },
+  {
+    "category": 8,
+    "id": 392,
+    "target": "ما هو الوقت تحقق من؟",
+    "pronunciation": "ma hu alwaqt tuhaqiq mn?"
+  },
+  {
+    "category": 8,
+    "id": 393,
+    "target": "أين هو المطار؟",
+    "pronunciation": "'ayn hu almatar?"
+  },
+  {
+    "category": 8,
+    "id": 394,
+    "target": "أين هو صندوق بريد؟",
+    "pronunciation": "'ayn hu sunduq barid?"
+  },
+  {
+    "category": 8,
+    "id": 395,
+    "target": "هل يوجد محل قريب من هنا؟",
+    "pronunciation": "hal yujad mahalun qarib min huna?"
+  },
+  {
+    "category": 8,
+    "id": 396,
+    "target": "هناك ملهى ليلي في المدينة؟",
+    "pronunciation": "hnak malhaa layliin fi almadinat?"
+  },
+  {
+    "category": 8,
+    "id": 397,
+    "target": "هل يوجد مطعم في الفندق؟",
+    "pronunciation": "hal yujad mateam fi alfundq?"
+  },
+  {
+    "category": 8,
+    "id": 398,
+    "target": "عذرا، ليس لدينا أي وظيفة شاغرة.",
+    "pronunciation": "eudhraan, lays ladayna 'ayu wazifat shaghiratin."
+  },
+  {
+    "category": 8,
+    "id": 399,
+    "target": "كم من الوقت سوف تبقى؟",
+    "pronunciation": "kam min alwaqt sawf tabqaa؟"
+  },
+  {
+    "category": 8,
+    "id": 400,
+    "target": "ما هي التهمة في الليل؟ (الفندق)",
+    "pronunciation": "ma hi altuhmat fi allyl? (alfandq)"
+  },
+  {
+    "category": 8,
+    "id": 401,
+    "target": "أحتاج إلى طبيب.",
+    "pronunciation": "'ahtaj 'iilaa tabibin."
+  },
+  {
+    "category": 8,
+    "id": 402,
+    "target": "أود الحصول على خريطة للمدينة.",
+    "pronunciation": "'awad alhusul ealaa kharitat lilmadinati."
+  },
+  {
+    "category": 8,
+    "id": 403,
+    "target": "أود الحصول على غرفة بسريرين من فضلك.",
+    "pronunciation": "'awad alhusul ealaa ghurfat bisarirayn min fidlik."
+  },
+  {
+    "category": 8,
+    "id": 404,
+    "target": "أود الحصول على غرفة.",
+    "pronunciation": "'awad alhusul ealaa ghurfat."
+  },
+  {
+    "category": 8,
+    "id": 405,
+    "target": "يمكن لدينا بعض الخبز أكثر من فضلك؟",
+    "pronunciation": "yumkin ladayna bed alkhubz 'akthar min fadlk?"
+  },
+  {
+    "category": 8,
+    "id": 406,
+    "target": "لكم ليلة؟",
+    "pronunciation": "lakum layala?"
+  },
+  {
+    "category": 8,
+    "id": 407,
+    "target": "يأخذني إلى فندق ماريوت.",
+    "pronunciation": "yakhadhni 'iilaa funduq mariut."
+  },
+  {
+    "category": 8,
+    "id": 408,
+    "target": "هل انت مشغول؟",
+    "pronunciation": "hal 'ant mashghul?"
+  },
+  {
+    "category": 8,
+    "id": 409,
+    "target": "هل معك اى نقود؟",
+    "pronunciation": "hal maeak aa naqud?"
+  },
+  {
+    "category": 8,
+    "id": 410,
+    "target": "أود الحصول على غرفة لغير المدخنين.",
+    "pronunciation": "'awad alhusul ealaa ghurfat lighayr almadkhinina."
+  },
+  {
+    "category": 9,
+    "id": 411,
+    "target": "3 يونيو.",
+    "pronunciation": "3 yuniu."
+  },
+  {
+    "category": 9,
+    "id": 412,
+    "target": "وهناك مطعم هناك، لكنني لا أعتقد انها جيدة جدا.",
+    "pronunciation": "wahunak mateam hunaka, liknani la 'aetaqid 'anaha jayidat jiddaan."
+  },
+  {
+    "category": 9,
+    "id": 413,
+    "target": "هنا طلبك.",
+    "pronunciation": "huna talabak."
+  },
+  {
+    "category": 9,
+    "id": 414,
+    "target": "هنا هو سلطتك.",
+    "pronunciation": "huna hu siltatuk."
+  },
+  {
+    "category": 9,
+    "id": 415,
+    "target": "أين هو جهاز الصراف الآلي؟",
+    "pronunciation": "'ayn hu jihaz alsiraf alali?"
+  },
+  {
+    "category": 9,
+    "id": 416,
+    "target": "حيث هناك الطبيب الذي يتحدث الانجليزية؟",
+    "pronunciation": "hayth hunak altabib aldhy yatahadath alanjlyzia?"
+  },
+  {
+    "category": 9,
+    "id": 417,
+    "target": "الأكل كان لذيذا.",
+    "pronunciation": "al'ukul kan ladhidha."
+  },
+  {
+    "category": 9,
+    "id": 418,
+    "target": "كيف طعمها؟",
+    "pronunciation": "kayf taemuha?"
+  },
+  {
+    "category": 9,
+    "id": 419,
+    "target": "ما هو عنوان بريدك الالكترونى؟",
+    "pronunciation": "ma hu eunwan biridik alalkaturunaa؟"
+  },
+  {
+    "category": 9,
+    "id": 420,
+    "target": "أي واحدة؟",
+    "pronunciation": "'ay wahdatan?"
+  },
+  {
+    "category": 9,
+    "id": 421,
+    "target": "أعتقد أنني بحاجة لرؤية الطبيب.",
+    "pronunciation": "'aetaqid 'anani bihajat liruyat altabib."
+  },
+  {
+    "category": 9,
+    "id": 422,
+    "target": "احب ذلك.",
+    "pronunciation": "'uhib dhalik."
+  },
+  {
+    "category": 9,
+    "id": 423,
+    "target": "يمكن أن يكون أرخص؟",
+    "pronunciation": "ymkn 'an yakun arkhs?"
+  },
+  {
+    "category": 9,
+    "id": 424,
+    "target": "يمكن أن أحمل صديقي؟",
+    "pronunciation": "ymkn 'an 'ahmil sadiqi?"
+  },
+  {
+    "category": 9,
+    "id": 425,
+    "target": "يمكن لدينا قائمة من فضلك.",
+    "pronunciation": "yumkin ladayna qayimat min fidlik."
+  },
+  {
+    "category": 9,
+    "id": 426,
+    "target": "هل يمكنني الحصول على إيصال من فضلك؟",
+    "pronunciation": "hal yumkinuni alhusul ealaa 'iisal min fadlk?"
+  },
+  {
+    "category": 9,
+    "id": 427,
+    "target": "يمكننا أن نأكل الطعام الإيطالي أو الصيني.",
+    "pronunciation": "yumkinuna 'an naakul altaeam al'iitalia 'aw alsiyni."
+  },
+  {
+    "category": 9,
+    "id": 428,
+    "target": "سيتعين علينا كأسين من الماء من فضلك.",
+    "pronunciation": "sayataeayan ealayna ka'asin min alma' min fudlik."
+  },
+  {
+    "category": 9,
+    "id": 429,
+    "target": "هل تريد بعض الماء؟",
+    "pronunciation": "hal turid bed alma'?"
+  },
+  {
+    "category": 9,
+    "id": 430,
+    "target": "هل تود القهوة ام الشاي؟",
+    "pronunciation": "hal tuda alqahwat 'am alshay?"
+  },
+  {
+    "category": 9,
+    "id": 431,
+    "target": "هل تريد كأس من الماء؟",
+    "pronunciation": "hal turid kas min alma'?"
+  },
+  {
+    "category": 9,
+    "id": 432,
+    "target": "هل تريد بعض النبيذ؟",
+    "pronunciation": "hal turid bed alnabidh?"
+  },
+  {
+    "category": 9,
+    "id": 433,
+    "target": "هل ترغب في مشاهدة التلفزيون؟",
+    "pronunciation": "hal targhab fi mushahadat altilfiziun?"
+  },
+  {
+    "category": 9,
+    "id": 434,
+    "target": "أتريد أن تذهب في نزهة على الأقدام؟",
+    "pronunciation": "'aturid 'an tadhhab fi nuzhat ealaa al'aqdam?"
+  },
+  {
+    "category": 9,
+    "id": 435,
+    "target": "هل تحب ان تشرب شيئا؟",
+    "pronunciation": "hal tuhibu 'ana tashrub shyya?"
+  },
+  {
+    "category": 9,
+    "id": 436,
+    "target": "هناك بعض التفاح في الثلاجة.",
+    "pronunciation": "hnak bed altafah fi althalajati."
+  },
+  {
+    "category": 9,
+    "id": 437,
+    "target": "يحب عصير لكنه لا يحب الحليب",
+    "pronunciation": "yuhibu easir lakunah la yuhibu alhalib"
+  },
+  {
+    "category": 9,
+    "id": 438,
+    "target": "نادل!",
+    "pronunciation": "nadl!"
+  },
+  {
+    "category": 9,
+    "id": 439,
+    "target": "جرسونة!",
+    "pronunciation": "jarsunat!"
+  },
+  {
+    "category": 9,
+    "id": 440,
+    "target": "وهناك مطعم قريب من هنا.",
+    "pronunciation": "wahunak mateam qarib min huna."
+  },
+  {
+    "category": 9,
+    "id": 441,
+    "target": "انها 25 أغسطس.",
+    "pronunciation": "'iinaha 25 'aghstus."
+  },
+  {
+    "category": 9,
+    "id": 442,
+    "target": "كم عدد الاشخاص؟ (مطعم)",
+    "pronunciation": "kam eadad alaishkhas? (mtem)"
+  },
+  {
+    "category": 9,
+    "id": 443,
+    "target": "سآخذ كوب من الماء من فضلك.",
+    "pronunciation": "sakhidh kub min alma' min fadlik."
+  },
+  {
+    "category": 9,
+    "id": 444,
+    "target": "هل أنت هنا لوحدك؟",
+    "pronunciation": "hal 'ant huna lawahaduk?"
+  },
+  {
+    "category": 9,
+    "id": 445,
+    "target": "هل تعرف كم يكلف؟",
+    "pronunciation": "hal taerif kam yukalf?"
+  },
+  {
+    "category": 9,
+    "id": 446,
+    "target": "هل كان لديك أي وقت مضى حساء البطاطا؟",
+    "pronunciation": "hal kan ladayk 'ayi waqt madaa hisa' albtata?"
+  },
+  {
+    "category": 9,
+    "id": 447,
+    "target": "هل أكلت في هذا المطعم؟",
+    "pronunciation": "hal 'aklt fi hadha almataem?"
+  },
+  {
+    "category": 9,
+    "id": 448,
+    "target": "يمكنك الاستمرار على هذا بالنسبة لي؟",
+    "pronunciation": "yumkinuk alaistimrar ealaa hadha balnsbt ly?"
+  },
+  {
+    "category": 9,
+    "id": 449,
+    "target": "هل يطلب منه المجيء الى هنا؟",
+    "pronunciation": "hal yatlub minh almaji' 'iilaa hna?"
+  },
+  {
+    "category": 9,
+    "id": 450,
+    "target": "هل تؤكل بعد؟",
+    "pronunciation": "hal tuakil bed?"
+  },
+  {
+    "category": 9,
+    "id": 451,
+    "target": "ليس لدي سوى 5 دولارات.",
+    "pronunciation": "lays laday siwaa 5 dularatun."
+  },
+  {
+    "category": 9,
+    "id": 452,
+    "target": "هل لديك أطفال؟",
+    "pronunciation": "hal ladayk 'atfalan?"
+  },
+  {
+    "category": 9,
+    "id": 453,
+    "target": "سآخذ كوب من الشاي من فضلك.",
+    "pronunciation": "sakhidh kub min alshshay min fadlik."
+  },
+  {
+    "category": 9,
+    "id": 454,
+    "target": "ماذا تحب أن تشرب؟",
+    "pronunciation": "madha tuhibu 'an tshrb?"
+  },
+  {
+    "category": 9,
+    "id": 455,
+    "target": "ماذا تريد أن تأكل؟",
+    "pronunciation": "madha turid 'an takl?"
+  },
+  {
+    "category": 9,
+    "id": 456,
+    "target": "بماذا توصي؟",
+    "pronunciation": "bimadha tusy?"
+  },
+  {
+    "category": 9,
+    "id": 457,
+    "target": "ماذا ستكون لدينا؟",
+    "pronunciation": "madha satakun ldayna?"
+  },
+  {
+    "category": 9,
+    "id": 458,
+    "target": "أود طاولة قرب النافذة.",
+    "pronunciation": "'awad tawilat qurb alnaafidhat."
+  },
+  {
+    "category": 9,
+    "id": 459,
+    "target": "انا هنا للعمل.",
+    "pronunciation": "'iinaa huna lileaml."
+  },
+  {
+    "category": 9,
+    "id": 460,
+    "target": "انا ذاهب الى السرير.",
+    "pronunciation": "'iinaa dhahib 'iilaa alsarir."
+  },
+  {
+    "category": 9,
+    "id": 461,
+    "target": "انا من امريكا.",
+    "pronunciation": "'iinaa min amriaka."
+  },
+  {
+    "category": 9,
+    "id": 462,
+    "target": "أنا آسف.",
+    "pronunciation": "'ana asaf."
+  },
+  {
+    "category": 9,
+    "id": 463,
+    "target": "أنا لم الانتهاء من تناول الطعام.",
+    "pronunciation": "'ana lm alaintiha' min tanawul altaeam."
+  },
+  {
+    "category": 9,
+    "id": 464,
+    "target": "سوف أعطيك مكالمة.",
+    "pronunciation": "sawf 'uetik mukalimat."
+  },
+  {
+    "category": 9,
+    "id": 465,
+    "target": "أنا أفهم.",
+    "pronunciation": "'ana 'afahim."
+  },
+  {
+    "category": 9,
+    "id": 466,
+    "target": "أنا موافق.",
+    "pronunciation": "'ana mawafaq."
+  },
+  {
+    "category": 9,
+    "id": 467,
+    "target": "لم أكن هناك.",
+    "pronunciation": "lm 'akun hunak."
+  },
+  {
+    "category": 9,
+    "id": 468,
+    "target": "أود أن ندعو الولايات المتحدة.",
+    "pronunciation": "'awadu 'an nadeu alwilayat almutahidata."
+  },
+  {
+    "category": 10,
+    "id": 469,
+    "target": "العمل جيد.",
+    "pronunciation": "aleamal jayid."
+  },
+  {
+    "category": 10,
+    "id": 470,
+    "target": "ما هي المدرسة ذهبت إليه؟",
+    "pronunciation": "ma hi almadrasat dhahabat 'iilayh?"
+  },
+  {
+    "category": 10,
+    "id": 471,
+    "target": "ابنتك.",
+    "pronunciation": "abnatik."
+  },
+  {
+    "category": 10,
+    "id": 472,
+    "target": "وتصرفت بشكل جيد جدا أطفالك.",
+    "pronunciation": "watasarafat bishakl jayid jiddaan 'atfalik."
+  },
+  {
+    "category": 10,
+    "id": 473,
+    "target": "فعلت الثلوج أمس؟",
+    "pronunciation": "faealt althuluj 'ams?"
+  },
+  {
+    "category": 10,
+    "id": 474,
+    "target": "هل تدرس الإنجليزية؟",
+    "pronunciation": "hal tadrus al'iinjaliziat?"
+  },
+  {
+    "category": 10,
+    "id": 475,
+    "target": "هل تبيع الدواء؟ (متجر)",
+    "pronunciation": "hal tabie aldawa'a? (mtajar)"
+  },
+  {
+    "category": 10,
+    "id": 476,
+    "target": "أين كنت؟",
+    "pronunciation": "'ayn kunt?"
+  },
+  {
+    "category": 10,
+    "id": 477,
+    "target": "أين تعلمت الإنجليزية؟",
+    "pronunciation": "'ayn taelamt al'iinjaliziat?"
+  },
+  {
+    "category": 10,
+    "id": 478,
+    "target": "أين تعيش؟",
+    "pronunciation": "'ayn taeish?"
+  },
+  {
+    "category": 10,
+    "id": 479,
+    "target": "أين كنت تعمل قبل أن تعمل هنا؟",
+    "pronunciation": "'ayn kunt taemal qabl 'an taemal hna?"
+  },
+  {
+    "category": 10,
+    "id": 480,
+    "target": "أين تي شيرت؟",
+    "pronunciation": "'ayn ty shayrt?"
+  },
+  {
+    "category": 10,
+    "id": 481,
+    "target": "دعنا نتشارك.",
+    "pronunciation": "daena natashark."
+  },
+  {
+    "category": 10,
+    "id": 482,
+    "target": "عفوا.",
+    "pronunciation": "eifuu."
+  },
+  {
+    "category": 10,
+    "id": 483,
+    "target": "كم مكثت في أمريكا؟",
+    "pronunciation": "kam mukathat fi 'amrika?"
+  },
+  {
+    "category": 10,
+    "id": 484,
+    "target": "منذ متى وأنت هنا؟",
+    "pronunciation": "mundh mataa wa'ant huna?"
+  },
+  {
+    "category": 10,
+    "id": 485,
+    "target": "منذ متى وأنت تعيش هنا؟",
+    "pronunciation": "mundh mataa wa'ant taeish hna?"
+  },
+  {
+    "category": 10,
+    "id": 486,
+    "target": "ما هو اسمك؟",
+    "pronunciation": "ma hu asmak?"
+  },
+  {
+    "category": 10,
+    "id": 487,
+    "target": "ماهو إسم عائلتك؟",
+    "pronunciation": "mahw 'iism eayilatik?"
+  },
+  {
+    "category": 10,
+    "id": 488,
+    "target": "ما هي هواياتك؟",
+    "pronunciation": "ma hi hawayatuk?"
+  },
+  {
+    "category": 10,
+    "id": 489,
+    "target": "ما هو فيلمك المفضل؟",
+    "pronunciation": "ma hu fylmik almafadal?"
+  },
+  {
+    "category": 10,
+    "id": 490,
+    "target": "الذي أرسل هذه الرسالة؟",
+    "pronunciation": "aladhi 'arsal hadhih alrisalata?"
+  },
+  {
+    "category": 10,
+    "id": 491,
+    "target": "أين ذهبت؟",
+    "pronunciation": "'ayn dhahabat?"
+  },
+  {
+    "category": 10,
+    "id": 492,
+    "target": "تلك السيارة مماثلة لسيارتي.",
+    "pronunciation": "tilk alsayarat mumathilat lisiarti."
+  },
+  {
+    "category": 10,
+    "id": 493,
+    "target": "اسمي جون سميث.",
+    "pronunciation": "aismi jun samith."
+  },
+  {
+    "category": 10,
+    "id": 494,
+    "target": "أنا 32.",
+    "pronunciation": "'ana 32."
+  },
+  {
+    "category": 10,
+    "id": 495,
+    "target": "لقد لغسل ملابسي.",
+    "pronunciation": "laqad laghasl mulabisi."
+  },
+  {
+    "category": 10,
+    "id": 496,
+    "target": "مرت جدتي بعيدا العام الماضي.",
+    "pronunciation": "marat jidati beyda aleam almadi."
+  },
+  {
+    "category": 10,
+    "id": 497,
+    "target": "والدي هو محام.",
+    "pronunciation": "waliday hu muhamun."
+  },
+  {
+    "category": 10,
+    "id": 498,
+    "target": "كان والدي هناك.",
+    "pronunciation": "kan waliday hunak."
+  },
+  {
+    "category": 10,
+    "id": 499,
+    "target": "أنا حجم 8.",
+    "pronunciation": "'ana hajm 8."
+  },
+  {
+    "category": 10,
+    "id": 500,
+    "target": "ابني يدرس أجهزة الكمبيوتر.",
+    "pronunciation": "abnay yadrus 'ajhizat alkimbiutir."
+  },
+  {
+    "category": 10,
+    "id": 501,
+    "target": "ابني.",
+    "pronunciation": "abni."
+  },
+  {
+    "category": 10,
+    "id": 502,
+    "target": "ابنتي هنا.",
+    "pronunciation": "abnatay huna."
+  },
+  {
+    "category": 10,
+    "id": 503,
+    "target": "كم لغة تتحدث؟",
+    "pronunciation": "kam lughat tatahdth?"
+  },
+  {
+    "category": 10,
+    "id": 504,
+    "target": "أطفالنا في أمريكا.",
+    "pronunciation": "'atfaluna fi 'amrika."
+  },
+  {
+    "category": 10,
+    "id": 505,
+    "target": "هل ترغب في شراء هذا؟",
+    "pronunciation": "hal targhab fi shira' hdha?"
+  },
+  {
+    "category": 10,
+    "id": 506,
+    "target": "كلا هذه هى اول مره.",
+    "pronunciation": "kalaa hadhih haa 'awal marh."
+  },
+  {
+    "category": 10,
+    "id": 507,
+    "target": "لا أنا أمريكي.",
+    "pronunciation": "la 'ana 'amriki."
+  },
+  {
+    "category": 10,
+    "id": 508,
+    "target": "انها أكبر مني.",
+    "pronunciation": "'iinaha 'akbar mani."
+  },
+  {
+    "category": 10,
+    "id": 509,
+    "target": "انها خبير.",
+    "pronunciation": "'iinaha khabirun."
+  },
+  {
+    "category": 10,
+    "id": 510,
+    "target": "هل لديك التقيا لها حتى الآن؟",
+    "pronunciation": "hal ladayk ailtaqaya laha hataa alan?"
+  },
+  {
+    "category": 10,
+    "id": 511,
+    "target": "اتصل بي.",
+    "pronunciation": "'atasil bi."
+  },
+  {
+    "category": 10,
+    "id": 512,
+    "target": "في صحتك!",
+    "pronunciation": "fi sihtuk!"
+  },
+  {
+    "category": 10,
+    "id": 513,
+    "target": "كم عمرك؟",
+    "pronunciation": "kam eamruk?"
+  },
+  {
+    "category": 10,
+    "id": 514,
+    "target": "كم تريد؟",
+    "pronunciation": "kam tarid?"
+  },
+  {
+    "category": 10,
+    "id": 515,
+    "target": "كم طفلا لديك؟",
+    "pronunciation": "kam tiflaan ladika?"
+  },
+  {
+    "category": 10,
+    "id": 516,
+    "target": "كم من الناس هل لديك في عائلتك؟",
+    "pronunciation": "kam min alnaas hal ladayk fi eayilatik?"
+  },
+  {
+    "category": 10,
+    "id": 517,
+    "target": "وقد تم أخيك إلى ولاية كاليفورنيا؟",
+    "pronunciation": "waqad tama 'akhik 'iilaa wilayat kalyifurnia?"
+  },
+  {
+    "category": 10,
+    "id": 518,
+    "target": "هل بيتك مثل هذا واحد؟",
+    "pronunciation": "hal baytik mithl hdha wahd?"
+  },
+  {
+    "category": 10,
+    "id": 519,
+    "target": "هو زوجك أيضا من بوسطن؟",
+    "pronunciation": "hu zawjak 'aydaan min busitin?"
+  },
+  {
+    "category": 10,
+    "id": 520,
+    "target": "هل ترغب في ذلك هنا؟",
+    "pronunciation": "hal targhab fi dhalik huna?"
+  },
+  {
+    "category": 10,
+    "id": 521,
+    "target": "هل تحب الكتاب؟",
+    "pronunciation": "hal tuhibu alkitaab?"
+  },
+  {
+    "category": 10,
+    "id": 522,
+    "target": "هل تحتاج لأي شيء؟",
+    "pronunciation": "hal tahtaj li'ay shay'?"
+  },
+  {
+    "category": 10,
+    "id": 523,
+    "target": "هل أنت أمريكي؟",
+    "pronunciation": "hal 'ant 'amriki?"
+  },
+  {
+    "category": 10,
+    "id": 524,
+    "target": "هل انت جوعان؟",
+    "pronunciation": "hal 'ant juean?"
+  },
+  {
+    "category": 10,
+    "id": 525,
+    "target": "هل فعلت هذا من قبل؟",
+    "pronunciation": "hal faealt hdha mn qubl?"
+  },
+  {
+    "category": 10,
+    "id": 526,
+    "target": "هل تعرف أين يوجد متجر لبيع المناشف؟",
+    "pronunciation": "hal taerif 'ayn yujad matjar libaye almnashf?"
+  },
+  {
+    "category": 10,
+    "id": 527,
+    "target": "هل تلعب اي رياضة؟",
+    "pronunciation": "hal taleab 'aya ryad?"
+  },
+  {
+    "category": 10,
+    "id": 528,
+    "target": "انت تتحدث الانجليزية جيدا.",
+    "pronunciation": "'ant tatahadath al'iinjliziat jayida."
+  },
+  {
+    "category": 10,
+    "id": 529,
+    "target": "هل وصلتك رسالتي في الايميل؟",
+    "pronunciation": "hal wasalatk risalati fi alaymil?"
+  },
+  {
+    "category": 10,
+    "id": 530,
+    "target": "هل تناول الدواء؟",
+    "pronunciation": "hal tanawul aldwa'?"
+  },
+  {
+    "category": 10,
+    "id": 531,
+    "target": "هل أنت قادم هذا المساء؟",
+    "pronunciation": "hal 'ant qadim hdha almasa'?"
+  },
+  {
+    "category": 10,
+    "id": 532,
+    "target": "هل لديك عمل غدا؟",
+    "pronunciation": "hal ladayk eamal ghada?"
+  },
+  {
+    "category": 10,
+    "id": 533,
+    "target": "هل انت حر الليلة؟",
+    "pronunciation": "hal 'ant hura allaylata?"
+  },
+  {
+    "category": 10,
+    "id": 534,
+    "target": "انت ذاهب لتأخذ الطائرة أو القطار؟",
+    "pronunciation": "'ant dhahib litakhudh alttayirat 'aw alqatara?"
+  },
+  {
+    "category": 10,
+    "id": 535,
+    "target": "هل أنت واثق؟",
+    "pronunciation": "hal 'ant wathq?"
+  },
+  {
+    "category": 10,
+    "id": 536,
+    "target": "كنت أكثر ذكاء منه.",
+    "pronunciation": "kunt 'akthar dhaka' minh."
+  },
+  {
+    "category": 10,
+    "id": 537,
+    "target": "هل تريد أن تأتي معي؟",
+    "pronunciation": "hal turid 'an tati maeay?"
+  },
+  {
+    "category": 10,
+    "id": 538,
+    "target": "هل تريد الذهاب معي؟",
+    "pronunciation": "hal turid aldhahab maeay?"
+  },
+  {
+    "category": 10,
+    "id": 539,
+    "target": "هل تذهب إلى ولاية فلوريدا في كثير من الأحيان؟",
+    "pronunciation": "hal tadhhab 'iilaa wilayat flurida fi kthyr min al'ahyan?"
+  },
+  {
+    "category": 10,
+    "id": 540,
+    "target": "هل تشعر بتحسن؟",
+    "pronunciation": "hal tasheur bthsn?"
+  },
+  {
+    "category": 10,
+    "id": 541,
+    "target": "عندي حساسية من المأكولات البحرية.",
+    "pronunciation": "eindi hasasiat min almakulat albahriat."
+  },
+  {
+    "category": 10,
+    "id": 542,
+    "target": "لدي ألم في ذراعي.",
+    "pronunciation": "laday 'alam fi dhiraei."
+  },
+  {
+    "category": 10,
+    "id": 543,
+    "target": "لدي أختان.",
+    "pronunciation": "laday 'akhtanun."
+  },
+  {
+    "category": 10,
+    "id": 544,
+    "target": "لدينا اثنين من الصبية وفتاة واحدة.",
+    "pronunciation": "ladayna athnyn min alsibyat wafatat wahdat."
+  },
+  {
+    "category": 10,
+    "id": 545,
+    "target": "هل لديك واحد اخر؟",
+    "pronunciation": "hal ladayk wahid akhr?"
+  },
+  {
+    "category": 10,
+    "id": 546,
+    "target": "ماذا تريد أن تفعل؟",
+    "pronunciation": "madha turid 'an tfel?"
+  },
+  {
+    "category": 10,
+    "id": 547,
+    "target": "ماذا تدرس؟",
+    "pronunciation": "madha tadrus?"
+  },
+  {
+    "category": 10,
+    "id": 548,
+    "target": "مالذي ستفعله الليلة؟",
+    "pronunciation": "maladhi satafealuh allaylata?"
+  },
+  {
+    "category": 10,
+    "id": 549,
+    "target": "هذا هو السيدة سميث.",
+    "pronunciation": "hadha hu alsayidat samithun."
+  },
+  {
+    "category": 10,
+    "id": 550,
+    "target": "هذه امي.",
+    "pronunciation": "hadhih amy."
+  },
+  {
+    "category": 10,
+    "id": 551,
+    "target": "انها ليست مكلفة للغاية.",
+    "pronunciation": "'anaha laysat mukalifat lilghayati."
+  },
+  {
+    "category": 10,
+    "id": 552,
+    "target": "أنا 6'2 \".",
+    "pronunciation": "'ana 6'2 \"."
+  },
+  {
+    "category": 10,
+    "id": 553,
+    "target": "انا امريكي.",
+    "pronunciation": "'iinaa amriki."
+  },
+  {
+    "category": 10,
+    "id": 554,
+    "target": "انا مريض.",
+    "pronunciation": "'iinaa maridun."
+  },
+  {
+    "category": 10,
+    "id": 555,
+    "target": "لقد كنت هناك.",
+    "pronunciation": "laqad kunt hunak."
+  },
+  {
+    "category": 10,
+    "id": 556,
+    "target": "أنا أتحدث قليلا من الانكليزية.",
+    "pronunciation": "'ana 'atahadath qalilaan min alankaliziat."
+  },
+  {
+    "category": 10,
+    "id": 557,
+    "target": "هذه هي المرة الأولى التي قضيتها هنا.",
+    "pronunciation": "hadhih hi almarat al'uwlaa alty qudituha huna."
+  },
+  {
+    "category": 10,
+    "id": 558,
+    "target": "قمت بشراء قميص امس.",
+    "pronunciation": "qumt bushara' qamis amsa."
+  },
+  {
+    "category": 10,
+    "id": 559,
+    "target": "انا لست خائفا.",
+    "pronunciation": "'iinaa last khayifana."
+  },
+  {
+    "category": 10,
+    "id": 560,
+    "target": "لا أشعر أني على ما يرام.",
+    "pronunciation": "la 'asheur 'aniy ealaa ma yaram."
+  },
+  {
+    "category": 10,
+    "id": 561,
+    "target": "أتذكر.",
+    "pronunciation": "'atadhakr."
+  },
+  {
+    "category": 10,
+    "id": 562,
+    "target": "انا اقول له قمت بالاتصال به.",
+    "pronunciation": "'ana 'aqul lah qumt bialaitisal bih."
+  },
+  {
+    "category": 10,
+    "id": 563,
+    "target": "جيد وأنت؟",
+    "pronunciation": "jayid wa'ant?"
+  },
+  {
+    "category": 11,
+    "id": 564,
+    "target": "متى يبدأ الفلم؟",
+    "pronunciation": "mataa yabda alfulm?"
+  },
+  {
+    "category": 11,
+    "id": 565,
+    "target": "هو البنك بعيد؟",
+    "pronunciation": "hu albank baeyd?"
+  },
+  {
+    "category": 11,
+    "id": 566,
+    "target": "هل هناك مسرح في مكان قريب؟",
+    "pronunciation": "hal hnak masrah fi makan qarib?"
+  },
+  {
+    "category": 11,
+    "id": 567,
+    "target": "هل هناك أي حفلات؟",
+    "pronunciation": "hal hnak 'ayu hiflat?"
+  },
+  {
+    "category": 11,
+    "id": 568,
+    "target": "أي نوع من الموسيقى تفضل؟",
+    "pronunciation": "'aya nawe min almusiqaa tafdl?"
+  },
+  {
+    "category": 11,
+    "id": 569,
+    "target": "ما هو طعامك المفضل؟",
+    "pronunciation": "ma hu taeamik almafadl?"
+  },
+  {
+    "category": 11,
+    "id": 570,
+    "target": "كم طولك؟",
+    "pronunciation": "kam tuluk?"
+  },
+  {
+    "category": 11,
+    "id": 571,
+    "target": "الذي كان معلمك؟",
+    "pronunciation": "aldhy kan maealamk?"
+  },
+  {
+    "category": 11,
+    "id": 572,
+    "target": "هل ترغب في استئجار الفيلم؟",
+    "pronunciation": "hal targhab fi aistijar alfialm?"
+  },
+  {
+    "category": 11,
+    "id": 573,
+    "target": "هل تحب أن تتناول العشاء معي؟",
+    "pronunciation": "hal tuhibu 'an tatanawal aleasha' maey?"
+  },
+  {
+    "category": 11,
+    "id": 574,
+    "target": "وقال كنت ترغب في مشاهدة الأفلام.",
+    "pronunciation": "waqal kunt targhab fi mushahadat al'aflam."
+  },
+  {
+    "category": 11,
+    "id": 575,
+    "target": "هل رأيت هذا الفيلم؟",
+    "pronunciation": "hal ra'ayt hdha alfayalam?"
+  },
+  {
+    "category": 11,
+    "id": 576,
+    "target": "هل تريد أن تذهب إلى السينما؟",
+    "pronunciation": "hal turid 'an tadhhab 'iilaa alsiynuma?"
+  },
+  {
+    "category": 11,
+    "id": 577,
+    "target": "ماذا يفعل الناس عادة في فصل الصيف في لوس انجليس؟",
+    "pronunciation": "madha yafeal alnaas eadatan fi fasl alsayf fi lus anjlys?"
+  },
+  {
+    "category": 12,
+    "id": 578,
+    "target": "وقت ما لا فتح المحل؟",
+    "pronunciation": "waqt ma la fath almahall؟"
+  },
+  {
+    "category": 12,
+    "id": 579,
+    "target": "أين أنت؟",
+    "pronunciation": "'ayn 'ant?"
+  },
+  {
+    "category": 12,
+    "id": 580,
+    "target": "وهو يحتاج لبعض الملابس الجديدة.",
+    "pronunciation": "wahu yahtaj libaed almalabis aljadidati."
+  },
+  {
+    "category": 12,
+    "id": 581,
+    "target": "إذا كنت ترغب في ذلك يمكنني شراء المزيد.",
+    "pronunciation": "'iidha kunt targhab fi dhalik yumkinuni shira' almazidi."
+  },
+  {
+    "category": 12,
+    "id": 582,
+    "target": "عذرا، ليس لدينا أي.",
+    "pronunciation": "eudhraan, lays ladayna 'ay."
+  },
+  {
+    "category": 12,
+    "id": 583,
+    "target": "ما حجم؟",
+    "pronunciation": "ma hajam?"
+  },
+  {
+    "category": 12,
+    "id": 584,
+    "target": "الكتب غالية الثمن.",
+    "pronunciation": "alkutub ghaliat althamn."
+  },
+  {
+    "category": 12,
+    "id": 585,
+    "target": "متى تصل الطائرة؟",
+    "pronunciation": "mataa tasil altayr?"
+  },
+  {
+    "category": 12,
+    "id": 586,
+    "target": "هل يمكنني استخدام هاتفك؟",
+    "pronunciation": "hal yumkinuni aistikhdam hatifuk?"
+  },
+  {
+    "category": 12,
+    "id": 587,
+    "target": "هل يمكنني الحصول على كوب من الماء من فضلك؟",
+    "pronunciation": "hal yumkinuni alhusul ealaa kub min alma' min fadlik?"
+  },
+  {
+    "category": 12,
+    "id": 588,
+    "target": "املأها من فضلك. (محطة غاز)",
+    "pronunciation": "amlaha min fidlik. (mhatat ghaz)"
+  },
+  {
+    "category": 12,
+    "id": 589,
+    "target": "هل تريد شيئا لتأكله؟",
+    "pronunciation": "hal turid shayyanaan litakulah?"
+  },
+  {
+    "category": 12,
+    "id": 590,
+    "target": "أود عدد لفندق هيلتون فضلك.",
+    "pronunciation": "'awad eadad lifunadq hiltawn fadalik."
+  },
+  {
+    "category": 12,
+    "id": 591,
+    "target": "في محاولة على.",
+    "pronunciation": "fi muhawalat ealaa."
+  },
+  {
+    "category": 12,
+    "id": 592,
+    "target": "كم ثمن ذلك؟",
+    "pronunciation": "kam thaman dhilkan?"
+  },
+  {
+    "category": 12,
+    "id": 593,
+    "target": "كم ثمن هذا؟",
+    "pronunciation": "kam thaman hadha?"
+  },
+  {
+    "category": 12,
+    "id": 594,
+    "target": "هل تعرفها؟",
+    "pronunciation": "hal taerifuha?"
+  },
+  {
+    "category": 12,
+    "id": 595,
+    "target": "هل تعلم اين هي؟",
+    "pronunciation": "hal taelam 'ayn hy?"
+  },
+  {
+    "category": 12,
+    "id": 596,
+    "target": "هل تلعب كرة السلة؟",
+    "pronunciation": "hal taleab kurat alsla?"
+  },
+  {
+    "category": 12,
+    "id": 597,
+    "target": "هل لديك أي شواغر؟",
+    "pronunciation": "hal ladayk 'ayi shawaghr?"
+  },
+  {
+    "category": 12,
+    "id": 598,
+    "target": "هل لديك رقم لسيارة أجرة؟",
+    "pronunciation": "hal ladayk raqm lisayaarat 'ajrat?"
+  },
+  {
+    "category": 12,
+    "id": 599,
+    "target": "ماذا تريد ان تشتري؟",
+    "pronunciation": "madha turid 'an tashtari?"
+  },
+  {
+    "category": 12,
+    "id": 600,
+    "target": "انه ليس بعيدا.",
+    "pronunciation": "'iinah lays baeidana."
+  },
+  {
+    "category": 12,
+    "id": 601,
+    "target": "أود أن شراء بطاقة الهاتف من فضلك.",
+    "pronunciation": "'awadu 'an shira' bitaqat alhatif min fadlik."
+  },
+  {
+    "category": 12,
+    "id": 602,
+    "target": "اصدقك.",
+    "pronunciation": "asdaqik."
+  },
+  {
+    "category": 12,
+    "id": 603,
+    "target": "اتكلم لغتين.",
+    "pronunciation": "'atakalam laghtin."
+  },
+  {
+    "category": 12,
+    "id": 604,
+    "target": "اعتقدت قال شيئا آخر.",
+    "pronunciation": "aietaqadat qal shayyana akhar."
+  },
+  {
+    "category": 12,
+    "id": 605,
+    "target": "انا مبتدئ.",
+    "pronunciation": "'iinaa mubtadi."
+  },
+  {
+    "category": 12,
+    "id": 606,
+    "target": "أنا عادة شرب القهوة في وجبة الإفطار.",
+    "pronunciation": "'ana eadat shurb alqahwat fi wajubat al'iiftar."
+  },
+  {
+    "category": 12,
+    "id": 607,
+    "target": "انا ممتلئ.",
+    "pronunciation": "'iinaa mumtali."
+  },
+  {
+    "category": 12,
+    "id": 608,
+    "target": "أنا أعزب.",
+    "pronunciation": "'ana 'aezab."
+  },
+  {
+    "category": 12,
+    "id": 609,
+    "target": "أود العودة إلى ديارهم.",
+    "pronunciation": "'awadu aleawdat 'iilaa diarhm."
+  },
+  {
+    "category": 12,
+    "id": 610,
+    "target": "أود أن تذهب للتسوق.",
+    "pronunciation": "'awad 'an tadhhab liltasawq."
+  },
+  {
+    "category": 12,
+    "id": 611,
+    "target": "أنا أمزح.",
+    "pronunciation": "'ana 'amzah."
+  },
+  {
+    "category": 13,
+    "id": 612,
+    "target": "هل أنطقها بشكل صحيح؟",
+    "pronunciation": "hal 'antuqaha bishakl sahihan?"
+  },
+  {
+    "category": 13,
+    "id": 613,
+    "target": "هل يمكنك أن تسدي لي خدمة؟",
+    "pronunciation": "hal yumkinuk 'an tasdi li khadama?"
+  },
+  {
+    "category": 13,
+    "id": 614,
+    "target": "هل يمكنك مساعدتي؟",
+    "pronunciation": "hal yumkinuk musaeadatay?"
+  },
+  {
+    "category": 13,
+    "id": 615,
+    "target": "هل يمكنكم أن أقول مرة أخرى؟",
+    "pronunciation": "hal yumakinukum 'an 'aqul maratan 'ukhraa؟"
+  },
+  {
+    "category": 13,
+    "id": 616,
+    "target": "هل تستطيع أن تريني؟",
+    "pronunciation": "hal tastatie 'an trini?"
+  },
+  {
+    "category": 13,
+    "id": 617,
+    "target": "يمكنك رمي بعيدا بالنسبة لي؟",
+    "pronunciation": "yumkinuk ramy beydaan balnsbt ly?"
+  },
+  {
+    "category": 13,
+    "id": 618,
+    "target": "هل تصدق ذلك؟",
+    "pronunciation": "hal tasadaq dhlk?"
+  },
+  {
+    "category": 13,
+    "id": 619,
+    "target": "هل لديك قلم رصاص؟",
+    "pronunciation": "hal ladayk qalam rasasan?"
+  },
+  {
+    "category": 13,
+    "id": 620,
+    "target": "هل تدخن؟",
+    "pronunciation": "hal tadkhn?"
+  },
+  {
+    "category": 13,
+    "id": 621,
+    "target": "هل تتحدث الانجليزية؟",
+    "pronunciation": "hal tatahadath alanjlyzia?"
+  },
+  {
+    "category": 13,
+    "id": 622,
+    "target": "هل من أحد هنا يتحدث الإنجليزية؟",
+    "pronunciation": "hal min 'ahad huna yatahadath al'iinjalizia?"
+  },
+  {
+    "category": 13,
+    "id": 623,
+    "target": "لا تفعل ذلك.",
+    "pronunciation": "la tafeal dhalik."
+  },
+  {
+    "category": 13,
+    "id": 624,
+    "target": "عفوا، ماذا قلت؟",
+    "pronunciation": "efu, madha qalt?"
+  },
+  {
+    "category": 13,
+    "id": 625,
+    "target": "انسى ذلك.",
+    "pronunciation": "'ansaa dhalik."
+  },
+  {
+    "category": 13,
+    "id": 626,
+    "target": "كيف تنطق هذا؟",
+    "pronunciation": "kayf tuntiq hdha?"
+  },
+  {
+    "category": 13,
+    "id": 627,
+    "target": "كيف تقولها باللغة الإنجليزية؟",
+    "pronunciation": "kayf tqwlha biallughat al'iinjaliziat?"
+  },
+  {
+    "category": 13,
+    "id": 628,
+    "target": "كيف تنطقها؟",
+    "pronunciation": "kayf tantiquha?"
+  },
+  {
+    "category": 13,
+    "id": 629,
+    "target": "كيف تتهجى كلمة \"سياتل؟\"",
+    "pronunciation": "kayf tatahajaa kalima \"syatl?\""
+  },
+  {
+    "category": 13,
+    "id": 630,
+    "target": "استطيع ان اسبح.",
+    "pronunciation": "'astatie 'an asbih."
+  },
+  {
+    "category": 13,
+    "id": 631,
+    "target": "لا أستطيع أن أسمعك بوضوح.",
+    "pronunciation": "la 'astatie 'an 'asmaeuk biwuduhin."
+  },
+  {
+    "category": 13,
+    "id": 632,
+    "target": "لا مانع لدي.",
+    "pronunciation": "la manie ladi."
+  },
+  {
+    "category": 13,
+    "id": 633,
+    "target": "أنا لا أتكلم الإنجليزية جيدا.",
+    "pronunciation": "'ana la 'atakalam al'iinjliziat jayidana."
+  },
+  {
+    "category": 13,
+    "id": 634,
+    "target": "لا أعتقد ذلك.",
+    "pronunciation": "la 'aetaqid dhalik."
+  },
+  {
+    "category": 13,
+    "id": 635,
+    "target": "أنا لا أفهم ما قولك.",
+    "pronunciation": "'ana la 'afham ma qulik."
+  },
+  {
+    "category": 13,
+    "id": 636,
+    "target": "اعتقد ان لديك الكثير من الملابس.",
+    "pronunciation": "'aetaqid 'an ladayk alkthyr min almalabis."
+  },
+  {
+    "category": 13,
+    "id": 637,
+    "target": "أنا أثق بك.",
+    "pronunciation": "'ana 'athaq bika."
+  },
+  {
+    "category": 13,
+    "id": 638,
+    "target": "أنا أفهم الآن.",
+    "pronunciation": "'ana 'afahum alan."
+  },
+  {
+    "category": 13,
+    "id": 639,
+    "target": "هناك تكييف الهواء في الغرفة؟",
+    "pronunciation": "hnak takyif alhawa' fi alghrf?"
+  },
+  {
+    "category": 13,
+    "id": 640,
+    "target": "دعونا نجتمع أمام الفندق.",
+    "pronunciation": "daeuna najtamie 'amam alfunudq."
+  },
+  {
+    "category": 13,
+    "id": 641,
+    "target": "من فضلك اجلس.",
+    "pronunciation": "min fadlik ajlis."
+  },
+  {
+    "category": 13,
+    "id": 642,
+    "target": "أرجوك تكلم بالإنجليزية.",
+    "pronunciation": "'urjuk takalam bial'iinjaliziati."
+  },
+  {
+    "category": 13,
+    "id": 643,
+    "target": "من فضلك تكلم ببطء أكثر.",
+    "pronunciation": "min fadlik takalam bbt' 'akthar."
+  },
+  {
+    "category": 13,
+    "id": 644,
+    "target": "عذرا، لم أسمع بوضوح.",
+    "pronunciation": "eudhraan, lm 'asmae biwuduhin."
+  },
+  {
+    "category": 13,
+    "id": 645,
+    "target": "وهذا يعني صديق.",
+    "pronunciation": "wahadha yaeni sadiqun."
+  },
+  {
+    "category": 13,
+    "id": 646,
+    "target": "ذلك خطأ.",
+    "pronunciation": "dhlk khata."
+  },
+  {
+    "category": 13,
+    "id": 647,
+    "target": "حاول أن يقول ذلك.",
+    "pronunciation": "hawal 'an yaqul dhalik."
+  },
+  {
+    "category": 13,
+    "id": 648,
+    "target": "ماذا يعني هذا؟",
+    "pronunciation": "madha yaeni hdha?"
+  },
+  {
+    "category": 13,
+    "id": 649,
+    "target": "ماذا يعني هذا القول؟",
+    "pronunciation": "madha yaeni hdha alqwl?"
+  },
+  {
+    "category": 13,
+    "id": 650,
+    "target": "ماذا تعني هذه الكلمة؟",
+    "pronunciation": "madha taeni hadhih alklm?"
+  },
+  {
+    "category": 13,
+    "id": 651,
+    "target": "ما هو سعر الصرف؟",
+    "pronunciation": "ma hu sier alsarf?"
+  },
+  {
+    "category": 13,
+    "id": 652,
+    "target": "لمن هذا الكتاب؟",
+    "pronunciation": "liman hdha alkitaaba?"
+  },
+  {
+    "category": 13,
+    "id": 653,
+    "target": "لماذا تضحك؟",
+    "pronunciation": "limadha tadhuk?"
+  },
+  {
+    "category": 13,
+    "id": 654,
+    "target": "لماذا لا تذهب؟",
+    "pronunciation": "limadha la tadhahab?"
+  },
+  {
+    "category": 13,
+    "id": 655,
+    "target": "لماذا فعلت ذلك؟",
+    "pronunciation": "limadha faealt dhilk?"
+  },
+  {
+    "category": 14,
+    "id": 656,
+    "target": "ووقع الحادث عند تقاطع.",
+    "pronunciation": "wawaqae alhadith eind taqatae."
+  },
+  {
+    "category": 14,
+    "id": 657,
+    "target": "هل بيع البطاريات؟",
+    "pronunciation": "hal baye albitariat?"
+  },
+  {
+    "category": 14,
+    "id": 658,
+    "target": "أين أقرب مستشفى؟",
+    "pronunciation": "'ayn 'aqrab mustashfaa؟"
+  },
+  {
+    "category": 14,
+    "id": 659,
+    "target": "اين مكتب البريد؟",
+    "pronunciation": "'ayn maktab albarid?"
+  },
+  {
+    "category": 14,
+    "id": 660,
+    "target": "أين تعمل؟",
+    "pronunciation": "'ayn taeml?"
+  },
+  {
+    "category": 14,
+    "id": 661,
+    "target": "أين يمكنني تبادل دولار امريكي؟",
+    "pronunciation": "'ayn yumkinuni tabadul dular amryki?"
+  },
+  {
+    "category": 14,
+    "id": 662,
+    "target": "لا يهمني.",
+    "pronunciation": "la yahmni."
+  },
+  {
+    "category": 14,
+    "id": 663,
+    "target": "لا يزال لدي الكثير لتفعله.",
+    "pronunciation": "la yazal laday alkthyr litafealah."
+  },
+  {
+    "category": 14,
+    "id": 664,
+    "target": "حلقي هو التهاب.",
+    "pronunciation": "halqi hu altahabu."
+  },
+  {
+    "category": 14,
+    "id": 665,
+    "target": "حقائبي مفقود.",
+    "pronunciation": "haqayibi mafqudan."
+  },
+  {
+    "category": 14,
+    "id": 666,
+    "target": "معدتي تؤلمني.",
+    "pronunciation": "maedati tulimni."
+  },
+  {
+    "category": 14,
+    "id": 667,
+    "target": "قد سرقت ساعتي.",
+    "pronunciation": "qad saraqat saeti."
+  },
+  {
+    "category": 14,
+    "id": 668,
+    "target": "كلمني.",
+    "pronunciation": "kalmni."
+  },
+  {
+    "category": 14,
+    "id": 669,
+    "target": "خذ هذا الدواء.",
+    "pronunciation": "khudh hdha aldawa'."
+  },
+  {
+    "category": 14,
+    "id": 670,
+    "target": "كان هناك حادث سيارة.",
+    "pronunciation": "kan hunak hadith sayiaratin."
+  },
+  {
+    "category": 14,
+    "id": 671,
+    "target": "يوم بارد للغاية.",
+    "pronunciation": "yawm barid lilghayati."
+  },
+  {
+    "category": 14,
+    "id": 672,
+    "target": "هل أنت جاهز؟",
+    "pronunciation": "hal 'ant jahz?"
+  },
+  {
+    "category": 14,
+    "id": 673,
+    "target": "هل ترسل لي الزهور؟",
+    "pronunciation": "hal tursil li alzhur?"
+  },
+  {
+    "category": 14,
+    "id": 674,
+    "target": "لدي واحدة في سيارتي.",
+    "pronunciation": "laday wahidat fi siarti."
+  },
+  {
+    "category": 14,
+    "id": 675,
+    "target": "لدي رشح.",
+    "pronunciation": "laday rushh."
+  },
+  {
+    "category": 14,
+    "id": 676,
+    "target": "هل لديك حساسية ضد أي شيء؟",
+    "pronunciation": "hal ladayk hisasiat dida 'ayi shay'?"
+  },
+  {
+    "category": 14,
+    "id": 677,
+    "target": "ذلك يعتمد على الطقس.",
+    "pronunciation": "dhlk yaetamid ealaa altaqs."
+  },
+  {
+    "category": 14,
+    "id": 678,
+    "target": "ما زلت لم يحدد بعد.",
+    "pronunciation": "ma zilt lm yuhadad baed."
+  },
+  {
+    "category": 14,
+    "id": 679,
+    "target": "حصلت في حادث.",
+    "pronunciation": "hasalat fi hadith."
+  },
+  {
+    "category": 14,
+    "id": 680,
+    "target": "أنا جعلت هذه الكعكة.",
+    "pronunciation": "'ana jaealat hadhih alkaeakata."
+  },
+  {
+    "category": 14,
+    "id": 681,
+    "target": "أنا لحسابهم الخاص.",
+    "pronunciation": "'ana lahisabihim alkhass."
+  },
+  {
+    "category": 14,
+    "id": 682,
+    "target": "أستسلم.",
+    "pronunciation": "'ustuslm."
+  },
+  {
+    "category": 14,
+    "id": 683,
+    "target": "انا مدرس.",
+    "pronunciation": "'iinaa madrs."
+  },
+  {
+    "category": 16,
+    "id": 684,
+    "target": "وأنت أيضا؟",
+    "pronunciation": "wa'ant 'aydana?"
+  },
+  {
+    "category": 16,
+    "id": 685,
+    "target": "المدرسة التي لم يذهب إليها؟",
+    "pronunciation": "almadrasat alty lm yadhhab 'ilyha?"
+  },
+  {
+    "category": 16,
+    "id": 686,
+    "target": "ماذا تفعل؟",
+    "pronunciation": "madha tafiel?"
+  },
+  {
+    "category": 16,
+    "id": 687,
+    "target": "هل كل شيء على ما يرام؟",
+    "pronunciation": "hal kulu shay' ealaa ma yaram?"
+  },
+  {
+    "category": 16,
+    "id": 688,
+    "target": "هل تقبل الدولار الأمريكي؟",
+    "pronunciation": "hal tuqbal alduwlar al'amriki?"
+  },
+  {
+    "category": 16,
+    "id": 689,
+    "target": "أين هو؟",
+    "pronunciation": "'ayn hu?"
+  },
+  {
+    "category": 16,
+    "id": 690,
+    "target": "أين أنت تعلم ذلك؟",
+    "pronunciation": "'ayn 'ant taelam dhilk?"
+  },
+  {
+    "category": 16,
+    "id": 691,
+    "target": "أين حدث هذا؟",
+    "pronunciation": "'ayn hadath hdha?"
+  },
+  {
+    "category": 16,
+    "id": 692,
+    "target": "أين يمكنني استئجار سيارة؟",
+    "pronunciation": "'ayn yumkinuni aistijar sayaara?"
+  },
+  {
+    "category": 16,
+    "id": 693,
+    "target": "نعم فعلا.",
+    "pronunciation": "nem fiela."
+  },
+  {
+    "category": 16,
+    "id": 694,
+    "target": "أعطني القلم.",
+    "pronunciation": "'aetani alqulm."
+  },
+  {
+    "category": 16,
+    "id": 695,
+    "target": "فهل تحب المدرسة؟",
+    "pronunciation": "fahal tuhibu almudarasat?"
+  },
+  {
+    "category": 16,
+    "id": 696,
+    "target": "هل هناك أي شيء أرخص؟",
+    "pronunciation": "hal hnak 'ayu shay' arkhs?"
+  },
+  {
+    "category": 16,
+    "id": 697,
+    "target": "هل تمطر؟",
+    "pronunciation": "hal tmtr?"
+  },
+  {
+    "category": 16,
+    "id": 698,
+    "target": "كم طوله؟",
+    "pronunciation": "kam tulaha?"
+  },
+  {
+    "category": 16,
+    "id": 699,
+    "target": "كيف حالها؟",
+    "pronunciation": "kayf haluha?"
+  },
+  {
+    "category": 16,
+    "id": 700,
+    "target": "كم تبلغ درجة الحراره؟",
+    "pronunciation": "kam tablugh darajat alhararih?"
+  },
+  {
+    "category": 16,
+    "id": 701,
+    "target": "على من تبحث؟",
+    "pronunciation": "ealaa min tabhth?"
+  },
+  {
+    "category": 16,
+    "id": 702,
+    "target": "ايهما ارخص؟",
+    "pronunciation": "ayhma arkhs?"
+  },
+  {
+    "category": 16,
+    "id": 703,
+    "target": "أي واحد هو الأفضل؟",
+    "pronunciation": "aya wahid hu al'afdal?"
+  },
+  {
+    "category": 16,
+    "id": 704,
+    "target": "أي واحدة تريد؟",
+    "pronunciation": "'ay wahidat tarid?"
+  },
+  {
+    "category": 16,
+    "id": 705,
+    "target": "من يتصل؟",
+    "pronunciation": "min ytsl?"
+  },
+  {
+    "category": 16,
+    "id": 706,
+    "target": "من هؤلاء؟",
+    "pronunciation": "min hawla'?"
+  },
+  {
+    "category": 16,
+    "id": 707,
+    "target": "الذي علمتك أن؟",
+    "pronunciation": "aladhi ealamtuk 'an?"
+  },
+  {
+    "category": 16,
+    "id": 708,
+    "target": "من هو هذا الرجل هناك؟",
+    "pronunciation": "man hu hdha alrajul hunak?"
+  },
+  {
+    "category": 16,
+    "id": 709,
+    "target": "من هذا؟ (الاستفسار عن من هو على الهاتف)",
+    "pronunciation": "min hadha? (alaistifsar ean man hu ealaa alhatif)"
+  },
+  {
+    "category": 16,
+    "id": 710,
+    "target": "وأي شخص آخر قادم؟",
+    "pronunciation": "wa'aya shakhs akhar qadm?an"
+  },
+  {
+    "category": 16,
+    "id": 711,
+    "target": "واحدة كبيرة أو صغيرة واحدة؟",
+    "pronunciation": "wahidat kabirat 'aw saghirat wahda?"
+  },
+  {
+    "category": 16,
+    "id": 712,
+    "target": "السيارات هي الأميركية.",
+    "pronunciation": "alsayarat hi al'amirkiat."
+  },
+  {
+    "category": 16,
+    "id": 713,
+    "target": "هل يجب ان انتظر؟",
+    "pronunciation": "hal yjb 'an antzr?"
+  },
+  {
+    "category": 16,
+    "id": 714,
+    "target": "لدي الكثير من الأشياء للقيام به.",
+    "pronunciation": "ladaya alkthyr min al'ashya' lilqiam bih."
+  },
+  {
+    "category": 16,
+    "id": 715,
+    "target": "هل بإمكاني أن أقترض بعض المال؟",
+    "pronunciation": "hal bi'iimkani 'an 'aqtarid bed almal?"
+  },
+  {
+    "category": 16,
+    "id": 716,
+    "target": "هل يمكنني أن احصل على الفاتورة من فضلك؟",
+    "pronunciation": "hal yumkinuni 'an aihsil ealaa alfaturat min fadalak?"
+  },
+  {
+    "category": 16,
+    "id": 717,
+    "target": "اهو ساخن؟",
+    "pronunciation": "ahw sakhn?"
+  },
+  {
+    "category": 16,
+    "id": 718,
+    "target": "هل هو خارج الباردة؟",
+    "pronunciation": "hal hu kharij albarda?"
+  },
+  {
+    "category": 16,
+    "id": 719,
+    "target": "يمكنك التحدث بصوت أعلى من فضلك؟",
+    "pronunciation": "yumkinuk altahaduth bisawt 'aelaa min fadlik?"
+  },
+  {
+    "category": 16,
+    "id": 720,
+    "target": "ما كنت اثنين تتحدث عنه؟",
+    "pronunciation": "ma kunt athnyn tatahadath eanh?"
+  },
+  {
+    "category": 16,
+    "id": 721,
+    "target": "بم تفكر؟",
+    "pronunciation": "bim tafkr?"
+  },
+  {
+    "category": 16,
+    "id": 722,
+    "target": "هل هي نفسها؟",
+    "pronunciation": "hal hi nafsuha?"
+  },
+  {
+    "category": 16,
+    "id": 723,
+    "target": "من أين هو؟",
+    "pronunciation": "min 'ayn hu?"
+  },
+  {
+    "category": 16,
+    "id": 724,
+    "target": "كيف علمت بذلك؟",
+    "pronunciation": "kayf ealimt badhalk?"
+  },
+  {
+    "category": 16,
+    "id": 725,
+    "target": "لما قلت ذلك؟",
+    "pronunciation": "lamaa qult dhlk?"
+  },
+  {
+    "category": 16,
+    "id": 726,
+    "target": "خلف البنك.",
+    "pronunciation": "khalf albanik."
+  },
+  {
+    "category": 16,
+    "id": 727,
+    "target": "كم سعره؟",
+    "pronunciation": "kam saerah?"
+  },
+  {
+    "category": 16,
+    "id": 728,
+    "target": "كم العدد؟",
+    "pronunciation": "kam aleidad?"
+  },
+  {
+    "category": 16,
+    "id": 729,
+    "target": "كان هناك أي مشاكل؟",
+    "pronunciation": "kan hunak 'ayu mshakl?"
+  },
+  {
+    "category": 16,
+    "id": 730,
+    "target": "هو ابنك هنا؟",
+    "pronunciation": "hu abnak hna?"
+  },
+  {
+    "category": 16,
+    "id": 731,
+    "target": "هل تحب زملائك في العمل؟",
+    "pronunciation": "hal tuhibu zumalayik fi aleiml?"
+  },
+  {
+    "category": 16,
+    "id": 732,
+    "target": "هل تحتاج شئ اخر؟",
+    "pronunciation": "hal tahtaj shay akhr?"
+  },
+  {
+    "category": 16,
+    "id": 733,
+    "target": "هل انت خائف؟",
+    "pronunciation": "hal 'ant khayf?"
+  },
+  {
+    "category": 16,
+    "id": 734,
+    "target": "هل انت مريض؟",
+    "pronunciation": "hal 'ant mrid?"
+  },
+  {
+    "category": 16,
+    "id": 735,
+    "target": "هل كنت في المكتبة الليلة الماضية؟",
+    "pronunciation": "hal kunt fi almaktabat allaylat almadiyata?"
+  },
+  {
+    "category": 16,
+    "id": 736,
+    "target": "انت بخير؟",
+    "pronunciation": "'ant bakhyr?"
+  },
+  {
+    "category": 16,
+    "id": 737,
+    "target": "أنت تبدو وكأنها أختي.",
+    "pronunciation": "'ant tabdu waka'anaha 'ukhti."
+  },
+  {
+    "category": 16,
+    "id": 738,
+    "target": "هل انت متزوج؟",
+    "pronunciation": "hal 'ant mtazawj?"
+  },
+  {
+    "category": 16,
+    "id": 739,
+    "target": "هل تعرف أين هي نظارتي؟",
+    "pronunciation": "hal taerif 'ayn hi nizarati?"
+  },
+  {
+    "category": 16,
+    "id": 740,
+    "target": "هل تعرف أين يمكنني الحصول على سيارة أجرة؟",
+    "pronunciation": "hal taerif 'ayn yumkinuni alhusul ealaa sayarat 'ajr?"
+  },
+  {
+    "category": 16,
+    "id": 741,
+    "target": "هل تعرف كيفية الوصول الى فندق ماريوت؟",
+    "pronunciation": "hal taerif kayfiat alwusul 'iilaa funduq mariut?"
+  },
+  {
+    "category": 16,
+    "id": 742,
+    "target": "هل تعرف ماذا يعني ذلك؟",
+    "pronunciation": "hal taerif madha yaeni dhlk?"
+  },
+  {
+    "category": 16,
+    "id": 743,
+    "target": "يمكنك الاتصال بي مرة أخرى في وقت لاحق؟",
+    "pronunciation": "yumkinuk alaitisal bi maratan 'ukhraa fi waqt lahq?"
+  },
+  {
+    "category": 16,
+    "id": 744,
+    "target": "يمكنك الاتصال مرة أخرى في وقت لاحق؟",
+    "pronunciation": "yumkinuk alaitisal maratan 'ukhraa fi waqt lahq?"
+  },
+  {
+    "category": 16,
+    "id": 745,
+    "target": "يمكنك ان تحمل هذا بالنسبة لي؟",
+    "pronunciation": "yumkinuk 'an tahmil hdha balnsbt ly?"
+  },
+  {
+    "category": 16,
+    "id": 746,
+    "target": "هل تستطيع أن تعطيني مثالا؟",
+    "pronunciation": "hal tastatie 'ana taetini mthala?"
+  },
+  {
+    "category": 16,
+    "id": 747,
+    "target": "أيمكنك إصلاح هذا؟",
+    "pronunciation": "'aymkink 'iislah hadha?"
+  },
+  {
+    "category": 16,
+    "id": 748,
+    "target": "هل يطلب منه الاتصال بي مرة أخرى من فضلك؟",
+    "pronunciation": "hal yatlub minh alaitisal bi maratan 'ukhraa min fadlk?"
+  },
+  {
+    "category": 16,
+    "id": 749,
+    "target": "من أي بلد أنت؟",
+    "pronunciation": "min ayi balad 'anat?"
+  },
+  {
+    "category": 16,
+    "id": 750,
+    "target": "سوف يمرر لي الملح من فضلك؟",
+    "pronunciation": "sawf yamrir li almulih min fadlik?"
+  },
+  {
+    "category": 16,
+    "id": 751,
+    "target": "وكنت وضعت هذا في السيارة بالنسبة لي؟",
+    "pronunciation": "wakunt wadaeat hdha fi alsayarat balnsbt ly?"
+  },
+  {
+    "category": 16,
+    "id": 752,
+    "target": "هل تفهم؟",
+    "pronunciation": "hal tafahm?"
+  },
+  {
+    "category": 16,
+    "id": 753,
+    "target": "هل انت ذاهب لحضور حفلة زواجهم؟",
+    "pronunciation": "hal 'ant dhahib lihudur haflat zawajihim?"
+  },
+  {
+    "category": 16,
+    "id": 754,
+    "target": "هل يمكنك السباحة؟",
+    "pronunciation": "hal yumkinuk alsibahata?"
+  },
+  {
+    "category": 16,
+    "id": 755,
+    "target": "هل تسمع هذا؟",
+    "pronunciation": "hal tasmae hdha?"
+  },
+  {
+    "category": 16,
+    "id": 756,
+    "target": "هل لديك صديقة؟",
+    "pronunciation": "hal ladayk sadiyqa?"
+  },
+  {
+    "category": 16,
+    "id": 757,
+    "target": "هل لديك موعد؟",
+    "pronunciation": "hal ladayk mawed?"
+  },
+  {
+    "category": 16,
+    "id": 758,
+    "target": "لديك سيارة جميلة جدا.",
+    "pronunciation": "ladayk sayarat jamilat jidanaan."
+  },
+  {
+    "category": 16,
+    "id": 759,
+    "target": "هل لديك مشكلة؟",
+    "pronunciation": "hal ladayk mushakila?"
+  },
+  {
+    "category": 16,
+    "id": 760,
+    "target": "فى 30 دقيقة.",
+    "pronunciation": "fa 30 daqiqat."
+  },
+  {
+    "category": 16,
+    "id": 761,
+    "target": "ماذا تعتقد؟",
+    "pronunciation": "madha taetaqd?"
+  },
+  {
+    "category": 16,
+    "id": 762,
+    "target": "أيهما أفضل، والسباغيتي أو الدجاج سلطة؟",
+    "pronunciation": "'ayahuma 'afdal, walsabaghiti 'aw aldijaj sulatat?"
+  },
+  {
+    "category": 16,
+    "id": 763,
+    "target": "ما الذي يجب ان ارتديه؟",
+    "pronunciation": "ma aldhy yjb 'an artdyh?"
+  },
+  {
+    "category": 16,
+    "id": 764,
+    "target": "وماذا أدرس؟",
+    "pronunciation": "wamadha 'adurs?"
+  },
+  {
+    "category": 16,
+    "id": 765,
+    "target": "ماذا حدث؟",
+    "pronunciation": "madha hdth?"
+  },
+  {
+    "category": 16,
+    "id": 766,
+    "target": "ماذا يوجد بداخلها؟",
+    "pronunciation": "madha yujad bdakhlha?"
+  },
+  {
+    "category": 16,
+    "id": 767,
+    "target": "ما هذا؟",
+    "pronunciation": "ma hdha?"
+  },
+  {
+    "category": 16,
+    "id": 768,
+    "target": "ماذا تفعل؟",
+    "pronunciation": "madha tafiel?"
+  },
+  {
+    "category": 16,
+    "id": 769,
+    "target": "ماذا فعلت البارحة؟",
+    "pronunciation": "madha faealt albariha?"
+  },
+  {
+    "category": 16,
+    "id": 770,
+    "target": "ماذا فعلت الليلة الماضية؟",
+    "pronunciation": "madha faealt allaylat almadiyata?"
+  },
+  {
+    "category": 16,
+    "id": 771,
+    "target": "ماهو رأيك؟",
+    "pronunciation": "mahw raiyk?"
+  },
+  {
+    "category": 16,
+    "id": 772,
+    "target": "ماذا لديك؟",
+    "pronunciation": "madha ldik?"
+  },
+  {
+    "category": 16,
+    "id": 773,
+    "target": "ما هذا؟",
+    "pronunciation": "ma hdha?"
+  },
+  {
+    "category": 16,
+    "id": 774,
+    "target": "ما هذا؟",
+    "pronunciation": "ma hdha?"
+  },
+  {
+    "category": 16,
+    "id": 775,
+    "target": "أي شيء آخر؟",
+    "pronunciation": "'ayu shay' akhr?"
+  },
+  {
+    "category": 16,
+    "id": 776,
+    "target": "هل هو بعيد من هنا؟",
+    "pronunciation": "hal hu baeid min hna?"
+  },
+  {
+    "category": 17,
+    "id": 777,
+    "target": "6 دولارات في الساعة.",
+    "pronunciation": "6 dularat fi alsaaeati."
+  },
+  {
+    "category": 17,
+    "id": 778,
+    "target": "وقت ما تذهب إلى العمل كل يوم؟",
+    "pronunciation": "waqt ma tadhhab 'iilaa aleamal klun yawman?"
+  },
+  {
+    "category": 17,
+    "id": 779,
+    "target": "ما هو الأمر؟",
+    "pronunciation": "ma hu al'amr?"
+  },
+  {
+    "category": 17,
+    "id": 780,
+    "target": "أين موضع الألم؟",
+    "pronunciation": "'ayn mawdie al'alam?"
+  },
+  {
+    "category": 17,
+    "id": 781,
+    "target": "كيف كانت الرحلة؟",
+    "pronunciation": "kayf kanat alrihla?"
+  },
+  {
+    "category": 17,
+    "id": 782,
+    "target": "منذ متى وأنت تعمل هنا؟",
+    "pronunciation": "mundh mataa wa'ant taemal hna?"
+  },
+  {
+    "category": 17,
+    "id": 783,
+    "target": "كيف هو الطقس؟",
+    "pronunciation": "kayf hu altuqs?"
+  },
+  {
+    "category": 17,
+    "id": 784,
+    "target": "عندما تحصل على التوقف عن العمل؟",
+    "pronunciation": "eindama tahsul ealaa altawaquf ean aleml?"
+  },
+  {
+    "category": 17,
+    "id": 785,
+    "target": "متى يصل في الولايات المتحدة؟",
+    "pronunciation": "mataa yasilu fi alwilayat almuthid?"
+  },
+  {
+    "category": 17,
+    "id": 786,
+    "target": "أين تريد أن تذهب؟",
+    "pronunciation": "'ayn turid 'an tadhahab?"
+  },
+  {
+    "category": 17,
+    "id": 787,
+    "target": "اين وضعتها؟",
+    "pronunciation": "'ayn wadetha?"
+  },
+  {
+    "category": 17,
+    "id": 788,
+    "target": "لا يزال لدي الكثير من الأشياء لشراء.",
+    "pronunciation": "la yazal laday alkthyr min al'ashya' lishara'in."
+  },
+  {
+    "category": 17,
+    "id": 789,
+    "target": "هو مهندس.",
+    "pronunciation": "hu muhndis."
+  },
+  {
+    "category": 17,
+    "id": 790,
+    "target": "انه من الصعب جدا العمل.",
+    "pronunciation": "'iinah min alsaeb jiddaan aleaml."
+  },
+  {
+    "category": 17,
+    "id": 791,
+    "target": "وهو يعمل في شركة كمبيوتر في نيويورك.",
+    "pronunciation": "wahu yaemal fi sharikat kimbiutir fi niuyurk."
+  },
+  {
+    "category": 17,
+    "id": 792,
+    "target": "أحضر لي قميصي من فضلك.",
+    "pronunciation": "'ahdir li qamisi min fidlik."
+  },
+  {
+    "category": 17,
+    "id": 793,
+    "target": "كم من المال لديك؟",
+    "pronunciation": "kam min almal ldik?"
+  },
+  {
+    "category": 17,
+    "id": 794,
+    "target": "كم ساعة في الأسبوع تعمل؟",
+    "pronunciation": "kam saeat fi al'usbue teml?"
+  },
+  {
+    "category": 17,
+    "id": 795,
+    "target": "هل تحب رئيسك في العمل؟",
+    "pronunciation": "hal tuhibu rayiysuk fi aleml?"
+  },
+  {
+    "category": 17,
+    "id": 796,
+    "target": "هل تنتظر أحدا؟",
+    "pronunciation": "hal tantazir 'ahada?"
+  },
+  {
+    "category": 17,
+    "id": 797,
+    "target": "هل أنهيت دراستي؟",
+    "pronunciation": "hal 'anhiat dirasati?"
+  },
+  {
+    "category": 17,
+    "id": 798,
+    "target": "هل تحب أن تشاهد التلفاز؟",
+    "pronunciation": "hal tuhibu 'an tushahid altlfaz?"
+  },
+  {
+    "category": 17,
+    "id": 799,
+    "target": "هل تعمل اليوم؟",
+    "pronunciation": "hal taemal alyawm?"
+  },
+  {
+    "category": 17,
+    "id": 800,
+    "target": "ماذا تفعل للعمل؟",
+    "pronunciation": "madha tafeal lileimal?"
+  },
+  {
+    "category": 17,
+    "id": 801,
+    "target": "ماذا يفعل والدك للعمل؟",
+    "pronunciation": "madha yafeal walidak lilemal?"
+  },
+  {
+    "category": 17,
+    "id": 802,
+    "target": "ما يفعله والداك للعمل؟",
+    "pronunciation": "ma yafealuh waldak lileimal?"
+  },
+  {
+    "category": 17,
+    "id": 803,
+    "target": "ماذا يفعل للعمل؟",
+    "pronunciation": "madha yafeal lilemal?"
+  },
+  {
+    "category": 17,
+    "id": 804,
+    "target": "أنا مستعد.",
+    "pronunciation": "'ana mustaed."
+  },
+  {
+    "category": 17,
+    "id": 805,
+    "target": "لقد نسيت.",
+    "pronunciation": "laqad nasit."
+  },
+  {
+    "category": 17,
+    "id": 806,
+    "target": "أنا بخير.",
+    "pronunciation": "'ana bikhayrin."
+  },
+  {
+    "category": 17,
+    "id": 807,
+    "target": "لقد رأيت ذلك.",
+    "pronunciation": "laqad ra'ayt dhalik."
+  },
+  {
+    "category": 18,
+    "id": 808,
+    "target": "الطرق الزلقة.",
+    "pronunciation": "alturuq alzalqat."
+  },
+  {
+    "category": 18,
+    "id": 809,
+    "target": "انها تؤلمني هنا.",
+    "pronunciation": "'iinaha tulimni huna."
+  },
+  {
+    "category": 18,
+    "id": 810,
+    "target": "انها تمطر.",
+    "pronunciation": "'iinaha tamtir."
+  },
+  {
+    "category": 18,
+    "id": 811,
+    "target": "كيف هو العمل؟",
+    "pronunciation": "kayf hu aleuml?"
+  },
+  {
+    "category": 18,
+    "id": 812,
+    "target": "كيف سيكون الطقس غدا؟",
+    "pronunciation": "kayf sayakun altaqs ghada?"
+  },
+  {
+    "category": 18,
+    "id": 813,
+    "target": "ما هو سعر الغرفة؟",
+    "pronunciation": "ma hu sier algharafa?"
+  },
+  {
+    "category": 18,
+    "id": 814,
+    "target": "تعال الى هنا.",
+    "pronunciation": "tueal 'iilaa huna."
+  },
+  {
+    "category": 18,
+    "id": 815,
+    "target": "انها سوف تكون ساخنة اليوم.",
+    "pronunciation": "'iinaha sawf takun sakhinat alyawm."
+  },
+  {
+    "category": 18,
+    "id": 816,
+    "target": "فوات الاوان.",
+    "pronunciation": "fawat alawan."
+  },
+  {
+    "category": 18,
+    "id": 817,
+    "target": "هل تعتقد انها سوف المطر غدا؟",
+    "pronunciation": "hal taetaqid 'anaha sawf almatar ghada?"
+  },
+  {
+    "category": 18,
+    "id": 818,
+    "target": "هل تعتقد أنه سوف المطر اليوم؟",
+    "pronunciation": "hal taetaqid 'anah sawf almatar alyawma?"
+  },
+  {
+    "category": 18,
+    "id": 819,
+    "target": "هل غالبا ما الثلوج في فصل الشتاء في ولاية ماساشوستس؟",
+    "pronunciation": "hal ghalba ma althluj fi fasl alshita' fi wilayat masashwsts?"
+  },
+  {
+    "category": 18,
+    "id": 820,
+    "target": "هل هو إغلاق؟",
+    "pronunciation": "hal hu 'iighlaq?"
+  },
+  {
+    "category": 18,
+    "id": 821,
+    "target": "هل هو ممكن؟",
+    "pronunciation": "hal hu mumkn?"
+  },
+  {
+    "category": 18,
+    "id": 822,
+    "target": "انها هناك.",
+    "pronunciation": "'iinaha hunak."
+  },
+  {
+    "category": 18,
+    "id": 823,
+    "target": "هل هو جاهز؟",
+    "pronunciation": "hal hu jahz?"
+  },
+  {
+    "category": 18,
+    "id": 824,
+    "target": "انها بعيدة عن هنا.",
+    "pronunciation": "'iinaha baeidat ean huna."
+  },
+  {
+    "category": 18,
+    "id": 825,
+    "target": "انها الشمال من هنا.",
+    "pronunciation": "'iinaha alshamal min huna."
+  },
+  {
+    "category": 18,
+    "id": 826,
+    "target": "انه مهم جدا.",
+    "pronunciation": "'iinah muhimun jidana."
+  },
+  {
+    "category": 18,
+    "id": 827,
+    "target": "وسوف تصل قريبا.",
+    "pronunciation": "wasawf tasil qaribana."
+  },
+  {
+    "category": 18,
+    "id": 828,
+    "target": "يكلف 20 دولار للساعة الواحدة.",
+    "pronunciation": "yukalif 20 dular lilsaaeat alwahidat."
+  }
+],
+"categories":[
+{
+"id": 1,
+"translatedName": "تعبيرات شائعة"
+},
+{
+"id": 2,
+"translatedName": "تحية طيبة"
+},
+{
+"id": 3,
+"translatedName": "السفر ، والاتجاهات"
+},
+{
+"id": 4,
+"translatedName": "الأرقام والمال"
+},
+{
+"id": 5,
+"translatedName": "موقعك"
+},
+{
+"id": 6,
+"translatedName": "الهاتف / الانترنت / البريد"
+},
+{
+"id": 7,
+"translatedName": "الوقت والتواريخ"
+},
+{
+"id": 8,
+"translatedName": "أماكن الإقامة"
+},
+{
+"id": 9,
+"translatedName": "الطعام"
+},
+{
+"id": 10,
+"translatedName": "تكوين صداقات"
+},
+{
+"id": 11,
+"translatedName": "وسائل الترفيه"
+},
+{
+"id": 12,
+"translatedName": "التسوق"
+},
+{
+"id": 13,
+"translatedName": "صعوبات التواصل"
+},
+{
+"id": 14,
+"translatedName": "الطوارئ والصحة"
+},
+{
+"id": 16,
+"translatedName": "اسئلة عامة"
+},
+{
+"id": 17,
+"translatedName": "عمل"
+},
+{
+"id": 18,
+"translatedName": "طقس"
+}
+]
+}
