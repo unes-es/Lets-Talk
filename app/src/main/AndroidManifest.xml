@@ -40,6 +40,10 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.applications.coffee.letstalkrussian_free.Categories" />
         </activity>
+        <service
+            android:name=".NotificationJobService"
+            android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <receiver android:name=".NotificationsManager" />
     </application>
 
 </manifest>

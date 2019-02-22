@@ -1,8 +1,12 @@
-package com.applications.coffee.letstalkrussian_free;
+package  com.applications.coffee.letstalkrussian_free;
 
+import android.app.PendingIntent;
+import android.app.TaskStackBuilder;
 import android.content.Intent;
 import android.os.Bundle;
 import android.speech.tts.TextToSpeech;
+import android.support.v4.app.NotificationCompat;
+import android.support.v4.app.NotificationManagerCompat;
 import android.support.v4.view.MenuItemCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.SearchView;
@@ -35,7 +39,7 @@ public class Categories extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-
+        NotificationsManager.createNotificationChannel(this,NotificationsManager.CHANNEL_ID);
         MobileAds.initialize(this,Util.getStringFromResourcesByName("appID",this));
 
        /* mInterstitialAd = new InterstitialAd(this);
@@ -50,6 +54,8 @@ public class Categories extends AppCompatActivity {
         adapter = new CategoriesListAdapter(this);
         categoriesListView.setAdapter(adapter);
 
+
+
         categoriesListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
@@ -57,6 +63,7 @@ public class Categories extends AppCompatActivity {
                 i.putExtra("categoryId_",adapter.getItemId(position));
                 startActivity(i);
                 //mInterstitialAd.show();
+                //_notify();
             }
         });
 
@@ -66,6 +73,17 @@ public class Categories extends AppCompatActivity {
         startActivityForResult(checkIntent, MY_DATA_CHECK_CODE);
 
     }
+
+    public void _notify(){
+            NotificationsManager.notify(this," after 10 seconds bla bla","textContent",88812416,200);
+        /*try {
+            Thread.sleep(5000);
+            NotificationsManager.notify(this, " after 20 seconds bla bla", "textContent", 84512416, 20000);
+        } catch (Exception e) {e.printStackTrace();}*/
+
+    }
+
+
 
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
