@@ -64,7 +64,9 @@ public class Phrases extends AppCompatActivity {
 
         AdView mAdView = (AdView)findViewById(R.id.adView);
         AdRequest adRequest = new AdRequest.Builder().build();
-        //mAdView.loadAd(adRequest);
+        if (!BuildConfig.DEBUG) {
+            mAdView.loadAd(adRequest);
+        }
 
         sharedPref = PreferenceManager.getDefaultSharedPreferences(this);
         noDataView = (ConstraintLayout)findViewById(R.id.emptyListMessage);

@@ -6,6 +6,7 @@
         android:allowBackup="true"
         android:fullBackupContent="true"
         android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher"
         android:label="@string/override_name"
 
         android:supportsRtl="true"
@@ -20,8 +21,13 @@
             android:theme="@style/AppTheme.NoActionBar.BrandedLunch">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme=" "
+                    android:host=" "
+                    android:pathPrefix="/" />
             </intent-filter>
         </activity>
         <activity
